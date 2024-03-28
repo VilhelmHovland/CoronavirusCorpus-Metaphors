@@ -1,0 +1,52 @@
+HIGHLIGHTS  Contact tracing is one of the few ways of curbing the global Coronavirus epidemic .
+Bluetooth can be useful for tracking people who might have come in contact with infected people .
+The method also raises big privacy issues .
+While there 's neither a vaccine nor a cocktail of antibiotics that can successfully cure a patient of COVID-19 , it 's not entirely impossible to stop the Coronavirus epidemic .
+The key to curbing the contagion that has now infected 199 countries is to conduct extreme contact tracing .
+Health officials not only need to find and isolate infected patients , but also those who came in contact with that person .
+The Ebola virus outbreak that occurred in 2016 in Africa was contained using this method and experts believe , the novel Coronavirus can also be contained in a similar way .
+Tracing who the infected person came in contact with can get quite cumbersome , especially in a country like India with one of the highest population densities in the world .
+Officials may not be able find out the exact number of people who came in contact with @ @ @ @ @ @ @ @ @ @ also noted that nearly half the transmission occurs before the person even starts showing symptoms .
+The virus could be spreading for days before anyone can even realise they are infected .
+Modern technology may have a solution , albeit with a big caveat .
+Pandemic researchers across the world have claimed that tapping into cellular services can help track the contagion and warn people who may have been exposed .
+Some have propagated using GPS services to track large gatherings of people , while some are relying on Bluetooth technology to identify smartphones ( and their owners ) who may have come in close contact with people infected by the SAR-COV-2 virus .
+And that 's exactly what GOQII , the India-based fitness tracking and preventive healthcare app has set out to do .
+Currently in beta testing , the GOQII fitness tracking app has launched a " Contact Tracking " feature that relies on Bluetooth to find out the number of devices you have come in close proximity with .
+This feature will help " track every movement , activity and also track those who @ @ @ @ @ @ @ @ @ @ feature will effectively help in social distancing as is recommended by the WHO , " writes Anusha Subramanian on the GOQII blog .
+Anusha is a two-time award winning journalist and a health and fitness enthusiast .
+Implementing Bluetooth-based contact tracking  The contact tracking feature on the app can be used to track your movement and activity to ensure prevention and quick detection of virus carries .
+It 's essentially self tracking with Bluetooth aiding the memory .
+For instance , you can track cab drivers , e-commerce delivery agents , and other people you come in contact with .
+This is important because if you become infected or someone you may have come in contact with become infected , you will be able to trace it yourself and let the authorities know .
+The feature presently lets you store your body temperature , COVID-19 symptoms that you may be experiencing , food and activity log with location , log contacts , cab driver and delivery agent details who have served you .
+By using Bluetooth on your smartphone , you can easily recall who you came @ @ @ @ @ @ @ @ @ @ Bluetooth devices with time to help find out potential patients .
+The real benefit of this feature can only be realised once a lot of people start using it .
+The contacted list has to be uploaded ( with the consent of the user ) and will be mapped with the database of other users .
+A large percentage of the population has to be using it to make it more effective .
+Bluetooth over GPS ?  GOQII is not the only app in India that 's trying to track secondary and tertiary SARS-COV-2 infections .
+The Indian Government itself have come out with an app that tracks user location every one hour and warns if you have come in contact with a COVID-19 patient .
+However , GPS might not be accurate enough to detect close proximity with people .
+Bluetooth , in this case , helps .
+There 's some history to back up the claim as well .
+Singapore 's health department in particular is using Bluetooth-based contact tracking to perform real-time tracing .
+People are asked to join the Trace Together app @ @ @ @ @ @ @ @ @ @ COVID-19 positive person within a two meter proximity , the app will set off an alert all users for 30 minutes .
+These are extraordinary times , but should we give up digital privacy ?  If not for this unprecedented situation , making an app that tracks people using GPS and Bluetooth would have faced severe backlash .
+But these are not normal times .
+Yes , you may expose your location to other people or even give up some data about your Bluetooth device ( and yourself ) in the process , but experts believe that if helps keep the contagion under check , it 's a necessary evil .
+" We do n't live in a culture of public trust when it comes to data .
+We live in this age that has been called the age of surveillance capitalism , where .
+our data is abused and exploited , " a ScienceMag article quoted David Leslie , an ethicist at Alan Turing Institute as saying .
+The biggest example of this is China .
+The country known for its widespread surveillance on citizens @ @ @ @ @ @ @ @ @ @ health status and restrict their movements .
+Israel too has reportedly repurposed its spying infrastructure to trace contact .
+We are definitely in untested waters here , but these are n't normal times to begin with .
+Having said that , GOQII claims the app does not share user data immediately .
+It 's up to the user to provide consent and there too , the user can control whether they want to share their logs publicly , or with their friends or keep only to themselves .
+Hot Deals  Digit caters to the largest community of tech buyers , users and enthusiasts in India .
+The all new Digit in continues the legacy of Thinkdigit .
+as one of the largest portals in India committed to technology users and buyers .
+Digit is also one of the most trusted names when it comes to technology reviews and buying advice and is home to the Digit Test Lab , India 's most proficient center for testing and reviewing technology products .
+We are about leadership-the 9 .
+kind ! Building a leading media company out of India .
+, @ @ @ @ @ @ @ @ @ @ .

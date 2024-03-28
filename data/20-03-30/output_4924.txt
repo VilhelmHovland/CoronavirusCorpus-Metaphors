@@ -1,0 +1,21 @@
+Privacy could become the next victim of the coronavirus as governments step up mass surveillance  AFP  Published : Mar 29 , 2020 , 12:12 pm IST  Updated : Mar 29 , 2020 , 12:12 pm IST  Authoritarian regimes such as China use COVID-19 as a pretext to suppress independent speech and restrict fundamental rights  A picture shows a surveillance camera in an underground passage in Moscow on January 27 , 2020 .
+- A vast and contentious network of facial-recognition cameras keeping watch over Moscow is now playing a key role in slowing the rapid spread of coronavirus in Russia .
+( Photo AFP )  Washington : Digital surveillance and smartphone technology may prove helpful in containing the coronavirus pandemic -- but some activists fear this could mean lasting harm to privacy and digital rights .
+Hong Kong ordered people arriving from overseas to wear tracking bracelets , and Singapore has a team of dedicated digital detectives monitoring those living under quarantine .
+In perhaps the strictest move , China gave people smartphone codes displayed in green , yellow , and red , determining where citizens can and can not go @ @ @ @ @ @ @ @ @ @ about the crisis , human rights watchdog Freedom House said , while others are blocking websites or shutting off internet access .
+" We have observed a number of concerning signs that authoritarian regimes are using COVID-19 as a pretext to suppress independent speech , increase surveillance , and otherwise restrict fundamental rights , going beyond what is justified by public health needs , " said Michael Abramowitz , president of the group .
+' Normalised ' surveillance  Some activists cite the precedent of the September 11 , 2001 attacks , which opened up the door to more invasive surveillance in the name of national security .
+" There is a risk these tools will become normalised and continue even after the pandemic slows , " said Darrell West , who heads the Brookings Institution 's Center for Technology Innovation .
+Ryan Calo , a University of Washington researcher affiliated with Stanford 's Center for Internet and Society , says , " The problem with implementing surveillance in an emergency is that it might acclimate people to that .
+"  It is a difficult @ @ @ @ @ @ @ @ @ @ of being tracked or monitored has an impact on people 's feelings of privacy and personal security .
+An app for that  Since the pandemic began several apps have been using location tracking to trace the route of the outbreak .
+One from the Massachusetts Institute of Technology researchers determines if people have " crossed paths " with an infected person -- although it would only work if it -- for lack of a better term -- goes viral .
+Cornell University researchers developed another app allowing users to anonymously share their locations and COVID-19 status to receive alerts about other nearby cases .
+New York-based technology firm Unacast created a " social distancing scorecard " which uses smartphone locations to determine the extent of respect for recommendations for people to maintain safe distances .
+" It can be helpful to know if people are practicing social distancing .
+That can provide actionable information , " Calo said .
+But he maintained that crowdsourced data on infections is likely to be " riddled with inaccuracies " and could give people a false sense @ @ @ @ @ @ @ @ @ @ developed a preliminary version of an app designed to allow people to share data on location and infections using smartphones ' Bluetooth technology without compromising personal privacy .
+Singapore already uses such a technology with its app named TraceTogether .
+" We designed it so that if a person comes down with COVID there 's a way to send an alert ( to those in proximity ) without identifying who that person is , " said Tina White , a Stanford graduate student and co-founder of the Covid-watch app .
+White said she and other researchers came up with the notion as an alternative to " authoritarian " measures being adopted in some parts of the world .
+She acknowledged the app would only be as useful as the number of people using it -- but said the technology is being made available freely , and suggested that " Android and Apple could use this an option in a system update " to ensure wide adoption .

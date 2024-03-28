@@ -1,0 +1,12 @@
+U of Washington develops digital tool that predicts COVID-19 peak by state  Seattle-based University of Washington created a digital tool that predicts the COVID-19 peak of hospital resources and deaths for the next four months in each state .
+Five things to know :  1 .
+To develop the digital tool , University of Washington researchers used data on confirmed daily COVID-19 deaths from World Healthcare Organization websites as well as local and national governments .
+Researchers also used data on hospital capacity and use across the U .
+and examined COVID-19 use data from select locations to create the statistical model .
+The tool predicts the national peak for hospital resource use in the U .
+will be April 15 , with a national shortage of 61,509 hospital beds and 15,103 intensive care unit beds , as of March 30 .
+The U .
+is expected to see a total of 82,141 COVID-19 deaths if social distancing is continued , as of March 30 .
+The tool predicts New York will reach its peak for hospital resource use on April 9 , with a shortage @ @ @ @ @ @ @ @ @ @ state will need 8,855 ventilators by the peak , as of March 30 .
+The Becker 's Hospital Review website uses cookies to display relevant ads and to enhance your browsing experience .
+By continuing to use our site , you acknowledge that you have read , that you understand , and that you accept our Cookie Policy and our Privacy Policy .

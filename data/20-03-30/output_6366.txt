@@ -1,0 +1,9 @@
+Redrock Biometrics is Waiving the Licensing Fee of Its PalmID ? Software  ? Redrock Biometrics , a leading provider of palm-based biometrics for authentication and identification , announced it will wave its PalmID ? license fee to businesses that are labeled as essential during this pandemic for one year or longer in order to help prevent spread the COVID-19 .
+" We would like to play our part in helping our community in this fight , " says Redrock biometrics co-founder Lenny Kontsevich .
+Using a standard RGB camera and/or infrared camera , PalmID ? captures palm prints and/or subdermal veins to produce a highly unique palm signature .
+Proprietary PalmID ? algorithms match palm signatures for a wide range of palm positions , orientations , and illumination conditions .
+The SaaS component of PalmID ? is capable to perform matching of a newly captured palm signature with tens of thousands of signatures stored in its database in a fraction of a second .
+" COVID-19 quarantine made us acutely aware that touching devices represents a threat to our lives .
+People become touch-phobic and their faces are covered by masks , which creates a @ @ @ @ @ @ @ @ @ @ , simply hold your hand in front of a reader , " says Kontsevich .
+Redrock Biometrics ( **25;0;TOOLONG ) is a creator of PalmID ? technology for matching palm images captured in visible and infrared spectra .
+The company is located in San Francisco .

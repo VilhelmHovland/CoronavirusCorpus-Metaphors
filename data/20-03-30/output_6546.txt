@@ -1,0 +1,25 @@
+README .
+Rapid fuzzy string matching in Python and C++ using the Levenshtein Distance  Description  RapidFuzz is a fast string matching library for Python and C++ , which is using the string similarity calculations from FuzzyWuzzy .
+However there are two aspects that set RapidFuzz apart from FuzzyWuzzy :  It is MIT licensed so it can be used whichever License you might want to choose for your project , while you 're forced to adopt the GPLv2 license when using FuzzyWuzzy  It is mostly written in C++ and on top of this comes with a lot of Algorithmic improvements to make string matching even faster , while still providing the same results .
+These changes result in a 2-100x Speedup in String Matching .
+More details on benchmark results can be found here  Installation  We currently have pre-built binaries ( wheels ) for RapidFuzz and its dependencies for MacOS ( 10 .
+and later ) , Linux x8664 and Windows .
+For any other architecture/os RapidFuzz can be installed from the source distribution .
+To do so , a C++17 capable compiler must be installed before running the pip install rapidfuzz command @ @ @ @ @ @ @ @ @ @ it is required to install C++-Buildtools on Windows .
+PyInstaller  When using RapidFuzz with PyInstaller it is required to pass the following option to it :  --hidden-import rapidfuzzcpp  The reason for this is that rapidfuzz included all the C++ components from a Module called rapidfuzzcpp .
+Since this import is hidden from PyInstaller it is required to tell it about it , so it included the Module in the binary .
+Usage  &gt; from rapidfuzz import fuzz &gt; from rapidfuzz import process  Simple Ratio  &gt; fuzz .
+( " this is a test " , " this is a test ! " ) 96 .
+Partial Ratio  &gt; fuzz .
+( " this is a test " , " this is a test ! " ) 100 .
+Token Sort Ratio  &gt; fuzz .
+( " fuzzy wuzzy was a bear " , " wuzzy fuzzy was a bear " ) 90 .
+&gt; fuzz .
+( " fuzzy wuzzy was a bear " , " wuzzy fuzzy was a bear " ) 100 .
+Token Set Ratio  &gt; fuzz .
+( " fuzzy was @ @ @ @ @ @ @ @ @ @ " ) 83 .
+&gt; fuzz .
+( " fuzzy was a bear " , " fuzzy fuzzy was a bear " ) 100 .
+License  RapidFuzz is licensed under the MIT license since we believe that everyone should be able to use it without being forced to adopt our license .
+Thats why the library is based on an older version of fuzzywuzzy that was MIT licensed as well .
+A Fork of this old version of fuzzywuzzy can be found here .

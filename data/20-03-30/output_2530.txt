@@ -1,0 +1,15 @@
+This open-source , low cost ventilator design from MIT could save thousand of lives  One of the most essential tools in the fight against the novel coronavirus is the ventilator , which helps people suffering from severe cases of COVID-19 to breathe when it becomes difficult to do so by themselves .
+Unfortunately , they are very expensive pieces of medical technology ( each unit can cost around $30,000 ) , which means there is a shortage of ventilators in many parts of the globe .
+To solve this problem , a team from the Massachusetts Institute of Technology is hard at work refining their design of a low-cost ventilator that will help save thousands of lives in the face of the current COVID-19 global epidemic .
+It consists of MIT students and professors who are consulting with local physicians to make a simple ventilator design that will be easy to mass produce .
+The team , named MIT E-Vent ( meaning emergency ventilator ) , has been working non-stop since it 's inception on March 12 and will make its design open to the public so that cheap ventilators can be made and distributed to @ @ @ @ @ @ @ @ @ @ can be made using around $100 worth of parts , greatly undercutting the conventional ventilators being used at hospitals .
+The main component in this simple ventilator is called a bag-valve resuscitator , or Ambu bag .
+Basically , this is a plastic bag that is used to help patients breathe by compressing and decompressing the bag by hand .
+This may seem easy enough , but operating the Ambu bag requires skill and patience to adjust the timing and pressure of pumping according to the situation .
+Obviously , a healthcare worker ca n't be expected to sit with a patient and operate the Ambu bag indefinitely , so the E-Vent team designed a mechanism to operate it automatically .
+They even published their engineering process in a paper , but are now focusing on fine tuning the design .
+Factors such as durability , accuracy and , and adjustment need to be very carefully considered in such a project .
+Therefore , the team is again hard at work trying to make the design as robust as possible .
+" We are releasing design guidance @ @ @ @ @ @ @ @ @ @ a rolling basis as it is developed and documented , " said a team member .
+" We encourage capable clinical-engineering teams to work with their local resources , while following the main specs and safety information , and we welcome any input other teams may have .
+"  TechJuice for Browser : Get breaking news notifications on your browser .

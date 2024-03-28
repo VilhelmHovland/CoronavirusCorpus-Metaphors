@@ -1,0 +1,62 @@
+Tips to make most of NBN , internet services  NBN performance will vary during the current rise in social distancing and working from home , Flinders University expert Dr Paul-Gardner Stephens says .
+Delivery speed and service reliability will differ based on internet provider and technology : Fibre to the Premises ( FTTP ) , copper ( FTTN ) , cable TV coaxial networks , fixed wireless , or satellite .
+IT and software engineering senior lecturer Dr Paul Gardner-Stephen says if you 're on FTTP or FTTN , there is no significant structural bottleneck because the NBN ( National Broadband Network ) can increase the feed on your line , and the limitation will instead be in your ' garden hose ' that connects to your home or business .
+But the situation is more difficult for those Australians using a cable TV cable , fixed wireless or satellite because everyone in a particular area is connected to the same ' sprinkler ' .
+" While someone could try to turn the sprinkler this way or that so that someone gets wetter than someone else , there is only so much water @ @ @ @ @ @ @ @ @ @ many people near the sprinkler , they will each get less water , " Dr Gardner-Stephens says .
+" That 's because there is a limited amount of usage to go around with these technologies ( usually because of limited frequencies ) , and if there are too many people ' contending ' for access , then each of them will get less .
+" While in some cases the NBN can ' turn up the sprinkler ' a bit , this may not be enough to really help .
+This is particularly a problem in areas that were originally planned to get FTTN , but were moved to fixed wireless , or worse , to satellite .
+"  Satellite users are also particularly vulnerable , because unlike fixed wireless towers , where more can be built in areas of need , building an extra half a satellite is really expensive and takes a really long time .
+" Some areas of Queensland and New South Wales in particular seem to be approaching this situation , where the part of the satellite that looks in their @ @ @ @ @ @ @ @ @ @ might be at risk of getting overloaded under increased load due to COVID-19 having everyone working from home .
+" However in many other parts of the state and country , this is not a problem .
+For example , where I am based in the Northern Flinders Ranges , we are able to get the advertised 25mbit/sec ( or very close to it ) during the working day , and even in the evenings .
+Dr Paul Gardner-Stephens testing his remote communications system in the Flinders Ranges .
+" So it is a bit of a luck of the draw based on where you live .
+But even if the satellite , cable or fibre is n't busy , it does n't mean that your internet will stay fast .
+" This is where the internet service providers ( ISPs ) come into play , that 's the company you pay for your internet access , who buy the wholesale access from the NBN .
+There are a few ways that the ISP can be contributing to slow internet at the moment .
+" @ @ @ @ @ @ @ @ @ @ have the firehose turned up on full , so if too many people turn try to use the internet it slows down , a bit like the way that the water pressure used to drop in the evenings in summer back when everyone used to water their gardens .
+"  This can be fixed by either the ISP paying the NBN for more ' CVC ' ( the NBN 's fancy name for the firehose part of the network ) , or by the NBN giving bonus CVC to the ISPs .
+At the moment , the NBN has announced 40% extra bonus CVC to ISPs during the COVID-19 outbreak , which should be enough for now .
+But there is another problem : Even if the ISPs have a firehose from them , through the NBN and to your home or business , they might not have a big enough pipe that connects them to the global internet .
+A related problem is that their ' internal plumbing ' might not be up to the increased workload .
+For many ISPs , these two related factors @ @ @ @ @ @ @ @ @ @ Finally , it 's also theoretically possible that the size of the big internet pipes that connect Australia to the rest of the world wo n't be enough to keep up but this is much less likely to happen .
+" So , in short there are a bunch of different places in the system that can result in internet-slowdowns as COVID-19 has everyone working from home .
+" ISPs and the NBN are both working to keep everything going as smoothly and quickly as possible , but like everything else at the moment , it may take a while for ramp things up .
+"  Practical steps Australians can take at home to help their internet go faster include :  Close all applications you are not currently using on your devices , as many of these consume surprising amounts of your internet bandwidth at random time and potentially leaving your colleagues looking at one of those awkward contorted still-life freeze-frames .
+Make sure your wireless router/NBN modem is near to where you are working , and ideally up high , so that there are @ @ @ @ @ @ @ @ @ @ help to avoid any ' dodgy plumbing ' in your home from contributing to the problem .
+Do n't use the microwave oven when trying to use the internet , unless it is a long way from the devices you are using and your wireless router/modem .
+This is because microwaves use the same frequencies as a lot of wireless routers ( 2 .
+) , which can cause interference .
+If you have a FTTN ( copper ) connection to the NBN , think about unplugging any phones that you are using , and if that does n't help , try plugging the router or modem into different phone outlets .
+It might be that you have a spare phone plug that has a shorter/better cable to where the phone line enters your house , which might just get you an extra turn of speed .
+If you are having online meetings , start them at weird times in the hour , instead of on the hour or half-hour , when its likely that everyone else will be starting their meetings .
+For example , arrange a @ @ @ @ @ @ @ @ @ @ you pick a time a short while before the hour or half hour , you might even be able to connect in that happy quiet time when everyone else is disconnecting from their previous meetings , freeing up capacity .
+Download documents to work on ' off-line ' rather than trying to edit on-line , if your tasks can accommodate this .
+Turn off or unplug internet connected devices that you 're not currently using .
+Do you really need your internet connected fridge , TV or kids tablets downloading huge updates while you are trying to have a video conference ?  If you have kids at home , try to get them playing games that do n't need internet access , rather than , say , watching funny cat videos in UltraHD video , so that you can free up bandwidth for the more important things .
+Listen to music you have downloaded or have on CDs , rather than listening to streaming music services .
+Reduce the video resolution when watching videos on line , and disable video during on-line meetings , and @ @ @ @ @ @ @ @ @ @ will help to reduce the bandwidth requirement .
+Remember that only 27 years ago , practically none of us had any internet connection at all , and if we did it was a horrible slow dial-up modem .
+Even slow internet by today 's standard is a dream compared to what we had to put up with in the mid-1990s !  Some browsers support a ' turbo mode ' that compresses data before it sends it over the internet to you .
+Find the control and turn it on , as this can speed the some internet tasks up .
+Dr Gardner-Stephen 's research includes networking , SPAM , scalable computing , mobile devices , mobile communication infrastructures , disaster and attack resilient technology , and the application of all these things for public benefit , including the Serval Project  Well , unlike many news organisations , we have no sponsors , no corporate or ideological interests .
+We do n't put up a paywall -- we believe in free public access to information .
+Although underresourced &amp; primarily volunteer-based , we endeavour to provide the @ @ @ @ @ @ @ @ @ @ primary sources .
+Our goal and mission is to provide free and alternative access to impartial information , fighting media monopolization and adhering to honesty , neutrality , fairness , transparency and independence in collection and dissemination of information .
+It is a bumpy road with all sorties of difficulties .
+( Media ownership in Australia is one of the most concentrated in the world ( more on this ! ) .
+Since the trend of consolidation is and has historically been upward , fewer and fewer individuals or organizations control increasing shares of the mass media in our country .
+According to independent assessment , about 98% of the media sector is held by three conglomerates .
+This tendency is not only totally unacceptable , but also to a degree frightening ) .
+Learn more We can only achieve this goal together .
+Our website is open to any citizen journalists and organizations who want to contribute , publish high-quality insights or send media releases to improve public access to impartial information .
+You and we have the right to know , learn , read , hear what and @ @ @ @ @ @ @ @ @ @ do &amp; would like to buy us a coffee ( or lots of coffees ) , please know it 's greatly appreciated .
+All donations are kept completely private and confidential .
+you very much in advance !  Mirage News .
+All timestamps on this site are AEST/AEDT and all times in the articles are local times unless indicated otherwise .
+All trademarks and rights are owned by their respective owners .
+All content is used for news reporting purposes .
+For news reporting purposes , we rely on fair use ( fair dealing ) 1 2 for textual and media content to keep the public informed on the developments .
+If you are a person mentioned in the story or you are a copyright holder and believe that any content should be removed , revised or taken down , please contact us .
+View the disclaimer page here .

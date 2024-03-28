@@ -1,0 +1,72 @@
+How much should the public know about who has the coronavirus ?  Emergency medicine physician Thomas Krajewski poses for a photo after finishing his shift amid an outbreak of coronavirus disease ( COVID-19 ) in New Orleans , Louisiana , US , March 27 , 2020 .
+Picture taken March 27 , 2020 .
+REUTERS/Kathleen Flynn  When the first case of the coronavirus in Silicon Valley was discovered in late January , health officials were faced with a barrage of questions : What city did the patient live in ? Whom had he come in contact with ? Which health clinic had he visited before he knew he was infected ?  Dr Sara Cody , the chief health officer for Santa Clara County , which has a population of 2 million across 15 cities , declined to give details .
+" I ca n't give the city , " she said , adding " we are not going to be giving out information about where he sought health care .
+"  As the coronavirus spreads across the United States the limited disclosure of data by officials would seem to be a footnote to @ @ @ @ @ @ @ @ @ @ .
+But medical experts say that how much the public should know has become a critical question that will help determine how the United States confronts this outbreak and future ones .
+Residents are clamouring to see whether the virus has been detected in their neighbourhoods so they can take more steps to avoid any contact .
+American researchers are starved for data , unlike their colleagues in other countries who are harnessing rivers of information from their more centralised medical systems .
+And local politicians complain that they can not provide basic information on the spread of the virus to their constituents .
+In the perennial tug-of-war between privacy and transparency in the United States , privacy appears to be winning in the coronavirus pandemic .
+The bare-minimum approach to public disclosures in places like the San Francisco Bay Area are common across the United States .
+Armed with emergency powers in many areas , public health officers have vast discretion over what information they want , and do not want , to release to the public .
+Coronavirus cases in California are often listed @ @ @ @ @ @ @ @ @ @ such as gender , city of residence or age -- provided .
+Critics of the threadbare public reporting say it is striking that even in Silicon Valley , which is home to leading technology companies that thrive off the collection of data , residents are given very little information about the movement and dynamics of the virus .
+California , which has more than 4,600 cases , is a microcosm for how inconsistent the distribution of information has been during the pandemic .
+Los Angeles County provides a rough age distribution of patients and breaks down the cases into more than 140 cities and communities .
+On Friday , for example , the county reported 21 cases in Beverly Hills , 28 in the city of Santa Monica and 49 in the neighbourhood of Melrose .
+Across the United States there is even less consistency .
+New York is listing cases by age bracket , gender and borough despite calls for more localized reporting .
+Connecticut lists data by town .
+Florida provides its residents with a wealth of data on the pandemic .
+The state 's @ @ @ @ @ @ @ @ @ @ the spread of the virus -- rich with data on the cities affected , the number of people tested , the age brackets of patients , whether they are Florida residents , and the number of cases in nursing homes .
+Health departments in the Bay Area make the case that releasing more granular data could heighten discrimination against certain communities where there might be clusters .
+The first cases in the Bay Area were among ethnic Chinese residents returning from trips to China .
+" Pandemics increase paranoia and stigma , " said Dr Rohan Radhakrishna , the deputy health officer of Contra Costa County , across the bay from San Francisco , which provides only the total number of cases in the county on its website .
+" We must be extra cautious in protecting individuals and the community .
+"  In Santa Clara , health officials said they can not disclose how many cases are found in each city because of the nation 's strict medical privacy law , the Health Insurance Portability and Accountability Act , or HIPAA , signed by President Bill @ @ @ @ @ @ @ @ @ @ for the protection of personal data at doctors ' offices and in hospitals and includes provisions for the release of otherwise protected information during emergencies .
+Using the law as a justification for limiting the release of aggregate data about the coronavirus is " ridiculous , " according to Arthur Caplan , a professor of bioethics at the NYU School of Medicine in New York City .
+Caplan is among many experts who say the coronavirus is likely to spur a reassessment of medical privacy laws .
+Already , the Trump administration waived some provisions of the law this month .
+" HIPAA was written for a time when there were paper charts , " Caplan said .
+The coronavirus , he said , " will cause us to rethink a lot of things .
+"  " We will also have to plan for better data exchange and testing , " he said .
+The US approach contrasts sharply with that of Singapore and Taiwan , whose fights against the virus have been praised as among the most effective .
+Both governments make public the @ @ @ @ @ @ @ @ @ @ Singapore , authorities sometimes list neighbourhoods where patients lived , their workplaces and churches or mosques that they attended .
+I Glenn Cohen , an expert in bioethics at Harvard Law School , said the guiding principle during this crisis should be sharing more rather than less .
+" Public health depends a lot on public trust , " he said .
+" If the public feels as though they are being misled or misinformed , their willingness to make sacrifices -- in this case social distancing -- is reduced .
+"  " That 's a strong argument for sharing as much information as you can , " he said .
+Experts also point out that it was the government 's suppression of information about the virus in China that allowed it to spread quickly before measures were taken to stem it .
+On Friday , health authorities in Santa Clara , which has more than 590 cases and is home to the headquarters of companies like Google and Apple , added a dashboard that charts the number of daily cases and other metrics .
+@ @ @ @ @ @ @ @ @ @ will not publicly disclose the number of cases in each city because doing so could make individuals more easily identifiable .
+In a sign of how contested the question of public disclosure is , disagreement exists even within the Santa Clara County government .
+Dr Jeffrey Smith , the county executive , who is both a medical doctor and a lawyer , argues that more precise geographical information about the spread does not help combat the virus because it is already widespread .
+" Reporting positive tests with a census tract or a city name provides data that is not helpful , " Smith said .
+" In fact , such data has the risk of stigmatising areas and regions of the country in a way that does not help .
+"  But David Cortese , a member of the county 's board of supervisors , said that the public has the right to know more and that a patient 's identity is unlikely to be revealed by giving a breakdown of cases by city .
+" I think when people ca n't get information @ @ @ @ @ @ @ @ @ @ from them , conspiracy theories grow , suspicions grow , " he said .
+" I think it 's always better to be as truthful , calmly , and transparent with the public as you can be .
+"  As an example , Cortese said he is alarmed that health officers have not made more information public on the coronavirus-related death of a homeless man in the county .
+Given the medical vulnerabilities of that population , doctors and advocates of homeless people have called his office demanding to know in which encampment the man lived so that they could advise other homeless people in the area to be more vigilant .
+The county , which refused to disclose that information , said in a statement that health officials screened 60 members of the " specific community " and tested nine symptomatic individuals for the coronavirus .
+All nine tests were negative , the county said .
+Cortese said it is obvious to him that more information on the spread of the pandemic should be shared .
+" At the height of the information age in @ @ @ @ @ @ @ @ @ @ of our ability to use the tools and resources that we have to get necessary information out to the people we serve , " Cortese said .
+Frustration over the dearth of data also extends to epidemiologists trying to understand the dynamics of the spread of the virus .
+Joseph Lewnard , a professor of epidemiology at the University of California , Berkeley School of Public Health , said researchers are hamstrung in the United States by the lack of specific data on testing and on the symptoms patients show .
+To make up for the lack of public data , researchers are scraping information on cases from news outlets and other media accounts , he said .
+They are mainly relying on data from South Korea , China and Italy to try to predict the spread of the virus .
+" We are right now learning and trying to project what is happening here in the United States almost entirely based on observations from these other countries , " Lewnard said .
+Moritz Kraemer , a scholar at Oxford University who is leading a @ @ @ @ @ @ @ @ @ @ coronavirus , said China 's data " provided incredible detail , " including a patient 's age , sex , travel history and history of chronic disease , as well as where the case was reported , and the dates of the onset of symptoms , hospitalisation and confirmation of infection .
+The United States , he said , " has been slow in collecting data in a systematic way .
+"  Dr C Jason Wang , a researcher at Stanford University who has studied how Taiwan handled the coronavirus outbreak , said some of the measures taken in Taiwan would most likely not be accepted in the United States given privacy concerns .
+The government , for example , merged the airport immigration database with the national medical database so that doctors could immediately see if a patient had travelled out of the country .
+But Wang said the proactive approach that Taiwan took to the virus , including aggressive tracing of cases , has helped keep the total number of confirmed infections -- 283 on Saturday -- much lower than experts initially expected .
+By @ @ @ @ @ @ @ @ @ @ , with one-tenth the population of Taiwan , has 10,000 cases .
+Some of the information being released to the public in Taiwan and Singapore would most likely be uncontroversial in the United States , he said .
+Taiwanese authorities , for example , have pointed out linkages between anonymised cases , including family clusters , in an effort to warn the public how easily the virus is transmitted within households .
+Caplan of the NYU School of Medicine said it is paradoxical that the United States is providing less precise information to its citizens on the outbreak than Singapore , which puts limits on the spread of information through internet controls .
+" Here we expect to get information so we have our choices and we make our decisions , " he said .
+" Our notion is information is the oxygen for democracy .
+Would n't we want to receive more information than them ? " .

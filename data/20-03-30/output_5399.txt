@@ -1,0 +1,122 @@
+It is the world 's largest lockdown ever : 1 .
+billion Indians have been ordered to stay at home for 21 days .
+The government has said the extreme measure is necessary to break the chain of transmission of the coronavirus , though public health experts point out that all this does is give the country some time to build capacity to fight the virus in the coming months .
+One major capacity is the ability to test and detect cases .
+Gagandeep Kang , a clinical scientist who heads the Translational Health Science and Technology Institute , an autonomous government institute , said that testing was crucial to gauge the extent of community transmission in the country .
+Community transmission is said to take place when the source of infection for a large number of cases in an area can not be traced : when individuals pick up the infection without having travelled to countries where the virus is circulating or having been in contact with known confirmed cases .
+Testing would also give Indian authorities a sense of the trajectories of transmission .
+" That will better inform models and allow us to @ @ @ @ @ @ @ @ @ @ responses , " Kang said during a web conference .
+But India has so far among the lowest ratios of testing in the world .
+Does India lack testing capacity ? What is stopping the country from testing more ?  Scroll .
+spoke to officials of nine state governments , three government labs , one private lab , several independent microbiologists and the Indian Council for Medical Research .
+A country 's testing capacity is contingent on a range of factors : the availability of testing kits , laboratory preparedness and human resources .
+Yet , some Indian states have managed to test more than others with comparable resources .
+This is because while a larger number of testing kits does mean that a state can carry out more tests , the mere availability of kits does not directly translate into high testing numbers .
+This is a consequence of India 's testing modalities .
+In fact , as this report explains , India might be underutilising its testing kits by not widening the scope of tests .
+And social stigma attached to coronavirus is making @ @ @ @ @ @ @ @ @ @ , a look at how many tests the country has done so far .
+Credit : Nithya Subramanian  This is how it compares with the rest of the world .
+Credit : Nithya Subramanian  India 's testing protocol  As Scroll .
+has reported previously , India 's initial testing protocol for coronavirus was narrow : till March 19 , the country was only testing symptomatic patients with international travel history and those who had come in contact with laboratory-confirmed Covid-19 cases .
+Even two state governments seemed to back this view .
+On March 16 , Chhattisgarh health minister TS Singh Deo wrote to the Centre complaining about the " limited supply " of testing kits .
+Then , on March 23 , as Opposition leaders asked West Bengal chief minister Mamata Banerjee to step up testing for the novel coronavirus in the state , she said she could not even if she wanted to .
+She claimed the state had just 40 testing kits .
+Banerjee said she had flagged the shortage to Prime Minister Narendra Modi in a meeting on March @ @ @ @ @ @ @ @ @ @ had sanctioned 90 more kits to the state .
+The kits , she said , were yet to arrive .
+But the Centre has consistently pushed back against this view : on March 17 , ICMR scientists said India had 1 .
+lakh testing kits .
+One million probes -- an integral part of the testing kit -- had been ordered from Germany and another one million probes had been requested from the World Health Organisation , they added .
+It is important to note here that one testing kit does not test one sample alone .
+( More on the science of testing later .
+)  As of March 18 , about 72 government laboratories were testing for Covid-19 in India .
+Credit : P Ravikumar/Reuters  The constraint on testing , if there was any , said Rajni Kant , director of the ICMR 's Regional Medical Research Centre , was the number of laboratories -- not kits .
+" Forget about the testing kit , " he said , " Testing kit is only a requirement to do the test .
+"  On average @ @ @ @ @ @ @ @ @ @ upto 90 samples every day , Kant said .
+" That is the clear-cut conclusion , " he said .
+What Kant meant was this : that even if the ICMR were to supply states with an infinite number of testing kits , the labs would not be able to utilise them .
+That is why , Kant said , the network of laboratories was being expanded .
+" We have involved private labs too now , " he pointed out .
+As of March 25 , 144 laboratories have been authorised to test for the virus , 25 of them private facilities .
+But if test kits were indeed a non-issue , why has the ICMR roped in private manufacturers to ramp up production of the kits ? As of March 26 , the government has given licenses to 18 private companies to sell testing kits in India .
+" We are doing what is required , " Kant said , refusing to explain this .
+The science of the test  The answer perhaps lies in the science of the test .
+To @ @ @ @ @ @ @ @ @ @ employ the real time RT-PCR or reverse-transcriptase polymerase chain reaction test on the swab sample of a suspected patient .
+The test uses multiple cycles of cooling and heating -- a chain reaction -- to amplify a small amount of DNA .
+The presence of a fluorescent dye in the medium makes the DNA glow , helping pathologists identify the pathogen .
+( For a more granular step-by-step explanation , read this ) .
+A testing kit contains various chemical components , said Ajanta Sharma , lead microbiologist at the Guwahati Medical College and Hospital , the main testing centre in the North East .
+Vital among them are reagents that include a pair of " primers " , which contain copies of DNA that matches the DNA of the novel coronavirus , and fluorescent reporter " probes " .
+But the testing kit by itself is not enough to carry out a PCR test .
+The lab needs to have a PCR machine where the kit is mounted .
+In one run of the machine , multiple swab samples can be tested .
+A testing @ @ @ @ @ @ @ @ @ @ most optimum use of reagents that make up the kit is to " test samples in bulk " , said Sharma .
+" If you run the test in small samples , say five-six tests per run , with every run , you lose some reagents , " said Sharma .
+" But we can not keep waiting for an optimal number of samples in a situation like this .
+"  On March 22 , when ICMR chief Balram Bhargava said that India had the capacity to conduct 20,000 tests per day , he was referring to the maximum theoretical capacity taking into account the number of available testing kits and labs .
+The problem of fewer samples  Because not enough samples are being collected , the number of samples being tested with one kit in most states is possibly much less than the maximum theoretical capacity .
+Chhattisgarh health minister TS Singh Deo alluded to this in his letter to the Centre .
+" The restrictive testing criteria has resulted in the limited use of available testing kits , " he wrote .
+States @ @ @ @ @ @ @ @ @ @ their kits much faster as they are not using the full potential of each testing kit .
+That seems to be the reason why the ICMR has been slow to expand its laboratory network -- and they are still largely centered around disease hotspots .
+For instance , on March 25 , Mizoram reported its first Covid-19 case .
+However , the confirmatory test was not done within the state .
+It was done at the Guwahati Medical College and Hospital , located almost 500 km away .
+Mizoram is yet to get a Covid-19 testing facility .
+Apart from Mizoram , two other states in the North East , Arunachal Pradesh and Nagaland , have no testing centres .
+The region so far has two confirmed cases : one each in Manipur and Mizoram .
+" If you have too many testing centres , you are wasting your test kits which are limited in number , " said a microbiologist at a government facility in eastern India .
+" So it makes sense to have centralised facilities where you can make optimum use of the kits @ @ @ @ @ @ @ @ @ @ seem to be employing .
+" We have 204 labs , but tests will be done in only two of our labs , " said Arvind Lal of Dr Lal PathLabs , one of the private facilities authorised by the government .
+" In fact , right now , it is only being done in our Rohini Lab in Delhi .
+"  But public health experts point out that the best solution would be to collect more samples to ensure every testing kit is utilised well .
+What is restricting sample collection ?  For weeks , the narrow testing criteria kept the number of samples collected limited .
+But now not only has the ICMR expanded the criteria , the infusion of private labs has prompted local authorities to encourage more tests .
+The Mumbai municipal corporation , for instance , has set up a helpline asking people with pneumonia , fever , cough , shortness of breath , to call and request for home tests .
+This means even those who are not hospitalised can get tested -- but the catch is they will @ @ @ @ @ @ @ @ @ @ to private labs .
+These private labs , however , are reporting their own set of troubles .
+Arokiaswamy Velumani , the managing director of Thyrocare , one of the private laboratories designated by ICMR to collect and test samples , said shortage of personal protection equipment for technicians was making it difficult to cap the test prices at Rs 4,500 as mandated by the government .
+For every sample collected , the technician must wear fresh safety gear and discard it at the end of the procedure .
+Many people wanting to get tested backed out when they realised the sample collectors would show up at their doorstep in safety gear -- they did not want their neighbours to know .
+Besides , the stigma attached to the virus means private labs have found it difficult to get staff for the job .
+Sample collectors who volunteered to do the job were repeatedly stopped by the police on the road .
+Dr Lal PathLabs , too , was struggling to collect samples because of travel restrictions .
+" For outstation patients , we take @ @ @ @ @ @ @ @ @ @ , then put it in normal proper conditions between 2 degrees and 8 degrees of temperature , and maintain the cold chain in the transport box during the journey , " said Lal .
+" That is what we did during the swine flu crisis .
+"  However , with flights not operational in the country , transporting samples from their over 500 pick-up centres across 29 states the country was not possible .
+As of now , Dr Lal PathLabs has only one functional testing facility in Delhi .
+To overcome some of these bottlenecks , some countries have improvised .
+South Korea , which relied on aggressive testing measures instead of drastic lockdown measures to stabilise the rate of infections , set up drive-through test clinics .
+Medical workers in PPEs test patients in their cars itself , mitigating the need to disinfect waiting rooms .
+Health workers can test up to 10 people an hour using this method .
+Singapore , another country which has managed to contain the spread of the virus , began testing all influenza-like and pneumonia cases at the first @ @ @ @ @ @ @ @ @ @ free .
+Credit : Francis Mascarenhas/Reuters  Concerns over equity  In India , with private labs charging Rs 4,500 , most Indians are likely to depend on the public system .
+Velumani said that several people refused to take the test after they realised it was not free .
+Public health experts said while it was a welcome step that the government had allowed private players to test and manufacture , the state remained central to India 's fight against the virus .
+The ICMR needs to keep ramping up the availability of testing kits and simultaneously expand the network of state laboratories , said Poonam Muttreja of the Public Health Foundation of India .
+" Let the rich go to the private sector and the poor to the government and the poor are far too many , " she said .
+Differences across states  To return to the question we started with : is the shortage of testing kits then coming in the state 's way of testing more people as the West Bengal chief minister claimed ? If so , are states planning @ @ @ @ @ @ @ @ @ @ depending on ICMR ?  We asked nine states .
+Most said the ICMR had sent them enough kits .
+Even a state as small as Sikkim said it had 100 of them .
+West Bengal and Chhattisgarh , the two states which had flagged shortages earlier , now said they had 500 kits each .
+How do the number of available kits square with the number of tests ?  Let us begin with Kerala , the state reporting the highest number of confirmed cases .
+In terms of tests , the state leads the pack in India by a fair margin .
+Till the evening of March 24 , the state had done 4,516 tests ( for scale : Maharashtra , which at that time , had 24 more confirmed cases had done less than 1,000 tests ) .
+V Meenakshi , the state 's additional director of public health said the state still had enough kits , all of them provided by the ICMR .
+Meenakshi said the state was not looking at procuring any more from the private manufacturers as yet .
+Given Kerala @ @ @ @ @ @ @ @ @ @ making full use of its kits : a win-win situation .
+Maharashtra , on the other hand , is likely to have underutilised a higher number of kits for fewer tests .
+Yet , the state is not contemplating ordering kits from the three private companies , said Anup Kumar Yadav , the state 's commissioner of health and family welfare .
+" We are hoping that the private labs would buy their own kits , " he said .
+Rajasthan , another high-testing state with more than 1,500 tests so far , also had an adequate stock at its disposal , said the state 's lead microbiologist Bharti Malhotra .
+" We have around 3,000 kits , " she said .
+Still , the state 's additional chief secretary of medical , health and family welfare , Rohit Kumar Singh said the state 's labs had been asked to procure more from the three-approved private companies .
+" The idea is to test as much as we can , " he said .
+" As it is very difficult to enforce social distancing among the poor @ @ @ @ @ @ @ @ @ @ motion to procure from the private companies , said Manoj Kumar , Mission Director of the state 's National Health Mission program .
+" We have asked our medical equipment purchasing corporation to place orders , " said Kumar .
+The state , Kumar said , had 1,500 kits across three labs -- 500 in each .
+On the other hand , even states which have barely tested , said they had enough kits for the foreseeable future .
+Shailesh Kumar Chaurasia , director at Jharkhand 's health department , said the state had " sufficient " ICMR-issued stock .
+Jharkhand has tested less than 100 people till March 25 .
+Assam , which has tested around 251 samples as of March 26 , had 2,000 kits in reserve , said Lakshmanan S , director of the state 's National Health Mission program .
+He added that the state had not yet placed orders for reinforcement from the private companies , but was " working on it " .

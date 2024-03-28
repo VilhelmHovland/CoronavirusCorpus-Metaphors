@@ -1,0 +1,21 @@
+Coronavirus SA app will reward you for isolating , trace who you saw if you test positive  19:11 30/03/2020  A group of researchers at the University of Cape Town have become the latest to join a growing list of developers of smartphone apps designed to help fight the coronavirus .
+CoviID is designed to help officials trace the physical contacts a person had once they test positive for the virus .
+It also incentivises people to practise good hygiene , as well as allowing for a verified healthcare professional to attest to the user 's status once they have been tested .
+The developers believe that verifiable negative tests would allow for freedom of movement if those in good health wish to travel .
+Should a user test positive , however , CoviID will be able to track and trace the movements of that user using Bluetooth and geolocation , covering the two weeks prior to testing positive for the virus and assisting monitoring efforts .
+Associate Professor Co-Pierre Georg , convenor of UCT 's Master 's in Financial Technology , worked remotely with a group of his students to design @ @ @ @ @ @ @ @ @ @ for release in the next three weeks .
+Georg argues that lockdown is effective , but it can work " only for a short period of time " .
+The app designers used insights from behavioural economics to create a design that would influenceusers to practise good hygiene and health habits , says co-designer Kungela Mzuku , a former student who is now an innovation developer at Standard Bank .
+The designers say there is potential to incentivise safety during outbreaks , for example by rewarding physical distancing and self-isolation through partnerships with other businesses .
+So , for instance , if the app picks up that the user has remained at home for a few days , they could be eligible for a discount at a partner supermarket .
+This is a similar concept to , say , Discovery 's Vitality programme .
+" This will help the government to incentivise people to do the right thing without having to go into full lockdown every time there is an outbreak , which is very costly , " says Georg .
+Georg believes it 's @ @ @ @ @ @ @ @ @ @ future mutations .
+He argues that lockdowns are not a sustainable method of controlling the outbreak .
+What about privacy ?  However , there is a nagging question : privacy .
+What are the implications of , firstly , having to disclose one 's status , and secondly , potentially having one 's status stored on your phone , leaving sensitive medical information vulnerable to cyber-criminals ?  " Designing this kind of app is not rocket science , and we 're not the first or only ones to do it .
+The thing that makes us different , however , is the fact that we 've designed this from a privacy-first perspective , " says Georg .
+According to Georg , the CoviID app makes use of blockchain technology , which is more secure .
+It will collect a user 's personal location and infection status and store it on their phone using a technology called self-sovereign identity -- in other words , it is not stored on a centralised government or private-sector database .
+Other coronavirus-fighting apps worldwide have drawn controversy .
+Examples include @ @ @ @ @ @ @ @ @ @ Oxford University , which records a user 's contact with other users , as reported by LiveScience .

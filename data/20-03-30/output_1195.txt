@@ -1,0 +1,68 @@
+COMPETITOR INTELLIGENCE  Lexology PRO  Power up your legal research with modern workflow tools , AI conceptual search and premium content sets that leverage Lexology 's archive of 900,000+ articles contributed by the world 's leading law firms .
+As we wrote about earlier this week ( here ) , on Tuesday , March 24 , the U .
+Department of Labor ( " DOL " ) issued guidance regarding the Families First Coronavirus Response Act ( " FFCRA " or " the Act " ) in three parts : a Fact Sheet for Employees , a Fact Sheet for Employers , and a Frequently Asked Questions document .
+Late in the evening on Thursday , March 26 , the DOL supplemented that guidance by adding twenty-three new " Frequently Asked Questions " ( numbers 15-37 ) .
+The DOL also issued a separate set of " Frequently Asked Questions " related to the notice posting requirements of the FFCRA .
+Collectively , the guidance is aimed at helping employees and employers understand their rights and responsibilities under the Emergency Family and Medical Leave Expansion Act ( " FMLA Expansion Act " ) and Emergency Paid Sick @ @ @ @ @ @ @ @ @ @ the FFCRA .
+The DOL 's guidance was largely consistent with Kilpatrick Townsend 's prior interpretation available here .
+Below we highlight key new provisions from the DOL 's updated guidance :  Record Keeping .
+According to the DOL guidance , employers must require employees to provide documentation when they take paid sick leave under the EPSL Act and the FMLA Expansion Act .
+( FAQs 15-16 ) .
+EPSL Act Documentation .
+Under the EPSL Act , the DOL guidance states that employers " must require " employees to provide : ( 1 ) their name ; ( 2 ) the qualifying reason for requesting leave ; ( 3 ) a statement that the employee is unable to work , including telework , based on that reason ; and , ( 4 ) the date(s) for which the leave is requested .
+Additionally , documentation of the reason for the leave will also be necessary , which includes " the source of any quarantine or isolation order , or the name of the health care provider who has advised the employee to self-quarantine .
+" This @ @ @ @ @ @ @ @ @ @ State or local quarantine or isolation order related to COVID-19 applicable to the employee or written documentation by a health care provider advising the employee to self-quarantine due to concerns related to COVID-19 .
+"  FMLA Expansion Act Documentation .
+Similarly , if an employee takes leave under the FMLA Expansion Act , employers " must require " employees to provide appropriate documentation , " just as employers would for conventional FMLA leave requests .
+" The DOL guidance states that this could include " a notice that has been posted on a government , school , or day care website , or published in a newspaper , or an email from an employee or official of the school , place of care , or child care provider .
+" The DOL further notes that " this requirement also applies when the first two weeks of unpaid leave run concurrently with paid sick leave taken for the same reason .
+" The DOL also notes ( in FAQ 16 ) that : " all existing certification requirements under the FMLA remain in effect if an employee is taking leave @ @ @ @ @ @ @ @ @ @ .
+" The DOL provides the example that , if an employee takes leave beyond the two weeks of emergency paid sick leave , because his/her medical condition for COVID-19-related reasons rises to the level of a serious health condition , the employee must continue to provide medical certifications under the FMLA as required by employer policy .
+Without stating it explicitly , the DOL implies that this documentation will be required for employers to claim tax credits under the FFCRA .
+Teleworking .
+In short , employees may only telework when the employer " permits or allows " the employee to do so ( FAQ 17 ) , and clarifies that an employee is unable to work or telework when the employer has work for the employee to perform , but , because of the COVID-19 qualifying reasons in the Act , the employee can not perform the work either " under normal circumstances " at the " normal worksite " or " by means of telework " ( FAQ 18 ) .
+The guidance is clear that if an employee becomes unable to work or telework @ @ @ @ @ @ @ @ @ @ she will then become eligible for leave under the EPSL Act and/or the FMLA Expansion Act ( FAQ 19 ) .
+Intermittent Leave While Teleworking .
+Intermittent leave will be allowed while an employee teleworks , if the " employer allows it " and the employee is " unable to telework his/her normal schedule of hours due to one of the qualifying reasons " in the EPSL Act and/or FMLA Expansion Act .
+The DOL says that employees and employers " may agree " to allow employees to take intermittent EPSL or leave under the FMLA Expansion Act .
+The DOL states that employees " may take intermittent leave in any increment " so long as the employer and employee agree .
+Further , the DOL " encourages employers and employees to collaborate to achieve flexibility and meet mutual needs , and the Department is supportive of such voluntary arrangements that combine telework and intermittent leave .
+" ( FAQ 20 ) .
+Notably , this differs from previous analysis of the Act 's text , because the EPSL Act explicitly states that paid sick time " shall cease @ @ @ @ @ @ @ @ @ @ the termination of the need for paid sick time " under the qualifying reasons .
+Intermittent Leave while Working at " Usual " Worksite .
+The DOL states that intermittent leave for non-teleworking employees will depend on ( 1 ) why the employee is taking the leave and ( 2 ) whether the employer agrees .
+( FAQ 21 ) .
+Unless an employee is teleworking , " paid sick leave for qualifying reasons related to COVID-19 must be taken in full-day increments " and " can not be taken intermittently " when the leave is taken for COVID-19 related reasons due to a Federal , State , or local quarantine or isolation order ; the employee has been advised to self-quarantine ; the employee is experiencing symptoms and is seeking medical care ; the employee is caring for someone subject to a quarantine or isolation order , or who has been advised to self-quarantine ; and/or , the employee is experiencing other " substantially similar conditions specified by the Secretary of Health and Human Services .
+" The DOL is clear that , once an employee starts taking @ @ @ @ @ @ @ @ @ @ teleworking -- the employee must continue to take paid sick leave each day until ( 1 ) the available leave is exhausted ; or , ( 2 ) the employee no longer has a qualifying reason to take the leave .
+Notably , the DOL leaves open that an employee may use the pool of available leave open to take at a later date , so long as they take the leave for a qualifying reason before it expires on December 31 , 2020 .
+Finally , because the DOL " encourages employers and employees to collaborate to achieve maximum flexibility , " it is , therefore , " supportive of " voluntary agreements that allow employees to take intermittent leave in order to provide qualifying care for a minor child under the Act .
+The DOL is explicit , however , that this leave may only be taken intermittently for non-teleworking employees when the employer gives its permission .
+( FAQ 22 ) .
+Leave is Not Retroactive .
+If an employer closes or sends employees home prior to the Act 's effective date of April 1 -- @ @ @ @ @ @ @ @ @ @ because it is required to close pursuant to a Federal , State , or local directive -- employees are not entitled to paid sick leave or the leave allotted under the FMLA Expansion Act .
+However , these employees may be eligible for unemployment benefits .
+( FAQ 23 ) .
+Leave is Not Available After an Employer Closes its Worksite or Because it Furloughs an Employee , or Reduces Hours .
+Notably , the DOL guidance also states that if an employer closes their worksites on April 1 or " after the FFCRA 's effective date , " employees " will not get paid sick leave or expanded family and medical leave .
+" ( FAQ 24 ) .
+Similarly , if an employer closes its worksite while an employee is on leave under the Act , the employee is only entitled to pay for the period where the worksite was open .
+( FAQ 25 ) .
+The DOL Guidance is clear -- once a worksite closes ( and teleworking is not an option ) , the employer is not required to keep paying for an employee @ @ @ @ @ @ @ @ @ @ true if an employee is " furloughed " on or after April 1 due to a lack of business or work , or if the employee 's hours are reduced for the same reasons .
+( FAQs 26-28 ) .
+It does not matter whether the employer states an intent to reopen at some time in the future .
+( FAQ 27 ) .
+However , employees in these situations are likely eligible for unemployment benefits .
+( FAQs 24-28 ) .
+Benefits During Periods of Leave .
+If an employer offers group health coverage , and an employee elected those benefits , the employee is entitled to those benefits during leave taken under the FMLA Expansion Act and the EPSL Act .
+( FAQ 30 ) .
+Relationship to Voluntary Paid Time Off Policies .
+Leave can not be taken simultaneously under an employer 's voluntary PTO policies unless the employee asks to do so and the employer agrees .
+( FAQs 31-33 ) .
+Employers may not require employees to take voluntary leave before taking emergency paid sick leave or FMLA expansion leave ( FAQ 33 @ @ @ @ @ @ @ @ @ @ , if they want to utilize voluntary leave to receive full pay rather than 2/3 pay under the Act .
+( FAQs 31-33 ) .
+As with all things COVID-19 related , the situation is rapidly evolving with near constant changes and updates .
+Accordingly , will continue to monitor the situation and report through our Task Force , insights , webinars , and other client communication .
+" Lexology is a very relevant and interesting resource for South African in-house lawyers .
+The newsfeeds are a good measure of a firm 's expertise and offer an interesting insight into recent legal developments .
+I would highly recommend Lexology to colleagues .

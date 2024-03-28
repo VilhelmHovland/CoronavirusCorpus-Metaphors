@@ -1,0 +1,11 @@
+Stanford Offers Project On Data Science &amp; AI For Covid-19  With COVID-19 the only topic that is of real concern to everyone at the moment , Stanford University has announced a project class that investigates and models COVID-19 using tools from data science and machine learning .
+The announcement came in the form of a tweet by SlashML .
+The project will provide a background for the biology and epidemiology of the COVID-19 virus .
+Once the participants are familiar with the background , the project will critically examine the current models that are being used to predict the infection rates in the population as well as models used to support various public health interventions .
+The sole purpose of this project is to create that can assist in the ongoing global health efforts .
+Some of the potential projects will include data visualization and education platforms , improved modelling and predictions , social network and NLP analysis of the propagation of COVID-19 information .
+The class will consist of guest speakers who are experts in the biomedical domain and is created for students who have relevant experience in data science and artificial intelligence .
+@ @ @ @ @ @ @ @ @ @ learning and statistics ( CS229 , STATS216 or equivalent ) and some biological background , although it is not a necessity .
+The project will be headed by Prof .
+James Zou , Zhenqin ( Michael ) Wu and Jaime Roquero Gimenez from Stanford University .
+The lecture will cover topics such as : .

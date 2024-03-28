@@ -1,0 +1,67 @@
+The total number of positive cases of Coronavirus in India increases to 1071 , and the death toll rises to 29 .
+This heartbreaking and challenging situation across India and all over the world has stopped daily activities and essential works .
+From ordering food online to make payments , various Best android apps developed in Coronavirus .
+With these apps , many companies building apps that can help people to track the virus and up-to-date news and information about the Coronavirus pandemic .
+These apps can also help in finding if you have been in contact with people infects with the Coronavirus .
+Related Stories  Here is the list of Best Apps developed in Coronavirus Outbreak :  Corona Kavach  The Indian Government launches a beta version of a Covid-19 tracking mobile application .
+It helps in keeping your track if you cross a path with Coronavirus infected patient .
+The Coronavirus Outbreak is significantly increasing in the country , and with death tolls rising to 29 , the scenario is getting intense day by day .
+The App develops in collaboration with the Ministry of Electronics and IT and NITI Aayog .
+@ @ @ @ @ @ @ @ @ @ tells whether he has encountered any corona positive person .
+This App is straightforward to use .
+It asks you questions related to difficulty in breathing , your temperature , and travel history .
+You can download Corona Kavach app from Google Play Store .
+It is one of the best apps developed in Coronavirus Outbreak .
+Here 's the step of how to use Corona Kavach App :  Open the Corona Kavach app , and you will see a screen that says that this App has been created by MeitY and MHFW .
+After tapping on the next few screens of the App , it asks you permission to track your location .
+This App asks the user to register with the One Time Password ( OTP ) sent on his mobile .
+On the homepage of the App , you get the essential information related to the number of people infected with corona , the number of cured people , and deaths .
+You can also fill up a list of questions to know your status by going to the menu .
+A one-hour @ @ @ @ @ @ @ @ @ @ .
+This countdown will tell how long the application is tracking your location .
+If you come in contact with someone whose status sets as infected , in this case , the App can send an alert .
+Quarantine or Q-app  Indian Government is trying its best to tackle the Coronavirus outbreak .
+The Government is collaborating with tech companies to build an app that can come up with solutions to manage the situation .
+In this regard , Founders of urban company , Udhyam .
+, Vokal and Bounce ideated an app known as Quarantine or Q-app .
+The App is awaiting government approval to launch soon .
+The App will help users to gather information related to the Coronavirus outbreak .
+The Government also expresses interest in working with Tech companies to control the pandemic .
+The founder of Udhyam Learning Foundation , Mekin Maheshwari , said :  " This is to enable people to self-declare their home quarantine and then use that to build a zoning strategy which the government could use .
+"  The App will give color code information that @ @ @ @ @ @ @ @ @ @ of positive cases .
+Tech companies are taking examples from other countries and learning what the measures that can be made during the Coronavirus Outbreak are .
+These companies are testing solutions that can help in enforcing people to maintain social distancing .
+Aprameya Radhakrishnan , co-founder of Vokal shares the idea and says :  " The value addition that we are bringing on board is the technology that startups are good at .
+"  The App will send Push notifications and expecting people who are in Quarantine to respond .
+The Geographic Information System ( GIS )  The Municipal Corporation of Surat launches a tracker application known as The Geographic Information System to monitor the movement of those who ask to follow the Quarantine days .
+The App starts in Ahmedabad , Gandhinagar , Rajkot , and Vadodra .
+The Principal Secretary of Health Jayanti said in a statement :  " Apart from GIS mapping , the app is equipped with Geo Fencing ' to alert the authorities if the person moves away from a specific area .
+It will help us track the @ @ @ @ @ @ @ @ @ @ .
+"  The App will help the Government to keep track of 3,600 home-quarantine people in the city .
+The App will ask you to give details of your location and travel history .
+There 's a button in the App that a user will have to push every hour to update their whereabouts .
+Other than location details , users have to fill a form twice a day , filing information including symptoms , cough , difficulty in breathing , and fever .
+Users also need to attach a selfie so that doctors can assess them remotely .
+IIT Delhi develops App  To control the Coronavirus Outbreak in India , IIT Delhi students develops an app to trace individuals who came across with Coronavirus patients .
+The application uses Bluetooth technology to identify people who came in contact with Coronavirus infected patients within 2 meters of range .
+Five students from IIT Delhi , including Arshad Naseer , Gulshan Jahagid , Vikas Upadhyay , Pankaj Singh , and Anchal Sharma .
+The application provides secure and reliable data .
+Hyderabad Techie develops App  @ @ @ @ @ @ @ @ @ @ control Coronavirus lockdown .
+A techie in Hyderabad has now develops an app to enable social distancing .
+The App generates by Vijayanand Reddy to help citizens to understand the practice of social distancing at markets , grocery stores , and supermarkets .
+He said :  " We have about 2,500 flats and 8,000 people residing in our apartment complex .
+We also have an in- house medical shop and a super bazaar .
+Residents of the apartment have already stated booking slots for the super bazaar , and there has been a substantial reduction in the length of queues .
+"  You can book a slot at grocery stores , and they will receive an SMS with a desired allocated timing .
+There are two types of time slots- One is a 5-minute time slot , and the other is 15 minutes time slot .
+The 5-minute slot is available for buying milk , bread , and eggs .
+The 15-minute time slot is available to purchase big grocery items .
+The SMS will cost 15 paise per message .
+One of the apartments in Bengaluru is @ @ @ @ @ @ @ @ @ @  TraceCovid-19 is an app built by a Chennai startup known as MacApp Studio .
+It is a free application offered to the Government to help trace the location and travel history of individuals .
+According to MacApp Studio CEO , Suresh Kumar :  " We made both an app for users and analytics dashboard for organizations in record time .
+Anyone who gets on the App will be able to see in one place , the Covid-19 cases around them , which makes it convenient for them to plan their movement and convenient for the organizations to mark red zones .
+"  The App can help to trace down the location and travel history of not only Indian nationals but also of foreign citizens .
+The ap will also aggregate Coronavirus news from official websites in one place .
+BGR is a leading online destination for news and commentary focused on the mobile and general consumer electronics markets .
+It is America 's number one source of exclusive and breaking mobile news , and a technology category leader among early adopters , savvy technophiles and casual @ @ @ @ @ @ @ @ @ @ .

@@ -1,0 +1,46 @@
+How can mico-interactions enhance the UX of your application ?  There is a famous saying - " It 's the little things that matter the most .
+" Little things like a " like " on Facebook or a " view " on a Youtube video matter a lot .
+Ask why ? Well , these are small interactions that help in understanding the user 's interests in a certain area .
+Such small interactions are all about the details of an application and details are nothing but an integral part of the design .
+Ask yourself .
+Will you prefer using an app that has no sense of navigation and is weird or will you go for an app that is user-friendly and guides you through everything easily ? That is why micro-interactions are necessary .
+They set the difference between a marvelous UX and a useless one .
+If you wish to focus on user-centric design approach , always target the users first .
+Even the slightest of the details can give rise to a cascading effect of discontent among your customers .
+So , make sure that the small moments in UX @ @ @ @ @ @ @ @ @ @ .
+Microinteractions and UX design go hand in hand .
+During the design process , one must need to pay attention to the details and not overload it with irrelevant animations .
+Following certain principles , while designing your UX will ensure that micro-interactions gel well with your design .
+Here is a list of the principles .
+UX micro-interactions must be subtle and functional .
+Your micro-interactions must not be irritating or annoying , instead , they must be apt for providing modest or solid responses for both common and occasional actions .
+Ditch short-term based goals .
+Always aim for the long term .
+While designing UX it is advisable to stay away from those interesting elements that may become annoying when used repeatedly .
+For instance : Consider the " Subscribe to Newsletter " as a micro-interaction .
+If you keep utilizing the pop-up dialog box for each time the webpage loads , it will become stressful for the users .
+Simplicity is the ultimate sophistication .
+Following the KISS principle ( Keep It Simple , Stupid ) and not designing the micro-interactions @ @ @ @ @ @ @ @ @ @ the loading time of your application but also make it convenient for end-users to use .
+Do some groundwork before starting .
+Understand your target audience and the context of building your application .
+This will help you in designing effective and powerful UX elements for your app .
+Attractive UX elements are only possible when you also give special attention to the details while designing .
+Take care of the complexity and coordination .
+Once you build a foundation , find out those specific areas where the complexity lies .
+Also , do n't ignore the physical principles and human-computer interaction techniques that might help in catching the eye of your users .
+As per Fitts ' Law , it is known that vertical and horizontal lines will be better than slanting lines or curves .
+Survival of the fittest .
+As you design by keeping in mind the long-term results , you should ensure that your UX design has a set of subtle micro-animations that get displayed differently each time you use it .
+By keeping things interesting , your users will keep looking forward @ @ @ @ @ @ @ @ @ @ Who loves a boring , static design ? Nobody does ! That is why micro-interactions can work wonders for you .
+By feeding on the user 's desire for acknowledgment , UX micro-interactions will encourage them to use it .
+From accepting of some action to gaining rewards , such interactions guide users on the working of an application .
+Micro-interactions can reduce complicated functionality into a simple and basic feature .
+However , one should always treat every functionality as a set of interlinked micro-interactions .
+In other words , if you care about enhancing your UX , micro-interactions should also be a part of your design .
+They offer a sigh of relief for solving the small and discrete problems of your UX .
+So , what are you waiting for ? Go ahead and blend some fine yet useful micro-interactions into your UX ! It is the key to having a successful UX design .
+How has the coronavirus outbreak disrupted your life ? And how are you dealing with it ? Write to us or send us a video with subject line ' @ @ @ @ @ @ @ @ @ @ community post , written by one of our readers .
+images and content in this post belong to their respective owners .
+If you feel that any content posted here is a violation of your copyright , please write to us at mystory@yourstory .
+and we will take it down .
+There has been no commercial exchange by YourStory for the publication of this article .

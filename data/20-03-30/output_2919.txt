@@ -1,0 +1,12 @@
+China unveiled the new IP-related proposal in the form of a PowerPoint presentation due to the ongoing COVID-19 pandemic , which has already hit at least 199 countries worldwide .
+The Chinese tech giant Huawei has offered the UN 's International Telecommunication Union ( ITU ) a technology that may drastically " change the way the internet works " , according to the Financial Times ( FT ) .
+The proposal was made together with the state-run companies China Unicom and China Telecom , as well as and the country 's Ministry of Industry and Information Technology ( MIIT ) .
+In a PowerPoint presentation obtained by FT , Huawei announced that parts of the new internet architecture-related technology are already being built and due to be tested by early 2021 .
+During the presentation , the company specifically referred to shortcomings of the current network infrastructure based on the Transmission Control Protocol ( TCP ) and Internet Protocol ( IP ) .
+Huawei slammed the infrastructure as " unstable " and " vastly insufficient " in order to meet the technical requirements of the digital world by 2030 , suggesting instead that @ @ @ @ @ @ @ @ @ @ " shoulder the responsibility of a top-down design for the future network " .
+The Chinese tech giant rejected concerns by the UK , Sweden , and the US that the new network structure would allegedly split the global internet and provide state-run internet service providers with control over citizens ' internet use .
+" The research and innovation of New IP is open to scientists and engineers worldwide to participate in and contribute to " , Huawei underscored , touting it as a " more dynamic IP addressing system " .
+The standardisation of the New IP is expected at a major ITU telecommunication conference in India scheduled for November .
+The new internet structure-related proposal is being rolled out as the world remains in the grip of the novel coronavirus pandemic which has already killed more than 27,000 people in 199 countries .
+Huawei , in turn , is still going dealing with Washington 's crackdown which kicked off in May 2019 , when the US Department of Commerce prohibited internet providers from using Huawei products and US tech companies from selling technologies ( @ @ @ @ @ @ @ @ @ @ license first .
+The US claims that the company is collaborating with the Chinese government to allow the latter to spy on those who use the tech giant 's equipment , allegations that have been rejected by both Beijing and Huawei .

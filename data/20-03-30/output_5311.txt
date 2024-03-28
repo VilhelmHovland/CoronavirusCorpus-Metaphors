@@ -1,0 +1,126 @@
+No matter who does what from here , Australian hospitals are running short and will get shorter on supplies - masks , gloves , other protective and cleaning equipment andd ventilators are just the obvious ones .
+We need to get creative urgently - and we can .
+In this pandemic crisis , we ca n't expect any global supply chains to ramp up fast and meet our needs , partly because they ca n't meet their home countries ' demands let alone others .
+As The New York Times reports , the global ventilator shortage is acute , and " some European governments are deploying wartime-mobilization tactics to get factories churning out more ventilators - and to stop domestic companies from exporting them .
+" We know there is enormous , deep and rapid international co-operation to develop vaccines for COVID-19 .
+And Australian state government support has already been made available for vaccine development .
+In contrast to vaccine development , we have yet to see global co-operation between medical researchers and industrial designers and manufacturers .
+There is internal co-operation between governments and companies on ventilator production , but little obvious international co-operation .
+That @ @ @ @ @ @ @ @ @ @ need fast : open source designs for easily producible ventilators , using parts and supplies that are likely to be available in our own nations .
+Hospital ventilators are complicated electromechanical devices that currently go through a lengthy testing and certification process in each separate jurisdiction they are licensed and sold .
+That process takes years in most cases .
+But we are in a public health crisis where the risks of not having more ventilators outweigh the risks of introducing some that may not meet standards established for normal times .
+One solution some US hospitals seem to be implementing is to have one ventilator able to support more than one patient .
+Another is to turn to other manufacturers and repurpose their facilities to turning out ventilators .
+The obstacles here are large .
+These are medical devices with a large regulatory process that needs to be navigated .
+Some of this will have to be shortcircuited , probably supported by urgent legal changes to ensure the companies and individuals who do this work are not later prosecuted under laws and rules made for safer times .
+The @ @ @ @ @ @ @ @ @ @ designs carefully to protect commercial advantage .
+Some will need to share their proprietary knowledge openly with a global design and manufacturing community , including here in Australia .
+The UK government has published specifications for rapidly produced ventilators .
+That 's a great start .
+Australia 's Department of Industry is also working with our companies on the problem .
+Different inputs required for ventilator production will be in short supply in different places , whether in Australia or globally , so no one design is likely to be producible every on the globe .
+That 's not enough to stop urgent work to develop and produce ventilators that are fit for purpose - not perfect for purpose - but have the one big attribute we lack now : availability .
+This is about helping people who will otherwise die .
+We are used to thinking rapid design and production is n't possible with safety-critical equipment - but there 's at least one example where we know rapid design and production of a safety-critical system has worked .
+It also involved keeping people breathing .
+Gizmodo called it " @ @ @ @ @ @ @ @ @ @ NASA scientists and engineers , with the crew of Apollo 13 , designed and built an improvised air scrubber in hours to prevent the crew dying from CO2 poisoning .
+And they did it out of spare items in the damaged Apollo spacecraft .
+With 3D printing of ventilator parts already happening , the Apollo 13 precedent might be easier to follow .
+So , with the UK 's standards , and ventilator companies who are willing to open up proprietary knowledge and make their specialist designers and engineers available to assist crowdsourced designers , we could radically change the availability of ventilators to fight this epidemic .
+A big medical device manufacturer like GE Healthcare , Beijing EONMED , or one of the innovative new entrants like OneBreath with simple ventilator designs developed for use in poorer nations , has the proprietary knowledge the world needs shared and could do so , no doubt with government encouragement and funding .
+Elon Musk has made an offer ( yes , as he did with the Thai cave rescue ) to help , as have big US car companies .
+UK @ @ @ @ @ @ @ @ @ @ and is now tooling up to make thousands for the NHS .
+GE Health , Ford and 3M are now working together to build GE Health-designed ventilators , and are also working on a simpler design able to be produced in numbers rapidly .
+The US companies are channelling the space program by calling their work Project Apollo .
+GE and Ford must share their designs and development work openly with other partners who have urgent national needs and who can also contribute to simplifying design and production proposals at speed .
+Australia as a close ally with strong design and capable precision-manufacturing firms is a good one to start with .
+That means our political leaders ( eg .
+President Trump and Prime Minister Morrison ) must quickly agree that this be a joint national endeavour .
+And it means this political imperative joins our companies , industrial designers and heath technology professionals together to develop designs based around the supplies and production systems we have in each of our nations .
+Australia has some of the world 's best medical researchers and medical device designers and manufacturers , including @ @ @ @ @ @ @ @ @ @ in universities and in government agencies like the Therapeutic Goods Administration , CSIRO , and the Defence Science and Technology Group .
+Add to that the precision engineering and automotive supplies sector , and some of the big Defence companies with strong national supplier relationships like the Australian Submarine Corporation ( ASC ) , and you start seeing a base of medical knowledge and design capability coupled with local precision manufacturing .
+And precision manufacturing in almost every sector , including defence , is about safety-critical systems .
+READ MORE : This is a design and manufacturing ecosystem that can be joined with the US and other international partners and turned to this urgent national and international purpose .
+Add to that the global " hacker " community that loves solving hard problems for social benefit with open-source solutions .
+This is a strange time , and it 's appropriate in these strange times to think the otherwise unthinkable .
+Fast-tracking open-source ventilator designs able to be produced from the items that we have available is possible .
+It certainly requires our government changing the regulatory environment to cope with @ @ @ @ @ @ @ @ @ @ , more importantly , it requires an urgent marshalling of national and global expertise - this , like the Apollo missions , is a moonshot , but with more purpose than putting one man on the moon .
+This should be the substance of an early call between the US President and our Prime Minister .
+When the G20 or G7 meet , this should be on the agenda .
+If they ca n't lead or agree , the US and Australia can begin this international effort , with partners like Japan , the UK , Germany , France , South Korea , Canada , Israel and Taiwan likely to want to be a part of it .
+Our government science agencies , whether the TGA , the CSIRO or Defence 's DSTG , could lead .
+A DARPA-like " grand challenge " to develop the best open-source design for a rapidly producible ventilator and make it available to all who can produce it would be a fine thing to see in the various packages being assembled by the national cabinet .
+It will be a wonderful thing to show @ @ @ @ @ @ @ @ @ @ during this grave crisis .
+We already have US-Australia co-operation between NASA and our new Australian Space Agency .
+Let 's make the ventilator grand challenge our new , current joint Apollo mission .
+We are in these times .
+We have removed our paywall from our stories about the coronavirus .
+This is a rapidly changing situation and we want to make sure our readers are as informed as possible .
+If you 're looking to stay up to date on COVID-19 , you can also sign up for our twice-daily digest here .
+If you would like to support our journalists you can subscribe here .
+Take a breath and consider the unthinkable : why it 's time for a ventilator grand challenge  No matter who does what from here , Australian hospitals are running short and will get shorter on supplies - masks , gloves , other protective and cleaning equipment andd ventilators are just the obvious ones .
+We need to get creative urgently - and we can .
+In this pandemic crisis , we ca n't expect any global supply chains to @ @ @ @ @ @ @ @ @ @ they ca n't meet their home countries ' demands let alone others .
+As The New York Times reports , the global ventilator shortage is acute , and " some European governments are deploying wartime-mobilization tactics to get factories churning out more ventilators - and to stop domestic companies from exporting them .
+"  We know there is enormous , deep and rapid international co-operation to develop vaccines for COVID-19 .
+And Australian state government support has already been made available for vaccine development .
+In contrast to vaccine development , we have yet to see global co-operation between medical researchers and industrial designers and manufacturers .
+There is internal co-operation between governments and companies on ventilator production , but little obvious international co-operation .
+That needs to change urgently so that we create what we need fast : open source designs for easily producible ventilators , using parts and supplies that are likely to be available in our own nations .
+Hospital ventilators are complicated electromechanical devices that currently go through a lengthy testing and certification process in each separate jurisdiction they are licensed @ @ @ @ @ @ @ @ @ @ .
+A ventilator next to an intensive care bed in the Viersen General Hospital in Germany .
+Picture : Roland Weihrauch/Getty Images  But we are in a public health crisis where the risks of not having more ventilators outweigh the risks of introducing some that may not meet standards established for normal times .
+One solution some US hospitals seem to be implementing is to have one ventilator able to support more than one patient .
+Another is to turn to other manufacturers and repurpose their facilities to turning out ventilators .
+The obstacles here are large .
+These are medical devices with a large regulatory process that needs to be navigated .
+Some of this will have to be shortcircuited , probably supported by urgent legal changes to ensure the companies and individuals who do this work are not later prosecuted under laws and rules made for safer times .
+The companies who make ventilators sensibly guard their intellectual property and designs carefully to protect commercial advantage .
+Some will need to share their proprietary knowledge openly with a global design and manufacturing community @ @ @ @ @ @ @ @ @ @ has published specifications for rapidly produced ventilators .
+That 's a great start .
+Australia 's Department of Industry is also working with our companies on the problem .
+Different inputs required for ventilator production will be in short supply in different places , whether in Australia or globally , so no one design is likely to be producible every on the globe .
+That 's not enough to stop urgent work to develop and produce ventilators that are fit for purpose - not perfect for purpose - but have the one big attribute we lack now : availability .
+This is about helping people who will otherwise die .
+We are used to thinking rapid design and production is n't possible with safety-critical equipment - but there 's at least one example where we know rapid design and production of a safety-critical system has worked .
+It also involved keeping people breathing .
+Gizmodo called it " the greatest hack in history " .
+In 1970 , NASA scientists and engineers , with the crew of Apollo 13 , designed and built an improvised air scrubber @ @ @ @ @ @ @ @ @ @ .
+And they did it out of spare items in the damaged Apollo spacecraft .
+With 3D printing of ventilator parts already happening , the Apollo 13 precedent might be easier to follow .
+This is a strange time , and it 's appropriate in these strange times to think the otherwise unthinkable .
+So , with the UK 's standards , and ventilator companies who are willing to open up proprietary knowledge and make their specialist designers and engineers available to assist crowdsourced designers , we could radically change the availability of ventilators to fight this epidemic .
+A big medical device manufacturer like GE Healthcare , Beijing EONMED , or one of the innovative new entrants like OneBreath with simple ventilator designs developed for use in poorer nations , has the proprietary knowledge the world needs shared and could do so , no doubt with government encouragement and funding .
+Elon Musk has made an offer ( yes , as he did with the Thai cave rescue ) to help , as have big US car companies .
+UK tech company Dyson took 10 days @ @ @ @ @ @ @ @ @ @ make thousands for the NHS .
+GE Health , Ford and 3M are now working together to build GE Health-designed ventilators , and are also working on a simpler design able to be produced in numbers rapidly .
+The US companies are channelling the space program by calling their work Project Apollo .
+GE and Ford must share their designs and development work openly with other partners who have urgent national needs and who can also contribute to simplifying design and production proposals at speed .
+Australia as a close ally with strong design and capable precision-manufacturing firms is a good one to start with .
+That means our political leaders ( eg .
+President Trump and Prime Minister Morrison ) must quickly agree that this be a joint national endeavour .
+And it means this political imperative joins our companies , industrial designers and heath technology professionals together to develop designs based around the supplies and production systems we have in each of our nations .
+Australia has some of the world 's best medical researchers and medical device designers and manufacturers , including ResMed and Cochlear @ @ @ @ @ @ @ @ @ @ in government agencies like the Therapeutic Goods Administration , CSIRO , and the Defence Science and Technology Group .
+Add to that the precision engineering and automotive supplies sector , and some of the big Defence companies with strong national supplier relationships like the Australian Submarine Corporation ( ASC ) , and you start seeing a base of medical knowledge and design capability coupled with local precision manufacturing .
+And precision manufacturing in almost every sector , including defence , is about safety-critical systems .
+This is a design and manufacturing ecosystem that can be joined with the US and other international partners and turned to this urgent national and international purpose .
+Add to that the global " hacker " community that loves solving hard problems for social benefit with open-source solutions .
+This is a strange time , and it 's appropriate in these strange times to think the otherwise unthinkable .
+Fast-tracking open-source ventilator designs able to be produced from the items that we have available is possible .
+It certainly requires our government changing the regulatory environment to cope with the urgency and @ @ @ @ @ @ @ @ @ @ importantly , it requires an urgent marshalling of national and global expertise - this , like the Apollo missions , is a moonshot , but with more purpose than putting one man on the moon .
+This should be the substance of an early call between the US President and our Prime Minister .
+When the G20 or G7 meet , this should be on the agenda .
+If they ca n't lead or agree , the US and Australia can begin this international effort , with partners like Japan , the UK , Germany , France , South Korea , Canada , Israel and Taiwan likely to want to be a part of it .
+Our government science agencies , whether the TGA , the CSIRO or Defence 's DSTG , could lead .
+A DARPA-like " grand challenge " to develop the best open-source design for a rapidly producible ventilator and make it available to all who can produce it would be a fine thing to see in the various packages being assembled by the national cabinet .
+It will be a wonderful thing @ @ @ @ @ @ @ @ @ @ economic partnership during this grave crisis .
+We already have US-Australia co-operation between NASA and our new Australian Space Agency .
+Let 's make the ventilator grand challenge our new , current joint Apollo mission .
+We are in these times .
+Michael Shoebridge is the defence , strategy and national security director at the Australian Strategic Policy Institute .
+You can also call the Coronavirus Health Information Line on 1800 020 080  If you have serious symptoms , such as difficulty breathing , call Triple Zero ( 000 )  We have removed our paywall from our stories about the coronavirus .
+This is a rapidly changing situation and we want to make sure our readers are as informed as possible .
+If you 're looking to stay up to date on COVID-19 , you can also sign up for our twice-daily digest here .
+If you would like to support our journalists you can subscribe here .

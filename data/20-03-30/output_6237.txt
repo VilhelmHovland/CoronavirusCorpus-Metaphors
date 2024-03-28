@@ -1,0 +1,90 @@
+Past and future of Coronavirus Outbreak : Inside humanity 's battle to contain pathogen that has paralysed the world  It is hard to comprehend just how quickly coronavirus disease ( COVID-19 ) , irreversibly changed the world we live in .
+On 31 December , 2019 as the world was preparing to usher in another new year , the World Health Organisation China Country Office was notified of multiple cases of pneumonia of unknown cause .
+On 7 January , a new coronavirus later dubbed Severe Acute Respiratory Syndrome Coronavirus-2 ( SARS-CoV-2 ) was identified as the cause of the cases of pneumonia in Wuhan , China .
+Almost as soon as the causative agent of COVID-19 had been identified , cases began to grow exponentially .
+Representational image .
+AP  The death toll began to mount .
+China responded swiftly and decisively by building massive temporary hospitals and mobilising doctors and nurses from across the country .
+On 23 January , Wuhan , the epicentre of the public health crisis , was put under lockdown .
+Although many outside of China had never heard of Wuhan , the fact that a major @ @ @ @ @ @ @ @ @ @ or New York was shut off from the rest of the world should have prompted the world of the destructive nature of COVID-19 .
+At that point , it was already known that COVID-19 was a serious disease and around 2 percent of those who were being diagnosed were dying from it .
+But even a cursory glance of Indian and American newspaper headlines that day do not point out the scale of the challenge on the horizon .
+National newspapers focused on national political news .
+Corporate profits were up and the stock markets were rising .
+COVID-19 was China 's problem .
+By the end of the month , as cases began to pop up in other countries , the world rose from its slumber .
+Travel to and from China was suspended .
+Unfortunately , as we know now that SARS-CoV-2 is highly infectious and often transmitted by those who show no or minor symptoms .
+By mid-January , SARS-CoV-2 had already rapidly spread to many other parts of the world .
+The true extent of the spread of SARS-CoV-2 will not be known @ @ @ @ @ @ @ @ @ @ is safe to conclude that many countries underestimated the scope of the problem .
+We can not say that there were no warning signs .
+Before the emergence of SARS-CoV-2 , virologists and epidemiologists had warned of the high pandemic potential of coronaviruses : after all two other coronaviruses , Severe Acute Respiratory Syndrome ( SARS ) and Middle East Respiratory Syndrome ( MERS ) had jumped from other animals to humans in the past few decades .
+Coronaviruses are notoriously promiscuous .
+They typically have a high propensity to recombine , mutate , and infect multiple species .
+There are five coronaviruses that are endemic to humans which cause up to 30 percent of common colds .
+They are with us constantly .
+And given the rapid spread of SARS-CoV-2 , it might end up becoming a sixth endemic coronavirus ; it might never be fully eradicated from human populations .
+But despite repeated credible warnings by experts , they were not heeded by policy-makers .
+The problem with a pandemic response is that it dealt with similar to a one-time disaster , like a cyclone @ @ @ @ @ @ @ @ @ @ .
+However , pandemic preparation should be more of a constant preparedness and preparation for war .
+No country creates an army only after being attacked .
+To be sure , the COVID-19 pandemic is a once-in-a-generation event and while the response by policymakers has often been slow , physicians , scientists , and health-care workers have risen to the challenge .
+They are heroes and their response has been unprecedented .
+Just four days after SARS-CoV-2 was identified as the causative agent of the cases of pneumonia in Wuhan , the genetic sequence was publicly released .
+This is important because the sequence allows a diagnostic test to be created , mutations to be mapped , the nature of the virus to be gleaned , and certain vaccines and drugs to be developed .
+Sure enough , the first diagnostic test kit was available only two days later .
+On 13 January , the US National Institutes of Health ( NIH ) and Moderna Therapeutics , used the genetic sequence of SARS-CoV-2 to finalise an mRNA vaccine against the novel coronavirus .
+On 16 March , @ @ @ @ @ @ @ @ @ @ of this vaccine .
+We are moving at an extraordinary pace .
+At least a dozen other vaccines are in various stages of development .
+One of the reasons Moderna was able to develop a vaccine in days is they had experience in creating vaccines for MERS .
+Similarly , there were initiatives to create vaccines for SARS which could 've greatly accelerated the process of development of a vaccine to prevent COVID-19 .
+Unfortunately , once the SARS epidemic ended , those initiatives shut down .
+A vaccine for SARS-CoV-2 will take a minimum of a year , maybe longer , but the lessons are clear .
+We must invest in vaccine development programs even after the pandemic ends .
+We can not repeat the mistakes of the past .
+It was never a secret to those in the pharmaceutical and biotechnological industries but the general public is also now realising that vaccine and drug discovery takes years and sometimes even decades .
+The conventional way to discover drugs is to find small molecules that are effective in low doses in cells and animals first and then @ @ @ @ @ @ @ @ @ @ demonstrate that the drugs are safe to use and that they work .
+We can speed up the discovery process but we ca n't speed up ( beyond a point ) or predict what will happen in clinical trials .
+This poses a significant challenge in a pandemic when time is of the essence .
+Any drugs discovered through the conventional route will not be useful for the current pandemic .
+So , in terms of accelerating drugs that can be used to treat those with severe COVID-19 , physicians are repurposing drugs for other diseases that have already gone through a regulatory process .
+These drugs have already been shown to be safe , now they have to work .
+This process has been fast , and already there are drugs repurposed for COVID-19 from other diseases ( malaria , HIV/AIDS , Ebola ) that are in clinical trials .
+It is important to remember than an antiviral drug does n't work the same way as an antibiotic .
+It typically does n't kill the virus but instead stops the virus from hijacking the host cell @ @ @ @ @ @ @ @ @ @ probably the most promising candidate drug right now was created to treat Ebola .
+The drug looks like adenosine , a building block that would normally be inserted into viral RNA information packets .
+What Remdesivir does is it gets inserted in the place of adenosine in the viral message and causes a faulty product .
+So , the virus can not make accurate copies of itself and the course of the infection slows down .
+Chloroquine and hydroxychloroquine are other promising drugs that are thought to change the pH of membrane-bound vesicles inside cells and stop the virus from properly developing .
+There are some early promising results with these drugs , but we will have to wait for the results of randomised controlled trials underway right now .
+There are also treatment options outside of drugs and vaccines that are being pursued .
+An antibody that " recognizes " SARS-CoV-2 can be used as a biologic therapeutics to treat COVID-19 .
+Already a limited study has shown that a few patients suffering from severe COVID-19 recovered when they were treated with plasma from recuperating patients .
+@ @ @ @ @ @ @ @ @ @ but it expands available treatment options .
+In a pandemic treatment is important , but before that comes testing .
+Diagnostic testing has relied on the real-time reverse-transcriptase polymerase chain reaction , a gold-standard test to detect the presence of viral genetic material in nasal or throat samples , or in sputum .
+Modifications of this technology have reduced the wait time from days to hours .
+In addition , new small platforms will allow testing to be done quickly at the point-of-care .
+These have the potential to allow for broader testing , diagnosis , and isolation- all key steps in controlling the spread of COVID-19 .
+Another type of very useful test checks for the presence of antibodies in those who have been infected by SARS-CoV-2 .
+These tests will tell us who has been infected ( and might have recovered ) in a population and will point out those who have acquired some immunity .
+Some of these people can return to work .
+These tests will also let us know how many people have been infected and this , in turn , will @ @ @ @ @ @ @ @ @ @ COVID-19 actually is .
+This has real-world consequences .
+If half of India ends up getting infected by SARS-CoV-2 , a difference of 1 percent in the fatality rate translates into 6 .
+million lives saved .
+All around the world , physicians are working extremely long hours to control COVID-19 and treat severe patients but we also have a part to play .
+It may seem frustrating to just be sitting at home during a lockdown , but by doing so we are slowing the spread of SARS-CoV-2 through social distancing .
+One thing we should all remember is that it takes time for social distancing , even if perfectly done , to reap results .
+It takes around five days for symptoms of COVID-19 to show up and people can be progressively sick for days after that .
+In a world that expects instantaneous results , this can be frustrating , but we must stay the course .
+COVID-19 is not unbeatable .
+SARS-CoV-2 is transmitted by infected humans in very specific ways .
+By changing our behaviours , we can slow the spread of the @ @ @ @ @ @ @ @ @ @ , and hand-washing are low-tech ; they are not glamorous .
+But they are effective and they buy time for physicians , nurses , and scientists- who are already the heroes in this fight- to control the fallout .
+All of us must work together .
+The pandemic caught many of us by surprise earlier but we have no excuse not to act .
+The highly infectious nature of SARS-CoV-2 , tied with lethality and asymptomatic transmission make it particularly challenging to thwart .
+But will learn from it , and we will be better prepared for the next pandemic .
+The author trained as a microbiologist and is now tracking the coronavirus pandemic while maintaining appropriate social distance .

@@ -1,0 +1,30 @@
+SMB loans platform Kabbage to furlough a ' significant ' number of staff , close office in Bangalore  Another tech unicorn is feeling the pinch of doing business during the coronavirus pandemic .
+Today , Kabbage , the SoftBank-backed lending startup that uses machine learning to evaluate loan applications for small and medium businesses , is furloughing a " significant number " of its U .
+team of 500 employees , according to a memo sent to staff and seen by TechCrunch , in the wake of drastically changed business conditions for the company .
+It is also completely closing down its office in Bangalore , India , and executive staff is taking a " considerable " pay cut .
+The announcement is effective immediately and was made to staff earlier today by way of a video conference call , as the whole company is currently remote working in the current conditions .
+Kabbage is not disclosing the full number of staff that are being affected by the news ( if you know , you can contact us anonymously ) .
+It 's also not putting a time frame on how long the furlough will last @ @ @ @ @ @ @ @ @ @ affected employees .
+The intention is to bring them back on when things shift again .
+" We realize this is a shock to everyone .
+No business in the world could have prepared for what has transpired these past few weeks and everyone has been impacted , " co-founder and CEO Rob Frohwein wrote in the memo .
+" The economic fallout of this virus has rattled the small business community to which Kabbage is directly linked .
+It 's painful to say goodbye to our friends and colleagues in Bangalore and to furlough a number of U .
+team members .
+While the duration of the furlough remains uncertain , please bear in mind that the full intention of furloughing is temporary .
+We simply have no clear idea of how long quarantining or its reverberations in the economy will last .
+"  Kabbage 's predicament underscores the complicated and stressful calculus faced by tech companies built around providing services to SMBs , or fintech ( or both , as in the case of Kabbage ) .
+SMBs are struggling right now in the U .
+: @ @ @ @ @ @ @ @ @ @ finances , and closing their businesses ( or seeing a drastic reduction in custom ) means they will not have the cash to last 10 days without revenue , " and we 're already well past that window , " Frohwein noted in his memo .
+In Kabbage 's case , that means not only are SMBs not able to be evaluated and approved for normal loans at the moment , but SMBs that already have loans out are likely facing delinquencies .
+The decision to furlough is hard but in relative terms it 's good news : it was made at the eleventh hour after a period when Kabbage was considering layoffs instead .
+The company has raised hundreds of millions of dollars in equity and debt , and it was in a healthy state before the coronavirus outbreak .
+The memo notes that the " board and our top investors are aware of the challenges we are facing and have committed to helping us through this period , " although it does n't specify what that means in terms of financial support for the business @ @ @ @ @ @ @ @ @ @ the business as-is .
+The shift to furlough from layoffs came in the wake of an announcement yesterday by Steven Mnuchin , the U .
+Secretary of the Treasury , who clarified that " any FDIC bank , any credit union , any fintech lender will be authorized " to make loans to small businesses as a part of the U .
+government 's CARE Act , the giant stimulus package that included nearly $350 billion in loan guarantees for small businesses .
+While that provides much-needed relief for these businesses , the implementation of it -- the Small Business Administration has already received nearly 1 million claims for disaster-relief loans since the crisis started -- has been and is going to be a challenge .
+That effectively opens up an opportunity for Kabbage and companies like it to revive and reorient some of its business .
+( Its USP was always that the AI it uses , which draws on a number of different sources of online data for the business , means a more creative , faster and more accurate assessment of loan applications than what traditional @ @ @ @ @ @ @ @ @ @ " deep discussions " with the Treasury Department , the White House and the Small Business Administration to help expedite applications for aid .
+While loans still make up the majority of Kabbage 's business , the company has been making a move to diversify its services , and in recent times it has made acquisitions and launched new services around market intelligence insights and payments services .
+While there has certainly been a jump in e-commerce , overall the tightening economy will have a chilling effect on the wider market , and it will be worth seeing what happens with other tech companies that focus on loans , as well as adjacent financial services .

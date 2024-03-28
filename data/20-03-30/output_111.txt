@@ -1,0 +1,34 @@
+Covid-19 : Every New Zealand case , mapped and charted  Introducing a brand new series of charts , graphics and data-visualisations by Chris McDowall , covering the Covid-19 epidemic within New Zealand .
+This is the first edition -- we 'll publish the latest set each day on The Spinoff .
+Information about confirmed and probable cases of Covid-19 in New Zealand is changing rapidly .
+This page collates the most recent statistics and presents them as charts and maps .
+The Ministry of Health typically publishes data updates in the early afternoon , which describe the situation at 9am on the day of release .
+The Spinoff will release a new version of these data-visualisations each day in the immediate aftermath of the Ministry of Health updates .
+They will evolve and refine over the coming days and weeks .
+This line graph shows the total number of New Zealand Covid-19 cases , based on when they were first reported to the public .
+It is based on data from the Johns Hopkins coronavirus global cases dashboard .
+The grey vertical bands represent the country 's changing alert level .
+The remaining charts @ @ @ @ @ @ @ @ @ @ .
+This map shows counts of probable and confirmed Covid-19 cases at the level of district health boards .
+There are now confirmed cases in every health authority territory .
+The largest number of cases are concentrated in Auckland ( 75 ) , Southern ( 70 ) , Waitemata ( 64 ) and Waikato ( 63 ) .
+Hover or touch the map symbols for counts .
+A coronavirus cluster is an unusually high incidence of cases grouped in place and time .
+The Ministry of Health is investigating six clusters .
+These are spread between Auckland , Queenstown , Wellington and Waikato .
+This bar chart shows confirmed and probable cases by the date they were reported to a health agency .
+At first glance the numbers might not seem to line up with the figures that the director-general of health announces each afternoon .
+The big daily announcement is about the total number of active cases .
+However , there is typically a lag between a possible case getting reported and a diagnosis getting made .
+When you read the chart , keep in mind @ @ @ @ @ @ @ @ @ @ testing moves possibles into the probable or confirmed categories .
+This chart shows the total confirmed and probable cases broken down by age group .
+The virus affects people of all ages .
+The largest number of New Zealand cases is reported in people in their 20s .
+Of 455 examined cases , the vast majority involved either recent overseas travel or contact with a known case .
+Two percent of examined cases were due to community transmission .
+This map shows the last country a person with confirmed or probable Covid-19 visited before arriving in New Zealand .
+The Spinoff is subject to NZ Press Council procedures .
+A complaint must first be directed in writing , within one month of publication , to info@thespinoff .
+If not satisfied with the response , the complaint may be referred to the online complaint form at www .
+presscouncil .
+along with a link to the relevant story and all correspondence with the publication .

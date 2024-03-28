@@ -1,0 +1,43 @@
+Business Wire India is the only Indian news distribution platform to partner with ANI , PTI , IANS , and UNI Testimonials - Whenever we have something important to tell , Business Wire India is often our first point of call , Rajnish Wahi , Senior VP , Corporate Affairs &amp; Communication , Snapdeal .
+I define Business Wire India as a facilitator for the communications industry , Sudeshna Das , Executive Director , ComConnect .
+Business Wire India is very good in terms of credible and authentic news distribution to media .
+It adds authenticity to all content , Arneeta Vasudeva , Vice President , Ogilvy .
+Business Wire India is the only Indian news distribution platform to partner with ANI , PTI , IANS , and UNI The BW India team is very professional and prompt , we have been working seamlessly with BW for many years now , Prathibha Nair , Assistant Manager - Corporate Communications , Wipro Limited .
+Businesswire helps us in securing coverage on prominent media outlets across US , Europe and India and the detailed tracking reports allow us to monitor our press release .
+All members of the servicing team @ @ @ @ @ @ @ @ @ @ efforts , Aniruddha Basu , PR &amp; Corporate Communications , L&amp;T Technology Services  Veea , an innovator in network edge compute and connectivity platform solutions for " smart " applications , today announced that its VeeaHub-based solutions are designed and ready to meet the needs of COVID-19 healthcare providers and responders across the globe .
+With the rapid deployment of " pop-up " testing , temporary surge sites and treatment centers , the need for high-performance , resilient and scalable network access and local application processing at the edge of the network has never been more crucial than it is right now .
+To address the unique requirements of temporary and long-term patient care facilities for COVID-19 pandemic , Veea Inc .
+is offering a unique rapid deployment IT and communications network solution in most countries around the globe .
+VeeaHub products , with a form factor and installation process resembling the typical Wi-Fi Access Point ( AP ) , " out of the box " can create a wireless and wired mesh cloud for Wi-Fi and IoT devices and sensors throughout the coverage area .
+" Always-on " @ @ @ @ @ @ @ @ @ @ the local ISP , is particularly important for temporary facilities that require a rapid and easy communication network installation on a turnkey basis in support of healthcare providers ' and patients ' communications or operations as needed .
+The entire world is facing an unprecedented time as COVID-19 has disrupted billions of lives and hundreds of millions of businesses around the globe .
+Many healthcare facilities have been stretched beyond capacity .
+Steps are being taken to care for those affected in ways that were unimaginable just weeks ago in temporary facilities .
+During this calamitous period , it 's critical that municipalities , local and federal governments , and healthcare organizations who are setting up temporary patient care facilities or expanding the capacity of their existing facilities have access to equipment and technologies that are capable of delivering satisfactory levels of care to every patient .
+In addition , every patient staying at these facilities , many for 20-30 days or more , requires Wi-Fi access to stay in touch with family members and healthcare providers , whether remote or within the same facilities .
+The VeeaHub platform @ @ @ @ @ @ @ @ @ @ set up a network for seamless communications within the care facilities , along with connections to affiliated facilities and public networks to ensure that the highest level of monitoring and care is provided to every patient .
+Veea offers a variety of VeeaHub models for both indoor and outdoor installation .
+All VeeaHub models offer IoT connectivity with Zigbee and Bluetooth 4 .
+and 5 .
+Specific models also support Z-Wave and LoRaWAN ( limited availability through May ' 20 ) for wide area IoT coverage .
+VeeaHub models offer a variety of network and device interfaces such as 10/100/1G/2 .
+Base-T Ethernet connections , 2X or 3X USB 3 .
+Type-A , and an RS232/422/485 serial interface often required for many types of ventilators and other hospital equipment .
+Utilizing the wireless meshing capabilities of VeeaHubs , healthcare providers are able to quickly and cost-effectively set up a private hybrid wireless and wired cloud , resembling an on-premises mini-datacenter , without requiring new structure cabling installation .
+VeeaHubs and applications can be managed locally via a smartphone app or cloud-based network and device management dashboards .
+In addition , VeeaHubs can @ @ @ @ @ @ @ @ @ @ .
+Moreover , VeeaHubs are architected to also run container-based applications locally , or through the cloud , so that critical applications continue to be available and be highly responsive , even if broadband connectivity is interrupted .
+This approach can bring the power of the cloud computing to the local network .
+Using comprehensive developer tools offered for VeeaHub applications , the healthcare organization 's IT staff can take advantage of VeeaHub 's embedded Linux servers to implement and run applications in highly secure Docker containers in isolation at the patient care facilities .
+Providing healthcare workers with reliable access to critical information and systems could mean the difference between life and death for some patients .
+" The work we have put into developing our hybrid Connectivity + Computing platform over the last five years is ready in time to assist the professionals on the frontlines of the battle against COVID-19 " , said Allen Salmasi , CEO of Veea .
+" As a company based in New York City , we recognize at a very personal level how critical it is to make sure healthcare @ @ @ @ @ @ @ @ @ @ regardless of the type of facilities , while patients can cost-effectively remain connected to the public network with Wi-Fi , 4G and wired connections .
+We are committed to supporting our healthcare providers and public servants in the fight against this dreaded pandemic across the globe .
+"  Various VeeaHub models are now available for rapid deployment wherever dynamic , scalable and secure Wi-Fi and IoT coverage with mesh networking and/or secure application processing on-premises is required .
+For more information , contact sales@veea .
+About Veea Inc .
+Veea is leading the way to Local Network Intelligence at the Device Edge .
+As the number of connected devices -- smartphones , smart home/building/city IoT devices , smart TVs -continues to increase , the connectivity and control they require , along with the sheer mass of data they generate , is taxing our networks .
+Veea 's hybrid " Connect + Compute " platform is deployed where devices actually connect to the network , providing not only the high-availability , resilient multi-protocol connectivity today 's " smart " systems require , but also a scalable , secure @ @ @ @ @ @ @ @ @ @ -- even when Internet connectivity is lost .
+Veea customers enjoy significant benefits , including fewer network devices to deploy and manage , lower CAPEX and OPEX costs , reduced WAN bandwidth , automatic WAN failover , and the fastest possible response for the most critical real-time applications .
+veea .

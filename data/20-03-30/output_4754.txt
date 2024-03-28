@@ -1,0 +1,15 @@
+No Cookies  To use this website , cookies must be enabled in your browser .
+To enable cookies , follow the instructions for your browser below .
+Facebook App : Open links in External Browser  There is a specific issue with the Facebook in-app browser intermittently making requests to websites without cookies that had previously been set .
+This appears to be a defect in the browser which should be addressed soon .
+The simplest approach to avoid this problem is to continue to use the Facebook app but not use the in-app browser .
+This can be done through the following steps :  Open the settings menu by clicking the hamburger menu in the top right  Choose " App Settings " from the menu  Turn on the option " Links Open Externally " ( This will use the device 's default browser )  Enabling Cookies in Internet Explorer 7 , 8 &amp; 9  Open the Internet Browser  Click Tools&gt; Internet **30;623;TOOLONG  Check Override automatic cookie handling  For First-party Cookies and Third-party Cookies click Accept  Click OK and OK  Enabling Cookies in Firefox  Open @ @ @ @ @ @ @ @ @ @  Check Accept cookies from sites  Check Accept third party cookies  Select Keep until : they expire  Click OK  Enabling Cookies in Google Chrome  Open the Google Chrome browser  Click Tools icon&gt;Options&gt;Under the Hood&gt;Content Settings  Check Allow local data to be set  Uncheck Block third-party cookies from being set  Uncheck Clear cookies  Close all  Enabling Cookies in Mobile Safari ( iPhone , iPad )  Go to the Home screen by pressing the Home button or by unlocking your phone/iPad  Select the Settings icon .
+Select Safari from the settings menu .
+Select ' accept cookies ' from the safari menu .
+Select ' from visited ' from the accept cookies menu .
+Press the home button to return the the iPhone home screen .
+Select the Safari icon to return to Safari .
+Before the cookie settings change will take effect , Safari must restart .
+To restart Safari press and hold the Home button ( for around five seconds ) until the iPhone/iPad display goes blank and the home screen @ @ @ @ @ @ @ @ @ @ collect information about the content ( including ads ) you use across this site and use it to make both advertising and content more relevant to you on our network and other sites .
+This is also known as Online Behavioural Advertising .
+You can find out more about our policy and your choices , including how to opt-out here .

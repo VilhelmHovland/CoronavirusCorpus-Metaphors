@@ -1,0 +1,27 @@
+UCT develops app to track coronavirus patients  Written by UCT -  30th Mar 2020  47  An ivory Coast resident wears a protective mask .
+After South Africans commenced a 21-day lockdown on 26 March , a group of researchers from the University of Cape Town ( UCT ) continued working on a smartphone app that could play an important role in managing future outbreaks of COVID-19 and economic recovery .
+" The problem with a lockdown is it works , but only for a short period of time , " explains Associate Professor Co-Pierre Georg .
+" There 's a huge demand for apps that allow governments to -- among other things -- trace the physical contacts a person had once they test positive for corona .
+"  Georg and his students -- working remotely -- have come up with CoviID , an app that addresses both of these needs , as well as a novel third functionality of incentivising people to practise good hygiene during viral outbreaks , UCT said .
+" We can use insights from behavioural economics to nudge citizens to engage not only in good health @ @ @ @ @ @ @ @ @ @ distancing and self-isolation , " added Kungela Mzuku , who was in the first financial technology class during 2018 and now works at Standard Bank as an innovation developer in its emerging tech team .
+" This will become a key preventive component for public health officials , and I am excited to see how the latest technology can help us achieve this in a privacy-preserving way .
+" As Georg explains , research shows that COVID-19 is likely to mutate again , which means outbreaks of the virus could become a seasonal occurrence .
+This , in turn , means that to act swiftly and avoid total lockdowns -- as well as the economic consequences they carry -- in years to come , governments must be adequately informed about outbreak statistics in real time .
+Using Bluetooth and geolocation , CoviID will be able to track and trace the movements of an individual covering the two weeks prior to their testing positive for the virus .
+In terms of being able to prove a user 's status -- which will no doubt become necessary for @ @ @ @ @ @ @ @ @ @ anyone to enter public spaces -- the app will enable a verified healthcare professional to attest to their status once they have been tested .
+" Whenever you want to prove your status , you show a QR code -- either saved to your phone or on a piece of paper -- and somebody can scan it to receive the information .
+"  As for incentivisation , Georg says that Discovery Health ( a medical insurance provider ) with their rewards programme , Vitality , has shown that people respond well to being incentivised for healthy behaviour .
+During an outbreak of the coronavirus , for instance , social distancing and self-isolation could be rewarded .
+Once the app picks up that a user has been at home for a few days , for example , they could be eligible to receive discounts from partner companies like grocery stores .
+" This will help the government to incentivise people to do the right thing without having to go into full lockdown every time there is an outbreak , which is very costly , " he says .
+@ @ @ @ @ @ @ @ @ @ requires a platform that will allow people to share it in a manner that is safe , secure and prioritises their privacy .
+" Designing this kind of app is not rocket science , and we 're not the first or only ones to do it , " says Georg .
+" The thing that makes us different , however , is the fact that we 've designed this from a privacy-first perspective .
+"  Using blockchain technology , which helps to ensure protection of privacy , Georg and his team have put measures in place to reveal only the most necessary information .
+The CoviID app will collect a user 's personal location and infection status and store it on their phone using a technology called self-sovereign identity -- not on a centralised government or private-sector database .
+This provides the user with full authority and control over who gets access to the data , for what purpose and for how long .
+Since time is of the essence , Georg and his team have had their heads down to release the first version of CoviID within @ @ @ @ @ @ @ @ @ @ the South African Department of Health will be in charge of rolling out the app to users .
+The researchers are in discussion with various governmental role-players to raise awareness about the project with the goal of first rolling it out in South Africa , but ultimately all over Africa .
+The team has also made progress with possible private sector partners and has buy-in from MTN and Standard Bank already .
+" I think we can get through this together and come out stronger on the other side , " Georg concludes .
+" It 's also exciting to think that UCT could make a meaningful contribution during this crisis .

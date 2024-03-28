@@ -1,0 +1,72 @@
+SASE might be better than VPNs for quickly ramping up remote access  The global pandemic now hitting almost every corner of the world is forcing countless millions of people to work from home .
+In one sense , we are fortunate to now have the technology that allows us to do that .
+Between broadband Internet access in the home , corporate VPNs , team workspaces and videoconferencing services , many people can continue to do their jobs as effectively as if they were in their regular office environment .
+That does not mean it is all smooth sailing for the IT departments that have to enable and support those critical work-from-home services .
+Depending on the type of network architecture a company has , it can be relatively easy or significantly challenging to support tens of thousands of employees now suddenly working from home .
+I recently talked with Mark Casey , CEO of the network infrastructure services provider Apcela , who conveyed the challenges that many large enterprises have .
+It is these companies that typically still have a traditional hub-and-spoke kind of WAN anchored in a physical data centre .
+Corporate traffic @ @ @ @ @ @ @ @ @ @ ' homes ) to a centralised data centre to pass through a security stack before it is sent to the internet or to cloud services .
+Unfortunately , this legacy network architecture does not adapt well to the dramatically different traffic patterns resulting from a massive surge in telework .
+When you look at the VPN architecture in this environment , it is largely dominated by Cisco with its AnyConnect solution that pairs with the vendor 's ASA firewall products .
+Countless large enterprises have these hardware appliances in their on-premises data centres .
+Whether it is Cisco equipment or some other vendor 's , the VPN/firewall combination is a real workhorse under normal conditions , but the vast increase in remote workers is causing a strain .
+VPN capacity is strained  A home-based worker brings up a VPN connection that creates a secure tunnel to take him straight into the data centre .
+This might be fine when the company expects 10% to 20% of its employees to work remotely at any given time , but now the numbers might approach 50% or 70% .
+This @ @ @ @ @ @ @ @ @ @ all .
+What is more , workers are routing a bunch of internet traffic to the data centre along with traffic destined for on-premise applications like Microsoft Office 365 .
+This is the landscape that Casey sees every day as he engages with large enterprise organisations .
+" We 've talked to a number of companies recently that say they need to expand their VPN capacity , but the legacy network architecture is holding them back .
+Cisco , Palo Alto and others are offering free VPN client licenses , but the enterprises still need to expand the VPN terminating appliances .
+It 's hard to quickly scale capacity in this environment , " says Casey .
+" Whether it 's coronavirus or some other catalyst that puts stress on the legacy network environment , we advocate that enterprises should diversify and shift portions of their network architecture to the cloud .
+This will give them much more flexibility to provide security and remote access services to their workforce in the long run .
+"  For flexibility and capacity on demand  Casey points to the Secure Access @ @ @ @ @ @ @ @ @ @ framework as a model for re-architecting the enterprise network .
+SASE is Gartner 's name for a combination of SD-WAN capabilities with a number of security services that are primarily delivered through a cloud-based delivery model .
+Gartner defines the service edge as an offering that supports the access needs of digital enterprises by combining SD-WAN functions with network security services such as secure web gateway ( SWG ) , cloud access security broker ( CASB ) , and cloud-based firewall .
+In short , a SASE offering helps simplify network management by offering highly customisable policy-based control that can be tailored by user identity , session context , and application needs for performance and security -- and it is delivered from the cloud .
+Casey explains the concept of a service edge with a geographical example .
+" Suppose an employee is VPNing into his corporate network from his New York area home , and the data centre happens to be in Chicago .
+Ordinarily the traffic would all be directed to Chicago , but if he 's accessing internet content , it would be optimal to @ @ @ @ @ @ @ @ @ @ to where the user is .
+It 's better to go to a site in New York where the VPN terminates on a local firewall , and there 's a secure web gateway there so the Internet traffic can be offloaded there instead of backhauling it to Chicago .
+This site in New York is called the service edge .
+"  Casey continues his explanation : " A virtualised version of a company 's firewall sits in the hub .
+The VPN terminates on the VPN concentrator in the local hub and then the traffic is routed appropriately .
+That traffic going to the internet goes out through secure web gateway and that traffic that 's destined for an application in the data centre goes over a private network inside the security parameters .
+This is essentially another tunnel back to the data centre .
+And that 's a great use case for this whole concept of SASE , which is to lift some of your core security components and move them out to the cloud .
+"  With the word cloud , people tend to think of @ @ @ @ @ @ @ @ @ @ gives cloud a broader definition .
+" Cloud is Software as a Service , like Salesforce and ServiceNow , " says Casey .
+" If you 're an enterprise , cloud is an Equinix data centre .
+Cloud is anything that 's not you , and it 's delivered as a service .
+"  The service edge is a powerful hub  In Apcela 's parlance , a service edge is called an application hub , or AppHub .
+Other companies call them communication hubs , cloud hubs , or simply Points of Presence ( PoPs ) .
+Regardless of the name , the concept is the same .
+These hubs consist of racks of switching and routing equipment that are typically deployed in carrier-neutral co-location centres .
+Then these data centres are interconnected with high-capacity , low-latency circuits that create a high-performance core network .
+SD-WAN , VPN and security stacks are typically deployed in the hubs .
+At the edge of this network , an enterprise can directly connect its own data centres , branch offices , remote and mobile users , and even third-party partners @ @ @ @ @ @ @ @ @ @ PoPs , around the world so that organisations and their workers can connect to the closest hub to obtain the communication and security services they need .
+Each enterprise chooses what services it wants to utilise .
+When considering how to deploy security as a virtual service , Casey says , " You do n't necessarily want to put all the security in AWS because then it will work great with AWS , but it wo n't work for GCP or Azure , and it certainly wo n't help you for your SaaS applications .
+So having this hub environment that sits between the application clouds -- Salesforce , Office 365 , Workday , etc .
+-- and the users and enterprise locations is the perfect location to put these security services .
+And because the hubs are essentially an Infrastructure as a Service , you 're not stuck with having to move to some proprietary cloud-based platform .
+"  SASE infrastructure is essentially on demand , so it is fairly easy for new customers to adopt it .
+" It 's not complicated , " says Casey .
+@ @ @ @ @ @ @ @ @ @ the world , and cross connect back into an enterprise 's infrastructure to deliver private connectivity .
+But it 's all very cloud-like .
+It takes the agility of cloud and the speed of cloud and enables you to act quickly .
+"  SASE has VPN capacity pre-built  The SASE model allows companies to expand their VPN platforms easily because the capability is all pre-built .
+Once the service is turned on , the company is well positioned to support thousands of new home-based workers .
+I asked Casey about a realistic timeframe for companies that are new to the SASE approach before they can expect to be up and running with expanded VPN capacity .
+" I can only speak to the solution Apcela offers , of course , but I 'd say it 's a matter of days to weeks , but certainly not months , " he says .
+" In our case , it depends on their security platform because we leverage virtualised network functions on the security side , so the whole concept of procuring and shipping equipment goes away .
+" @ @ @ @ @ @ @ @ @ @  Contrast this approach to the legacy model of installing new hardware in a data centre to provide more capacity .
+By the time the company orders the hardware , gets it shipped to the data centre , and then installed and configured , two or three months might pass .
+Another benefit of the SASE framework is that traffic travels over a private core network rather than the public Internet .
+" The Internet should n't become your new WAN -- certainly not for business and mission-critical platforms .
+You need a specialised sort of MPLS-like network for your cloud apps , which is what a SASE platform does , " says Casey .
+" Traffic is taken off the Internet at the secure edge , put onto a private secure network and routed directly to the appropriate SaaS or IaaS platform data centre .
+"  Having a private core network is especially important at this time because the public Internet is under great strain due to the traffic and content pattern shifts now that so many people are staying home or working from home .
+The @ @ @ @ @ @ @ @ @ @ have been asked by the European Commissioner for internal market and services to throttle their services to consume less bandwidth .
+As Casey says , " You do n't want your corporate traffic to compete for bandwidth against Netflix and all these different videoconferencing services .
+"  If your organisation is struggling with ramping up work-from-home capacity in a hurry , consider how a SASE service might help you .

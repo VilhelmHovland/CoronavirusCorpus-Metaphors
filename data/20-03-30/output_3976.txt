@@ -1,0 +1,32 @@
+MyClinic365 offers telemedicine platform to GPs for free  Kerry-based start-up MyClinic365 is making its telemedicine platform free for GPs in Ireland for the duration of the Covid-19 crisis .
+As GPs around the country deal with a major pandemic while also needing to look after their regular patients , Irish start-up MyClinic365 announced plans to donate its telemedicine platform to doctors and allied healthcare professionals for free for the duration of the Covid-19 emergency .
+We caught up with founders Dr Laura Malone and Keith Lyne , who are both based in Kerry , to find out more about their platform , which was launched last year .
+There are other telemedicine platforms available to Irish GPs , such as NuaHealth or Wellola , but Malone said that MyClinic365 is different .
+" Our platform is a patient relationship management platform , where we focus on two things .
+Those two things are reducing the administrative burdens inside of GP 's surgeries and on improving patient relationships , " she explained .
+' It 's hard to get an appointment and this was the case before the Covid-19 outbreak ' -- DR @ @ @ @ @ @ @ @ @ @ there is a shortage of general practitioners , Malone said , with the number of GPs per head lower than the OECD average .
+" We want to improve the patient relationship because at the moment there 's a bottleneck in general practice .
+It 's very difficult to get through on the phone , it 's hard to get an appointment and this was the case before the Covid-19 outbreak , " she added .
+" The bottleneck is there and , as a result , a lot of patients are very frustrated before they ever go in and sit down with their doctor .
+To an extent , we doctors have been getting off on the wrong foot , because the system has been difficult for people to use .
+MyClinic365 aims to handle the patient relationship from before they arrive right up to when they leave the surgery .
+" If we can manage that relationship and be more respectful to patients within our dealings , then we are able to engage them with us and with their health and hopefully get better health @ @ @ @ @ @ @ @ @ @ providing a platform for scheduling appointments , communicating with patients and managing workflow in a clinic , MyClinic365 can also help GPs look after patients at a time when they may not be able to consult with them in person .
+Doctors can schedule , manage and collect payments for remote tele-consultations with patients for general health issues , as well as concerns about Covid-19 , as long as the patient has a smartphone or PC with an internet connection .
+For the last two weeks , Malone has been using the technology at her own surgery in Killarney .
+She said it has been " extremely useful " in protecting the health of doctors , administrative staff and patients .
+" It 's very reassuring to be able to see patients as well as being able to hear them .
+It sounds obvious , but a picture paints a thousand words .
+We know our patients well in general practice , so you know by looking at people just how sick they are .
+Now they do n't have to leave the house unnecessarily to come @ @ @ @ @ @ @ @ @ @ this platform , but we do n't want to be profiteering in the midst of the crisis ' -- KEITH LYNE  She added that patients can use MyClinic365 without downloading an app , and staff can log in from home as it is a cloud-based platform .
+" For a lot of the days , I have been working from home using it while there 's another doctor in the office .
+We 're all logged in and on the same workflow .
+"  However , it does help if the patient has some equipment such as a thermometer or a blood pressure cuff .
+" A lot of our patients have pulse oximeters , so we are asking them to have their pulse rate and respiratory rate ready for us , so we have a lot of information from the patient before we even engage in the video consultation , " Malone said .
+Making MyClinic365 free during a crisis  Amazon Web Services ( AWS ) has provided MyClinic365 with AWS Activate credits to enable the team to now offer its telemedicine service for @ @ @ @ @ @ @ @ @ @ start-up had been working closely with AWS , receiving advice on the platform 's architecture , so AWS knew that the start-up was working in the healthcare space .
+" One of their divisions deals with the public sector , and the HSE being one part of the public sector .
+They contacted us to see if there was any way they could help , " he added .
+" We said we have this platform , but we do n't want to be profiteering in the midst of the crisis , so we 're offering it for free .
+AWS came back with the offer of significant credits to allow us to offer the software for the duration of the crisis .
+"  Lyne added that the HSE has been " great " in making the public procurement process easier during the current health crisis , by taking down some barriers to speed up the adoption of new technology .
+" I think this technology was always on the roadmap for doctors , " Malone added .
+" Worldwide there 's a shortage of GPs @ @ @ @ @ @ @ @ @ @ health records have become so complex that GPs are recording everything , which is contributing to burnout , and we want to help decrease that .

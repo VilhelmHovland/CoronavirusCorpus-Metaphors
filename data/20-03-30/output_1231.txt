@@ -1,0 +1,55 @@
+COMPETITOR INTELLIGENCE  Lexology PRO  Power up your legal research with modern workflow tools , AI conceptual search and premium content sets that leverage Lexology 's archive of 900,000+ articles contributed by the world 's leading law firms .
+The " CARES " Act contains several provisions directly impacting labor and employment issues .
+Below is a summary of the key labor and employment-related provisions contained in the Act .
+Union Neutrality for Mid-Sized Business Loans Under the CARES Act : While the CARES Act provides economic stimulus and payroll tax relief to employers , there is a subtle pitfall for companies that seek to remain union free .
+Under Section 4003 of the Act , in order to " provide liquidity " to eligible businesses , the federal government is authorized to make loans and loan guarantees to certain businesses .
+This Section of the Act contains a specific provision for loans to mid-sized businesses -- those with 500 to 10,000 employees .
+Among other requirements ( including forbidding the business from outsourcing jobs for two years ) the Act specifically says that a business that receives a loan under this program ( 1 @ @ @ @ @ @ @ @ @ @ collective bargaining agreements for the term of the loan and two years after completing repayment " and ( 2 ) " that the recipient will remain neutral in any union organizing effort .
+" Although the Act does not specifically define neutrality , some common and troubling provisions of neutrality agreements are gag rules prohibiting management from negatively commenting on the union and its organizing efforts , card checks automatically recognizing union representation once a threshold of union authorization cards are collected , and requirements that the company provide personal information about employees to the union .
+At a minimum , this neutrality provision of the Act means that employees will only hear one side of the union debate , limiting workers ' ability to make an informed decision regarding representation .
+Companies must be aware of the dual-edged sword of entering into mid-sized business loans under the CARE Act .
+Unemployment Compensation Generally : Realizing the clear economic impact of the COVID-19 pandemic , states and the federal government are all leaning on state unemployment agencies to provide relief to affected individuals .
+Most states and the federal @ @ @ @ @ @ @ @ @ @ provision of unemployment benefits to affected individuals in situations that might not have otherwise been covered .
+Most states have passed emergency rules regarding unemployment benefits .
+The rules are generally meant to streamline the process for receiving benefits , get money into the hands of affected individuals faster , eliminate the requirement that the individual actively look for work , and provide benefits for employees whose hours have been reduced .
+Employers must check the rules in the individual states where they may be terminating employees , furloughing employees , or reducing employee hours because some states have imposed employer responsibilities .
+For example , in Georgia , the responsibility is on the employer to file certain claims for their affected employees .
+If the employer fails to do so , it can be required to reimburse the Georgia Department of Labor for the full amount of unemployment compensation benefits that were paid to the employee .
+Where the states are not filling the unemployment gap , the federal government has stepped in with the CARES Act .
+Under the Act , and described in more detail below @ @ @ @ @ @ @ @ @ @ or extended benefits under state or federal law or pandemic emergency unemployment compensation is eligible for benefits from the federal government in the amount that they would have been entitled to if covered under the state plan .
+The CARES Act provides coverage for generally any reason that an employee may be out of work related to COVID-19 , including caring for someone diagnosed with the virus or not being able to go to work because of a quarantine .
+Persons with the ability to telework for pay and those receiving sick leave or other paid leave benefits are ineligible .
+Title II Subtitle A  CARES Act Unemployment Compensation : In the CARES Act , there are three sections that strengthen and provide extended unemployment benefits that would not otherwise be available .
+Under Section 2102 of the Act , the Pandemic Unemployment Assistance Program provides up to 39 weeks of unemployment benefits to individuals not otherwise eligible for unemployment compensation ; this includes self-employed individuals , independent contractors , and those who have exhausted their regular unemployment benefits .
+Under Section 2104 of the CARES Act , @ @ @ @ @ @ @ @ @ @ benefits .
+This section provides $600 of " Federal Pandemic Unemployment Compensation " in addition to the regular unemployment benefits provided under state law .
+Section 2107 creates the Pandemic Emergency Compensation program , which provides an additional 13 weeks of benefits to those who have exhausted all other benefits , have no rights to regular compensations , and are able , available , and actively seeking work .
+However , the program realizes that because of the pandemic , these requirements may not be met and , thus , offers flexibility to adjust the requirements as appropriate based on the individual situation .
+Short-Time Compensation : The CARE Act also provides benefits through short-time compensation .
+Short-time compensation provides benefits for employees who have not been furloughed or laid off but whose hours have been reduced .
+Currently , about half of the states offer some form of short-time compensation .
+The CARES Act , in Section 2108 , provides funding for those states with existing short-time compensation programs and says that the federal government will fully fund the amount of short-time compensation paid under a state 's @ @ @ @ @ @ @ @ @ @ benefits payable to an individual to 26 times the amount of regular compensation payable under the state 's unemployment benefits program .
+Likewise , under Section 2109 , for states that do not have a short-time compensation program , the federal government will fully fund a state 's creation of such a program through an agreement with the federal government .
+If a state enters into such an agreement , and enacts a short-term compensation program , employers must pay to the state one-half the amount of short-time compensation paid by the state to the individual employee .
+To lessen the administrative burden on states for implementing such programs , under Section 2110 , the CARES Act allows a state to apply for grants to cover administration costs .
+Subtitle B  Exclusion for Certain Employer Payments of Student Loans : In Section 2206 , the CARES Act excludes certain employer payments of student loans from the employees taxable income .
+This means that employers may contribute up to $5,250 towards an employee 's student loans tax free .
+This is applicable to payments made before January 1 , @ @ @ @ @ @ @ @ @ @ The CARES Act also creates a tax credit for employers that fully or partially shut down during any calendar quarter in 2020 , due to orders from a governmental authority limiting commerce , travel , or group meetings due to COVID-19 .
+Eligible employers are allowed a credit against employment taxes equal to 50% of qualified wages ( up to $10,000 ) for each employee .
+Employers that only partially shut down and have gross receipts that are less than 50% of their gross receipts for the same quarter in the preceding year are also eligible for the tax credit .
+If an employer has more than 100 employees , wages eligible for the credit are those for employees who are not providing services due to the suspension of services/decline in gross receipts .
+For employers with 100 or fewer employees , all wages paid qualify for the tax credit .
+Payroll Tax Delay : The CARES Act delays 50% of the 2020 employer payroll taxes until December 31 , 2021 and the other 50% until December 31 , 2022 .
+In addition , 50% of self-employment tax will @ @ @ @ @ @ @ @ @ @ and 25% in 2022 .
+Title III Subtitle C  Limitations on Paid Leave : The Act reiterates that an employer shall not be required to pay more than $200 per day and $10,000 in the aggregate to each employee for paid leave under the Emergency Family and Medical Leave Expansion Act .
+Similarly , the Act reiterates that an employer shall not be required to pay more than $511 per day or $5110 in the aggregate for an employee , when the employee is taking leave for a reason described in paragraphs ( 1 ) , ( 2 ) or ( 3 ) of Section 5102(a) ; or more than $200 per day or $2000 in the aggregate for each employee , when the employee is taking leave for a reason described in paragraphs ( 4 ) , ( 5 ) or ( 6 ) of Section 5102(a) .
+Unemployment Insurance : The Act provides that states must make the unemployment application process and assistance with applications accessible , using at least two of the following mechanisms : in-person , telephone , and online .
+OMB @ @ @ @ @ @ @ @ @ @ provides that certain U .
+government employers could be exempt from the leave requirements of the FFCRA , with respect to certain categories of Executive Branch employees .
+Paid Leave for Rehired Employees : In terms of eligibility for paid leave under the FFCRA , the Act clarifies that the term " employed for at least 30 calendar days " used in connection with an employee and employer , as defined in the FFCRA , includes an employee laid off by the employer not earlier than March 1 , 2020 , who worked for the employer not less than 30 of the last 60 days prior to the employee 's layoff , and who was rehired by the employer .
+Advance Refunding of Credits : Among other things , the Act provides that employers may be entitled to an advance of the payroll tax credits triggered by payment of paid leave to employees pursuant to the FFCRA , in accordance with instructions to be promulgated by the Secretary of the Treasury .
+In addition , the Act provides that the Secretary of the Treasury will waive any penalties for @ @ @ @ @ @ @ @ @ @ doing so is in anticipation of receiving a payroll tax credit under the pertinent provisions of the FFCRA .
+" The newsfeeds are extremely relevant .
+They address both legislative and judicial updates and offer an experienced , thoughtful analysis of directions or trends .
+The articles are all extremely well done and provide a practical viewpoint , not just an academic one .
+Most topics have at least 3-5 articles from various law firms , so there 's an opportunity to read different perspectives and analyses .

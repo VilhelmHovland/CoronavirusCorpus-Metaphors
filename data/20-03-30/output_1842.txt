@@ -1,0 +1,9 @@
+With India 's coronavirus cases soaring past 700 this week , the National e-Governance Division of the Ministry of Electronics and Information Technology ( MeitY ) has developed a location-based COVID-19-tracking app .
+Called the Corona Kavach , the app geo-traces users ' location and lets them know if they 've come in contact with a coronavirus-infected person .
+Its beta version on Google Play Store has notched up more than 10,000 downloads in two days .
+MeitY wrote in the app listing , " This app is being developed in public interest to give information and capture the outbreak of coronavirus .
+The data will be used to conduct analysis and provide information about the active COVID-19 cases in India .
+"  Corona Kavach comes with additional features that can track your breathing capacity , and a survey form which lets you check symptoms , and guides you to see a doctor if need be .
+It also includes government advisories and safety recommendations related to the novel coronavirus , and provides auto-updates .
+The app asks for location access , after which you have to create an account through a simple @ @ @ @ @ @ @ @ @ @ app will help it monitor the status of the community spread of COVID-19 , and keep citizens away from infected users .
+" Your location data stays offline and is shared only when there is a potential health risk , " it states .

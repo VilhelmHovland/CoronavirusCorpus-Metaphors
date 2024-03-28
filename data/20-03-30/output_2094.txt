@@ -1,0 +1,10 @@
+Reagents for Serological Assay of SARS-CoV-2  The ongoing COVID-19 pandemic has sickened over 720,000 people worldwide .
+There is an urgent need to increase the current diagnostic capacity .
+Compared with the commonly-used PCR testing , serological assay-based diagnostic method is much easier and faster to perform .
+To support the development of immunodiagnostic assay , Sino Biological has developed a comprehensive collection of antigens and antibodies for SARS-CoV-2 .
+These reagents have already been used to manufacture NMPA-approved diagnostic kits in China .
+Sinommune Coronavirus Antigen Array :  Serological study can also be performed in HTP fashion .
+In collaboration with Nanommune , Sino Biological has developed the coronavirus antigen array .
+This array simultaneously probes 67 antigens from all seven known coronaviruses , along with several types of adenovirus , RSV , MPV , parainfluenza and Influenza viruses .
+The test can reveal IgG and IgA seroreactivities to different viruses .
+This assay may be useful to determine the seroprevalence of the SARS-CoV-2 .

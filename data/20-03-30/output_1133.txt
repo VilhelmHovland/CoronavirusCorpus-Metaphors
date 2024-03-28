@@ -1,0 +1,110 @@
+COMPETITOR INTELLIGENCE  Lexology PRO  Power up your legal research with modern workflow tools , AI conceptual search and premium content sets that leverage Lexology 's archive of 900,000+ articles contributed by the world 's leading law firms .
+The Detail of the UK Coronavirus Job Retention Scheme  The Government has now provided further information in connection with the Coronavirus Job Retention Scheme , commonly known as the Furlough Scheme .
+This information will be of considerable assistance to employers who are looking at making use of the Scheme .
+However , in some circumstances it does leave matters unclear .
+This note looks at which employer can claim a grant under the Furlough Scheme , who can be put on Furlough , and some practical issues that may arise for employers .
+Who does the Scheme apply to ?  This is a straight forward one .
+The Scheme applies to all employers .
+As the note puts it " Any UK organisation with employees can apply , including businesses and charities .
+" It is stated that they generally do not expect public sector employees to apply .
+There is @ @ @ @ @ @ @ @ @ @ of employer who is covered by the Scheme .
+However , the employer does have to have had a PAYE payroll scheme up and running on or before 28 February 2020 to qualify .
+Employees must be furloughed for a minimum of three weeks .
+Which employees are covered ?  The Scheme provides that any employees can be put on Furlough provided that they were on the PAYE payroll on or before 28 February 2020 .
+This is an obvious anti-avoidance scheme , to ensure that individuals are not added to the payroll ( perhaps because they did not qualify as employees ) which might have allowed employers to deliberately inflate their headcount to make use of the Furlough Scheme , perhaps taking on individuals who would otherwise not have been eligible .
+The note expressly says that individuals can be full or part time and the Scheme covers employees on agency contracts and also those on flexible and zero hours contracts .
+We will explain below how the Scheme addresses the levels of contribution to salary for those who have flexible remuneration .
+The @ @ @ @ @ @ @ @ @ @ clearly targeted to those who are paid through PAYE .
+It does not cover self-employed or workers who are not paid via PAYE .
+Secondly , the note refers repeatedly to " employees " .
+Workers will not qualify unless , in truth , they are employees and paid through the PAYE scheme , on the basis of this note .
+As we already knew , it is clear that the Scheme does not permit individuals to undertake revenue generating activities for the employer whilst they are on Furlough .
+It is an all or nothing Scheme .
+It expressly does not cover individuals who are working on reduced hours or for reduced pay .
+This does seem to be counter intuitive .
+Employers may well prefer to have employees undertaking some work on reduced hours , with reduced pay , especially if that could be covered by the Furlough Scheme grant , than having individuals fully unoccupied , but covered by the Furlough Scheme .
+Indeed one could argue that it would be economically more beneficial for as many people to be able to carry on working to @ @ @ @ @ @ @ @ @ @ .
+Nonetheless that is not what the Scheme provides .
+Employees who are asked to undertake work for the employer , for however limited an extent , are not going to be covered .
+The Scheme does acknowledge that individuals who are required to take online training courses , whilst at home , provided that they are not otherwise working for the employer , will not be excluded from the Furlough Scheme by reason of that home training .
+The Scheme also confirms it is not necessary for an employer to place all of its employees on the Furlough Scheme .
+In other words , it is expected that some employers will place some of their employees on the Furlough Scheme and have others working .
+We will look , below , at how an employer might go about doing this .
+An employer can make use of the Furlough Scheme for an individual who has already been placed on unpaid leave , provided the unpaid leave started after 1 March 2020 .
+However , employees who are on sick leave or self-isolating in line with statutory guidance can @ @ @ @ @ @ @ @ @ @ statutory sick pay until that period of isolation or absence by reason of illness has passed .
+There may , of course be a tricky issue with an employee who is claiming to be well after a period of illness and an employer who is happy for them to go onto the Furlough Scheme , not asking difficult questions when the employee claims that they have recovered sufficiently from the virus to go onto the Furlough Scheme .
+This would particularly be the case if the Furlough Scheme is more generous than the statutory and company sick pay scheme ( if any ) applicable to them .
+The note also confirms , consistent with our understanding of the Emergency Volunteering Scheme , that employees may volunteer for the purpose of the Emergency Volunteering scheme without being in breach of their Furlough arrangements .
+This is to be expected , since volunteering activities are not connected with the economic activities of the employer .
+The volunteer work or training must not provide services to or generate revenue for the employer .
+There may possibly be some margins for confusion where @ @ @ @ @ @ @ @ @ @ volunteering services for third parties but it is done under the banner of the employer .
+Would that be seen as providing services for the employer , if it was promoting the employer 's wider public relations by the doing of good work ? Hopefully not but we will find out .
+The Scheme acknowledges that individuals who are asked to go through compulsory training courses whilst at home , are not entitled to the national minimum wage .
+Therefore if the Furlough Scheme were to produce the sum below the level of the national minimum wage for that time , this is not a breach of the national minimum wage legislation  3 .
+What can the employer claim back ?  The Scheme provides that the employer can claim a grant of up to 80% of the employee 's " regular wage " or ? 2,500 per month , whichever is the lower .
+On top of this , the employer also is covered for employer National Insurance contributions and automatic enrolment employer pension contributions on that subsidised wage .
+If the employer pays 100% of the @ @ @ @ @ @ @ @ @ @ contributions and pension contributions are not covered .
+The note envisages that further guidance will be provided on the claims for employer National Insurance contributions and the auto enrolment pension contributions .
+The note addresses the issue of how the employer is to calculate the relevant regular wage which is the basis for the calculation of the grant .
+This is said to be the actual salary for the individual as at 28 February 2020 .
+However , it should exclude fees , commissions and bonuses .
+It would seem to follow from this of course that any non-cash benefits will also be outside the scope of the Scheme .
+Our view is that allowances that are fixed part of the monthly salary will form part of the Scheme .
+Employees whose salary is variable , can claim the higher of the same month 's earnings from the previous year ( assuming that the individual was in the service of the same employer of course ) or the average monthly earnings from the 2019 to 2020 tax year .
+We assume , once again , that this means @ @ @ @ @ @ @ @ @ @ " average monthly earnings " although the note does not say so expressly .
+Therefore where allowances are not fixed , but fluctuate depending for example on the hours worked by an employee , the employer will be looking at using the variable calculation rather than the fixed calculation .
+Our view is that travel allowances , which in truth are not a benefit but are there to recoup travel expenses will not be recoverable , particularly if the individual is not actually incurring the costs of travel , because the individual is on the Furlough Scheme and so not working .
+How does the employer claim for the grant ?  It would appear that there is going to be a portal , which the Government anticipates will be up and running by the end of April .
+The note sets out the information that will be needed to be provided for a claim via the portal including the employer 's ePAYE reference number , the number of employees being furloughed , the claim period , the amount claimed , the bank account number and @ @ @ @ @ @ @ @ @ @ It will be up to the employer to calculate the amount that is being claimed but ( of course ) HMRC has the right to conduct a subsequent audit if it so chooses .
+Bear in mind that a Furlough period must last for a minimum of three weeks according to the note , and an employer is only entitled to make one application per employee every three weeks .
+However , since the application for the grant is to be made in accordance with " actual payroll amounts " being paid when the employer runs its payroll , or in advance of an imminent payroll , we anticipate most employers will be making claims for the grant on a monthly basis .
+It remains to be seen how long it takes for the grant to be processed , and employers who are in a difficult financial state may be keen to receive the grant as soon as possible , in which case they may be looking to submit applications for payment as far in advance of the actual payroll run as is possible .
+In order to @ @ @ @ @ @ @ @ @ @ have to notify the employees who are being furloughed in writing and keep a record of that communication .
+We think this is a point that may be overlooked by some employers and it is important therefore that an employer has , at the very least , a standard letter addressed individually to each employee being furloughed so that they have the necessary written record .
+Obviously if at the same time the employer is looking to reduce salary and benefits by agreement during the Furlough period then the employer will usually want the employee 's consent to those changes , unless it has decided it has no option but to act unilaterally ) .
+Issues for employers  The most common question which we have been asked is whether the employer is obliged to top up the remainder of the employee 's salary ( either because the employer is only able to top up 80% of the salary , or because the employee 's normal salary exceeds the ? 3,125 per month .
+The original pronouncement from the Government indicated that the employer was not @ @ @ @ @ @ @ @ @ @ always seemed suspect to us , and it is now clear that the Government is simply saying that , in order to qualify for the grant , it is not necessary for the employee to remain on full salary .
+In other words if the employee agrees to waive the top up ( for example to avoid being made redundant ) then that waiver will not take the employee outside the scope of the Furlough Scheme .
+Therefore one of the first questions an employer intending to operate the Furlough Scheme has to decide is whether it is intending to accept that it remains obliged to pay 100% of salary and provide benefits , or whether it is seeking to reduce these down to the level covered by the Furlough Scheme ( and bearing in mind that the cost of benefits , other than the contribution to auto-enrolment costs , is entirely outside the scope of the Scheme ) .
+If employers are looking to negotiate voluntary changes to the contract so that employees are not receiving their full salary then this will almost always require individual consent of @ @ @ @ @ @ @ @ @ @ will need to consider what it will do about those who refuse consent .
+Are the refuseniks at increased risk of redundancy , will the employer enforce this pay cut unilaterally and hope that the employees do not claim back the shortfall of wages , or will the employer back down ?  This in turn has an impact on the speed with which employees can be put onto the Furlough Scheme , and the employer therefore claims the benefit of the grant .
+If employers are starting off by an identification of individuals who would otherwise be made redundant , and so the alternative contemplated by the employer to putting employees on Furlough is a redundancy exercise , then this will potentially trigger collective consultation duties as there is a change in the contract ( Furlough ) and the alternative is redundancy .
+The Government 's note acknowledges that in certain circumstances collective consultation may be required as a result of these arrangements .
+However , for employers with largescale redundancies , the idea of deferring the introduction of Furlough for the employees for the length of the collective @ @ @ @ @ @ @ @ @ @ is going to be very unattractive .
+Ignoring the risk of a collective consultation claim may be one option , in order to put individuals onto Furlough as soon as possible .
+Alternatively employers may wish to go through a very fast collective consultation claim with representatives , particularly if they have a good relationship with the staff consultative body .
+It may be possible to agree after one or two meetings that the Furlough Scheme will come in for employees identified .
+This is particularly likely to be the case if an employer is making the Furlough Scheme available on the basis that individuals can also put themselves forward for consideration .
+An alternative worth considering , is whether the employer would start the collective consultation process but do so by putting identified employees on Furlough from the start .
+If an employer is paying the employees in full , and indicates that if the collective consultation produces a different outcome it will respect that outcome , and bring people back to work immediately there may be relatively limited risk of a collective consultation claim in the circumstances @ @ @ @ @ @ @ @ @ @ able to claim back the Furlough grant from as early a date as possible .
+We recognise that in an ordinary collective consultation for redundancy this would be most unwise but we think it has some merit here if an employer is looking to maximise recovery under the Scheme .
+Clearly in all of this employers will be mindful that if there is a trigger for collective redundancy consultation , then this will trigger too the obligation to submit an HR1 form and failure to submit that is a criminal offence .
+One wonders how focussed the enforcement authorities will be on these issues at this time .
+Moreover it is a very different set of circumstances to those applying where there have been prosecutions .
+These have occurred previously where there have been mass redundancies and often insolvent employers so there has been little or no delay in the redundancies happening and a hit on the public purse .
+Obviously the situation here is very different .
+We also think the prospects of mass constructive redundancies arising is very limited unless there are extreme circumstances .
+We @ @ @ @ @ @ @ @ @ @ will identify employees to be placed on Furlough .
+The Government note makes it clear that the usual rules on matters such as unfair dismissal , discrimination , etc will continue to apply to individuals who are furloughed and therefore , obviously to the selection of individuals to go onto the Furlough Scheme .
+Our view is that an employer needs to be able to explain the rationale for the selection of employees for the Furlough process .
+This does not require , in all circumstances , a full collective consultation exercise .
+An employer who is putting fewer than 20 staff on Furlough would not be required to consult collectively ( unless other redundancies were happening at the same time ) .
+However employers may need to remember that some employees will be concerned about being placed on the Furlough Scheme ( what does this say about future job prospects etc ) whilst others may be frustrated if they are not placed on the Furlough Scheme ( for example they may have childcare or elder care responsibilities ) .
+In general terms , it is the employer that is @ @ @ @ @ @ @ @ @ @ Furlough Scheme and the employer who puts care into the communication process with its staff which will reap the benefits subsequently in terms of improving employee relations and potentially fewer challenges down the line .
+The Government 's note does not say that individuals must be at risk of redundancy in order to be placed on the Furlough Scheme .
+Therefore , in many cases , we think employers will start by identification of potential headcount losses and then look to the Furlough Scheme .
+However this is not a necessary precondition .
+Employers may simply use the Scheme to help them weather the storm with no intention of shedding any staff during this process or at the far end .
+If employers are starting by an identification of potentially redundant staff , then employers may also wish to think about whether they identify any volunteers to be furloughed .
+As mentioned above some employees may be concerned about their ability to carry on working in these circumstances e .
+because of childcare responsibilities or other responsibilities .
+As with voluntary redundancy an employer can not possibly guarantee that everyone @ @ @ @ @ @ @ @ @ @ employer may win plaudits from the workforce and or any employee representative , and find the Scheme is more easily accepted , if individuals who are struggling with their current arrangements are able to apply for the Scheme .
+One oddity in the note is that it appears to envisage that individuals on maternity leave may be placed on Furlough .
+This is unexpected .
+However , the Government 's note records that individuals on maternity leave are , or course , entitled to statutory pay and statutory leave and may be entitled to enhanced contractual pay .
+The note states " if you offer enhanced ( earnings related ) contractual pay to women on maternity leave this is included as wages costs that you can claim through the Scheme .
+" This certainly seems to indicate that employers will be able to place women on maternity leave on Furlough .
+It is rather unclear how this would operate because this would seem to be direct and therefore unlawful discrimination .
+In what circumstances would an employer not place a woman on Furlough , if the employee can claim @ @ @ @ @ @ @ @ @ @ in mind that the individual must be told that they are on Furlough .
+It may be of course that a woman on maternity leave will not worry about being placed on Furlough in these circumstances .
+The same appears to apply as well to paternity leave and shared parental pay .

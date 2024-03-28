@@ -1,0 +1,16 @@
+Does n't anticipate slowdown because ' I suspect a lot of us work from home even normally '  Linux overseer Linus Torvalds given the world version 5 .
+of the Linux kernel , and been awarded the title " social distancing champ " .
+The latter accolade came from his daughter .
+But he 's tried to live the values it implies by telling the Linux community not to stress about the pace of kernel development .
+" I have n't really seen any real sign of kernel development being impacted by all the coronavirus activity -- I suspect a lot of us work from home even normally , " he wrote .
+" I 'm currently going by the assumption that we 'll have a fairly normal 5 .
+release , and there does n't seem to be any signs saying otherwise , but hey , people may have better-than-usual reasons for missing the merge window , " he added .
+" So we 'll play it by ear and see what happens .
+It 's not like the merge window is more important than your health , or the health of people around @ @ @ @ @ @ @ @ @ @ bit of a surprise .
+Last week , Torvalds did n't follow his usual practice of dropping a hint about when this release would be ready .
+Today he wrote : " So I 'll admit to vacillating between doing this 5 .
+release and doing another -- rc .
+"  So what 's in 5 .
+? As we flagged in January , the WireGuard VPN has made it in , offering a welcome alternative to IPsec .
+There 's also support for the Amazon Echo smart speaker , early support for USB4 and more Spectre mitigations .
+The 32-bit branch of the kernel has also been mostly shorn of the Year 2038 bug , with just under 17 years to spare before it lost the ability to keep track of time .

@@ -1,0 +1,40 @@
+Australia 's National Broadband Network ( NBN ) is being tested by the coronavirus , as unprecedented numbers of people log on to work and study from home .
+The NBN 's multi-technology-mix means that some internet users will be affected by the surge in traffic more than others .
+Originally slated to deliver super-fast fibre-to-the-premises ( FTTP ) to 93 per cent of Australia , today 's NBN sees users connected to the service via seven methods of varying quality -- including those that rely on old copper telephone wires .
+The speed and reliability of your internet connection will differ based on your internet provider and the type of technology used to connect you to the NBN , Flinders University technology expert Dr Paul Gardner-Stephen explained .
+FTTP , FTTN , cable , fixed wireless , and satellite  If you 're on FTTP or FTTN , there is no significant structural bottleneck because the NBN can increase the feed on your line , and the limitation will instead be in your " garden hose " that connects to your home or business , Dr Gardner-Stephen said .
+But the situation @ @ @ @ @ @ @ @ @ @ cable , fixed wireless or satellite because everyone in a particular area is connected to the same " sprinkler " .
+" While someone could try to turn the sprinkler this way or that so that someone gets wetter than someone else , there is only so much water to go around .
+So if there are too many people near the sprinkler , they will each get less water , " Dr Gardner-Stephen said .
+" That 's because there is a limited amount of usage to go around with these technologies ( usually because of limited frequencies ) , and if there are too many people ' contending ' for access , then each of them will get less .
+" While in some cases the NBN can " turn up the sprinkler " a bit , this may not be enough to really help .
+" This is particularly a problem in areas that were originally planned to get FTTN , but were moved to fixed wireless , or worse , to satellite .
+"  Satellite users are also particularly vulnerable because @ @ @ @ @ @ @ @ @ @ in areas of need , building an extra half a satellite is really expensive and takes a really long time .
+" Some areas of Queensland and New South Wales in particular seem to be approaching this situation , where the part of the satellite that looks in their direction is much fuller than was originally planned , and might be at risk of getting overloaded under increased load due to COVID-19 having everyone working from home , " Dr Gardner-Stephen said .
+" However in many other parts of the state and country , this is not a problem .
+For example , where I am based in the northern Flinders Ranges , we are able to get the advertised 25mbit/sec ( or very close to it ) during the working day , and even in the evenings .
+" So it is a bit of a luck of the draw based on where you live .
+But even if the satellite , cable or fibre is n't busy , it does n't mean that your internet will stay fast .
+"  Internet service providers @ @ @ @ @ @ @ @ @ @ be " contributing to slow internet at the moment , " Dr Gardner-Stephen said .
+" First , they might not be paying the NBN to have the firehose turned up on full , so if too many people try to use the internet it slows down , a bit like the way that the water pressure used to drop in the evenings in summer back when everyone used to water their gardens , " he said .
+This can be fixed by either the ISP paying the NBN for more " CVC " ( the NBN 's fancy name for the firehose part of the network ) , or by the NBN giving bonus CVC to the ISPs .
+The NBN has already given ISP 's a 40 per cent bandwidth boost to help meet demand during the pandemic , which Dr Gardner-Stephen said " should be enough for now " .
+But there is another problem .
+Even if the ISPs have a firehose -- through the NBN and to your home or business -- they might not have a big enough pipe @ @ @ @ @ @ @ @ @ @ said .
+A related problem is that their " internal plumbing " might not be up to the increased workload .
+For many ISPs , these two related factors are most likely to be the main problem , he said .
+Finally , it 's also theoretically possible that the size of the big internet pipes that connect Australia to the rest of the world wo n't be enough to keep up but this is much less likely to happen .
+" So , in short there are a bunch of different places in the system that can result in internet slowdowns as COVID-19 has everyone working from home , " Dr Gardner-Stephen said .
+" ISPs and the NBN are both working to keep everything going as smoothly and quickly as possible , but like everything else at the moment , it may take a while for ramp things up .
+"  Practical steps to help your internet go faster  Close all applications you are not using on your device , as many of these consume surprising amounts of your internet bandwidth , @ @ @ @ @ @ @ @ @ @ something in your on-line meeting , potentially leaving your colleagues looking at one of those awkward contorted still-life freeze frames  Make sure your wireless router/NBN modem is near to where you are working , and ideally up high , so that there are fewer obstructions between it and your devices .
+This will help to avoid any " dodgy plumbing " in your home  Do n't use the microwave oven when trying to use the internet , unless it is a long way from the devices you are using and your wireless router/modem .
+Microwaves use the same frequencies as a lot of wireless routers ( 2 .
+) , which can cause interference  If you have a FTTN ( copper ) connection to the NBN , think about unplugging any phones you are using , and if that does n't help , try plugging the router or modem into different phone outlets .
+It might be that you have a spare phone plug that has a shorter/better cable to where the phone line enters your house , which might just get you extra speed  If you @ @ @ @ @ @ @ @ @ @ in the hour , instead of on the hour or half-hour , when its ' likely that everyone else will be starting their meetings .
+For example , arrange a call for 10 .
+instead of 10am or 10 .
+Download documents to work on " off line " rather than trying to edit on line , if your tasks can accommodate this  If you have kids at home , try to get them playing games that do n't need internet access , rather than , say , watching funny cat videos in UltraHD video , so that you can free up bandwidth  Listen to music you have downloaded or have on CDs , rather than listening to streaming music services  Reduce the video resolution when watching videos online , and disable video during online meetings , and mute your microphone when not talking .
+All these things will help to reduce the bandwidth  Remember that only 27 years ago , practically none of us had any internet connection , and if we did it was a horrible slow dial-up modem .
+Even slow internet by today @ @ @ @ @ @ @ @ @ @ up with in the mid-1990s  Some browsers support a " turbo mode " that compresses data before it sends it over the internet to you .
+Find the control and turn it on , as this can speed up some internet tasks .
+Search real estate for sale or rent anywhere in Australia from licensed estate agents on simply type in any suburb in the search bar below .

@@ -1,0 +1,39 @@
+You know all those stories of leaky cloud buckets taken offline ? Well , some may still be there , just badly hidden  Plus , Google warns of fake journo phishing attacks  Takedown does n't quite take down everything  Last week , The Registercovered the story of how VPNmentor found and ultimately got a public-facing Amazon-hosted S3 bucket containing financial records of thousands of small businesses removed from view .
+In that story , it was reported the misconfigured bucket in question was removed in January after AWS was notified .
+Shortly after our story was published , an infoec bod , who asked to remain anonymous , told El Reg they could access the files in the leaky bucket weeks after it was supposedly taken down .
+After a few days of back and forth , it was concluded that for those weeks between when the takedown was said to have have happened and when everything had actually gone offline , only the public-facing index , listing its contents and URLs to the data , had been removed from public view .
+This meant the files in the bucket could still have @ @ @ @ @ @ @ @ @ @  What it boils down to , is that a takedown request to AWS does n't mean Amazon steps in and pulls the whole database from public view .
+Rather , the cloud giant reaches out directly to the contact it has with the customer and lets them know their storage silo was misconfigured .
+Usually this ends with the database owner reconfiguring their bucket so that it 's truly hidden from public view , but sometimes , as in this case , the owner opts to disable just the public directory index .
+That means URLs scraped from the index still work .
+Fortunately , it seems these cases are pretty rare .
+Multiple vulnerability hunters The Register spoke to on this matter all said that the overwhelming majority of companies respond promptly and positively when they catch word of an exposed database or storage bucket because taking down the whole shebang from public view .
+However , some outfits will just remove the bucket 's public index , thinking that will hide or obscure the contents , which is not a safe thing to do .
+@ @ @ @ @ @ @ @ @ @ they 've taken down a leaky cloud silo .
+Yes , is friendly vulture of Register , The .
+Pleased to have your login now  A report from Google claims phishing attacks from government-backed spies are increasingly disguised as messages from journalists .
+When state-backed hackers try to infiltrate the networks of activist groups , companies , or government agencies , one of the favored lures is posing as a reporter with an inquiry .
+" For example , attackers impersonate a journalist to seed false stories with other reporters to spread disinformation , " Google writes .
+&gt; " In other cases , attackers will send several benign emails to build a rapport with a journalist or foreign policy expert before sending a malicious attachment in a follow up email .
+"  Later in the report , Google revealed it had found one instance where a state-sponsored group packed a whopping five exploits , all of them zero-days , into a single campaign .
+Deer .
+market shuttered  This comes after Kirill Victorovich Firsov was arrested in New York and charged with running a @ @ @ @ @ @ @ @ @ @ .
+Firsov is due to appear in court on April 6 , though the coronavirus health emergency is likely to delay the trial for some time .
+GE blames partner company for data leak  General Electric has sent out notifications to employees that some of their personal data was leaked .
+In the letter PDF , also shared with the California Attorney General , GE says that it in fact was Canon who accidentally sent out records containing worker information .
+" We were notified on February 28 , 2020 that Canon had determined that , between approximately February 3 - 14 , 2020 , an unauthorized party gained access to an email account that contained documents of certain GE employees , former employees and beneficiaries entitled to benefits that were maintained on Canon 's systems .
+"  Employees who were affected will get two year 's free credit monitoring , courtesy of Canon .
+Kaspersky offers free AV tools to hospitals  Despite being in a global pandemic , hackers are not taking it easy on the networks of hospitals , and with @ @ @ @ @ @ @ @ @ @ pandemic , a malware infection has the potential to be catastrophic .
+Enter Kaspersky who says that healthcare institutions will now be able to get six free months of AV protection to help keep their networks safe as they ride out the coronavirus outbreak .
+Unit42 launched COVID-19 cybersecurity primer  The team at Palo Alto Networks ' Unit42 research operation has set up this ongoing report dedicated to listing and tracking threats associated with the coronavirus outbreak .
+There is no shortage of material .
+Malware writers , phishing operators , and scam sites have all exploded around the outbreak .
+" The purpose of this report is not to contribute to the fear and anxiety many of us are already experiencing , but to help you be informed about what is happening and how to protect yourself and your organization , " says Unit42 .
+" We will update this blog as new information comes to light .
+"  OpenWRT deals with man-in-the-middle update meddling  The OpenWRT project has patched a man-in-the-middle vulnerability in its software .
+Dutch security esearcher @ @ @ @ @ @ @ @ @ @ connections between a vulnerable router or other OpenWRT device and an upstream firmware server could then send the device poisoned software updates , thanks to an error that prevents OpenWRT from properly verifying the checksum of update files .
+While an attack is n't particularly likely , owners of OpenWRT gear should still update to versions 18 .
+or 19 .
+, where the bug is patched .
+Bad USB spotted in the wild  This month we got a rare look at an ( unsuccessful ) badUSB attack in the wild .
+Trustwave reports that the poisoned USB stick , disguised as part of a Best Buy gift card giveaway , was not plugged in by the organization that received it , but instead handed off to the security company , who found it was indeed an Arduino microcontroller that tried to harvest and siphon off data .

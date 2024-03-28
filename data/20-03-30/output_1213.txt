@@ -1,0 +1,26 @@
+Coronavirus : Why the pandemic is a hotbed for cyber attacks  On 14 March , computer systems at the University Hospital Brno in Czech Republic gradually began to fail .
+The hospital -- the second largest in the country and home to one of its key coronavirus testing laboratories -- had been hit by a cyber attack .
+Several well-known hacker groups have since issued statements vowing not to target medical institutions .
+Whether they stay true to their word remains to be seen .
+But while hospitals would be most seriously affected by cyber attacks during the pandemic , the chaos caused by coronavirus has left the whole of society more vulnerable .
+As the threat of coronavirus builds , so too does the risk of attacks by opportunistic criminals hoping to exploit a society in lockdown -- and cyber experts are concerned .
+Phishing fears  The escalating coronavirus crisis has prompted a wave of online content offering the latest news , information and advice about the virus .
+For hackers , this provides the perfect opportunity to launch so-called social engineering tactics such as phishing .
+This is where @ @ @ @ @ @ @ @ @ @ as passwords or bank details .
+UK authorities have already reported cases of fraudulent emails that claim to offer local information about coronavirus , as well as fake coronavirus maps that deliver malware targeting sensitive data .
+Figures released this week by cyber firm Barracuda Networks revealed a huge surge in email phishing attacks in March , with a growing number of campaigns using coronavirus as a lure to dupe victims into handing over information .
+" The use of tactics such as ransomware , malware and phishing by fraudsters is commonplace in modern society , " says Charl van der Walt , head of cybersecurity research at Orange Cyberdefense .
+" However , social engineering attacks of this nature are almost certainly going to escalate in the midst of the coronavirus pandemic as hackers continue the trend of using newsworthy topics as a pretext for campaigns .
+"  Hacking the home office  But the problem is not limited to opportunistic attacks .
+New social distancing measures have created a more fundamental security weakness for thousands of businesses as their employees log into work @ @ @ @ @ @ @ @ @ @ an increasing number of people working remotely , many organisations will be grappling with IT , and particularly security , challenges they have not previously encountered , " says Allen Storey , chief product officer at cybersecurity firm Intercede .
+" Chief among those is ensuring that all of those parties accessing their corporate networks are authorised to do so .
+"  With unsecure home broadband networks overloaded with traffic -- and more staff making use of cloud and remote access technologies -- the opportunity for hackers has surged .
+Coupled with the increased use of connected devices such as smart speakers , cyber experts predict a sharp rise in breaches .
+What can businesses do ?  With the threats mounting , businesses have been urged to ensure they have adequate cybersecurity measures in place .
+The key to blocking phishing attacks is to educate staff on the key indicators of a phishing attack and what they should do if they spot one .
+" Never click a link in an email that you were n't expecting , " says Emmanuel Schalit , @ @ @ @ @ @ @ @ @ @ accidentally do : change your password on the site you meant to visit immediately after confirming you 're on the site by typing its URL manually in your browser .
+"  And as employees log on to unsecure broadband networks , strong passwords and up-to-date software are crucial to avoiding a breach .
+" Weak passwords continue to be one of the primary drivers for breaches on a global scale , " says Lance Spitzner , security awareness director at Sans .
+" Anyone working at home should be reminded about the need for strong passwords such as passphrases , as well as the use of password managers and multi-factor authentication .
+"  In addition , businesses have been encouraged to adopt dedicated credential management systems to verify staff members accessing their systems .
+" By building in strong , multi-factor authentication methods , such as public key infrastructure into their credential management systems , organisations can be confident that those accessing their corporate networks from remote locations are who they say they are , and have the right to do so , " says @ @ @ @ @ @ @ @ @ @ .

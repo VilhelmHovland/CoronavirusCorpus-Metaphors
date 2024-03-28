@@ -1,0 +1,48 @@
+Governments across the world are galvanizing every surveillance tool at their disposal to help stem the spread of the novel coronavirus .
+Countries have been quick to use the one tool almost all of us carry with us -- our smartphones .
+A live index of ramped up security measures by Top10VPN details the countries which have already brought in measures to track the phones of coronavirus patients , ranging from anonymized aggregated data to monitor the movement of people more generally , to the tracking of individual suspected patients and their contacts , known as " contact tracing .
+"  Samuel Woodhams , Top10VPN 's Digital Rights Lead who compiled the index , warned that the world could slide into permanently increased surveillance .
+" Without adequate tracking , there is a danger that these new , often highly invasive , measures will become the norm around the world , " he told Business Insider .
+" Although some may appear entirely legitimate , many pose a risk to citizens ' right to privacy and freedom of expression .
+" Given how quickly things are changing , documenting the new measures is @ @ @ @ @ @ @ @ @ @ and holding corporations and governments to account .
+"  While some countries will cap their new emergency measures , otherwise may retain the powers for future use .
+" There is a risk that many of these new capabilities will continue to be used following the outbreak , " said Woodhams .
+" This is particularly significant as many of the new measures have avoided public and political scrutiny and do not include sunset clauses .
+"  Here 's a breakdown of which countries have started tracking phone data , with varying degrees of invasiveness :  The US is reportedly gathering data from the ads industry to get an idea of where people are congregating  Crowds of people out in Prospect Park during the coronavirus outbreak in Brooklyn , New York City , March 27 , 2020 .
+REUTERS/Andrew Kelly  Sources told The Wall Street Journal that the federal , state , and local governments have begun to gather and study geolocation data to get a better idea of how people are moving about .
+In one example , a source said the data @ @ @ @ @ @ @ @ @ @ in Brooklyn , and this information had been handed over to local autorities .
+The eventual aim is to create a portal for government officials with data from up to 500 US cities .
+The data is being gathered from the advertising industry , which often gains access to people 's geolocation when they sign up to apps .
+Researcher Sam Woodhams says using the ad industry as a source poses a particular problem for privacy .
+" Working closely with the ad tech industry to track citizens ' whereabouts raises some significant concerns .
+The sector as a whole is renowned for its lack of transparency and many users will be unaware that these apps are tracking their movement to begin with .
+It is imperative that governments and all those involved in the collection of this sensitive data are transparent about how they operate and what measures are in place to ensure citizens ' right to privacy is protected , " Woodhams told Business Insider .
+South Korea gives out detailed information about patients ' whereabouts  South Korean soldiers in protective gear sanitize a @ @ @ @ @ @ @ @ @ @ , 2020 .
+Reuters  South Korea has gone a step further than other countries , tracking individuals ' phones and creating a publicly available map to allow other citizens to check whether they may have crossed paths with any coronavirus patients .
+The tracking data that goes into the map is n't limited to mobile phone data , credit card records and even face-to-face interviews with patients are being used to build a retroactive map of where they 've been .
+Not only is the map there for citizens to check , but the South Korean government is using it to proactively send regional text messages warning people they may have come into contact with someone carrying the virus .
+The location given can be extremely specific , the Washington Post reported a text went out that said an infected person had been at the " Magic Coin Karaoke in Jayang-dong at midnight on Feb .
+"  Some texts give out more personal information however .
+A text reported by The Guardian read : " A woman in her 60s has just tested positive @ @ @ @ @ @ @ @ @ @ before she was hospitalised .
+"  The director of the Korea Centers for Disease Control and Prevention , Jeong Eun-kyeong , acknowledged that the site infringes on civil liberties , saying : " It is true that public interests tend to be emphasized more than human rights of individuals when dealing with diseases that can infect others .
+"  The map is already interfering with civil liberties , as a South Korean woman told the Washington Post that she had stopped attending a bar popular with lesbians for fear of being outed .
+" If I unknowingly contract the virus .
+that record will be released to the whole country , " she said .
+The system is also throwing up other unexpected challenges .
+The Guardian reported that one man claiming to be infected threatened various restaurants saying he would visit and hurt their custom unless they gave him money to stay away .
+Iran asked citizens to download an invasive app  A man wears a protective face mask as he takes a picture of blossom trees , ahead of the Iranian New Year @ @ @ @ @ @ @ @ @ @ Tehran , Iran March 19 , 2020 .
+WANA ( West Asia News Agency ) /Ali Khara via REUTERS  " The goal is to stop people from running around and spreading the infection , " said Jyan Hong-wei , head of Taiwan 's Department of Cyber Security .
+Jyan added that local authorities and police should be able to respond to anyone who triggers an alert within 15 minutes .
+Even having your phone turned off seems to be enough to warrant a police visit .
+An American student living in Taiwan wrote in a BBC article that he was visited by two police officers at 8:15 a .
+because his phone had run out of battery at 7:30 a .
+and the government had briefly lost track of him .
+The student was in quarantine at the time because he had arrived in Taiwan from Europe .
+Austria is using anonymized data to map people 's movements  Police officers speak to a visitor in Stadtpark as they patrol on a sunny spring day during the coronavirus disease ( COVID-19 ) outbreak in Vienna , Austria March 20 @ @ @ @ @ @ @ @ @ @ 's biggest telecoms network operator Telekom Austria AG announced it was sharing anonymized location data with the government .
+The technology being used was developed by a spin-off startup out of the University of Graz , and Telekom Austria said it is usually used to measure footfall in popular tourist sites .
+Woodhams told Business Insider that while collecting aggregated data sets is less invasive than other measures , how that data could be used in future should still be cause for concern .
+" Much of the data may remain at risk from re-identification , and it still provides governments with the ability to track the movement of large groups of its citizens , " said Woodhams .
+Poland is making people send selfies to prove they 're quarantining correctly  A Polish police officer , wearing a protective mask , stands at the border between Germany and Poland , during coronavirus disease symptoms testing for people returning to Poland .
+REUTERS/Axel Schmidt/File Photo  Like other European democracies , the UK does n't seem to be exploring the more invasive method of contact tracing @ @ @ @ @ @ @ @ @ @ track the wider pattern of people 's movements .
+LoadingSomething is loading .
+Do you have a personal experience with the coronavirus you 'd like to share ? Or a tip on how your town or community is handling the pandemic ? Please email **29;988;TOOLONG and tell us your story .

@@ -1,0 +1,133 @@
+COMPETITOR INTELLIGENCE  Lexology PRO  Power up your legal research with modern workflow tools , AI conceptual search and premium content sets that leverage Lexology 's archive of 900,000+ articles contributed by the world 's leading law firms .
+Job Retention Scheme and Statutory Self-Employed Pay : COVID-19 emergency measures and what they mean for users and suppliers of contractors , umbrella workers and other agency workers  The Chancellor of the Exchequer Rishi Sunak announced yesterday ( 26 March 2020 ) details of the government 's Statutory Self-Employed Pay scheme ( SSEP ) .
+Last night , HMRC also issued further details of how the Job Retention Scheme ( JRS ) would work for PAYE temps as well as employees .
+As the Chancellor has said , it is " incredibly complicated " to develop a scheme that works fairly for self-employed people .
+It has also not been straightforward to develop a scheme for PAYE temps and other types of contingent workers engaged via agencies ( not to mention their own employees ) .
+This has obviously left staffing and consultancy companies , and contingent workers , in a very difficult position @ @ @ @ @ @ @ @ @ @ announcements about JRS and SSEP are good news for many types of self-employed people and other contingent workers .
+However there are gaps and still-unanswered questions :  Individuals working through their own personal service companies ( PSC ) -- that is limited companies they effectively own and control -- will not qualify under SSEP and in most cases will at most have only very limited benefits under JRS .
+This appears to be a policy decision , not an inadvertent omission .
+While the JRS announcement last night confirms PAYE temps paid via staffing companies will be caught , how can staffing companies know that occasional temps on furlough are not working elsewhere or claiming multiple furloughs ? The temptations for hard-pressed lower-paid workers will be enormous .
+It is crucial to know what the penalty for the well-meaning staffing company will be if they are .
+Will staffing companies and " umbrella " companies ( who will undoubtedly want to do their best for their agency workers but whose margins are very tight ) have a sufficient capital base to administer the payroll for lots of @ @ @ @ @ @ @ @ @ @ what are the cashflow implications for those unable to use government loan schemes ?  The big news : self-employed tax advantages review ?  Given that the main elements of the self-employed package have been expected for some days , and hints have been given that PAYE temps would also be protected , perhaps the biggest news yesterday is this : the Chancellor observed that the tax advantages of self-employment ( and by implication operating via personal service companies ) should be looked at generally .
+The clear suggestion is that if taxpayers are asked to subsidise the self-employed , those people should pay the same levels of tax as employed workers .
+This may mean a review of how the self-employed and personal service company contractors claim expenses and how employer 's National Insurance Contributions ( NICs ) are not paid fully or at all in respect of their income .
+( See the end of this briefing for some predictions about how those tax regimes may change .
+)  Details of how the schemes will work are still coming out and are subject to change @ @ @ @ @ @ @ @ @ @ final legislation will say .
+In particular , the detailed rules are likely to require careful consideration , not least because the government is concerned about fraud and we believe that it will , for example , retain the right to audit retrospectively all aspects of the JRS with scope to claw back fraudulent or erroneous claims .
+What types of worker are potentially covered be the new schemes ?  SSEP Self-employed people , working on a sole trader basis ( such as people in various trades and professions and some freelance " gig " workers working via platforms ) and with profits up to ? 50,000 per annum and the majority of whose income is from self-employment ? Yes , but higher-earning self-employed persons and people who supplement income via self-employment will not be covered by SSEP .
+PSC contractors ( who work via limited companies they own ) who have been paid , or treated themselves as , inside IR35 ? ( PSC contractors inside IR35 ) .
+It appears that these workers are not intended to benefit from the SSEP and may @ @ @ @ @ @ @ @ @ @ ) .
+PSC contractors who have been paid or treated themselves as outside IR35 ( PSC contractors outside IR35 ) .
+No ( though their PSC may claim limited benefits under JRS , see below ) .
+Workers paid under the Construction Industry Scheme ( CIS ) .
+Yes , although this could be complicated if the CIS subcontractor operates via his or her own PSC , in which case the rules as they apply to PSCs will need to be considered .
+JRS  Full- and part-time employees ( including agency workers engaged under the Swedish Derogation ) who are not now working and would otherwise be laid off due to the coronavirus emergency .
+-- and note that workers whose hours have merely been reduced will not qualify .
+PAYE workers engaged via staffing companies and paid under the PAYE regime .
+, the suggestion is that anyone paid under PAYE will be covered .
+The proposals do , however , raise the question of how a staffing company would ensure that furloughed agency workers do not do paid work elsewhere during the furlough period .
+@ @ @ @ @ @ @ @ @ @ not working elsewhere .
+Zero hours employees paid under the PAYE regime .
+Umbrella workers paid under the PAYE regime .
+, on the basis that they are " employment businesses " ( which appears to draw them into the Conduct of Employment Agencies and Employment Businesses Regulations regime ) .
+Note that the umbrellas will not be able to deduct any administration fee etc .
+from the furlough payment .
+PSC contractors inside IR35 ? Probably yes , subject to a director being able to furlough themselves and being prepared to close their business .
+PSC contractors outside IR35 ? Possibly in respect of any employed earnings declared but this may be a negligible amount ( assuming dividend income will not be included in the calculations ) .
+Note that individuals need to have been on payroll on 28 February 2020 to qualify under the scheme .
+What payments are covered by the schemes ?  SSEP  Self-employed people , working on a sole trader basis ( such as people in various trades and professions and certain platform workers not operating via PSCs ) @ @ @ @ @ @ @ @ @ @ years ( with a shorter reference period for more recently started businesses )  Tax free expenses ? No .
+Cash in hand ? No .
+Up to a limit of ? 2500 per month .
+First payments made in June -- a big delay .
+It is suggested that loan arrangements and the proposed VAT deferral may cover cash needs in the meantime .
+For three months initially .
+PSC contractors who have been paid , or treated themselves as , inside IR35 ?  No .
+JRS seems to be the appropriate scheme -- see below .
+PSC contractors who have been paid and treated themselves as outside IR35 ( i .
+the vast majority of PSC contractors in the private sector ) ?  No .
+JRS seems to be the appropriate scheme here ( see below and note that the amount they can claim may in many cases be negligible ) .
+JRS  This is a government grant for all employers in respect of wage costs for employees who would otherwise be laid off due to the coronavirus emergency @ @ @ @ @ @ @ @ @ @ " severely affected " by Covid-19 but there so far appears to be no test to be passed ( unlike the Republic of Ireland where similar much-criticised legislation requires demonstration of a 25% reduction in turnover/orders ) .
+The grant will cover the lower of 80% of an employee 's regular wage or ? 2,500 per month , plus the associated Employer NICs and minimum automatic enrolment employer pension contributions on that subsidised wage .
+Fees , commission and bonuses are not included .
+For full-time and part-time salaried employees , the employee 's actual salary before tax , as of 28 February , should be used to calculate the 80% .
+If the employee has been employed ( or engaged by an employment business ) for a full twelve months prior to the claim , you can claim for the higher of either :  the same month 's earning from the previous year  average monthly earnings from the 2019-20 tax year  If the employee has been employed for less than a year , you can claim for an average of their monthly earnings since @ @ @ @ @ @ @ @ @ @ in February 2020 , use a pro-rata for their earnings-so-far to claim .
+This appears the mechanism staffing companies will need to apply for shorter-term PAYE workers on their payroll on 28th February .
+It is OK that the 80% figure may fall below the national minimum wage ( NMW ) and national living wage ( NLW ) .
+The intention is for the scheme to run for at least three months from 1 March 2020 but it will extended if necessary .
+The minimum furloughed period is three weeks .
+Calculations may be relatively easier for full time employees .
+For PAYE workers engaged via staffing companies and paid under the PAYE regime there will be a mechanism looking at a percentage of amounts received in February .
+If they did not work in February such that they were on payroll on 28 February suggestions are , regrettably , that they should claim universal credit .
+What about payments under JRS to PAYE workers engaged via staffing companies and paid under the PAYE regime ?  Agency workers paid under the Swedish Derogation @ @ @ @ @ @ @ @ @ @ for " normal " employees ( see above ) .
+Other PAYE workers .
+It appears they will qualify for JRS provided the furlough requirements can be met including the requirement not to use JRS for workers who work elsewhere while receiving JRS .
+This may be complicated where workers have worked on multiple assignments in , or at the end of , February .
+The payment includes no allowance for staffing company administrative expenses : 100% of the JRS grant has to be paid to the furloughed worker .
+Umbrella expenses schemes .
+JRS does not include expenses in the assessment of earnings or pay .
+This will affect the level of any payment to workers who have had taxable pay depressed by the payment of travel and subsistence expenses by umbrella companies who have argued that the workers were entitled to be paid those expenses tax-free because they were not subject to supervision , direction or control .
+Umbrella workers paid on a sole trader basis ( perhaps under the elective deduction model ) .
+This will depend on how the arrangement has been @ @ @ @ @ @ @ @ @ @ The SSEP scheme may apply here albeit that workers whose " pay " has been paid as expenses will have relatively low earnings and so the payment out from SSEP may be equally low .
+The payment includes no allowance for staffing company ( or umbrella company ) administrative expenses and it appears that umbrellas will not be permitted to charge workers an administration fee .
+HMRC guidance says : " You must pay the employee all the grant you receive for their gross pay , no fees can be charged from the money that is granted .
+"  How will furlough work under the JRS ? What do we know so far ?  Employers will need to designate affected employees as furloughed workers .
+Employees need to be kept on payroll but must not undertake work for the employer or anyone else while furloughed .
+Employers will need to notify employees of this change .
+Changing the status of employees remains subject to existing employment law .
+Depending on the employment contract it may be subject to negotiation .
+Employers could choose to @ @ @ @ @ @ @ @ @ @ salary but does not have to .
+Issues that we are helping clients with in relation to furlough under the JRS  Does a furloughed employee still accrue holiday ? Can they be required to take it ? What happens if an employee is sick whilst on furlough leave ? Will they also qualify for SSP ? Employees on sick leave or self-isolating should get Statutory Sick Pay , but can be furloughed after this .
+Employees who are shielding in line with public health guidance can be placed on furlough .
+Can workers be moved to part-time working and still qualify ? No , but training can be undertaken provided it does not involve services to or generate revenue for , or on behalf of your organisation .
+Certain training will need to be paid for at NMW/NLW .
+Can staff be rotated , for example , eight weeks on furlough ; eight weeks off ? We believe that to qualify for the payment , an employee must be furloughed for a minimum of three weeks .
+They can then come off furlough .
+This would @ @ @ @ @ @ @ @ @ @ and non-furlough .
+What about employees who have already been laid off or made redundant ? JRS will be backdated to 1 March 2020 and redundant employees can be re-engaged .
+Could a redundancy process be commenced during furlough leave ? Yes , we believe many employers are planning this .
+What if an employee does not consent ? There are some complicated employment law angles to this .
+Take advice !  Who makes the payments under the schemes and how do they recover from the government what they have paid ?  JRS  It is proposed the JRS will be up and running in April .
+Employers can claim not more than every three weeks ( the first claim backdated to 1 March 2020 ) for the whole affected workforce recording exactly how many workers are covered and keep records .
+Employers must submit information to HMRC about employees that have been furloughed and their earnings through the new online portal .
+Employers will submit pay details and HMRC will reimburse the employer via BACS into a UK bank account .
+@ @ @ @ @ @ @ @ @ @ for short term cash flow support .
+HM Treasury have also suggested the VAT deferral arrangements can be used to cover cashflow problems .
+SSEP  We are told HMRC will contact eligible individuals and make the payments direct .
+Payments do not seem likely to come though until June .
+What happens to people who make a claim when they should not ? Who will pay the butcher 's bill ?  Initially we expect payments will be made without too many questions : the government will just want to help keep people and businesses going .
+Given the government 's clear intention to provide protection where it is needed , we suspect that HMRC will not ( at least initially ) take issue with an application to allow PAYE workers and/or umbrella workers to benefit from the JRS , but it will be important for agencies and umbrella companies paying workers and employees to adjust their models to cater for furloughing requirements including appropriate measures to check that workers are not taking on other work ( which in practice can of course be difficult ) @ @ @ @ @ @ @ @ @ @ take care not to adopt a stance about the status of their workers which in due course might open them to retrospective claims of other types ( along the lines of " if you are now saying their status was X all along why did you not pay Y in respect of them in the past ? " ) .
+For example some PSC contractors may wish to say that really they were employees all along , but that would open a can of worms from a tax perspective .
+In months and years to come the government will face a huge bill for this and other current interventions .
+Unless it decides just to print money and threaten runaway inflation , it is likely that certain taxes will increase , enforcement of taxes will increase and clawbacks will be imposed in relation to businesses and people who are seen to have claimed in error or fraudulently under the JRS and/or SSEP .
+Specifically what the government has so far said about this sort of clawback is the following :  The government will retain the right to @ @ @ @ @ @ @ @ @ @ claw back fraudulent or erroneous claims .
+It believes whistleblowing will stop fraud but it accepts that it may be hard to police smaller companies .
+In the case of fraud ( involving a knowing intention to deceive ) there may be personal liability for directors and sole traders .
+The government is believed to be very concerned about fraud by self-employed workers .
+Otherwise , in the case of mistake there may not be any penalty above repayment , though of course in many cases that may lead to insolvency .
+In the case of clawback of the SSEP it could lead to substantial personal liability for the self-employed .
+Directors may be personally liable on insolvency where they have given personal guarantees to banks or where they are deemed to have traded recklessly .
+However , honest mistakes about what are at this stage very unclear terms should not lead to any serious risk of personal liability : the courts will be lenient in our view .
+Areas where suppliers of contractors , umbrella workers and other agency workers may be particularly exposed @ @ @ @ @ @ @ @ @ @ care when making claims :  Claiming JRS in respect of workers who were not technically their employees or agency workers on payroll on 28 February .
+Claiming JRS in respect of workers who are in fact working elsewhere .
+Claiming amounts under JRS which relate to the relevant worker 's untaxed income -- the JRS only pays out up to 80% of earnings but that may not include a lot of what workers consider as " pay " .
+What other support is available for businesses ?  What other ways are there of reducing workforce costs relating to your employees ?  Will the use of the JRS scheme mean that companies are not able to pay dividends ?  Will businesses be able to access the support for business packages announced by the government -- particularly the payment of employee wages under the JRS -- if they pay a dividend , carry out a share buyback or repay capital to shareholders ?  While nothing formal has been published about restricting access for those reasons there has certainly been a lot of media scrutiny @ @ @ @ @ @ @ @ @ @ asking for government support .
+The final rules have yet to be published and there could still be restrictions put in place or the risk of clawback once the dust has settled .
+On a wider basis , companies which are engaging in these steps -- but are only able to satisfy onward solvency on the basis that they will be able to access government support -- need to take legal advice .
+Under company law principles , the directors need to be mindful of their directors ' duties , the common law rules around distributions ( buy-backs out of distributable reserves are a type of distribution ) and the ongoing solvency of the company .
+Can you say you are solvent if you are relying on JRS ?  Perhaps the suggestion several years ago by the Office Of Tax Simplification that a statutory deduction should be applied to all payments in all labour supply chains ( as it already is in construction under the Construction Industry Scheme ) may be reconsidered .
+We have been predicting this sort of change for several years and it appears that @ @ @ @ @ @ @ @ @ @ to this type of approach .
+Any new regime might effectively replace the much-disliked IR35 and other tax rules affecting the payment of off payroll resource , providing a more level playing field and more certainty for end users and suppliers ( including gig economy platforms via which gig workers are paid ) .
+However there are no easy answers to this .
+If there were they would have been implemented years ago in the UK ( and in other countries who struggle with the same problem ) .
+Even schemes like CIS are often misused , misunderstood and incorrectly operated .
+The deemed employment approach under the agency worker tax rules may be a good starting point .
+Those rules currently do not apply to supplies made by contractors working through personal service companies .
+The current IR35 regime and proposed new regime are more nuanced .
+Any new rules that work by deeming the end user to be " employer " for tax purposes would likely drive wide-scale compliance , as suggested two years ago by Sir David Metcalf ( former head of the Labour @ @ @ @ @ @ @ @ @ @ threat of this drive compliance already in the run up to changes to IR35 in the private sector .
+And many commentators will point out this change may damage the UK 's flexible workforce market , affecting the UK 's prospects of recovery from the likely coming recession , and denying specialist workers ( who typically work on , and are not needed beyond , short-term projects for particular end users ) a tax-break in return for not receiving full employment protections .
+If this sort of change is pushed through what it may mean for the staffing and recruitment sector is that their success , competitiveness and profitability will just be a factor of how good they are at recruitment ( including deployment of new technologies to improve and/or automate processes ) .
+It will be harder for users of aggressive tax avoidance schemes to out-compete them .
+Further support  We hope that this briefing has been helpful .
+We appreciate it is a lot for people to get their heads round and we also realise that businesses are under a lot of stress .
+@ @ @ @ @ @ @ @ @ @ affected companies given the natural resilience of the sector , and ongoing skills shortages in many areas caused by technological and demographic change .
+In the meantime we will do all we can to try to help clients through these difficult times .

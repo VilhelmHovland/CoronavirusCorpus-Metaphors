@@ -1,0 +1,14 @@
+Johns Hopkins COVID-19 Dataset is one of the most cited open COVID-19 dataset where the data is pulled from various sources such as WHO , the U .
+Centers for Disease Control and Prevention and other such .
+Recently , in a blog post , Tableau announced that they created a free Covid19 Data Resource Hub which will help to make confident decisions with data .
+According to sources , Director of Public Affairs at Tableau , Steve Schwartz and Tableau 's Corporate Communications Manager , Sarah Goehri said that with the company 's establishment of Tableau Foundation , it now has a track record of working with data sets surrounding global health subject matter and it found that the Johns Hopkins COVID-19 data is difficult to work within its raw form .
+This is why the data visualisation platform did the necessary data engineering task and make the data accessible to everyone .
+In the Covid19 Data Resource Hub , the integrated data will be available in various formats such as .
+hyper , .
+tde , Google Sheet and CSV formats .
+The platform has also introduced a Starter Dashboard based on the consolidated data @ @ @ @ @ @ @ @ @ @ .
+The data visualisation includes animations , which helps practitioners get a deeper understanding of growth rates , prevention strategies , and more .
+The dashboard is designed to be connected real-time to provide at minimum daily updates during the pandemic so that organisations and businesses can learn what to expect and help support mitigation protocols while still serving the communities .
+Provide your comments below  A Technical Journalist who loves writing about Machine Learning and Artificial Intelligence .
+A lover of music , writing and learning something out of the box .
+Contact : **38;3052;TOOLONG .

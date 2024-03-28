@@ -1,0 +1,200 @@
+What is email protected ? email protected is a distributed computing program launch by Stanford University since the year 2000 , aimed to study the folding of protein to find causes and cure for multiple diseases .
+The simulation of protein folding is a very computational heavy task .
+Instead of getting gigantic cost supercomputer , they distributed this program to the volunteers around the world to donate their PC resources to help .
+In return , donor will receive points for ranking purpose .
+email protected Homepage  A word of warning though : if you choose ' Express Install ' the program will install in a manner that will automatically start it whenever your PC is running .
+If you are happy to donate a bit of power and your computer 's reserves to solving this problem , go ahead and select that option .
+If you want more control over your power usage , be sure to select the custom install option and tick the boxes appropriate to your preferences .
+Credit : Tom 's Hardware  Setup Identity:Name : For name , you can use any unique name to represent yourself , or @ @ @ @ @ @ @ @ @ @ For team , you can fold for anonymous team , or join a team around the world .
+I would like to invite you all to join our country team , email protected , Team Number : 2999 .
+Passkey : Passkey is not a must , but I highly recommended you get one for yourself .
+Passkey is a unique key that identified it 's you when two or more person use the exactly same name .
+In addition , using a Passkey granted you bonus point .
+All you need to do is fold 10 work unit with your Name &amp; Passkey .
+After that , you will start to receive bonus point on your following work unit .
+Passkey FAQ  You can get your Passkey here : Get email protected PasskeyNote : The passkey request form is case sensitive .
+You will need an email for it , do n't lost your email .
+Notes for your knowledge:1 .
+) This is a beta program , you might encounter bugs , hang , restart , or even BSOD while folding .
+Do n't panic @ @ @ @ @ @ @ @ @ @ it , just stop it .
+) Since it uses your idle CPU , or GPU , or both CPU &amp; GPU resources , it can heat up your PC , and raise your electricity bill a little bit .
+) It might not necessary to get a work unit related to COVID-19 for you , but other diseases .
+In other word , you were still contributing your effort towards other diseases .
+It 's all about volunteering .
+Okay , do n't get discourage , we have member folding strong here ( our team is generating 3,917,394 points per day ( PPD ) , when I 'm writing this post ) .
+You are welcome to reply this thread if you have any question or facing any problem .
+Please share this news among your PC hardware enthusiast member to join force .
+Happy folding , thank you .
+After initial quality control and limited testing phases , email protected team has released an initial wave of projects simulating potentially druggable protein targets from SARS-CoV-2 ( the virus that causes COVID-19 ) and the related SARS-CoV @ @ @ @ @ @ @ @ @ @ into full production on email protected Many thanks to the large number of email protected donors who have assisted us thus far by running in beta or advanced modes .
+found it .
+the subforum was deleted back in 2017 , inactive https : **39;3767;TOOLONG .
+a passkey on sunday , still havent gotten them .
+looks like the servers are overloaded , since the same issue is reported in their forums .
+cant get my QRB for nowEdit : just requested the passkey using my yahoo mail , and got the passkey already .
+something is wrong with gmail , it did nt even got into the spam folderseems like a lot of people are jumping in to help for COVID-19 these past few weeks , and the server ran out of WU ( Work Units ) /tasks to assign  So it 's deleted .
+Glad to hear that , and passkey is bound to email .
+The responses from worldwide seem really overwhelming from their Twitter status .
+We have been overwhelmed with support and donations , so our servers had to suddenly @ @ @ @ @ @ @ @ @ @ working on expanding our memory .
+Please bear with us as we address this surge .
+( 3/8 )  Not included in this big picture are the factors due to cryptocurrencies mining and a similar project such as email protected As of Nov 2018 , Bitcoin Minning itself took in 45 .
+terawatt-hours of electricity per year that contributed around 23 megatons of Carbon Dioxide emissions annually .
+Effects of alleviated Carbon Dioxide level or global warming have been documented aplenty from disruption of ecosystem-level processes , evolutionary change , the proliferation of viral-bacterial interactions and cross over , etc .
+Recruited downstream platforms operated on the Principle of Voluntarism .
+Often time nodes in distributed computing will be ranked in statistical ladder by workloads contribution .
+The sense of affords , gratifications and euphoria for donating a node 's computing resources end in the solutions pipeline without much governing of any responsible institution or legislative curtain for exploitation .
+What are the beneficial returns with respect to adversities ?  QUOTE  German ministers have reacted angrily following reports US president Donald Trump offered a German @ @ @ @ @ @ @ @ @ @ rights to a Covid-19 vaccine .
+Trump offered $1bn to T ? bingen-based biopharmaceutical company CureVac to secure the vaccine " only for the United States " .
+A new phishing email is trying to take advantage of the Coronavirus pandemic and the race to develop medications by promoting a fake email protected app that installs an information-stealing malware .
+How do I choose to help with the COVID-19 related projects ? To help in the fight against COVID-19 , you need to select- Webcontrol : " Any disease " in the list " I support research fighting " - Advanced Control/FAHControl : Configure &gt; Advanced , select " Any " in the list " Cause Preference "  The COVID-19 related projects are on top priority and will be assigned automatically .
+I am also start to fold .
+have some hiccup to get the GPU to fold covid case .
+but manage to solve it .
+select full on GPU , after that it will assign a server .
+Welcome and glad to hear that .
+Probably ran out of work unit @ @ @ @ @ @ @ @ @ @ 2020 , 06:32 PM )  1 .
+How do I choose to help with the COVID-19 related projects ? To help in the fight against COVID-19 , you need to select- Webcontrol : " Any disease " in the list " I support research fighting " - Advanced Control/FAHControl : Configure &gt; Advanced , select " Any " in the list " Cause Preference "  The COVID-19 related projects are on top priority and will be assigned automatically .
+We have been overwhelmed with support and donations , so our servers had to suddenly accommodate a large number of returned WUs .
+We are working on expanding our memory .
+Please bear with us as we address this surge .
+( 3/8 )  Thank you for bringing this up .
+Why you might ask ? We are sending so many passkeys out that @Yahoo and @Google are treating us as a spam email server .
+It 's also in the FAQ  QUOTE ( Current Events guy @ Mar 23 2020 , 03:41 PM )  How much impact would this have on your electricity bill ? @ @ @ @ @ @ @ @ @ @ run folding .
+Let 's take a GTX 1060 rated at 120W for example .
+When you fire up GPU folding on it at full load , additional 120W is drew from PSU .
+( Assumed it really draw 120W power at full load .
+In real scenario , power draw can be different .
+) And let 's assumed your PSU is rated at 80% efficiency , when it supply the additional 120W into the PC component , additional 150W is drew from the wall electric socket .
+Let 's assumed you run folding 6 hours everyday , a total of 180 hours in one month .
+150W x 180 hours = 27kWh , so additional 27kWh of electricity on folding .
+Let 's assumed the 27kWh hit the 201-300kWh range which cost 33 .
+sen/kWh , 27 x RM0 .
+= RM9 .
+, so this figure is the rough estimation that impact your electricity bill .
+Can roughly estimated from the hardware that run folding .
+Let 's take a GTX 1060 rated at 120W for example .
+When you fire up GPU folding on it @ @ @ @ @ @ @ @ @ @ .
+( Assumed it really draw 120W power at full load .
+In real scenario , power draw can be different .
+) And let 's assumed your PSU is rated at 80% efficiency , when it supply the additional 120W into the PC component , additional 150W is drew from the wall electric socket .
+Let 's assumed you run folding 6 hours everyday , a total of 180 hours in one month .
+150W x 180 hours = 27kWh , so additional 27kWh of electricity on folding .
+Let 's assumed the 27kWh hit the 201-300kWh range which cost 33 .
+sen/kWh , 27 x RM0 .
+= RM9 .
+, so this figure is the rough estimation that impact your electricity bill .
+Thanks for breaking it down .
+I 'll look at the power rating for my GPU and calculate it from there .
+My bad , the earlier estimations were incorrect .
+The 70w is inclusive of the GPU idle ( which may be about 5-10w ) , and the increase in cpu usage does not draw as 30w of power .
+Nonetheless @ @ @ @ @ @ @ @ @ @ power consumption in the calculation .
+Anyway , just did measurements using a smart plug .
+These are for GPU only folding , without any programs/games running .
+My gaming pc 4790k+gtx1070 at stock does uses 70w on idle .
+On GPU folding load , it jumps to 220w , for 650kppd ( 2954ppd/w ) .
+Lowering the gpu powerlimit to 50% with +100core oc gets the power consumption down to 180w , for 600kppd ( 3333ppd/w ) .
+My bad , the earlier estimations were incorrect .
+The 70w is inclusive of the GPU idle ( which may be about 5-10w ) , and the increase in cpu usage does not draw as 30w of power .
+Nonetheless , the point was to also include the other components power consumption in the calculation .
+Anyway , just did measurements using a smart plug .
+These are for GPU only folding , without any programs/games running .
+My gaming pc 4790k+gtx1070 at stock does uses 70w on idle .
+On GPU folding load , it jumps to 220w , for 650kppd @ @ @ @ @ @ @ @ @ @ with +100core oc gets the power consumption down to 180w , for 600kppd ( 3333ppd/w ) .
+Kinda stopped folding when ca n't solve the issue with the client , only managed to utilize the CPU and i rather fold with GPU alone .
+Hope to get back folding soon , currently working somewhere with limited internet .
+Kinda stopped folding when ca n't solve the issue with the client , only managed to utilize the CPU and i rather fold with GPU alone .
+Hope to get back folding soon , currently working somewhere with limited internet .
+If people want to know what its like to contribute to email protected , here 's a screenshotWork unit situation is almost like in email protected , you may or may not receive Covid19 WU depending on availability  Hi guys ! I 've just read about email protected and found that LYN has a group .
+I just started yesterday as DieCorona19 .
+How can I tell if my CPU is working fast enough .
+I noticed some of you was talking about PPD ?  The @ @ @ @ @ @ @ @ @ @ , but not really explaining tho  Oh yeah , thanks for the head up .
+QUOTE ( muffdiver @ Mar 25 2020 , 03:45 PM )  Hi guys ! I 've just read about email protected and found that LYN has a group .
+I just started yesterday as DieCorona19 .
+How can I tell if my CPU is working fast enough .
+I noticed some of you was talking about PPD ?  My GPU is now working on a job running at Estimated PPD : 1,278,341  No WU for my CPU at the moment .
+Welcome to the family .
+Make sure you get a passkey if you are interested on the bonus point .
+What CPU do you have there ? A 1 .
+PPD GPU , is that a RTX 2070 ?  Definitely a great spec for folding .
+I believe the work unit outage still on going .
+Do share the i7-9700K PPD when you got a work unit for it .
+I got a few WU since yesterday but it seems to be completed in a very short @ @ @ @ @ @ @ @ @ @ chance to see the PPD for CPU .
+For GPU it takes less than 2 hours to complete so I have some time to check .
+It 's quietly running in the background so sometimes I do n't know it is running WU until I hear my fan running a bit louder .
+I got a few WU since yesterday but it seems to be completed in a very short time of around 50 minutes .
+Did n't have a chance to see the PPD for CPU .
+For GPU it takes less than 2 hours to complete so I have some time to check .
+It 's quietly running in the background so sometimes I do n't know it is running WU until I hear my fan running a bit louder .
+QUOTE ( muffdiver @ Mar 25 2020 , 04:39 PM )  My CPU just received another WU .
+The PPD is 103,287  A very good PPD for CPU .
+A few more work units , then you will be qualified for bonus point .
+QUOTE ( keretapir @ Mar 25 2020 , @ @ @ @ @ @ @ @ @ @ 's another piece of software called FahMon displays PPD data better .
+to install it on the Win10 PC of mine , does n't work .
+Tried Compatibility Mode , also does n't work .
+finally , got a hold of CPU-based WU .
+and it 's 14328 , one of those that relate to COVID-19 .
+current TPF is about 27 seconds .
+which is damn fast .
+got ta say , Ryzen 3rd gen , the power usage is much lower than i 'm expecting .
+( about 90 watts ) absolutely slaying them WU .
+but PPD wise , it 's lesser than what my GPU ( a RX 580 ) can generate .
+so , from my self-monitoring thus far:CPU folding , average PPD at 110k .
+folding , average PPD at 430k .
+Exactly .
+Ryzen 3rd gen is very efficient .
+But my Ryzen 3000 has to be limited to 50% usage only for the Folding as if I let it fold at full load , my PC will automatically reboot itself .
+Not sure why .
+I also notice GPU especially @ @ @ @ @ @ @ @ @ @ than 1 million ) PPD compared to CPU .
+Maybe someone with Ryzen 3990X can try let us know what is the PPD with 64 cores .
+had been folding for some years .
+lately i 've noticed client ( windows ) did not receive any WU .
+also had n't had the chance to work on any Covids .
+any tips on getting it ? R5 2600+RX470  Glad to hear from you bro kucing , currently there is overwhelming response from worldwide , lead to folding server busy and frequently out of work unit .
+I think we have minimum control on what kind of work unit that we can get , since the folding assignment server are the one who decides which machine to get assigment of work unit .
+For now , what we can do is set folding preference to " any disease " .
+COVID-19 projects are high priority project for now .
+When you get assigned a work unit , there is good chance it is from the COVID-19 projects .
+You may refer to the first post for COVID-19 projects range .
+@ @ @ @ @ @ @ @ @ @ a passkey in order to qualify for bonus point , you will see massive increase in terms of PPD .
+Exactly .
+Ryzen 3rd gen is very efficient .
+But my Ryzen 3000 has to be limited to 50% usage only for the Folding as if I let it fold at full load , my PC will automatically reboot itself .
+Not sure why .
+I also notice GPU especially those RTX 20 series has way much higher ( more than 1 million ) PPD compared to CPU .
+Maybe someone with Ryzen 3990X can try let us know what is the PPD with 64 cores .
+I would like to know the Ryzen 3990X PPD as well .
+But back to your rig , is it instantly reboot once the CPU is running at 100% load ? Any overclocking/boost performed ? Manage to check CPU temperature ? What are the other hardware especially graphic card and power supply ?  Our big boss has speak up .
+I 'm not sure how was the client interpret " idle " , you might want to leave it @ @ @ @ @ @ @ @ @ @ running .
+We usually open advanced control interface for more control .
+left from subforum .
+Advanced setting does n't really have that much extra settings from the web ui for a pc with 1 gpu .
+Maybe my pc does n't really goes idle .
+yeah , I left it to run manually when I 'm not using .
+Exactly .
+Ryzen 3rd gen is very efficient .
+But my Ryzen 3000 has to be limited to 50% usage only for the Folding as if I let it fold at full load , my PC will automatically reboot itself .
+Not sure why .
+I also notice GPU especially those RTX 20 series has way much higher ( more than 1 million ) PPD compared to CPU .
+Maybe someone with Ryzen 3990X can try let us know what is the PPD with 64 cores .
+Not sure what happened here , let 's fold a few more work units and see how is the point goes .
+Is there another way to confirm that my passkey is working as it should ? It 's there on @ @ @ @ @ @ @ @ @ @ did receive the passkey email when I signed up a couple days ago .
+Is there another way to confirm that my passkey is working as it should ? It 's there on the configure page of the advanced control window and I did receive the passkey email when I signed up a couple days ago .
+For now : 1 .
+) Just make sure every information entered is correct , included case sensitive , a valid passkey that bind to the exact username from email protected email .
+) Make sure folding results are sent before the corresponding work unit 's Preferred Deadline in order to receive bonus point .
+) Probably fold 10 work units with your passkey , and see whether the 11th work unit and onwards will receive bonus point or not .
+yeah , I manually restart the client to scan for workload .
+if you leave the client to do its job , the waiting time to scan for next workload will get longer and longer .
+so , just manually restart the client to reset the waiting time .
+@ @ @ @ @ @ @ @ @ @ rarely get cpu one .
+yeah , I manually restart the client to scan for workload .
+if you leave the client to do its job , the waiting time to scan for next workload will get longer and longer .
+so , just manually restart the client to reset the waiting time .
+most of the workload i get is gpu based .
+rarely get cpu one .
+This is the best method for now .
+Restart client is faster than continuously auto waiting .
+yeah , I manually restart the client to scan for workload .
+if you leave the client to do its job , the waiting time to scan for next workload will get longer and longer .
+so , just manually restart the client to reset the waiting time .
+most of the workload i get is gpu based .
+rarely get cpu one .

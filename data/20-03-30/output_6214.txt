@@ -1,0 +1,22 @@
+India has placed around 1 .
+billion people under a 21-day lockdown , warning them that failure to tackle the spread of the coronavirus due to this period can take the country back " 21 years " .
+But is 21 days enough ?  No , if you ask Cambridge academics Rajesh Singh and Ronojoy Adhikari .
+In a new paper , they use a mathematical model based on country-specific age and social contact distributions to recommend a longer lockdown interrupted by periods of relaxation .
+The duo worked out how quickly the outbreak grows without social distancing -- an umbrella term for a broad toolkit of measures , including lockdowns , that reduce contact between people -- and how fast it shrinks when such restrictions are effectively enforced .
+" We find that the rate of growth is faster than the rate of shrinkage , " said Ronojoy Adhikari in an e-mail interview with IndiaToday .
+" So , for instance , if we let the epidemic run loose for 10 days , we will need more than 10 days of shutdown to bring it back to the level it started .
+"  " @ @ @ @ @ @ @ @ @ @ for one day of growth , we need more than one day of lockdown to bring infections down to starting levels .
+Extending this , we can see why the 21-day lockdown will not work : the epidemic has had much more than 21 days to grow .
+"  - Ronojoy Adhikari , researcher at University of Cambridge 's Faculty of Mathematics  The Adhikari-Singh paper predicts that a trio of consecutive lockdowns -- 21 days , 28 days and eight days -- interrupted by two five-day periods of relaxation could slow the contagion enough to help authorities bring it under control by tracing contacts of patients and imposing quarantines , and drastically reduce fatalities .
+An uninterrupted lockdown period of 49 days -- that 's seven weeks -- achieves a similar result .
+Asked to provide a number for the sustained lockdown period , Ronojoy Adhikari said bringing infections to manageable levels would depend on factors such as public compliance with stay-at-home orders .
+Currently , he said , given the paucity of data , " it is safe only to make a negative prediction @ @ @ @ @ @ @ @ @ @  Adhikari and his co-author have offered the caveat that uncertainties in their model can affect forecasts -- they say better case data can reduce these .
+Lockdowns not enough  A scene from a Mumbai street on March 28 , 2020 .
+( Photo : Reuters )  India 's caseload crossed the 1,000-mark at the weekend -- a grim milestone , but a relatively small figure compared to numbers coming out of other large countries like the United States .
+But India 's top medical research body ICMR says the outbreak is n't at this stage yet .
+Ronojoy Adhikari , on his part , says India will surely enter the community transmission phase , " but whether we are in it now or not is anybody 's guess .
+"  " Also , there is no gain in splitting hairs over this .
+What we need now is extensive social distancing , extensive testing to map out where the infection is localised , and as much palliative care as can be arranged for those who will fall seriously ill .
+"  " @ @ @ @ @ @ @ @ @ @ community transmission is happening in India ) .
+"  - Ronojoy Adhikari  The World Health Organisation ( WHO ) lays special emphasis on steps like testing , quarantine and treatment -- it says extensive social distancing measures like lockdowns only buy countries time to " attack the virus " so it does n't come roaring back once restrictions are lifted .
+" Aggressive measures to find , isolate , test , treat and trace are not only the best and fastest way out of extreme social and economic restrictions , " said WHO director-general Tedros Adhanom Ghebreyesus on March 25 , the day after India enforced its 21-day lockdown .

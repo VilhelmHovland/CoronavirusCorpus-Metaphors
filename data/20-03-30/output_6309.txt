@@ -1,0 +1,37 @@
+All The Data Science Courses Made Free Due To COVID-19  COVID-19 has afflicted the whole world -- not only are working professionals getting laid-off , but students are also sitting idle at home .
+However , this has also provided people with enough time to upskill themselves .
+To further help aspirants and students learn new data science skills while being quarantined , various ed-tech firms have made some of their courses free to support aspirants who wish to learn cutting-edge technologies .
+While there are already numerous free data science courses in the market that one can enrol in , the premium courses , which have been made free recently , have various advantages .
+These include mentor support , in-depth teaching , project reviews , and access to a community of like-minded people who are taking the same courses .
+Here are the top six ed-tech platforms that have made data science courses free for students , data science aspirants , and working professionals .
+Simplilearn  Simplilearn announced its offering of 13 foundational courses related to AI , data science , and big data analytics , among others , for free @ @ @ @ @ @ @ @ @ @ certificates on successful completion of the courses .
+With the rapid development and adoption of new technologies , it has become a necessity for professionals to upskill themselves to stay ahead of the curve , " said Krishna Kumar , CEO and founder at Simplilearn .
+" Considering the ongoing situation with professionals staying away from workplaces , this is an ideal opportunity to utilize time to learn new skills effectively , " he added .
+Coursera  Coursera has collaborated with universities that have taken a hit due to COVID-19 to offer free access to its course catalogue .
+The paid programs have been made free until July 31 through its ' Coursera for Campus ' initiative .
+Learners who enrol before July-end are still able to gain access to the courses until September 30 .
+" We are going to make our paid courses freely available to any college or university in the world that is impacted by the coronavirus , thereby ensuring minimal impact on the students ' community , " said Leah Belsky , chief enterprise officer and senior vice president at Coursera @ @ @ @ @ @ @ @ @ @ enrolled on its platform from India .
+By allowing its 3,800 courses and 400 specializations for free , it will further gain aspirants of the latest technologies on its platform .
+edX  On March 11 , edX announced the offering of its paid courses for free to address the growing concern around jobs and education amid the spread of COVID-19 .
+With free courses through its Remote Access Program , it aims to assist universities by delivering educational content for their students .
+" We want to assist our university partners in supporting their students during this tough time .
+We believe that by sharing access to content across a global group of universities , we can unite like-minded students and instructors to learn as a digital community , " said Anant Agarwal .
+AI4ALL  The open learning platform has opened up its courses for teachers to engage students in a learning process during the current COVID-19 crisis .
+The AI4ALL Open Learning also included lessons on how AI is being used to tackle COVID-19 outbreak and its potential in solving other problems .
+Its @ @ @ @ @ @ @ @ @ @ hours , to up to 30 .
+While the 10-hour program includes basics of AI and mostly focuses on what AI can and can not do , the 20-hour program is devised to teach students how to explore data in AI , how to wrangle data and gain insights from it .
+The 30-hour program goes above the other two and assists students in exploring job opportunities .
+In other words , it makes students job-ready in the competitive data science landscape .
+Udacity  Udacity is one of the most popular platforms that offers premium data science courses through its Nanodegree , which include technical mentor support , personal career coach and career services , student community , among others .
+The ed-tech firm is providing free access to its Nanodegree programs for a month .
+However , this initiative by Udacity is only for users based out of the US and Europe .
+Check out the course catalogue and enrol according to your needs .
+Nevertheless , Udacity had mentioned in its blog that it would be announcing new initiatives over the coming weeks and @ @ @ @ @ @ @ @ @ @ its ambit to include more countries .
+GreyAtom  GreyAtom is an upskilling platform for emerging technologies like AI/ ML and Data Sciences .
+It is opening premium content along with Access to Mentor during the COVID-19 Lockdown .
+Also , it includes data science content , video call based technical mentor support , webinars on career services , access to proprietary learning platform ' GLabs ' among others .
+The ed-tech firm is providing free access to its select programs till the lockdown .
+This is a Global Initiative .
+Provide your comments below  Rohit is a technology journalist and a technophile who likes to communicate the latest trends around cutting-edge technologies in a way that is straightforward to assimilate .
+In a nutshell , he is deciphering technology .
+Email : **33;3689;TOOLONG .

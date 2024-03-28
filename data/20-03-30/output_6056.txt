@@ -1,0 +1,63 @@
+How To Scrape , Summarize &amp; Convert News Articles Into Text Files  There are a variety of news articles available online .
+While smaller articles are easier to read , longer ones are time-consuming , and hence , are often left unread .
+However , if there was a solution that could summarize that long-form article in a single paragraph with keywords , it would be easier to learn the context of that article quickly .
+In this post , we will discuss a very basic approach to scrape a news article on the web page and summarize it , along with a few more key information .
+We will also explore how we can save this scraped and summarized result into a text file .
+This can be saved for future study or for research purposes .
+It is expected that you have basic knowledge of web scraping and natural language processing ( NLP ) .
+For more information , you may refer to the following articles :  The task discussed above is implemented in Python .
+Following is a step-by-step approach for this implementation .
+For scraping and downloading @ @ @ @ @ @ @ @ @ @ required to be installed .
+You may use ' pip install newspaper ' in command prompt or ' conda install newspaper ' for installing in anaconda .
+Once installed , import the required libraries .
+Since the task requires several natural language processing steps , the nltk library will also be required .
+from newspaper import Articleimport nltk  2 .
+The punkt of nltk library is used to tokenize the sentences in order to be used for NLP .
+So we need to download punkt sentence tokenizer .
+nltk .
+( 'punkt ' )  3 .
+Whichever the news article you want to scrap and summarize , pass its URL here .
+Set the language of the article which is to be scraped and summarized .
+Define an object for further use .
+article = Article ( url , language= " en " ) # en for English  5 .
+Download , parse and perform NLP on the news article  article .
+article .
+article .
+The article is now scraped and downloaded .
+We can print useful information on the @ @ @ @ @ @ @ @ @ @ ) print(article .
+#prints the title of the articleprint ( " n " ) print ( " Article Text : " ) print(article .
+#prints the entire text of the articleprint ( " n " ) print ( " Article Summary : " ) print(article .
+#prints the summary of the articleprint ( " n " ) print ( " Article Keywords : " ) print(article .
+#prints the keywords of the article  7 .
+The above result can be written in a text file .
+The following lines of codes are used to write tt into a text file  NEW DELHI : RBI governor Shaktikanta Das on Friday announced a series of steps to boost liquidity in a stimulus worth 3 .
+of GDP to counter the economic impact of the coronavirus outbreak .
+lending institutions can allow three-month moratorium on EMI payments .
+on loan and interest repayments will not be classified as defaults and will not impact credit history of borrowers .
+* Policy repo rate has been reduced by 75 basis points from 5 .
+to 4 .
+* Reverse repo rate reduced by 90 basis points to 4% .
+* Monetary Policy meet scheduled @ @ @ @ @ @ @ @ @ @ Monetary policy committee voted 4:2 majority to cut repo rate by 75 basis points .
+* Reverse repo rate cut more so that banks are incentivised to lend , RBI governor said .
+* Cash Reserve Ratio ( CRR ) of all banks have been reduced by 100 basis points to 3 per cent of net demand and time liabilities with effect from the fortnight beginning March 28 for a period of 1 year .
+* RBI to inject liquidity worth Rs 3 .
+lakh crore into the system .
+* Banking system in India safe ; deposits safe in private bank ; public should not resort to panic withdrawal , Das said .
+* Monetary policy committee refrained from giving out growth , inflation outlook for coming fiscal on uncertain outlook .
+* India has locked down economic activity and financial markets are under severe stress .
+* Global slowdown can deepen with adverse implications for the country , Das said .
+* Slump in crude oil prices upside for India ; foodgrain prices may soften further on back of record production , RBI governor said .
+* COVID-19 related volatility in stock market has impacted share prices of @ @ @ @ @ @ @ @ @ @ from a few private sector banks .
+* It would be fallacious to link share prices to the safety of deposits .
+Depositors of commercial banks including private sector banks need not worry on the safety of their funds , the RBI governor said .
+* RBI governor said all instruments -- conventional and unconventional -- are on table to support financial stability and revive growth .
+Article Summary : * Policy repo rate has been reduced by 75 basis points from 5 .
+to 4 .
+* Monetary policy committee voted 4:2 majority to cut repo rate by 75 basis points .
+* Reverse repo rate cut more so that banks are incentivised to lend , RBI governor said .
+of commercial banks including private sector banks need not worry on the safety of their funds , the RBI governor said .
+* RBI governor said all instruments -- conventional and unconventional -- are on table to support financial stability and revive growth .
+Provide your comments below  Vaibhav Kumar has experience in the field of Data Science and Machine Learning , including research and development .
+He holds a PhD degree in @ @ @ @ @ @ @ @ @ @ for Stock Market Prediction .
+He has published/presented more than 15 research papers in international journals and conferences .
+He has an interest in writing articles related to data science , machine learning and artificial intelligence .

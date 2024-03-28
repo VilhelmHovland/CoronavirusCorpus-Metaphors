@@ -1,0 +1,9 @@
+Microsoft Teams is currently experiencing outage in Europe  The coronavirus outbreak has seen a spike in usage of work collaboration apps like Microsoft Teams and Slack , both of which have reported an increase in usage since the crisis first began .
+Today , as companies head back to work after the weekend , employees met with issues while using Microsoft Teams .
+According to Downdetector , the issues started around 8 AM UK time .
+This could be due to the surge in Teams usage due to the outbreak .
+However , Microsoft has n't released an official statement so it 's hard to determine the cause of the outage .
+The Downdetector outage map shows that the issue is mostly happening in parts of Europe .
+The Microsoft 365 Status account has n't commented on the problem but we will update the article as and when more information is available .
+For now , if you 're experiencing the issue then you might consider switching to another platform while Microsoft works on the issue .
+Unfortunately , this is the second time Microsoft Teams has run into issues this month especially in Europe @ @ @ @ @ @ @ .

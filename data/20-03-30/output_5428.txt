@@ -1,0 +1,39 @@
+Investors are looking at the US COVID-19 data as a guide for when markets may settle down .
+Our view is that it 's going to be tough for markets to find a bottom until it becomes clear that the US understands the scale of its COVID-19 problem and is taking appropriate steps to mitigate .
+We looked at State level testing and case progression data , the idea is to get some early insights on how this may drive the US level COVID-19 ( C19 ) data releases the market is focused on .
+We did n't get very far , we stopped at the New York data .
+The recent ramp up in testing in the State of New York has started to identify the scale of the problem that exists there , and its not good .
+The data in New York is tracking approximately 6x worse than the data for Italy when it was at a similar stage in its C19 case evolution .
+This is illustrated in the charts below .
+What you are looking at is cases per capita ( y-axis ) log scale plotted against days since caseload @ @ @ @ @ @ @ @ @ @ .
+On 5 March New York recorded its 22nd known case of COVID-19 , or 1 .
+cases per million of population , Day 0 .
+For Italy Day 0 was 23 February .
+Source : Montgomery  Day 23 is 28 March for New York , and 17 March for Italy -- New York is currently tracking at 5 .
+the caseload per capita as Italy was at this stage of its C19 outbreak .
+That 's terrible .
+Source : Montgomery  Much of this acceleration in case reporting has been driven by testing .
+New York has rapidly ramped testing in the past 10 days -- see chart below -- and unfortunately it has discovered the scale of its problem , with detection rates regularly greater than 30 per cent .
+This is a very high detection level , and we take this as evidence of mass community transmission , we make this assessment knowing that the detection rate in South Korea , during its peak was in the range of 6-10 per cent and this was for just 6 days .
+New York has started its @ @ @ @ @ @ @ @ @ @ .
+Source : The COVID Tracking Project , Montgomery  As we have written in our previous C19 articles the key to suppressing the transmission rate early enough -- to avoid mass casualties -- is to test early and hard alongside strong trace , contact and isolate doctrine .
+It appears now too late for this approach to work in New York .
+It is already likely to have experienced significant community transmission and now will be dealing with the cases and waiting for the effect of the shutdown ( announced 20 March , effective Sunday 22 March 22 ) to have its impact on caseload progression .
+We observed in Italy that approximately 2 weeks post its shutdown its daily new caseloads appeared to show evidence of having peaked .
+Until then we expect to see rising caseloads , with the expected corresponding impact on the New York health system with implications for the case fatality rate ( CFR ) as we have observed in Italy .
+Italy 's CFR was 10 .
+per cent on 28 March and rising .
+What about the rest of the @ @ @ @ @ @ @ @ @ @ case growth , the data is currently driving the overall case volumes for the US .
+However the rest of the US is unlikely to be far behind , and although it will have benefitted from the warning from New York , its fair to say that those other states are likely unprepared too .
+This is probably best demonstrated by the testing per capita which we have compiled and is observed in the chart below .
+Source : The COVID Tracking Project , Montgomery  To provide some perspective we have embedded and highlighted the country level datasets we track in blue , New York is in black .
+The data suggests to us that there are very few US states that have tested at sufficient levels to understand the potential level of C19 transmission in their communities .
+( The UK is worrying too .
+)  There are some States that have to date tested at a reasonable cadence , but further investigation uncovers that most of these have case volumes that suggest community transmission has already occurred and therefore the scope for the test , @ @ @ @ @ @ @ @ @ @ rate may be limited ;  WA -- Washington State has performed almost 60,000 tests , but has over 4,000 cases .
+LA -- Louisiana -- 25,000 tests , but over 3,300 cases , with New Orleans a reported hotspot  Today approximately 140 million US citizens are under stay at home type orders , with most having been in that condition for about a week .
+We hope that those actions were effected quickly enough to deny the virus the opportunity to spread .
+Although we expect to see rising new caseloads in the US for the next week to 10 days , maybe ( probably ) longer .
+A quick word on Australia  The data for NSW continues to track better than elsewhere .
+We look like its possible with our testing cadence to be able to pursue the test , trace and isolate doctrine as a way to suppress community transmission .
+Known epidemiology are high ( 82% last ) and over half of known cases have arrived from overseas .
+So far so good .

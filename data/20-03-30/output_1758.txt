@@ -1,0 +1,28 @@
+The next wave of coronavirus outbreaks is threatening cities from New Orleans to Philadelphia , and it reveals the US is on pace for a national epidemic  New York has become the coronavirus epicenter in the US , but data shows that other cities from New Orleans to Philadelphia are n't far off from experiencing similar outbreaks .
+Researchers at the Center for Spatial Data Science at the University of Chicago looked at cases on the county level to find that there are significant clusters of the virus in cities across the country that are less obvious than outbreaks in New York City and Seattle .
+In a recent forecast on the COVID-19 virus , Morgan Stanley said that cities in the " central region of the country " are exhibiting signs of new outbreaks and " there is risk that these new outbreaks will delay the US peak or cause recontamination of the coastal cities .
+"  That 's according to recent data showing that cases of the COVID-19 virus are growing in clusters in cities across the US .
+Researchers at the University of Chicago found clusters in states including Arkansas @ @ @ @ @ @ @ @ @ @ , places that have been widely overlooked compared to epicenters like New York City or Seattle .
+Nationwide , there have been over 140,000 COVID-19 cases , and states like New York , New Jersey , and California have topped the list with the most cases .
+Case counts are increasing in other places , ranging from New Orleans to Philadelphia to Albany , Georgia .
+The significance of county-level data  " If you only look at state-level data , a county cluster would have to be extreme to show up , and by then you 're already too late for many of these prevention measures , " Marynia Kolak , CSDS assistant director of health informatics , told UChicago News .
+Data on this level also shows which areas have a high number of cases compared to their populations , which could point to areas where hospital resources may be overwhelmed .
+It could also provide authorities an opportunity to intervene and contain the virus , when a county with a high count is surrounded by counties with still-low numbers of cases .
+Hovering @ @ @ @ @ @ @ @ @ @ may soon become worse if not dealt with quickly .
+Counties near New Orleans , Atlanta , and Denver show clusters of cases amid areas not yet as heavily affected .
+' Second wave ' of COVID-19 in US  Morgan Stanley 's recent COVID-19 forecast released Monday said that the largest risk to the US is " a second wave of infections emanating from the central region of the country after the coasts have peaked in mid-April .
+"  This wave , the report continues , could delay the US " peak " and cause recontamination of the coastal cities even after they see cases decline .
+Scott Gottlieb , the former US Food and Drug Administration commissioner who 's now a resident fellow at the American Enterprise Institute , said on Twitter that the coronavirus was now a " national epidemic with multiple epicenters .
+"  Pointing to cities like New Orleans , Philadelphia , and Dallas , among others , Gottlieb said that cities nationwide are seeing reported cases double every three to four days .
+' Prepare like New York is @ @ @ @ @ @ @ @ @ @ reported cases of COVID-19 as of Monday morning , hospitals are bracing for the worst to come as reported cases of the virus keep rising .
+" We anticipate we are no more than two weeks behind New York City , " P .
+Brennan , chief medical officer of the massive University of Pennsylvania Health System , told The Philadelphia Inquirer .
+" Cases are doubling every two to three days .
+We had 46 confirmed cases last night .
+You do the math .
+"  And hospitals across the US are already facing massive pressures on hospital resources , or preparing for the possibility of it in the coming weeks .
+New York Gov .
+Andrew Cuomo , whose state has so far been hit the hardest by the coronavirus with over 60,000 reported cases , has resorted to suggesting that hospitals in the state split ventilators between two patients amid the current shortage of the machines .
+Last week , NewYork-Presbyterian Hospital started to do just that , despite the risks involved .
+" No state , no metro area will be spared @ @ @ @ @ @ @ @ @ @ NBC News ' Chuck Todd on " Meet the Press " on Sunday .
+" We are asking every single governor and every single mayor to prepare like New York is preparing now .

@@ -1,0 +1,145 @@
+12(+0 .
+0024(-0 .
+As the COVID-19 pandemic continues to accelerate and cause damage to the global economy and consumers ' purchasing power , TrendForce has compiled its latest report on the statuses of key electronics component and downstream industries , with data last updated on March 26 , 2020 .
+The report provides a deep dive into the pandemic 's influences on several high-tech industries .
+Semiconductors  Most clients of the global IC design companies placed orders ahead of time , with some of the orders having been fulfilled and shipped already .
+As such , IC design revenue is not expected to decrease by a considerable amount in 1Q20 despite being somewhat affected by the pandemic .
+The expanding pandemic has , however , lowered device manufacturers ' demand for IC design .
+More specifically , IC designers for smartphones and other consumer electronics have felt the greatest impact .
+These companies will potentially see the diminished demand reflected in their 2Q20 revenues .
+As well , the U .
+government has not changed its stance on the entity list policy .
+Against the twin hindrances of the pandemic and the entity list , the @ @ @ @ @ @ @ @ @ @ of growth in 2020 .
+Wafer suppliers such as foundries and IDMs are able to maintain their manufacturing operations due to their high degree of industrial automation .
+In addition , their major expansion plans are projected to take place after making some strategic adjustments .
+But as the pandemic persists , regions such as Taiwan , South Korea , Europe , the U .
+, and Japan are attempting to curb the spread by restricting border entry or adopting telework arrangements .
+These efforts , along with the health of the European , American , and Japanese supply chains of key equipment and raw materials , will be factors determining foundry operations in the future .
+With regards to the demand side , foundries are able to maintain their capacity utilization rate by fulfilling orders from 4Q19 and by their clients ' restocking demands .
+In contrast with the IC design or OSAT industries , the foundry industry 's revenue in 1Q20 has felt less impact from the pandemic .
+But the rapid global spread of the pandemic is projected to affect not only the global economy , @ @ @ @ @ @ @ @ @ @ potentially reflected in foundry revenue performances from 2Q20 onwards .
+The packaging and testing , or outsourced semiconductor assembly and test ( OSAT ) , industry previously suffered major declines due to the China-U .
+trade war ; the pandemic 's current effect on the industry thus appears relatively minor in comparison .
+TrendForce expects OSAT revenue in 1Q20 to trend either flat or upwards YoY , while the industry 's performance in 2Q20 and later will depend on client demand .
+Memory Products  Despite the apparent slowdown of the pandemic in China , the virus is now rapidly multiplying across major economies , which poses dire , system-wide risks for the global economy .
+The memory market may take a turn for the worse and go into a slump earlier than expected .
+Regarding market demand , the pandemic 's rapid proliferation will severely diminish consumer purchasing power .
+Smartphone production in particular will undergo the greatest magnitude of cutbacks , since smartphones account for the greatest share of consumer purchases compared to other memory products .
+Waning purchasing power will lead to lowered demand for electronic @ @ @ @ @ @ @ @ @ @ .
+Given the 13% and 32% YoY growth in DRAM and NAND Flash bit supply for 2020 , in addition to the mostly low inventory levels maintained by DRAM and NAND Flash clients in early-2020 , TrendForce initially forecasted a probable constant growth for DRAM and NAND Flash prices up to the end of the year .
+Nevertheless , as structural changes occur in the supply and demand of memory products , DRAM and NAND Flash clients will exhibit weakened purchasing demand , reflecting a similar weakened demand in the end-product markets .
+There is now a greater likelihood in 2020 for memory product ASP to increase to a lesser degree than previously expected or even undergo a price drop , especially for NAND Flash , since the shortage of NAND Flash memory was not a significant amount .
+Panels  In terms of the COVID-19 pandemic 's effect on the production of large-size panels , the pandemic has hurt back-end module shipment far more than it did to that of highly-automated front-end manufacturing .
+With regards to the February shipment performance of TV panels , which are @ @ @ @ @ @ @ @ @ @ the actual and forecasted shipments was only 9 .
+In comparison , monitor and notebook computer panels were usually shipped out in module formats .
+Also in February , the gaps between actual and forecasted shipments for monitors and notebook panels were as much as 25 .
+and 29 .
+, respectively .
+Thus , the COVID-19 pandemic has diminished the shipment of IT panels far more than it did to that of TV panels .
+As the pandemic has seemingly slowed down in China , panel supply has seen a gradual ramp-up .
+Actual panel supply is projected to reach above 85% of previously planned levels in March and exceed 90% in April .
+In terms of yearly shipment , as TV panel prices steadily rebound , manufacturers will become more and more willing to produce TV panels in 2020 .
+However , Korean panel manufacturers are continuing to reduce their production capacities .
+Thus , TV panel shipment in 2020 is expected to decline by 4% YoY .
+As IT panel supply gradually recovers , the industry 's supply chain ( including OEMs ) in 2Q20 and 3Q20 is @ @ @ @ @ @ @ @ @ @ by the COVID-19 pandemic in 1Q20 .
+In 2020 , monitor panel shipment and notebook panel shipment are each projected to grow by 3 .
+and 0 .
+YoY , respectively .
+Communications  In terms of optical fibers and fiber-optic cables , over 50% of the global R&amp;D and supply is located in Wuhan , China .
+Products related to optical fibers include optical communication components , optical transceivers , and 5G components .
+Given that most key component suppliers of 5G base stations are located in Hubei ( whose capital is Wuhan ) , the pandemic 's impact on the optical communications industry is likely to have serious repercussions for the development of 5G infrastructure and the rollout of 5G services in 1H20 .
+The construction of 5G base stations places a high demand on the quality and quantity of fiber-optic cables .
+For instance , the deployment of UDN , or ultra-dense networks , has galvanized a corresponding demand on fiber-optic cables .
+The 5G transition requires more than double the total of fiber-optic cables used in today 's 4G infrastructure .
+Aside from the sheer quantity @ @ @ @ @ @ @ @ @ @ about other changes , such as increased bandwidth demand , adoption of flat networks , and network connections between data centers .
+All of the aforementioned changes will challenge the resilience of the internet backbone .
+Communications companies such as Fiberhome , YOFC , and HTGD are making a proactive effort at work resumption and manufacturing resumption .
+However , transportation and logistics remain key aspects of optical communications equipment production .
+With many interprovincial and intercity roads still blocked and international flights canceled , the industry is seeing greatly reduced logistical capacity and therefore shipment .
+Should the pandemic manifest uncontained in 2Q20 , it will greatly hinder the infrastructure build-out of global 5G networks and data centers .
+On the other hand , given the pandemic 's influence on the global economy , which in turn sees weakened consumer confidence and demand for end-devices , deferred 5G infrastructure construction and constricted smartphone replacement demand will lead to a slowdown in 5G smartphone sales in 2020 .
+LED  LED chip manufacturers did not stop operations across the board during the Lunar New Year ; some personnel @ @ @ @ @ @ @ @ @ @ .
+Therefore , their work resumption has been relatively smooth .
+However , due to concerns about possible shortage of upstream raw materials , especially the sapphire substrate , manufacturers have raised their capacity utilization rate of LED epitaxy process in March to above 70% , so as to increase their inventory in response to the impact of price hikes .
+In contrast , the work resumption rate of LED chip segment has been relatively low , mainly because the current LED chip inventory level is high , and the demand from clients has not increased significantly .
+Currently , in addition to the slight increase in prices of a small number of low-end LED chips , the rest of the LED chip prices remain unchanged .
+The LED packaging industry places a high demand on manpower .
+Although the Chinese government has issued a request for manufacturing sites to fully resume work , many people in the affected areas are currently unable to return to the factories .
+Even workers returning from areas unaffected by the pandemic need to be quarantined for a period of time before they @ @ @ @ @ @ @ @ @ @ at the factories .
+Thus , work resumption rate in March has been sitting at about 50-60% .
+However , due to the weak demand for end products , LED suppliers have enough inventory to supply market needs , with a few exceptions , which are applications requiring precise specifications .
+In terms of the peripheral materials , sapphire substrate factories place a high demand on manpower , so they are also facing the issue of work resumption .
+Thus , the current supply of sapphire substrate is slightly tight .
+Because long-term sapphire substrate prices have been sluggish , many suppliers hope to take advantage of the tight supply by increasing prices .
+In terms of chemical gases and liquids , the biggest challenge facing LED manufacturers is the delivery of chemical materials needed for manufacturing .
+However , transportation problems have been gradually resolved , at the Chinese government 's strong insistence on work resumption .
+Photovoltaics  The initial concerns about supply chain disruptions and shortages are gradually subsiding as an increasing number of employees are returning to work in China .
+The work resumption @ @ @ @ @ @ @ @ @ @ in February to 50% in March , which was well on its way to normalcy .
+The logistics efficiency has also started to improve .
+Nevertheless , it has yet to return to normal .
+Other regional markets , on the other hand , have implemented city- or nationwide shutdown , which will impact the markets with grid-connection deadlines to a certain extent .
+Some markets , including Taiwan , have announced the extensions of grid connection deadlines .
+However , the demand that is supposed to emerge in the first half of 2020 will largely arise only in the second half of the year .
+It is currently estimated that the total demand for the whole year has not changed much .
+It is estimated to range from 110 to 130 GW .
+End Products  1 .
+TV  The COVID-19 pandemic damaged the TV industry starting from the Chinese market .
+China began to put cities under lockdown , disallowed some stores to open , postponed work resumption schedules , and limited transportation by land , air , and water from February .
+These measurements @ @ @ @ @ @ @ @ @ @ labor and material shortages in the TV supply chain in China .
+Although the pandemic has seen signs of gradual containment in China in March , its spread is accelerating in Europe and the U .
+Outside of China , more cities or countries are steadily put under lockdown .
+In addition , the stock market crash in many countries have taken a heavy toll on the financial markets while impairing consumer confidence .
+The TV industry currently faces pressure on both the production side and demand side .
+TrendForce has reduced its projection of global TV shipment for 1Q20 to 44 .
+million units , down by 8 .
+from the pre-COVID-19 prediction of 48 .
+million units .
+A similar drop is expected in 2Q20 , from the pre-pandemic forecast of 47 .
+million units to 44 .
+million units , a 7 .
+decrease .
+Moreover , both UEFA EURO 2020 and 2020 Tokyo Olympic Games have been postponed to 2021 , in turn further weakening the demand for TVs .
+TrendForce has therefore lowered 2020 TV shipment forecast to 205 .
+million units , a 5 .
+decrease YoY .
+This figure is @ @ @ @ @ @ @ @ @ @ the possibility of the pandemic escalating in North America and emerging Asian regions , TrendForce may decrease the TV shipment forecast even further in the future .
+Notebook Computers  Due to the pandemic , the top six notebook OEMs , most of which are based in China , suffered damages to their production capacity in February .
+Hence , TrendForce has decreased its projected 1Q20 notebook shipment from the pre-pandemic level of 35 million units to 27 .
+million units , down by 20 .
+After China saw a stabilization in the spread of the pandemic , OEMs aggressively pursued labor and materials , while ramping up their capacity utilization rate to 70% within one month .
+Meanwhile , upstream material manufacturers are expected to return to normal supply levels before May .
+Although demand stemming from educational-use ChromeBook bids and work-from-home commercial notebooks surfaced in late-March , the pandemic began to accelerate in March in Europe and the U .
+, markets accounting for more than 50% of notebook sales .
+The pandemic 's blow to consumer confidence is unlikely to be erased in the short-term @ @ @ @ @ @ @ @ @ @ , the weakened willingness to purchase may persist well into the Thanksgiving and Christmas holidays in 2H20 .
+Considering the uncertainty of future demand , TrendForce has reduced its 2020 notebook shipment forecast from pre-pandemic levels of 162 .
+million units to 156 .
+million units , down by 3 .
+Smartphones  With the global economy being battered by the coronavirus pandemic , the overall demand for consumer electronics is expected to decline sharply as well .
+Currently , the impact of the pandemic on the smartphone market is mainly on the demand side .
+Consumers worldwide will most likely defer purchasing new smartphones this year , thereby lengthening the device replacement cycle and pushing down the overall ASP .
+Furthermore , rising costs across the supply chain ( such as labor cost , cost in connection to a change in the exchange rate , etc .
+) will weaken the profitability of smartphone brands .
+Dramatic shifts in performances among brands could also lead to a reshuffling of the industry in terms of market share .
+Considering that the scale of the pandemic continues to grow , the @ @ @ @ @ @ @ @ @ @ revised .
+The total worldwide smartphone production volume in 2020 is now projected to reach 1 .
+billion units , a drop of 7 .
+from 2019 .
+The downward correction is attributed to the recession that follows the pandemic as well as the downgrade in shipments ( sell-ins ) in Europe and North America , which are now the most hard-hit regions of the world .
+The current financial crisis that accompanies the pandemic has produced a lot of uncertainties and could surpass the Financial Crisis of 2007-2008 in scale .
+Hence , the general economic outlook for 2H20 could become even gloomier as the pandemic is not expected to be brought under control in the short term .
+TrendForce is not discounting the possibility of further contractions in smartphone demand .
+Automobiles  The pandemic has now caused further damages to the auto industry .
+Previously , it primarily affected non-China markets by causing material shortages .
+Case in point , several factories in South Korea , Japan , and Europe halted operations due to a lack of materials .
+More recently , the pandemic has @ @ @ @ @ @ @ @ @ @ gradually took place in China .
+The rapid spread of the pandemic has brought about a corresponding spread of material shortages -- along with plant shutdowns and similar large-scale impacts -- for automobile suppliers globally .
+As Italy and Spain went into lockdown , other European countries and the U .
+have begun to follow suit , with many auto manufacturers closing factory operations in Europe and North America starting from March 16 .
+Most of these shutdowns are one to two weeks long , during which manufacturers will decide on future developments .
+Owing to the pandemic 's impact and the recent stock market crash triggered by the Russia-Saudi Arabia oil price war , characteristics peculiar to the automobile industry , namely the need for customers to make purchase in person and the high retail price of automobiles , are expected to result in deferred or even eliminated market demand .
+As such , global auto sales in 1Q20 are expected to decline by 24% YoY .
+Because many countries other than China are still experiencing peak pandemic activity , their auto markets will likely face considerable impact @ @ @ @ @ @ @ @ @ @ of the market demand to 2H20 .
+For further details of this press release , along with the table showing the shipment forecast of various end products , please visit :  TrendForce is a global provider of market intelligence on the technology industries .
+Having served businesses for over a decade , the company has built up a strong membership base of 500,000 subscribers residing the technology and financial services sectors .
+TrendForce has established a reputation as an organization that offers insightful and accurate analysis of the technology industry through five major research divisions : DRAMeXchange , WitsView , LEDinside , EnergyTrend and Topology Research Institute .
+Founded in Taipei , Taiwan in 2000 , TrendForce has extended its presence in China since 2004 with offices in Shenzhen and Beijing .

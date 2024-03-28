@@ -1,0 +1,137 @@
+The official recommendation in the United States ( and other Western countries ) that the public should not wear face masks was motivated by the need to save respirator masks for health care workers .
+There is no scientific support for the statement that masks worn by non-professionals are not effective " .
+In contrary , in view of the stated goal to flatten the curve " , any additional , however partial reduction of transmission would be welcome -- even that afforded by the simple surgical masks or home-made ( DIY ) masks ( which would not exacerbate the supply problem ) .
+The latest biological findings on SARS-Cov-2 viral entry into human tissue and sneeze/cough-droplet ballistics suggest that the major transmission mechanism is not via the fine aerosols but large droplets , and thus , warrant the wearing of surgical masks by everyone .
+The surgeon general tweeted : STOP BUYING MASK , they are not effective .
+The Center for Disease Controls ( CDC ) states that surgical masks offer far less protection than the N95 respirator masks ( which also must be perfectly fitted and only professionals can do it ) @ @ @ @ @ @ @ @ @ @ masks at all , only the sick ones .
+These guidelines are not rooted in scientific rationales but were motivated by the need to save the valuable masks for health professionals in view of a shortage .
+But they may have had unintended consequences : stigmatizing those that wear masks in the public ( you are a hoarder , or you are contagious ! )  Sure , surgical masks , and improperly worn N95 respirator masks , do not offer perfect protection .
+But if the stated goal is to flatten " the curve ( as opposed to eradication of the virus ) , we have to abandon the black-and-white thinking , and embrace shades of grey .
+We can not any longer claim that masks are not effective " .
+We can not allow the perfect to be the enemy of the good .
+What if a however partial protection afforded by leaky surgical or even self-made masks reduces transmission probability to an extent that is similar to that of the recommended ( equally imperfect ) distancing by more than 6 feet from each other or not touching @ @ @ @ @ @ @ @ @ @ of non-pharmacological intervention ( NPI ) on flattening the curve ( FIG .
+FIGURE 1 .
+Flattening the curve " .
+Effect of mitigating interventions that would decrease the initial reproduction rate R0 by 50% when implemented at day 25 .
+Red curve is the course of numbers of infected individuals ( " case " ) without intervention .
+Green curve reflects the changed ( " flattened " ) curve after intervention .
+Day 0 ( March 3 , 2020 ) is the time at which 100 cases of infections were confirmed ( d100 = 0 ) .
+The model is only for illustration and was performed in the SEIR-model simulator ( http : **35;187;TOOLONG ) .
+The non-intervention model was fitted to these data points : a time period of twenty days in which the number of cases in the United States has risen from 100 ( d100=0 ) to 35,000 ( d100=20 ) .
+Standard parameters were used ( population size 330 M , Tinc=5 .
+days , Tinf = 3 .
+days but with the rather high value R0=5 .
+in order to achieve the observed rate @ @ @ @ @ @ @ @ @ @ are redrawn not to scale .
+Since the CDC provides no scientific evidence for its statement that masks worn by the public are not effective " , here we review the scientific support for protection conferred by surgical masks .
+We focus on mechanistic rationale ( as opposed to **32;224;TOOLONG evidence ) .
+We conclude , by considering cough droplet ballistics and the latest research findings on the biology of transmission of the SARS-CoV2 virus ( which causes COVID-19 ) that any physical barrier , as provided even by make-shift masks , may substantially reduce the spread of COVID 19 .
+If we are soon to yield to the pressure to loosen lockdowns and allow limited social interactions to revive the economy , then public masks should have a role and could facilitate a middle-of-the-road approach .
+The official recommendation by CDC , FDA and others that masks worn by the non-health-care professionals are ineffective is incorrect at three levels : In the logic , in the mechanics of transmission , and in the biology of viral entry .
+THE LOGIC  Of course no mask @ @ @ @ @ @ @ @ @ @ or the loosely worn surgical mask , provide perfect ( 100% " ) protection .
+But imperfect protection does not mean completely useless " , much as a glass not full need not be empty : I would gladly accept a glass of water filled to 60 % when I am thirsty .
+Absence of evidence ( of protection ) is not evidence of absence .
+But in our binary world , the official message that surgical masks are not effective " may have sent the wrong message : that they are absolutely useless .
+Sadly , with the black-and-white picture painted by officials , the discussion about the effectiveness of masks has been stifled , and with it the possibility of incentivizing industry to ramp up production of these 75 cents-a-piece protective devices .
+But with the declared goal to flatten the curve " ( and not to totally eliminate the virus ) we have a relative " as opposed to absolute goal , which places the notion of partial protection " in a new light .
+In principle , one could compute the extent Y of flattening @ @ @ @ @ @ @ @ @ @ as conferred by mask .
+But for that we need to first understand the mechanics and biology of transmission in detail .
+THE MECHANICS  How viruses that cause airborne diseases are carried by droplets from person to person is a complicated , understudied matter .
+Droplets can ( for this discussion ) be crudely divided in two large categories based on size ( FIG .
+2 ) :  FiIGURE 2 .
+Droplet larger than aerosols , when exhaled ( at velocity of &lt;1m/s ) , evaporate or fall to the ground less than 1 .
+m away .
+When expelled at high velocity through coughing or sneezing , especially larger droplets ( &gt; 0 .
+micrometers ) , can be carried by the jet more than 2m or 6m , respectively , away .
+( a ) Droplets below a diameter of 10 um ( micrometer ) , the upper size limit for the definition of ' aerosol ' ( particles so light as to be able to float in the air ) .
+For brevity , let us call this category aerosols " .
+These small @ @ @ @ @ @ @ @ @ @ can travel across rooms .
+What makes N95 facial masks different from the surgical masks is that the former are designed ( as per regulatory requirement ) to stop aerosols : they have to filter out 95% of droplets smaller than 0 .
+( b ) Droplets larger than 10um ( micrometer ) , reaching 100um or more .
+Let us call these large particles spray droplets " here .
+( For a more detailed discussion , see Nicas and Jones , 2009 ) .
+Of course , droplets can be even larger , up to a size visible to the naked eye in the spray generated by coughing or sneezing ( 0 .
+um diameter to above ) .
+Calculations by Xie et al suggest that if exhaled , the &gt;0 .
+um droplets may evaporate or fall to a surface within 2m , depending on size , air humidity and temperature .
+But coughing or sneezing can shoot them like projectiles out of the mouth with a muzzle velocity " of 50 meters/second ( for sneezing ) or 10 m/s ( for coughing ) , and droplets can @ @ @ @ @ @ @ @ @ @ , then the much mentioned safe distance " of 6 feet in social encounters may not suffice -- except you wear a ( simple ) mask -- more on that later .
+Here is the central biological implication of the distinction between aerosols and spray droplets : For airborne particles to be inspired and reach deep into the lung , through all the air ducts down to the alveolar cells where gas-exchange takes place , it has to be small ( FIG .
+3 ) : only droplets below 10 micrometer diameter can reach the alveolae .
+By contrast , the large spray droplets get stuck in the nose and throat ( the naso-pharyngeal space ) and in the upper air ducts of the lung , trachea and large bronchia .
+The droplets of a typical cough expulsion have a size distribution such that approximately half of the droplet are in the categories of aerosols , albeit they collectively represent only less than 1/100,000 of the expelled volume ( Nicas et al 2005 ) .
+FIGURE 3 .
+Anatomy of airways and where droplets can end up , depending @ @ @ @ @ @ @ @ @ @ masks  Itthus follows that the sophisticated N95 masks , designed to filter out the smallest particles , help to prevent droplets from carrying the virus down to the alveolae .
+But is this really relevant for flattening the curve ? We shall see below .
+By contrast , it is plausible that the large droplets that end up in the nasopharynx can be stopped by any physical barrier , such as simpler surgical or dust masks .
+Of course many aerosol droplets in the exhalation or cough spray may not contain the virus , but some will do .
+In the case of the SARS-Cov-2 virus it is not known what the minimal infectious load is ( number of viral particles needed to start the pathogenesis cascade that causes a clinical disease ) .
+But we begin to appreciate whether the small aerosol or large projectile droplets are more relevant .
+The tacit notion at the CDC that the alveolae are the destination site for droplets to deliver the virus load ( the alveolae are after all the anatomical site of life-threatening pneumonia ) , has elevated @ @ @ @ @ @ @ @ @ @ dismissal of surgical masks .
+Nuances do not translate to the lay people ( as well as many arm chair experts ) who now , owing to message binarization , think that masks are useless .
+Even with respect to the small aerosols we must not forget that thepartial filtering provided by surgical masks is better than nothing .
+In an experimental simulation of the filtering capacity of masks in 2008 , van der Sande and her colleagues in the Netherlands compared the ability of three masks : ( i ) home-made ( DYI ) of tea cloth , ( ii ) standard surgical masks and ( iii ) FFP2 , the European equivalent of N95 masks , with respect to their ability to stop small aerosols in the range 0 .
+to 1 um -- droplets that reach the lower lung .
+Figure 4  What the authors found for inward protection warrants some questioning of CDC 's message that surgical masks are " not effective " : While FFP2 ( or N95 ) masks indeed filtered out &gt;99% of particles ( thus , reducing the aerosol load @ @ @ @ @ @ @ @ @ @ of aerosol droplets behind the mask still by a substantial 4-fold compared to outside of the mask .
+It is plausible that for larger spray droplets from cough expulsions the difference between surgical masks and the F95 respirator masks would be even smaller .
+Interestingly , for outward protection , the effectiveness and differences are much smaller ( see numbers in the FIG .
+FIGURE 5 .
+Filtering effect for small droplets ( aerosols ) by various masks ; home-made of tea cloth , surgical mask ( 3M Tie-on " ) and a FFP2 ( N95 ) respirator mask .
+The numbers are scaled to the reference of 100 ( source of droplets ) for illustrative purposes , calculated from the PF ( protection factor ) values in Table 2 of van der Sande et al , 2007 .
+Measurement was performed with a Portacount counter that registers particles in the air with sizes in the range between 0 .
+and 1 micrometer at the end of a 3-hour wearing period with no physical activity .
+The number for the protection are medians of 7 ( or 8 @ @ @ @ @ @ @ @ @ @ of the test was similar for the Tea Cloth and Surgical mask , but for FFP2 the protection was double .
+Children experienced substantially less protection ( see van der Sande et al 2007 )  These results raise the urgent question : If all we want is to mitigate the pandemic , that is , to flatten the curve " , how much does a 4-fold reduction of particles that reach the lungs decrease transmission from person to person ? Intuition suggests that even an imperfect mask may offer some protection that is at least in the range of the recommended separation by more than 6 feet in social interactions or wasing hands or not touching your face -- all recommendation based on mechanistic plausibility without strong epidemiological support .
+Technically , one could quantify by how much the reduction by 4-fold of the droplets that a person is exposed to , as achieved by surgical masks , or by 3-fold , as achieved by makeshift tea-cloth masks , contributes to a reduction of the reproduction rate " from the initial R0 to the effective Rt after mitigation @ @ @ @ @ @ @ @ @ @ one could , using SEIR-epidemiological models , compute to what extent a partial reduction of R would substantially flatten the curve -- to the desired extent to avoid overwhelming the health care system ( see Figure 1 ) .
+But such bottom up " calculation of R is complicated because it would require knowledge of many mechanistic factors that are not easy to quantify .
+For instance , we do not know to what proportion COVID-19 is transmitted via large spray droplets vs .
+small aerosols .
+Only in the latter case will the advantage of N95 respirator masks over surgical masks be fully realized ! We also do not know how much social distancing alone contributes to reducing R .
+Thus , let us have a look at the actual biology of transmission which offers a way out of this problem and has also not been considered by officials who claimed that surgical masks are not effective " .
+THE BIOLOGY  The SARS-Cov-2 virus , like any virus , must dock onto human cells using a key-lock principle , in which the virus presents the @ @ @ @ @ @ @ @ @ @ the key to enter the cell and replicate .
+For the SARS-Cov-2 virus , the viral surface protein Spike protein S " is the key " and it must fit snugly into the lock " protein that is expressed ( =molecularly presented ) on the surface of the host cells .
+The cellular lock protein that the SARS-Cov-2 virus uses is the ACE2 protein FIG 6 ) .
+This cell surface enzyme normally has a cardio-pulmonal protective function .
+ACE2 is expressed at higher levels in the elderly , in people with chronic heart failure or with pulmonary or systemic arterial hypertension .
+( Note that ACE2 expression is rate -- limiting " because other host proteins whose presence is also needed for the virus to enter the cells , such as proteases , are more abundantly and widely expressed ) .
+Certain blood pressure drugs ( as now intensely discussed since hypertension is a risk factor for progression to ARDS and death in COVID-19 ) , but also mechanical stress from ventilation , ironically , can increase the expression of ACE2 .
+Figure 6 .
+The SARS-Cov-2 @ @ @ @ @ @ @ @ @ @ to the ACE2 ( blue ) protein in cell surfaces .
+Surprisingly , ACE2 expression in the lung is very low : it is limited to a few molecules per cell in the alveolar cells ( AT2 cells ) deep in the lung .
+But a just published paper by the Human Cell Atlas ( HCA ) consortium reports that ACE2 is highly expressed in some type of ( secretory ) cells of the inner nose ! ( FIG .
+Combine this fact with the above explanation of the mechanics : The nasal expression of ACE2 protein suggests that the SARS-Cov2 virus infects these cells .
+One can also infer that transmission of the SARS-Cov2 virus will occur largely via large cough or sneeze droplets , which comprise the vast portion of the sprayed liquid in cough/sneeze and will land in the nasopharynx due to their size -- precisely where the molecular locks for the virus are present , allowing viral attachment and entry into the host cells .
+Obviously this route of transmission could be effectively blocked by simple physical barrier .
+( The proximal @ @ @ @ @ @ @ @ @ @ transmission by surface droplets -- hence , indeed wash your hands ) .
+FIGURE 7 .
+Major route of viral entry is likely via large droplets that land in the nose -- where expression of the viral entry receptor , ACE2 is highest .
+This is the transmission route that could be effectively blocked already by simple masks that provide a physical barrier .
+In fact , W ? lfel et al .
+now report that viral material can be readily detected and isolated from nasal swabs , unlike in the case of other airborne viral infections , such as the original SARS .
+Compared to SARS ( which also uses ACE2 to enter cells ) in the case of COVID-19 , viral genomes ( RNA ) appear earlier in nasal swabs and at much higher concentration , such that detection is rather easy .
+In fact , the FDA just approved swabs for tests taken from just from the front of the nose through self-collection , instead of deep in the nasopharynx .
+The molecular analysis also show that the SARS-Cov2 virus is active and replicates already @ @ @ @ @ @ @ @ @ @ in deeper regions of the lung .
+The viral replication in the nasopharygeal mucosa may also explain positive tests in the prodromal stage and transmission by healthy carriers , and perhaps the anosmia seen in early stages of COVID19 .
+But this biology also means : avoiding large droplets , which can not enter the lung anyway but land in the upper respiratory tracts , could be the most effective means to prevent infection .
+Therefore , surgical masks , perhaps even your ski-mask , bandanas or scarf , may afford more protection than portrayed by governmental official in their initial ( understandable but unfortunate ) recommendation against wearing of masks by the public in general .
+N95 respirator masks may offer relatively little additional protection than thought .
+( To be fair , the CDC suggests use of scarf by health care providers as last resort when no face masks are available ) .
+From a practical and societal point of view , surgical or self-made masks , if handled properly , will at worst not hurt and may at best , help .
+( Make sure @ @ @ @ @ @ @ @ @ @ surface ) .
+These simpler , inexpensive masks may suffice to help to flatten the curve , perhaps a bit , perhaps substantially .
+Importantly : using them will not take away valuable N95 respirator masks from health care workers .
+THE IMPLICATIONS  It would be tragic if the wrong logics and mechanics and biology , which has led Western governments to not encourage , if not stigmatize the wearing of masks , may have contributed to the steep rise of COVID-19 .
+Given that the upper respiratory tract is the major site for SARS-Cov-2 entry into human tissues , wearing simple face masks which exert a barrier function that blocks those big projectile droplets that land in the nose or throat may substantially reduce the production rate R , to an extent that may be comparable to social distancing and washing hands .
+This would then double the effect of mitigation in flattening the curve " !  Looking forward : if we are soon loosening the lockdown due to the political pressure to sustain the economy , perhaps encouraging face masks to be worn in the @ @ @ @ @ @ @ @ @ @ total freedom that risks resurgence of the invisible enemy .
+There is now a robust scientific basis for putting an end to the officials ' anti-surgical mask hysteria and to recommend or even mandate a broad use of masks as in Asian countries that have bent the curve .
+Institute for Systems Biology  Great article and this will change the game if goes to the authorities .
+There is a video in circulation via WhatsApp created by a girl from Czech Republic .
+What she says the reason for no cases in her country is due to lock down and mainly due to wearing face masks by everyone .
+This is much sensible and we all should promote this protection .
+Leave a Reply  Disclaimer : The comments contained within this website are personal reflection only and do not necessarily reflect the views of the LankaWeb .
+LankaWeb .
+offers the contents of this website without charge , but does not necessarily endorse the views and opinions expressed within .
+Neither the LankaWeb nor the individual authors of any material on this Web site accept responsibility @ @ @ @ @ @ @ @ @ @ through negligence ) , which you may directly or indirectly suffer arising out of your use of or reliance on information contained on or accessed through this Web site .
+All views and opinions presented in this article are solely those of the surfer and do not necessarily represent those of LankaWeb .
+This entry was posted on Monday , March 30th , 2020 .
+You can follow any responses to this entry through the RSS 2 .
+feed .
+You can skip to the end and leave a response .

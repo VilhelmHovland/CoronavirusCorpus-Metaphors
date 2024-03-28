@@ -1,0 +1,36 @@
+Cyber security threats loom large as employees work remotely  There could be possible cyber security threats as lakhs of employees vacated offices and corporate campuses and have started working from home due to the COVID-19 threat and subsequent lockdown .
+Experts say that maintaining security in the face of this global office exodus presents significant risks for most organizations .
+At the global level 50 per cent of employees are working outside of their main headquarters for at least 2 .
+days per week , according to the latest International Workplace Group report .
+The COVID-19 crisis is likely to continue for a while , prompting organisations to make enabling a remote workforce and ensuring that office networks , devices and data are secure top priority .
+" COVID-19 has created major chaos across the globe , thereby bringing every industry under its grim shadow .
+Hackers are preying on the fears of the outbreak and cyber-attacks have seen an upsurge .
+Recently , a well known organization in India received an email in the name of WHO that was apparently a ransomware variant -- Locky .
+Emails sent in the name of a Japanese disability @ @ @ @ @ @ @ @ @ @ to be carrying a malicious email attachment hiding the notorious Emotet malware .
+Now that companies have switched to work from home -- using electronic devices and applications more often , the chances of planting a range of malware into devices or playing with the system remotely becomes easier as they may face the possibility of functioning with little or no IT support , " said Saurabh Saxena , Country Director-India , Micro Focus .
+This expert observed that both employers and employees need to take care to protect themselves as well as the company 's confidential information .
+" One needs to be cautious about phishing emails , follow good cyber hygiene , use only secured connections , avoid opening unnecessary links and be in constant touch with their respective IT departments .
+With the amalgamation of technology and employee training attacks can be mitigated safely and efficiently " added Saxena .
+Some cyber security experts point out that the biggest opportunity for cyber attackers with the COVID-19 outbreak has nothing to do with technology , but with how humans change their behaviour and patterns in response @ @ @ @ @ @ @ @ @ @ take advantage of the high amount of attention paid to COVID-19 to lure victims into opening attachments on malicious emails and click on phishing links .
+" As people seek out information about COVID-19 , how it is impacting them , and how they can stay safe , many are looking to their smartphone for help .
+There have already been multiple cases reported of malicious Android applications that claim to offer information about the virus .
+These allow the attacker to spy on you through your devices , or encrypt your device and hold it for ransom .
+As always , Android users should not install applications from untrusted sources ( stick to the Google Play store ) and iPhone users should not jailbreak their phones and install apps from third-party sources ( stick to the App Store ) , " explained Ryan Olson , Vice President , Threat Intelligence ( Unit 42 ) at Palo Alto Networks .
+This expert further points out that in the past few weeks , more than 100,000 domains have been registered containing terms like ' covid ' , ' virus @ @ @ @ @ @ @ @ @ @ these are malicious , but all of them should be treated with suspicion .
+Whether they claim to have information , a testing kit , or a cure , the fact that the website did n't exist until the pandemic became news should make one very sceptical of their validity " remarked Olson .
+Cyber experts are of the view that companies should have a current cyber security policy that includes remote working .
+It is being observed strong security policies may already exist in some organisations , but it is important to review them and ensure they are adequate as the organization transitions to having more people working from home than in an office .
+Experts observe that security policies need to include remote working access management , the use of personal devices , and updated data privacy considerations for employee access to documents and other information .
+" Employees working from home may use personal devices to carry out business functions , especially if they can not get access to a business supplied device as supply chains may slow down .
+Personal devices will need to @ @ @ @ @ @ @ @ @ @ device , and an organisation will also need to consider the privacy implications of employee owned devices connecting to a business network .
+At the same time sensitive data may be accessed through unsafe Wi-Fi networks as employees working from home may access sensitive business data through home Wi-Fi networks that will not have the same security controls such as firewalls used in traditional offices .
+More connectivity will be happening from remote locations , which will require greater focus on data privacy , and hunting for intrusions from a greater number of entry points , " explained Michael Sentonas , Global Chief Technology Officer of CrowdStrike .
+This expert foresees that employees working from home can result in an organisation losing visibility over devices and how they have been configured , patched and even secured .
+At the same time , as per Sentonas , coronavirus-themed scams are escalating .
+Continuous end user education and communication are extremely important .
+" Organizations should also consider employing more stringent email security measures , " said Sentonas .
+Interestingly , with the ongoing concerns about cyber security in the @ @ @ @ @ @ @ @ @ @ Labs Threat research team has found that the risk of engaging with any of the coronavirus apps is very high .
+The team says that there are no mobile apps that can track coronavirus infections or point to a vaccine .
+At the same time , hackers are developing malicious apps and links to prey off data and hack remote devices .
+" During challenging times such as the COVID 19 pandemic , organisations have very little choice but to mandate work from home policies for its employees .
+This implies a need to maintain flexible work environment without losing availability , " said Debasish Mukherjee VP , Regional Sales APAC , at SonicWall .

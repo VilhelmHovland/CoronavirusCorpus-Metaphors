@@ -1,0 +1,12 @@
+NoCookies  You have cookies turned off  To use this website , cookies must be enabled in your browser .
+To enable cookies , follow the instructions for your browser below .
+Facebook App : Open links in External Browser  There is a specific issue with the Facebook in-app browser intermittently making requests to websites without cookies that had previously been set .
+This appears to be a defect in the browser which should be addressed soon .
+The simplest approach to avoid this problem is to continue to use the Facebook app but not use the in-app browser .
+This can be done through the following steps :  Open the settings menu by clicking the hamburger menu in the top right  Choose " App Settings " from the menu  Turn on the option " Links Open Externally " ( This will use the device 's default browser )  Go to the Home screen by pressing the Home button or by unlocking your phone/iPad  Select the Settings icon .
+Select Safari from the settings menu .
+Select ' accept cookies ' from the safari menu .
+Select @ @ @ @ @ @ @ @ @ @  Press the home button to return the the iPhone home screen .
+Select the Safari icon to return to Safari .
+Before the cookie settings change will take effect , Safari must restart .
+To restart Safari press and hold the Home button ( for around five seconds ) until the iPhone/iPad display goes blank and the home screen appears .

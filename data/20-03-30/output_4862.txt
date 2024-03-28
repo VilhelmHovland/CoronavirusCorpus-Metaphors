@@ -1,0 +1,28 @@
+How Singapore 's Coronavirus Tracking App Works  On March 20 Singapore released a mobile app to help track the spread of novel coronavirus .
+Over 620,000 people signed up within a week , and the developers have been making an open source version ever since to help other countries develop their own versions .
+Here 's how TraceTogether actually works .
+What is TraceTogether ?  TraceTogether is an app used in Singapore to track and trace people who may have come into contact with a confirmed COVID-19 case .
+It was built over two months by BlueTrace using both centralised and decentralised contact tracing methods .
+How TraceTogether works  The app sends signals between other phones that also have the software when they come into close proximity of one another .
+It can tell how close two people were and for how long , and this data is stored on the device for three weeks .
+It 's been a disorientating week for Australia .
+Hundreds of thousands of people lost their jobs .
+New restrictions are introduced daily , often late at night where people can easily miss them .
+@ @ @ @ @ @ @ @ @ @ , yet insist schools are still safe .
+And with millions of Australians ( the fortunate ones ) working from home , our tech infrastructure is strained .
+We 're not really thinking about how tech can be used to help flatten the curve when government websites do n't work , telcos are struggling and Netflix slashed its bitrate to help fight speed issues .
+But some countries are doing better than others .
+TraceTogether 's Privacy  In Singapore the TraceTogether app is completely voluntary and users give consent for the app to run bluetooth .
+They also need to provide a phone number for verification before being given a user ID .
+However , according to CNBC , if someone contracts COVID-19 they are obliged by law to help to provide the Ministry of Health ( MOH ) with a timeline of their movements .
+This includes app data .
+TraceTogether does not log regular location data , a user 's name and it ca n't access an contact lists .
+If contact tracers for the MOH request a user 's bluetooth-acquired data , it @ @ @ @ @ @ @ @ @ @ ID to preserve privacy .
+" The collection and logging of encounter/proximity data between devices that implement BlueTrace is done in a peer-to-peer , decentralised fashion , to preserve privacy , " says the BlueTrace Manifesto .
+" At the same time , the analysis and the provision of epidemic control guidance is done centrally by a trusted public health authority , committed to driving adoption .
+Sovereignty is respected through a federated model among a network of participating countries and public health authorities .
+"  Will other countries get TraceTogether ?  While TraceTogether was specifically built for Singapore , the app developers are currently working to make the source codes protocols open-sourced so other countries can create their own versions .
+Trending Stories Right Now  I have been shaken to my core , and now you may be too .
+It turns out that I 've been moving apps around on iPhones the hard way .
+Not only was I an early adopter on smart phones , I literally review them for work .
+Fortunately , I 'm not the only tech writer @ @ @ @ @ @ @ @ @ @ .

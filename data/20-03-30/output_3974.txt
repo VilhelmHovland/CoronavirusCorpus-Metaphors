@@ -1,0 +1,19 @@
+The HSE is set to launch a contact-tracing app in response to the coronavirus pandemic , but concerns have been raised over how it handles user data .
+A number of countries have released apps designed to help track the spread of the coronavirus , using Bluetooth and phone proximity to alert people when they 've been in close contact with someone who has contracted Covid-19 .
+Now , the Irish Government is following suit , with the HSE planning to roll out its own app .
+At a briefing yesterday ( 29 March ) , the health service 's head of communications , Paul Connors , said the app was a " cross-Government effort " that will likely be released in a matter of days .
+According to a report in the Business Post , the app uses short-distance Bluetooth to signal where users are near to each other and records this information .
+If a person is confirmed to test positive for Covid-19 , the disease caused by the coronavirus , everyone who came within close contact of them for a prolonged period of time will be notified .
+The app will @ @ @ @ @ @ @ @ @ @ features such as being able to report on your wellbeing , which will be fed back to the HSE for future tracking of the spread of the virus .
+However , concerns have been raised that while such an app could be effective for tracking the spread of the coronavirus , the long-term implications for user privacy could be damaging if not managed properly .
+The Singapore example  The HSE said that the agencies it is working with to develop the app include the Data Protection Commission , with the aim of ensuring it is GDPR compliant .
+However , speaking with The Irish Times , solicitor and privacy expert Simon McGarr said that there is little information available at the moment to know where data generated on the app is stored .
+Furthermore , he said that the HSE should reveal who has access to the data and how it will be distributed .
+" It will be relevant when we start to try to go back to work , " he said .
+" Then it will allow us to catch and @ @ @ @ @ @ @ @ @ @ now , they will damage the implementation and take-up we need for it to be widespread later .
+"  Siliconrepublic .
+has reached out to the HSE to clarify where the app 's data is stored and whether privacy groups have been consulted for its development .
+Singapore 's government recently made the software for its own contact-tracing app -- Trace Together -- freely available for developer use worldwide .
+The app uses Bluetooth to identify when a person has been within two metres of a coronavirus patient for at least 30 minutes .
+In this case , the country 's government said that the only data it will collect is the user 's mobile phone number .
+At least 620,000 people have downloaded the app , with the government stating that all user data will be deleted once the pandemic has subsided .

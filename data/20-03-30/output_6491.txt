@@ -1,0 +1,25 @@
+This scanning electron microscope image shows SARS-CoV-2 ( yellow ) -- also known as 2019-nCoV , the virus that causes COVID-19 -- isolated from a patient , emerging from the surface of cells ( blue/pink ) cultured in the lab .
+Credit : NIAID-RML  A team of researchers at the University of California has been studying proteins that the SARS-CoV-2 virus uses to bind to proteins in the lungs , and has identified multiple drug candidates that might be useful to treat patients with COVID-19 .
+The team notes that many of them have already been approved for use by the FDA in treating other diseases .
+They have posted their paper on the BioRxiv preprint server as they await publication in an unspecified journal .
+Not long after the SARS-CoV-2 virus was found to be infecting people , scientists sequenced its genome .
+The work in this new effort involved analyzing the sequenced data , from which the researchers identified 29 genes in the virus that were responsible for producing proteins involved in interacting with human proteins .
+Next , the team invited a group of chemists into their effort to help them find small @ @ @ @ @ @ @ @ @ @ they had found .
+That led to a list of drugs that might be useful in treating patients with COVID-19 .
+The team is now currently testing the drugs on their list with infected cells to find those that are able to prevent the virus proteins from interacting with the human proteins .
+They note that they accomplished work in just a matter of weeks that would normally take months .
+They proceeded more rapidly by collaborating with hundreds of other scientists working in 21 laboratories around the world .
+The team at UC was not the only one studying proteomics as a way to identify drugs that might help with COVID-19 .
+A combined team from University Hospital Frankfurt and Goethe University used an isobaric labeling-based technique to study changes in protein translation and amounts following infection , which they believe could guide the search for therapies .
+And another team at IsoPlexis has been collaborating with researchers at the Institute for Systems Biology to study immune response in people who have recovered from COVID-19 infections , particularly the way proteins are prevented from interacting .
+Also , @ @ @ @ @ @ @ @ @ @ Hood College has been looking into the possibility of using proteins as a way to develop a test for the virus .
+This document is subject to copyright .
+Apart from any fair dealing for the purpose of private study or research , no part may be reproduced without the written permission .
+The content is provided for information purposes only .
+E-mail the story  Note  Your email address is used only to let the recipient know who sent the email .
+Neither your address nor the recipient 's address will be used for any other purpose .
+The information you enter will appear in your e-mail message and is not retained by Medical Xpress in any form .
+Your message  Newsletter sign up  Get weekly and/or daily updates delivered to your inbox .
+You can unsubscribe at any time and we 'll never share your details to third parties .
+Your Privacy  This site uses cookies to assist with navigation , analyse your use of our services , and provide content from third parties .
+By using our site , @ @ @ @ @ @ @ @ @ @ Policy and Terms of Use .

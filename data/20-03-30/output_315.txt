@@ -1,0 +1,80 @@
+How at risk are you of getting a virus on an airplane ?  Frontera is the fifth most powerful supercomputer in the world and fastest academic supercomputer , according to the November 2019 rankings of the Top500 organization .
+Frontera is located at the Texas Advanced Computing Center and supported by National Science Foundation .
+Credit : TACC  Fair or not , airplanes have a reputation for germs .
+However , there are ways to minimize the risks .
+Historic research based on group movements of humans and animals suggest three simple rules :  move away from those that are too close .
+move toward those that are far away .
+match the direction of the movement of their neighbors .
+This research is especially used for air travel where there is an increased risk for contagious infection or disease , such as the recent worldwide outbreak of the coronavirus , which causes COVID-19 disease .
+" Airlines use several zones in boarding , " said Ashok Srinivasan , a professor in the Department of Computer Science University of West Florida .
+" When boarding a plane , people are @ @ @ @ @ @ @ @ @ @ in the bin -- people are very close to each other .
+This problem is exacerbated when many zones are used .
+Deplaning is much smoother and quicker -- there is n't as much time to get infected .
+"  Srinivasan is the principal investigator of new research on pedestrian dynamics models that has recently been used in the analysis of procedures to reduce the risk of disease spread in airplanes .
+The research was published in the journal PLOS ONE in March 2020 .
+For many years scientists have relied on the SPED ( Self Propelled Entity Dynamics ) model , a social force model that treats each individual as a point particle , analogous to an atom in molecular dynamics simulations .
+In such simulations , the attractive and repulsive forces between atoms govern the movement of atoms .
+The SPED model modifies the code and replaces atoms with humans .
+" The SPED model changes the values of the parameters that govern interactions between atoms so that they reflect interactions between humans , while keeping the functional form the same , " Srinivasan said @ @ @ @ @ @ @ @ @ @ to analyze the risk of an Ebola outbreak in 2015 , which was widely covered in news outlets around the world .
+However , one limitation of the SPED model is that it is slow -- which makes it difficult to make timely decisions .
+Answers are needed fast in situations such as an outbreak like COVID-19 .
+The researchers decided there was a need for a model that could simulate the same applications as SPED , while being much faster .
+They proposed the CALM model ( for constrained linear movement of individuals in a crowd ) .
+CALM produces similar results to SPED , but is not based on MD code .
+In other words , CALM was designed to run fast .
+Like SPED , CALM was designed to simulate movement in narrow , linear passageways .
+The results of their research shows that CALM performs almost 60 times faster than the SPED model .
+Apart from the performance gain , the researchers also modeled additional pedestrian behaviors .
+" The CALM model overcame the limitations of SPED where real time decisions are required @ @ @ @ @ @ @ @ @ @  The scientists designed the CALM model from scratch so it could run efficiently on computers , especially on GPUs ( graphic processing units .
+For their research , Srinivasan and colleagues used Frontera , the #5 most powerful supercomputer in the world and fastest academic supercomputer , according to the November 2019 rankings of the Top500 organization .
+Frontera is located at the Texas Advanced Computing Center and supported by National Science Foundation .
+" Once Blue Waters started being phased out , Frontera was the natural choice , given that it was the new NSF-funded flagship machine , " Srinivasan said .
+" One question you have is whether you have generated a sufficient number of scenarios to cover the range of possibilities .
+We check this by generating histograms of quantities of interest and seeing if the histogram converges .
+Using Frontera , we were able to perform sufficiently large simulations that we now know what a precise answer looks like .
+"  Progress of deplaning simulation .
+Credit : Ashok Srinivasan , Professor , Department of Computer Science , University of West Florida @ @ @ @ @ @ @ @ @ @ precise predictions due to inherent uncertainties , especially at the early stages of an epidemic -- this is what makes the computational aspect of this research challenging .
+" We needed to generate a large number of possible scenarios to cover the range of possibilities .
+This makes it computationally intensive , " Srinivasan said .
+The team validated their results by examining disembarkation times on three different types of airplanes .
+Since a single simulation does n't capture the variety of human movement patterns , they performed simulations with 1,000 different combinations of values and compared it to the empirical data .
+Using Frontera 's GPU subsystem , the researchers were able to get the computation time down to 1 .
+minutes .
+" Using the GPUs turned out to be a fortunate choice because we were able to deploy these simulations in the COVID-19 emergency .
+The GPUs on Frontera are a means of generating answers fast .
+"  Though there have been thorough empirical studies on several flights to understand human behavior and cleanliness of the surfaces and air , a major infection outbreak @ @ @ @ @ @ @ @ @ @ not capture it .
+There are about 100,000 flights on an average day .
+A very low probability event could lead to frequent infection outbreaks just because the number of flights is so large .
+Although models have predicted infection transmission in planes as unlikely , there have been several known outbreaks .
+Srinivasan offers an example .
+" It 's generally believed that infection spread in planes happens two rows in front and back of the index patient , " he said .
+" During the SARS outbreak in 2002 , on the few flights with infection spread , this was mostly true .
+However , a single outbreak accounted for more than half the cases , and half of the infected were seated farther than two rows away on that flight .
+One might be tempted to look at this outbreak as an outlier .
+But the ' outlier ' had the most impact , and so people farther than two rows away accounted for a significant number of people infected with SARS on flights .
+"  Currently , with regard to COVID-19 , @ @ @ @ @ @ @ @ @ @ .
+However , there have been communities were a single ' super-spreader ' infected a large number of people and played the driving role in an outbreak .
+The impact of such extreme events , and the difficulty in modeling them accurately , makes prediction difficult , according to Srinivasan .
+" In our approach , we do n't aim to accurately predict the actual number of cases , " Srinivasan said .
+" Rather , we try to identify vulnerabilities in different policy or procedural options , such as different boarding procedures on a plane .
+We generate a large number of possible scenarios that could occur and examine whether one option is consistently better than the other .
+If it is , then it can be considered more robust .
+In a decision-making setting , one may wish to choose the more robust option , rather than rely on expected values from predictions .
+"  Some Practical Advice  Srinivasan has some practical advice for readers as well .
+" You may be still be at risk for a virus even if you are farther @ @ @ @ @ @ @ @ @ @ In discussion with modelers who advocate it , it appears that those models do n't take air flow into account .
+Just as a ball goes farther if you throw it with the wind , the droplets carrying the viruses will go farther in the direction of the air flow .
+"  These are not just theoretical considerations .
+In Singapore , they observed that an exhaust air vent of a toilet used by a patient tested positive for the new Coronavirus and attributed it to air flow .
+" Models do n't account for all factors impacting reality .
+When the stakes are high , one may wish to err on the side of caution , " Srinivasan concludes .
+Citation : How at risk are you of getting a virus on an airplane ? ( 2020 , March 30 ) retrieved 31 March 2020 from https : **38;1334;TOOLONG .
+This document is subject to copyright .
+Apart from any fair dealing for the purpose of private study or research , no part may be reproduced without the written permission .
+The content is provided @ @ @ @ @ @ @ @ @ @ How at risk are you of getting a virus on an airplane ?  Note  Your email address is used only to let the recipient know who sent the email .
+Neither your address nor the recipient 's address will be used for any other purpose .
+The information you enter will appear in your e-mail message and is not retained by Phys .
+in any form .
+Your message  Newsletter sign up  Get weekly and/or daily updates delivered to your inbox .
+You can unsubscribe at any time and we 'll never share your details to third parties .
+Your Privacy  This site uses cookies to assist with navigation , analyse your use of our services , and provide content from third parties .
+By using our site , you acknowledge that you have read and understand our Privacy Policy and Terms of Use .

@@ -1,0 +1,40 @@
+Eight strains of coronavirus are circling the world , scientists say  At least eight strains of the coronavirus are making their way around the globe , creating a trail of death and disease that scientists around the world are tracking by their genetic footprints .
+While much is unknown , hidden in the virus 's unique microscopic fragments are clues to the origins of its original strain , how it behaves as it mutates and which strains are turning into conflagrations while others are dying out thanks to quarantine measures , the USA Today reported on Sunday .
+Huddled in once bustling and now almost empty labs , researchers who oversaw dozens of projects are instead focused on one goal : tracking the current strains of the SARS-CoV-2 virus that cause COVID-19 .
+Labs around the world are turning their sequencing machines , most about the size of a desktop printer , to the task of rapidly sequencing the genomes of virus samples taken from people sick with COVID-19 .
+The information is uploaded to a website called NextStrain .
+that shows how the virus is migrating and splitting into similar but new subtypes .
+@ @ @ @ @ @ @ @ @ @ of the iceberg , the tiny differences between the virus strains suggest shelter-in-place orders are working in some areas and that no one strain of the virus is more deadly than another .
+They also say it does not appear the strains will grow more lethal as they evolve .
+" The virus mutates so slowly that the virus strains are fundamentally very similar to each other , " said Charles Chiu , a professor of medicine and infectious disease at the University of California , San Francisco School of Medicine , United States .
+The SARS-CoV-2 virus first began causing illness in China sometime between mid-November and mid-December .
+Its genome is made up of about 30,000 base pairs .
+Humans , by comparison , have more than three billion .
+So far even in the virus 's most divergent strains scientists have found only 11 base pair changes .
+That makes it easy to spot new lineages as they evolve , said Chiu .
+" The outbreaks are trackable .
+We have the ability to do genomic sequencing almost in real-time to see what @ @ @ @ @ @ @ @ @ @  So far , most cases on the U .
+West Coast are linked to a strain first identified in Washington state .
+It may have come from a man who had been in Wuhan , China , the virus ' epicenter , and returned home on January 15 .
+It is only three mutations away from the original Wuhan strain , according to work done early in the outbreak by Trevor Bedford , a computational biologist at Fred Hutch , a medical research center in Seattle .
+On the East Coast there are several strains , including the one from Washington and others that appear to have made their way from China to Europe and then to New York and beyond , Chiu said .
+This is n't the first time scientists have scrambled to do genetic analysis of a virus in the midst of an epidemic .
+They did it with Ebola , Zika and West Nile , but nobody outside the scientific community paid much attention .
+" This is the first time phylogenetic trees have been all over Twitter , " said Kristian Andersen @ @ @ @ @ @ @ @ @ @ science research facility in La Jolla , California , speaking of the diagrams that show the evolutionary relationships between different strains of an organism .
+The maps are available on NextStrain , an online resource for scientists that uses data from academic , independent and government laboratories all over the world to visually track the genomics of the SARS-CoV-2 virus .
+It currently represents genetic sequences of strains from 36 countries on six continents .
+While the maps are fun , they can also be " little dangerous " said Andersen .
+The trees showing the evolution of the virus are complex and it 's difficult even for experts to draw conclusions from them .
+" Remember , we 're seeing a very small glimpse into the much larger pandemic .
+We have half a million described cases right now but maybe 1,000 genomes sequenced .
+So there are a lot of lineages we 're missing , " he said .
+COVID-19 hits people differently , with some feeling only slightly under the weather for a day , others flat on their backs sick for two @ @ @ @ @ @ @ @ @ @ 1% of those infected die .
+The rate varies greatly by country and experts say it is likely tied to testing rates rather than actual mortality .
+Chiu says it appears unlikely the differences are related to people being infected with different strains of the virus .
+" The current virus strains are still fundamentally very similar to each other , " he said .
+The COVID-19 virus does not mutate very fast .
+It does so eight to 10 times more slowly than the influenza virus , said Anderson , making its evolution rate similar to other coronaviruses such as Severe Acute Respiratory Syndrome ( SARS ) and Middle East Respiratory Syndrome ( MERS ) .
+MONDAY LINES : Abba Kyari And His COVID-19 PATIENTS are afraid of contracting the disease from doctors ; doctors are afraid of getting infected by patients .
+It is a perfect medical standoff certain to breed a disaster .
+How does a country handle this ? Yet , it is a war foretold but our cripple ignored the clear warnings .
+Read full article .

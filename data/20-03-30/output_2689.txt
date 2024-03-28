@@ -1,0 +1,98 @@
+A glossary of the Federal Reserve 's full arsenal of ' bazookas '  The novel coronavirus continues to grip businesses on Main Streets across the country , forcing America 's employers to significantly pare back on their operations or shut down entirely .
+While Congress has passed a $2 trillion stimulus package to help businesses and workers , the Federal Reserve has committed to using its tools to " support the flow of credit to households and businesses and thereby promote its maximum employment and price stability goals .
+"  In total , Fed watchers have referred to the central bank 's measures as " bazookas , " even " going nuclear .
+"  The Fed is notably getting creative with its tools , dispelling any concern that the central bank was beholden to its 2008 playbook .
+For the first time , the Fed is tackling financing pressures in the municipal debt market ( through the MMLF and CPFF ) and the corporate debt market ( through the PMCCF , SMCCF , CPFF ) .
+Here 's a full breakdown of all the tools ( as of March 24 ) announced by @ @ @ @ @ @ @ @ @ @ coronavirus :  ( Credit : David Foster / Yahoo Finance )  Near-zero interest rates  Date announced : March 3 , March 15  Technical details : Interest rates are the primary tool for monetary policy .
+The Fed broadly steers rates to support lending when the economy is in need ( by lowering rates ) and pulls back on lending when the economy may be running too hot ( by raising rates ) .
+The Fed began raising rates in 2015 as policymakers feared inflationary pressures ; low rates are generally tied to increased inflation -- which increases prices for consumers .
+However , the Fed began cutting interest rates in 2019 amid the trade war .
+Coronavirus concerns pushed the Fed to cut rates by 50 basis points on March 3 and then slash its interest rate target to between zero and 0 .
+on March 15 .
+The Fed has not expressed interest in dipping into negative interest rates , which make it costlier to hold onto money than to lend it out .
+How it impacts Main Street : The Fed 's interest @ @ @ @ @ @ @ @ @ @ for the average household and business will still be above zero .
+But for businesses , lower interest rates mean cheaper borrowing costs to invest back into the business and pay workers .
+For individual households , lower interest rates translate to lower return on bank deposits but generally cheaper rates to finance or refinance auto loans or mortgages .
+Quantitative easing ( QE )  Date announced : March 15 , March 23  Technical details : The Fed said it will purchase at least $500 billion of U .
+Treasuries and $200 billion of agency mortgage-backed securities " over coming months .
+" On March 23 , the Fed announced that it was suspending those limits and would buy assets " in the amounts needed " to support the economy , which would also now include agency commercial mortgage-backed securities .
+Through QE , the Fed is directly intervening as its own counterparty in the Treasury and agency MBS markets to absorb securities onto its balance sheet .
+How it impacts Main Street : When the Fed last launched QE in the financial crisis , the central @ @ @ @ @ @ @ @ @ @ Since yields on longer-term government debt serve as a benchmark for longer-term interest rates , QE purchases targeting 30-year bonds ( as the current program does ) should in theory keep 30-year mortgage rates from rising too much .
+Repurchase agreements ( Repo )  Date announced : September 2019  Technical details : As the plumbing of the financial system , the repo market provides financing for banks and broker-dealers at the center of the economy , allowing the levered institutions to cover positions on their balance sheet by lending sums of cash to one another .
+Since last September , the New York Fed has offered repurchase agreements to alleviate pressures in the market for interbank short-term loans , but has since increased the scale of the repos available in the wake of the novel coronavirus .
+Even though the Fed is offering over $5 trillion in total repo agreements ( as short as overnight and as long as three months ) , the uptake has not been anywhere close to that eye-popping figure .
+How it impacts Main Street : Stabilizing repo markets also @ @ @ @ @ @ @ @ @ @ , since the funds often hold some proportion of their assets in daily liquid assets like overnight repos .
+The NY Fed 's repo operations are also designed to ensure that banks can find short-term financing and therefore feel comfortable continuing to provide credit to customers and businesses .
+dollar swap lines  Date announced : March 15 , March 19 , March 20  Technical details : Companies around the world disrupted by the novel coronavirus are loading up on U .
+dollars to cover currency hedge positions .
+As a result , the Fed announced U .
+dollar swap lines with five other major central banks ( including the European Central Bank and Bank of Japan ) to ensure the availability of the world 's reserve currency .
+On March 19 , the Fed expanded its U .
+dollar swap lines with nine other central banks and on March 20 the Fed increased the frequency of its previously-announced swaps with the five major central banks .
+How it impacts Main Street : The U .
+dollar has strengthened against many global currencies , but with international travel almost @ @ @ @ @ @ @ @ @ @ any direct effects of the Fed 's efforts to provide liquidity to foreign exchange markets .
+But broadly , preventing the world from running out of U .
+dollars ensures that an already exposed U .
+economy is n't harmed further by dollar shortage-induced financial collapses in other countries .
+Tapping into capital and liquidity buffers  Date announced : March 15 , March 23  Technical details : After the 2008 financial crisis , Congress passed the Dodd-Frank Act and required banking regulators to increase the amount of capital and liquidity held at U .
+banks in case another crisis struck .
+To withstand fluctuations , most banks hold capital and liquidity buffers well above their statutory requirements , but the Fed on March 15 encouraged banks to tap into those buffers to lend out into the economy .
+How it impacts Main Street : Bank capital and liquidity regulations are a tightrope ; requirements that are too low could lead to fragile balance sheets but requirements that are too high could prevent a bank from lending into an economy in desperate need of more activity .
+The Fed @ @ @ @ @ @ @ @ @ @ safety and soundness of the banks , and that it can allow for some slight regulatory easing to encourage them to use their capital to now support businesses and households .
+How it impacts Main Street : Historically , banks have been reluctant to access the discount window because of the public perception of needing a loan from the Fed , also known as the " lender of last resort .
+" In the last crisis , banks accessed the discount window but feared that depositors were going to trigger a run on the bank because of the " stigma " associated with the window .
+The Fed 's actions , and the fact that the banks have already accessed the discount window , are designed to show depositors and market participants that using the discount window is not necessarily a sign of bank insolvency or severe stress .
+Decoding the Fed 's many facilities opened over the last few weeks .
+Some of the liquidity measures are new ( PMCCF , SMCCF ) , some are old ( TALF ) , and some are old with @ @ @ @ @ @ @ @ @ @ / Yahoo Finance  Commercial Paper Funding Facility ( CPFF ) *  Date announced : March 17 , March 23 ( effective through March 17 , 2021 )  Technical details : The Fed announced that it would directly finance eligible commercial paper , a common form of short-term corporate debt .
+Although the Fed does not have the ability to add commercial paper directly to its balance sheet , the central bank established a special purpose vehicle ( SPV ) with $10 billion of equity investment from the U .
+Treasury to buy high-rated , three-month commercial paper .
+On March 23 , the Fed expanded the CPFF to include some short-term municipal bonds as well .
+How it impacts Main Street : Businesses forced to shut down or significantly scale back their operations are scrambling to find financing as the U .
+tries to flatten the curve on the novel coronavirus .
+But with counterparties less willing to buy corporate debt , the Fed is stepping in to directly take on risk by snatching up commercial paper .
+In theory , the CPFF should allow businesses to @ @ @ @ @ @ @ @ @ @ still there for workers to return to once the economy starts up again .
+Primary Dealer Credit Facility ( PDCF ) *  Date announced : March 17 ( effective through at least September 2020 )  Technical details : The PDCF offers short-term ( up to 90-day ) loans to primary dealers , or firms that serve as intermediaries between the government and the market .
+To get access to the loans , the dealers can offer up a wide variety of different types of collateral ( investment grade corporate debt , commercial paper , municipal debt , mortgage-backed securities , asset-backed securities , and even some stocks ) .
+Exchange-traded funds and mutual funds are not eligible collateral under the PDCF .
+How it impacts Main Street : The PDCF allows those dealers at the heart of the financial system to temporarily liquidate some assets that they may be unable to sell in the open market .
+Without assets trapped on the balance sheet , those primary dealers would then have the liquidity to lend to businesses disrupted by the virus .
+Money Market Mutual @ @ @ @ @ @ @ @ @ @ : March 18 , March 20 ( effective through at least September 2020 )  Technical details : Much like the PDCF , the MMLF offers short-term loans , but to all U .
+banks .
+Under the program , banks offer up collateral in the form of U .
+Treasuries , asset-backed commercial paper , and some unsecured commercial paper .
+The MMLF is similar to the crisis-era Asset-Backed Commercial Paper Money Market Mutual Fund Liquidity Facility ( AMLF ) , but the Fed on March 20 announced that it would expand the MMLF to take on short-term ( with maturities of a year or less ) municipal debt as eligible collateral as well .
+The Treasury will provide $10 billion of credit protection .
+How it impacts Main Street : The expansion of the MMLF to municipal debt is a new move .
+With businesses closed , local municipalities and states may be unable to collect tax revenue for a while .
+As a result , municipal debt markets have been drying up as bond buyers worry about the economic spillover of the virus onto the credit health @ @ @ @ @ @ @ @ @ @ Fed was able to retrofit the MMLF to the muni debt market in an attempt to maintain the flow of financing for localities and their public utilities .
+Primary Market Corporate Credit Facility ( PMCCF ) *  Date announced : March 23 ( effective through at least September 2020 )  Technical details : The PMCCF will purchase investment-grade corporate bonds ( with maturities of four years or less ) directly from eligible issuers and offer them a loan .
+Like the CPFF , the facility will have the support of $10 billion from the U .
+Treasury and hold the bonds in an SPV .
+Companies accessing the PMCCF would pay the Fed interest on the loan but would be allowed to hold off on interest payments for up to six months , during which it would not be allowed to pay dividends or buyback shares .
+The program is new and was not deployed during the 2008 crisis .
+How it impacts Main Street : Companies with weaker credit ratings can not access the CPFF , but strains in the investment-grade market have raised concerns @ @ @ @ @ @ @ @ @ @ .
+The PMCCF hopes to backstop the market and allow those companies to find financing and keep their employees on payroll while the business stoppages continue .
+Secondary Market Corporate Credit Facility ( SMCCF ) *  Date announced : March 23 ( effective through at least September 2020 )  Technical details : As the name implies , the SMCCF will provide a backstop in the secondary market for the investment-grade corporate debt targeted by the PMCCF .
+The facility would include a separate SPV with another $10 billion from the U .
+Treasury .
+The SMCCF can also take on some U .
+ETFs with " broad exposure " to the market for U .
+investment-grade corporate bonds .
+The SMCCF is also a new tool .
+How it impacts Main Street : The SMCCF adds extra juice to its efforts to provide liquidity to the investment-grade corporate debt markets by targeting the secondary market .
+Just as the PMCCF does , the goal is to maintain access to financing for companies hoping to survive the business disruptions from the novel coronavirus , and keep employees paid in @ @ @ @ @ @ @ @ @ @ TALF ) *  Date announced : March 23 ( effective through at least September 2020 )  Technical details : The TALF was deployed in the financial crisis and is again being deployed to provide loans to U .
+companies in exchange for collateral in the form of asset-backed securities .
+The facility would offer the loans to U .
+companies via primary dealers , and would be supported through an SPV with $10 billion of equity investment from the U .
+Treasury .
+How it impacts Main Street : The facility would not directly buy consumer loans since the Fed does not have the authority to do so .
+But the asset-backed collateral supported by the program would include securities such as student loans , car loans , credit card receivables , and small business loans as underlying assets .
+By offering liquidity to the market for securitized loans , the TALF program should support the continued underwriting of those categories of consumer loans .
+Main Street Business Lending Program  Date announced : March 23  Technical details : The Fed announced that it would soon open an @ @ @ @ @ @ @ @ @ @ small-and-medium sized businesses .
+" No additional details were provided on timing and structure , and there are still questions about how the Fed would navigate the legal obstacles around its authority to set up such a program .
+How it impacts Main Street : The Fed 's facilities to-date are largely only accessible to banks , broker-dealers , and large corporations .
+But the central bank has acknowledged that Main Street businesses -- the local coffee shop or the neighborhood grocery store -- are also in dire need of liquidity .
+The Fed says its program would " complement " the business loans currently offered by the Small Business Administration , although the Fed may be waiting on action from Congress before launching its own program .
+( * denotes facilities opened by the Fed with approval from the U .
+Treasury under Section 13(3) of the Federal Reserve Act )  Brian Cheung is a reporter covering the Fed , economics , and banking for Yahoo Finance .
+You can follow him on Twitter @bcheungz .

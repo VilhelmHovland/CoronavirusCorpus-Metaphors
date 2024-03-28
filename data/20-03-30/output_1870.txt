@@ -1,0 +1,579 @@
+Canada-based Internet censorship research organization , Citizen Lab , points out in their latest report , " Censored Contagion : How Information on the Coronavirus is Managed on Chinese Social Media " that -- on December 31 , 2019 -- China 's web censors introduced a new list of 45 coronavirus-related keywords to block online discussion about the Novel Coronavirus ( COVID-19 ) outbreak .
+According to the report 's authors , the scope of censorship broadened in February 2020 , with the identification of 516 coronavirus-related keyword combinations blocked on the messaging and social media app WeChat between January 1 to February 15 .
+The research notes that at the initial stage of the outbreak of COVID-19 in China , the censorship curbed alerts to the public on the threat of the then-unknown virus .
+Later , the censored contents were broadened to include criticisms of top leaders and officials , government policies , speculative stories , any reference to Dr .
+Li Wenliang , and Chinese netizens ' demands for political change .
+Prior to being investigated by the police , Dr .
+Li was among a number of Wuhan-based medical practitioners to first raise the alarm about the new coronavirus .
+He died as a result of the virus on February 6 , sparking online criticism of the Chinese authorities .
+Coronavirus-related blocking updated on December 31 , 2019  Citizen Lab 's research found that on December 31 , 2019 , one day after a number of medical workers -- including the late Dr .
+Li -- attempted to alert the public to the spread of a new SARS-like virus , the Chinese web censors updated the list of blocked terms on social media .
+As social media platforms in China are obliged to follow the instructions of the country 's Propaganda and Cyber-administration Authorities , the finding shows that Beijing was well aware of the outbreak since last December .
+However , instead of informing the public of the health threat , it banned news of the virus from circulating online .
+On the same day , the newly-blocked terms were introduced , eight netizens were arrested for spreading rumors .
+It was later revealed that the " rumor-mongers " were medical workers -- among them , the late Dr .
+Li -- discussing the outbreak with family members or peers on WeChat groups .
+WeChat .
+File photo : Wikicommons .
+WeChat , in fact , adopted a more sophisticated censorship system .
+While some sensitive terms like " June Fourth " and " Tiananmen Square " are completely blocked , the app has been using artificial intelligence ( AI ) to detect the semantic meaning of the texts -- which means only a certain cluster of keywords would trigger censorship .
+The research team , therefore , ran tests on WeChat between January 1 to February 15 , identifying at least 516 keyword combinations that were blocked .
+Should a user send messages containing those combinations , the messages would remain blocked in the server and not delivered to the intended recipient .
+The research team then grouped the keywords into content categories :  Censored COVID-19-related keyword combinations cover a wide range of topics , including discussions of central leaders ' responses to the outbreak , critical and neutral references to government policies on handling the epidemic , responses to the outbreak in Hong Kong , Taiwan , and Macau , speculative and factual information on the disease , references to Dr .
+Li Wenliang , and collective action .
+Criticism of Chinese president Xi Jinping censored  Among the 516 keyword combinations , 192 are related to China 's top brass and their role in handling the outbreak .
+In fact , 87 percent of the terms in this category contains references to Chinese President Xi Jinping , such as " Xi Jinping + formalism + epidemic prevention " ( ? ? ? + ? ? ? ? + ? ? ) , " Xi Jinping goes to Wuhan " ( ? ? ? ? ? ? ) , " Someone a substitution of Xi Jinping + in person " ( ? ? + ? ? ) , and " Xi Jinping + epidemic spread " ( ? ? ? + ? ? ? ? ) .
+Xi Jinping .
+Photo : i-Cable screenshot .
+After Wuhan was locked down on January 23 , many netizens wondered why the Chinese leader did not go to the city in person to lead the battle against COVID-19 .
+Instead , Xi entrusted Chinese Premier Li Keqiang to visit the center of the epidemic .
+Such criticism soon became a key target of the censors , as shown in the censorship patterns above .
+The second most censored content terms were related to criticisms of government and Chinese Communist Party ( CCP ) -related institutions , and their policies regarding containment of the outbreak .
+As many as 138 keyword combinations were found in this category , including wordplay on COVID-19 , calling it the " virus of officialdom " ( ? ? ? ? ) , as well as " local officials + epidemics + central government + cover-up " ( ? ? ? + ? ? + ? ? + ? ? ) , " Wuhan + CCP + crisis + Beijing " ( ? ? + ? ? + ? ? + ? ? ) , " hold + criticize China + Two Sessions + cover up " ( ? ? + ? ? ? ? + ? ? ? ? + ? ? ) , and " CCP + pneumonia + performance + rule " ( ? ? ? + ? ? + ? ? + ? ? ) .
+In addition to the CCP and central government authorities , other institutions that triggered semantic censorship include the China Red Cross , the Wuhan Institute of Virology , and the China Central Television Station ( CCTV ) .
+The China Red Cross was heavily criticized for corruption in its handling of citizens ' donations to Wuhan .
+As for the Wuhan Institute of Virology , speculations had been circulating on social media since late January that the Novel Coronavirus originated from its lab .
+Meanwhile , CCTV was slammed by netizens for its censorship practices , such as closing the comment function of its live-stream of the Spring Festival Gala .
+Although the compulsory quarantine measures in Wuhan and other cities have been praised for their effectiveness in containing the spread of the virus , Wuhan residents were angry that the government offered little support in the early days of the lockdown , leaving medical workers and their patients in a desperate situation .
+Chinese netizens were shocked by a statement made by a high court in Heilongjiang which , in its interpretation of existing criminal law , stressed that anyone who intentionally and maliciously spread the virus to undermine public safety could be sentenced to death .
+As more cities and regions in China required close contacts of confirmed COVID-19 patients to be quarantined , there were conflicts between law enforcement officers and citizens who refused to subscribe to the policy .
+The court statement , therefore , served as a warning to those considering resistance .
+Foreign Ministry Spokesperson Hua Chunying 's daily briefing on February 3 , 2020 , about the Chinese government having " notified the United States of the epidemic and China 's control measures 30 times altogether since January 3 " , generated mockery online , as Chinese citizens were only made aware of the outbreak after CCTV aired pulmonologist Dr .
+Zhong Nanshan 's interview on January 20 .
+People were outraged that even amidst the outbreak , CCP leaders continued to view political propaganda as more important than public accountability .
+In Hong Kong , Chief Executive Carrie Lam 's refusal to tighten control on border checkpoints after the Lunar New Year faced strong public criticism ; there was also speculation that Beijing did not approve the border control measures .
+Medical workers from government-funded public hospitals took the lead in launching a strike to press the Hong Kong government to tighten border control , and pro-Beijing groups in Hong Kong pressured the government-appointed Hospital Authority to punish its employees .
+In Taiwan , the government 's decision to ban the export of masks created an uproar on social media in mainland China .
+While some academic studies have estimated that the scale of the outbreak could be as many as hundreds of thousands infected in Wuhan , such discussions are not allowed in China .
+Even though official data on March 6 showed that there were 49,797 infections in Wuhan , the Chinese government never admitted that the city was out of control , even after the January 23 lockdown of the city , during which many Wuhan residents were calling for help on Weibo and WeChat .
+Since the outbreak of COVID-19 , many critics raised concerns about the Chinese media 's failure to alert and inform the public , and the implications of such information repression on global public health .
+In its report , Citizen Lab stressed the need for the international community to address the problem :  Censorship of the COVID-19 outbreak is troubling , and shows the need for thorough analysis of the effects of information control during a global public health crisis .
+Countering misinformation and uninformed speculation related to the epidemic may help keep public fear in check and remove information that would mislead people about how best to protect themselves .
+However , restricting general discussions and factual information has the opposite effect and limits public awareness and response .
+&gt;China censors report about how authorities hid coronavirus genome sequence test results for 14 dayshttps : **35;4944;TOOLONG .
+Sat , 07 Mar 2020 01:00:35 +0000https : //www .
+hongkongfp .
+? p=246498By Oiwan Lam Chinese media outlets have been accused of echoing the Chinese Communist Party 's political propaganda in understating the severity of the COVID-19 outbreak .
+It was only on 20 January 2020 when Beijing finally admitted the existence of human-to-human transmission .
+But the surge in the number of confirmed infected cases and the sudden shutdown of Wuhan .
+Chinese media outlets have been accused of echoing the Chinese Communist Party 's political propaganda in understating the severity of the COVID-19 outbreak .
+It was only on 20 January 2020 when Beijing finally admitted the existence of human-to-human transmission .
+But the surge in the number of confirmed infected cases and the sudden shutdown of Wuhan on 23 January probably encouraged several mainland Chinese journalists to overcome their fear of reprisal by reporting the real situation on the ground .
+Caixin is one of the most well-known economic and finance news sites which had resisted the pressure from China 's propaganda department with its in-depth investigative reports .
+A few days after prominent Chinese pulmonologist Dr .
+Zhong Nanshan 's confirmation about human-to-human transmission of the novel coronavirus was aired on China Central Television on 20 January , Caixin interviewed Hong Kong microbiologist Guan Yi who estimated that the scale of the COVID-19 outbreak could be 10 times bigger than the Severe Acute Respiratory Syndrome ( SARS ) outbreak in 2003 .
+But the warning was neglected as a majority of media outlets followed the propaganda authority 's instruction to avoid creating social panic in China .
+China withholds COVID-19 's genome sequence for 14 days  Caixin 's latest investigation published on 26 February found out that at least 9 samples collected from patients with unexplained viral pneumonia had been sent to multiple labs for testing as early as December 2019 .
+Upon interviewing a number of medical doctors who were in charge of treating patients at the very initial stage of the outbreak , Caixin journalists obtained a list of labs which had helped the hospitals to run an analysis of the new virus .
+Upon testing , a lab in Guangzhou found out that the genome sequence of the new virus was 87 per cent similar to Bat SARS-like coronavirus .
+The lab shared the results with the China Institute of Pathogen Biology and Chinese Center for Disease Control and Prevention on 27 of December .
+However , the National Health Commission issued a new regulation banning all the labs from sharing and releasing their test results in early January .
+Photo : Caixin .
+China only allowed the release of the genome sequence of COVID-19 to the World Health Authority ( WHO ) on 11 January , two weeks after they got hold of the result .
+Caixin 's report is explosive since it showed how Beijing had withheld a very significant public health information for 14 days .
+The genome sequence is essential not only in the production of a diagnostic test but also in tracking the origin of the virus and prevent an outbreak in the future .
+The investigative report was quickly removed online but netizens archived the report here .
+Hubei authorities covered up the outbreak  This is not the first time Caixin 's investigation was erased by the propaganda authority .
+In early February , an investigation that questioned the data of the confirmed infection and death toll was also censored .
+A doctor from the fever branch of a Wuhan hospital told Caixin that out of 120 fever patients they received on a single day , about 80 of them had pneumonia but only 5 were admitted while the rest had to quarantine themselves at home .
+Caixin 's reporters also interviewed a dozen families who shared that many of their relatives had died of unexplained pneumonia before testing for COVID-19 became a standard procedure .
+Citizens of Wuhan lining up outside of a drug store to buy masks during the novel coronavirus outbreak .
+Photo : Wikicommons .
+Another censored investigation was an interview with one of the experts from National Health Authority who visited Wuhan on 8 January and reported two days after that the outbreak was under control while refuting any trace of human to human transmission .
+The expert added that they had visited the fever branch of seven major hospitals but received no reports of medical workers getting infected with COVID-19 .
+Even though the team suspected that there was already human to human transmission of the virus , they had not collected any evidence from their visit which they attribute to the unreliable testimonies given by local health authorities and hospital administrators .
+On 10 February , two top leaders of Health Commission in Hubei were dismissed from their positions after they were held responsible for the outbreak in Wuhan .
+Apart from being subjected to censorship , Caixin 's investigations are often labelled by authorities as a rumour .
+On 20 February , Caixin reported on the COVID-19 outbreak in an elderly centre in Wuhan which reportedly claimed 11 lives .
+Yet , the majority of the cases were not counted in the death toll since the fatalities were not tested for COVID-19 .
+Wuhan authorities flagged the report as a rumour the following day on popular Chinese social media site Weibo and claimed that the Wuhan Civic Affair Bureau had tested all the elderly in the centre which identified 12 confirmed cases and one COVID-19 death .
+In response , Caixin published a list of 19 deaths between 23 December to 15 February .
+The list showed that at least 7 of them had died of pneumonia , 3 from unknown viral infections , 2 sudden deaths , and 7 from heart failure .
+As of 1 March , the total number of confirmed COVID-19 cases in China is 79,971 and the death toll is 2,873 .
+While the figure is still big , the number of new confirmed cases has been declining for over a week and the Chinese propaganda agency has already published a book titled " China combatting COVID-19 in 2020 ? ( ? ? ? ? 2020 to glorify the state achievement in the handling of COVID-19 .
+It is an indicator that control of the media sector might be tightened again to manipulate the flow of information about the COVID-19 .
+&gt;Semi-quarantined : Living with the coronavirus outbreak in Hong Konghttps : **35;4981;TOOLONG .
+Sat , 15 Feb 2020 01:00:31 +0000https : //www .
+hongkongfp .
+? p=244165By Oiwan Lam I live with my husband and six-year-old daughter in Hong Kong , and for the past two weeks , like many Hongkongers , we have been living in semi-quarantine .
+We stay home most of the time , work from home , and avoid social gatherings and eating out .
+Had the Wuhan coronavirus not taken root in the local .
+I live with my husband and six-year-old daughter in Hong Kong , and for the past two weeks , like many Hongkongers , we have been living in semi-quarantine .
+We stay home most of the time , work from home , and avoid social gatherings and eating out .
+Had the Wuhan coronavirus not taken root in the local communities through human-to-human transmission , we would have hoped to resume normal life in early March .
+But it seems that this situation of semi-quarantine status will continue for some time .
+The most recent case is a 19-person family gathering on January 25 that resulted in nine people becoming infected .
+As of Friday , the total number of confirmed infections in Hong Kong has reached 53 .
+As the incubation period for the coronavirus is 2-14 days , and the latest findings show that it could extend to as much as 24 days , an outbreak is inevitable .
+The only way to avoid transmission is to maintain public and personal hygiene and reduce social contact .
+The Hong Kong Education Bureau announced during the Lunar New Year that all schools would remain closed until March .
+Universities have shifted to virtual classroom arrangements and many public institutions and businesses are allowing employees to work from home .
+The spectre of SARS  Seventeen years ago , in February 2003 , the first case of Severe Acute Respiratory Syndrome ( SARS ) entered Hong Kong from Guangdong .
+By June 2003 , 1,750 cases were identified and 286 individuals had died .
+About 80 percent of the infections could be traced back to the first case .
+While the Wuhan coronavirus is not as deadly as SARS , the scale of the outbreak is 10 times bigger , and thanks to the cover-up by the Chinese authorities , mainland Chinese residents were not initially informed of the outbreak and did not , therefore , take protective measures in the early stages .
+The 2003 SARS outbreak .
+Photo : Alex Hofford .
+In early January , we Hong Kong residents tried to alert mainland Chinese netizens of the outbreak , but the online patriots responded by parroting a common conspiracy theory -- that Hongkongers were trying to create panic in China so as to undermine the authorities .
+Hongkongers had started wearing masks before Lunar New Year , while Wuhan residents were still holding their grand year-end feasts and ceremonies , unprotected .
+When shops reopened after Lunar New Year , Hongkongers started stocking up on daily necessities in preparation for life under semi-quarantine , anticipating that the virus would not subside until summer .
+Empty shelves  As we have a child whose school requires that students wear masks whenever their classmates have the flu , we always have a two-month stock of children 's masks on hand .
+Coincidentally , my husband bought a few packs of masks during a recent conference trip to South Korea after Lunar New Year , so we did n't have to line up for hours to buy masks .
+As the coronavirus has spread to other Asian countries , a ban on the export of masks has led to a shortage .
+While the World Health Organization ( WHO ) has advised that it is n't necessary for people to wear masks unless they have developed flu symptoms , population density in Hong Kong makes it very difficult to maintain the recommended two-meter social distance between people , and in spaces such as apartment building lifts , social distance is reduced to nearly zero .
+Photo : Christopher Cheng/United Social Press  Macau , a sister city adjacent to Hong Kong which is also subject to China 's " One Country , two systems " principle , has adopted a quota policy to ensure that all residents can buy 10 masks every 10 days for the equivalent of 1 US dollar .
+The Hong Kong government , however , has not only failed to ensure a supply of masks for civilians , but also of masks and other protective gear for medical workers in public hospitals .
+The Health Authority has only a one-month supply in stock , and the government has to request approval for the export of gear from Beijing , against the backdrop of an even more serious shortage in China .
+Also in short supply on the Hong Kong market for the past two weeks are alcohol-based cleansers , bleach , rice and toilet paper .
+Last week I visited five supermarkets in my neighbourhood and could not find a single pack of rice .
+Eventually , my husband had to line up outside a supermarket early in the morning to get hold of a pack .
+In order to get a 500ml bottle of bleach for regular household disinfection , I have to contact my district councillor to get a free-token .
+Back in January , the majority of district councils approved a budget to buy masks and hygiene products to help tackle the epidemic at a grassroots level .
+Empty shelves in a Hong Kong supermarket .
+Photo taken by a friend of the author and used with permission .
+#saveourselves  The Hong Kong government keeps urging people not to panic , but of course , after the prolonged protests triggered by the anti-extradition movement , few believe that the government has the will or ability to protect the city or to put people 's legitimate interests before the political interests of Beijing .
+Their failure to secure the supply of masks and their indecision around restricting travel between mainland China and Hong Kong are obvious examples of this .
+In the eyes of the public , the Hong Kong government is determined only to save themselves , and the hashtag #saveourselves ( ? ? ? ? ) has been widely used on Twitter , Facebook and other social media platforms to criticize the government and to spread information on protective measures such as personal and household hygiene , including a simple chemical formula for home-made alcohol-based cleanser , how to make reusable masks , etc .
+In the spirit of #saveourselves , people are also sharing with others in need .
+For example , after I told friends on Facebook that my family was running out of rice , within 24 hours two acquaintances offered me some of their surplus stock .
+Organizations with overseas trading connections are helping to channel supplies of masks to grassroots workers , and volunteer groups have taken to social media platforms to urge people to donate their surplus face masks to the elderly .
+The determination of the anti-government protest has quickly morphed into a determination to fight against the spread of the coronavirus .
+Managing fear  The shortage of daily necessities and the semi-quarantine have made life more difficult for everyone .
+For families with kids , the outbreak has tripled the daily workload .
+We now have to care for our 6-year-old round the clock , chase after daily necessities , manage household hygiene , and prepare three meals a day while fulfilling the duties of our regular jobs .
+To reduce the use of masks , we do n't go out often .
+My husband and I take turns going out three times a day , to buy bread and check in on supermarkets and pharmacies in the morning , to take our daughter to the park for a few hours in the afternoon , and to go to the market to buy vegetables and fruit in the late afternoon .
+The park is half-empty as people are worried about the transmission of coronavirus among kids .
+I have received friendly warnings on parenting WhatsApp groups about taking kids to the park , but my husband and I have nevertheless decided to let our daughter enjoy a few hours of daily sunshine .
+We are determined not to let ourselves be overwhelmed by fear , even though the circumstances are rather scary .
+Photo : Kaiser/United Social Press .
+What worries me most , however , is the spread of fear and hatred in public discourse , as it can easily escalate into bigoted sentiment against the mainland Chinese .
+It is clear that the centre of the outbreak is the city of Wuhan and that a number of provinces in mainland China are on the verge of large-scale outbreaks .
+But while I agree that we should restrict travellers from mainland China entering Hong Kong , and understand when other countries impose similar restrictions on Hong Kong residents , I find labelling mainland Chinese as selfish game-meat consumers and dishonest virus-spreaders completely untenable , especially as it ignores the fact that the majority of travellers entering Hong Kong during the Lunar New Year are local residents returning from their annual family visits in mainland China .
+The spread of fear and hatred has also led to a number of extreme not-in-my-backyard-style protests .
+It is true that the government has not held public consultations about selecting sites for isolating people who have had direct contact with coronavirus patients , and local residents should have the right to voice out their concerns .
+Throwing petrol bombs to destroy such facilities , however , can not be justified .
+Li Wenliang .
+Photo : Li Wenliang .
+I hope that the fear and hatred directed against mainland Chinese will subside as more human interest stories emerge from Wuhan and Hubei province .
+Incidents such as the death of Dr .
+Li Wenliang have reminded Hongkongers that the misery in Wuhan and other mainland Chinese cities is a result of the cover-up of the epidemic by the Chinese government in the name of political stability above all else .
+Like it or not , the fate of mainland Chinese people and Hongkongers are inextricably intertwined .
+I have started talking with my daughter about the outbreak , first by explaining why she has to wear a mask when playing in the park , letting her know that it is not just about protecting oneself but also others , especially the elderly and babies , whose immune systems are weaker and less able to resist disease .
+I also told her the story of Dr .
+Li Wenliang and how he was arrested for spreading rumours when what he had said was in fact true .
+Stick to the truth and be empathetic to others , I tell her .
+This is the way to #saveourselves .
+&gt;Chen Qiushi : A citizen journalist on the frontline of the Wuhan coronavirus outbreakhttps : **31;5018;TOOLONG .
+Sun , 09 Feb 2020 01:00:57 +0000https : //www .
+hongkongfp .
+? p=243662By Oiwan Lam Former human rights lawyer and famous citizen journalist Chen Qiushi arrived in Wuhan city , the centre of the coronavirus outbreak , on January 24 , 2020 , to report from inside the quarantined city .
+Although the first case of the coronavirus emerged on December 8 , Chinese media outlets only started covering the news on December .
+Former human rights lawyer and famous citizen journalist Chen Qiushi arrived in Wuhan city , the centre of the coronavirus outbreak , on January 24 , 2020 , to report from inside the quarantined city .
+Although the first case of the coronavirus emerged on December 8 , Chinese media outlets only started covering the news on December 31 , and the real scale of the outbreak came on January 20 when prominent Chinese pulmonologist Dr .
+Zhong Nanshan admitted that the outbreak had entered the human-to-human transmission stage .
+After Beijing announced Wuhan 's city-wide quarantine on January 23 , the independent journalist circle was worried that no one would report on the situation in the sealed city .
+Chen built his reputation by covering the Hong Kong protests in August .
+Though he was harassed and silenced by Chinese authorities after his trip to Hong Kong , he continued speaking out using Twitter and YouTube .
+Below is a summary of his reports from the center of the epidemic outbreak from January 24 to February 2 .
+January 24 : Information should travel faster than the virus After arriving in Wuhan around 10 pm , Chen urged citizens to contact him via WeChat and promised to report on the real situation in Wuhan .
+He anticipated that the national security police would go after him and made three public promises : 1 .
+He would not spread rumors , would not create social panic and would not cover up the truth ; 2 .
+He would protect himself and would not reach out to patients who were in serious condition ; 3 .
+Until the outbreak is under control , he would not leave Wuhan even if he caught the virus .
+He stressed that the spread of SARS ( 17 years ago ) and the Wuhan coronavirus was due to a cover-up of the virus outbreak and the Chinese people should not repeat the same mistake ; information should travel faster than the virus .
+January 25 : A visit to the Wuhan Central hospital Chen 's WeChat account was suspended for one month after he published his January 24 video .
+According to WeChat 's notification , he was accused of spreading rumors and other illegal content .
+At 2 a .
+, Chen visited the Wuhan Central hospital where he found a relatively uncrowded emergency ward of 30 patients .
+Before noon , Chen was forced to check out from his hostel as local authorities handed out the order that hostel operators should not accept non-local residents .
+Chen also visited a number of friends in Wuhan , one of them made a DIY face mask :  In the above tweet , Chen wrote : " Today I visited a few friends in Wuhan .
+They took me to Jinyintan hospital .
+Just managed to talk to the doctor and could not enter the hospital .
+I was impressed by courage and optimism of the Wuhanese .
+"  January 26 : A dead body at Wuhan No .
+Hospital Chen interviewed a nurse from Wuhan No .
+Hospital who said that the situation was far better than before the lunar new year when the ward was flooded with thousands of patients .
+At that time , the government was not providing any assistance and medical workers were left without basic protective gear .
+Instead of going through official channels , the hospital was forced to make public appeals through social media .
+The nurse also denounced some government efforts to ' fact-check ' social media saying : " They claimed that the video showing three dead bodies from the Wuhan Red Cross Hospital was fake .
+I told you , they were really corpses , though we could not verify if they died because of the coronavirus .
+"  Chen Qiushi in Wuhan .
+Photo : Screenshot .
+Chen expressed his worries about human-to-human transmission inside the hospital as all the patients shared the same ward .
+He noted that the hygiene outside the hospital was also pretty bad -- used masks , gloves , and vomit were everywhere .
+January 27 : Social panic and a divided society Chen expressed frustration about the lack of citizen initiative to help each other out during the crisis : " Everyone is divided .
+They keep complaining and arguing about government policy but ca n't even volunteer to help receive and distribute the resources sent from outside of Wuhan .
+"  Chen also mentioned how current affairs writer Wang Yajun was threatened by the Hubei authorities over his comments about the outbreak .
+January 28 : ' Wuhan is like hell ' Chen helped deliver medical supplies and food to the Wuhan Union Hospital in the morning .
+He then visited the Huoshenshan hospital construction site , one of the two hospitals Beijing vowed to finish within 10 days .
+At night , he interviewed a Wuhan citizen who criticized the local authorities for failing to alert local residents about the outbreak and their lack of public support for the quarantined city on the first day of the Lunar New Year .
+The young man compared Wuhan to hell : people could not take public transportation to the hospitals and no one answered the emergency line .
+Even if the patients managed to go to the hospitals , they were only given anti-inflammatories .
+The majority were not tested if they had been infected with the virus and were told to quarantine themselves back home .
+Chen 's video went viral on Twitter and YouTube within two days .
+January 29 : Infected nurse broke down Chen visited the Wuhan No .
+hospital and there were about a hundred people .
+A nurse broke down and screamed out in the hospital car park as she was infected at the hospital but could not get a bed in any hospital .
+Rumors spread online saying that the hospital had a number of medical workers infected but doctors were ordered not to talk to media .
+January 30 : Identified cases were not confirmed Chen said his name and face were blocked on WeChat , and any distribution of his video could result in a WeChat ban .
+He said that taxi drivers had been aware of the virus outbreak since mid-December .
+According to sources from a Wuhan taxi driver chat room , there were 20,000 taxis in Wuhan and only 6,000 were in operation during the quarantine .
+Residents had to contact district administrators to arrange a taxi .
+Chen said that the day before he had followed a patient to Tongji Hospital where patients were having treatment but there were not enough beds .
+According to Chen , his friend asked for a test but there were not enough coronavirus testers to check on his infection .
+January 31 : four confirmed infected in one single family Chen attempted to visit a family which had four confirmed infected patients .
+Two were hospitalized and the 84-year-old mother passed away in the morning .
+The son was confirmed infected on January 23 but there were no beds available .
+Chen eventually could not pay the visit to this family as the residential district was locked down with guards standing in front of the gate .
+The first one showed large crowds outside of a pharmacy attempting to buy a Chinese medicine called " shuanghuanglian .
+" On January 31 , The Chinese Academy of Sciences released a report in The People Daily News claiming that the medicine could repress viral replication .
+While the medical experts admitted that there was n't any clinical evidence about the effectiveness of the medicine , panicked shoppers bought up all the medicine from the market .
+The second one showed national security officers disguised as disease control officers visiting Wuhan citizen reporter Fang Bin late at night claiming that they suspected he was infected .
+On January 31 , Fang Bin uploaded a video taken from Wuhan No .
+hospital which showed how corpses from the hospital were sent to a funeral house and he believed that was the real reason for his arrest .
+Fang was released the following day and talked about the incident via Chen 's Youtube channel .
+The police had accused him of creating social panic .
+Both Fang and Chen were trying to dig into the stories about the death toll of the Wuhan coronavirus .
+Chen visited the Hanhou Funeral Home on January 29 and found out that within a period of 1 .
+hours four vehicles had entered the funeral home , a designated cremation center for bodies infected with the coronavirus .
+On January 31 , Fang Bin found out that a vehicle parked at the entrance of the No .
+hospital was loaded with 8 bodies .
+During Fang 's arrest , law enforcement officers claimed that they needed to quarantine Fang as he had been in contact with the infected .
+On February 2 , a new administrative regulation was released stating that the disease control officers were authorized to take away any individual who was in contact with the infected .
+Chen pointed out that the new regulation could be used as an excuse to arrest citizen reporters , including himself .
+He urged others to speak out for themselves .
+&gt;Taiwan election : How the pro-Beijing Kuomintang accused rivals of suppressing political dissenthttps : **32;5051;TOOLONG .
+Sat , 11 Jan 2020 00:00:33 +0000https : //www .
+hongkongfp .
+? p=241296Taiw .
+Pro-Beijing Kuomintang ( KMT ) party has shifted its 2020 presidential campaign strategy in the past few weeks .
+Instead of focusing on how the Democratic Progressive Party 's ( DPP ) strained relation with China has had adverse impacts on Taiwan 's economy , the KMT has begun accusing the party of " green terror " -- or suppressing pro-Beijing political dissent by .
+&gt;Taiwan 's Pro-Beijing Kuomintang ( KMT ) party has shifted its 2020 presidential campaign strategy in the past few weeks .
+Instead of focusing on how the Democratic Progressive Party 's ( DPP ) strained relation with China has had adverse impacts on Taiwan 's economy , the KMT has begun accusing the party of " green terror " -- or suppressing pro-Beijing political dissent by legal means .
+The political label " White Terror " has been previously attached to KMT as the party had ruled the country under martial law for more than 38 years .
+During that period , at least 140,000 individuals were convicted of political crimes in military courts , according to official records .
+Between 1950 to 1954 , the number of executions was between 4,000 to 5,000 .
+Among the convictions during the " white terror " period from 1947 to 1989 , 8,296 were speech-related and 1,061 of the accused were executed .
+Information operations have included the spread of fake news stories , bots and falsified social media accounts , propaganda , and hacking .
+Much of this disinformation originates from China in order to interfere in elections and referendum .
+In response , the ruling party under President Tsai Ing-wen has introduced new laws to block China 's interference and very often , these laws are controversial as they imposed restrictions on political activities .
+Tsai Ing-wen .
+File photo : Tsai Ing-wen .
+The controversial Anti-infiltration Law  The most controversial of these political measures is the Anti-infiltration Law .
+The DDP introduced the Anti-infiltration Bill to the Legislative Yuan on 25 November .
+This came two days after confessed former Chinese spy William Wang Liqiang 's open accusation that China infiltrated Taiwanese politics by paying three major news networks ( CitiTV , China Television and Eastern Broadcasting Co ) to broadcast news designed to negatively affect the pro-independent party ahead of the 11 January elections .
+The law bans " hostile foreign forces " from campaigning , lobbying , making political donations , disrupting social order by spreading disinformation related to elections .
+Individuals or organizations which receive funding by agencies of " hostile foreign forces " violate the law and face a maximum penalty of five-year imprisonment and a fine up to around US$332,000 .
+Taiwan 's Legislative Yuan .
+File photo : Apple Daily .
+The hasty legislation has raised some scrutiny and the KMT deemed it " green terror " which aims to silence political dissent .
+Green terror label a campaign strategy  While the DPP has clarified that the law would only criminalize individuals and organizations who are paid by " hostile foreign agencies " and would not repress independent political views , the KMT continues to spread the " green terror " narrative .
+On 4 January , the KMT stated in a press conference that 30 netizens had been victimized by the DPP 's " green terror " .
+Thus far , the most controversial case was the prosecution of a netizen for violating Article 63 of the Social Order Maintenance Act .
+According to the article , individuals who spread rumors " in a way that is sufficient to undermine public order and peace " would be subjected to detention for not more than three days or a fine of not more than of NTD 30,000 ( or approximately US$1,000 dollars ) .
+The netizen 's message was posted on Facebook on 13 October 2019 and accused the DPP of controlling Taiwan 's media regulator the National Communication Commission .
+It went on to say that Taiwanese media outlets dare not report on the spread of Dengue Fever in Tainan due to political pressure .
+A KMT rally .
+Photo : Tang  The Taiwanese court dismissed the case on 2 January 2020 as the rumor was not " sufficient to undermine public order and peace " .
+Although the investigation and the charge may have a silencing effect on citizen expression , thus far , an individual 's freedom of expression is still protected by the Taiwanese court .
+Mainland Chinese media outlets echo " green terror " narrative  The political label " green terror " has also been widely circulated on mainland Chinese state-affiliated media and social media outlets .
+On 31 December 2019 , Chinese Communist Party-affiliated Global Times and Hong Kong-based pro-Beijing media Wen Wei Po both published news on the passing of Anti-infiltration Law in Taiwan .
+The two media outlets both commented that the law is a form of " green terror " and will bring Taiwan back to the martial law period .
+A number of Weibo and WeChat based media outlets such as Today Taiwan ( ? ? ? ? ) , China Taiwan Net ( ? ? ? ? ? ) , Taiwan Weekly ( ? ? ? ? ? ? ) have reported on the situation using the " green terror " discourse in the same or even more exaggerated manner .
+In some cases , the news has been intentionally distorted to spread a fake sense of " green terror " .
+On 31 December , CCP affiliated Guancha .
+published an article titled " As a part of a coordinated effort on the passing of Anti-infiltration Law , Taiwan authorities arrested more than 10 Taiwanese Communist members " ( ? ? ? " ? ? ? ? " ? ? ? ? ? ? ? ? 10 ? ? ? ? ? ? ? ? ? ) .
+The media outlet interviewed Lin Te-wang ( ? ? ? ) , who is the head of the Taiwan People 's Communist Party ( TPCP ) , who said that the suppression that the party faced was worse than Chiang Kai-shek 's dictatorship during the martial law period in Taiwan .
+When cross-checked with news reports back in Taiwan , the police were actually investigating corruption allegations concerning TPCP 's involvement in organizing a sponsored tour to mainland China in early December .
+It is well documented that the CCP 's United Front Work Department has been using sponsored tours to China as a means to exercise political influence overseas .
+In this particular case , the Taiwanese police interviewed more than 60 individuals concerning the tour and the news did not have much coverage in Taiwan as it was a regular investigation and no one had been arrested .
+The poll on the popularity of presidential candidates was closed on 1 January , it was predicted that Tsai Ing-wen will have a landslide victory .
+However , some pro-KMT scholars believe that the hasty passing of the Anti-infiltration Law would discourage the DPP 's liberal supporters from endorsing the party line and instead swing voters into supporting KMT 's presidential candidate Han Kuo-yu and candidates for Legislative Yuan .
+The results are still to be seen as Taiwan 's Presidential and Legislative Yuan elections are scheduled for Saturday .
+Mainland China 's public call for " unifying Taiwan by force " ( ? ? ? ? ) surged after Tsai Ing-wen of the pro-Taiwan independence Democratic Progressive Party ( DPP ) won the Taiwanese presidential election in 2016 .
+Unification with Taiwan is a significant agenda goal for Chinese president Xi Jinping 's national revival project as outlined by his report at the 19th Communist Party Congress in 2018 .
+In his new year speech on cross-strait relations in 2019 , Xi again stressed that unification with Taiwan would be based on Hong Kong 's " One Country and Two Systems " model and " unifying by force " remained an option .
+A count down timer on 2020 take-over of Taiwan .
+Photo : Screenshot .
+However , to the chagrin of mainland Chinese online patriots , worries about growing popular support for Taiwanese pro-independence DPP has led Chinese Communist propaganda to downplay this hawkish narrative ahead of the 2020 Taiwanese presidential elections .
+A pro-China KMT candidate in 2020 or unification by force  The idea of " unifying Taiwan by force " has been around for many years and has garnered public support among mainland Chinese nationalists .
+In April 2016 , the CCP affiliated outlet Global Times conducted an online poll in which 85 .
+percent of respondents supported " unifying Taiwan by force " .
+Later that year , Global Times invited retired People Liberation Army ( PLA ) general Wang Hongguang to its annual conference where Wang advocated for military tactics to unify China with Taiwan claiming that the PLA was set to take over Taiwan by 2020 .
+More recently , in April 2019 , a mainland Chinese Scholar Li Yi was invited by Taiwan 's Chinese Unity Promotion Party to speak about cross-strait unification in Taichung city .
+After he arrived in Taiwan , he started publicizing his military unification views on Weibo and warned that if Taiwan 's Kuomintang ( KMT ) and DPP parties could not accept the " One Country Two Systems " model , the only answer would be " unifying Taiwan by force " .
+He also implied that if KMT 's candidate Han Guo-yu became president , the unification process would take about 10 years through peaceful negotiation .
+However , if DPP won again unification would happen much sooner as China would opt to deploy armed forces .
+He said :  Translation  All we have to do is the draft a " peaceful unification agreement " and deploy our troops .
+Give Taiwan 20 hours to sign the agreement or we launch the attack .
+Their only option is to sign it , the whole thing is very simple .
+Original Quote  ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? , ? ? ? ? ? ? , ? ? ? 20 ? ? ? ? , ? ? ? ? ? ? , ? ? ? ( ? .
+The KMT 's pro-China stance is appealing to Taiwanese who are in favor of economic prosperity and political stability .
+Li Yi 's military unification threat is considered a strategy to consolidate KMT 's supporting base .
+Around the same time as Li Yi 's talk , hawkish discourse about " unifying Taiwan by force " circulated widely on social media .
+Some even used the term " keep the island but not the people " ( ? ? ? ? ? ) to threaten Taiwanese into supporting the Kuomingtang 's " peaceful unification " political stance .
+Taiwanese president Tsai Ing-wen .
+Photo : Tsai Ing-wen Flickr .
+Unification under " One Country Two Systems " is a dead-end  The prolonged Hong Kong protests have indicated to the Taiwanese people that " One Country Two Systems " is a dead-end .
+During the past six months , Beijing 's threat to send the PLA to Hong Kong with a number of military parades at the border area has failed to stop Hongkongers from protesting .
+The city 's fearless struggle against China 's political control has inspired young Taiwanese to resist Beijing 's influence in Taiwan .
+This is also having an effect on the upcoming Taiwanese election .
+According to an ongoing poll measuring popularity for KMT 's Han Kuo-yu and DPP 's Tsai Ing-wen , after the Hong Kong anti-extradition protests broke out in June , Tsai 's support rate surpassed Han 's by 1 .
+percent .
+By August , Han 's support rate had dropped to 38 .
+percent from 46 .
+percent in May .
+In the wake of the Hong Kong protest movement , Beijing has also changed its political rhetoric regarding Taiwan .
+In contrast to its pro-military unification 2016 speaker , the Global Times invited Taiwan pro-peaceful unification scholar Chang Ya-chung to address the 2019 conference .
+While Chang did mention that " unifying Taiwan by force " is useless as the U .
+only sees Taiwan as a bargaining chip and would not care if Taiwan becomes another Afghanistan , the theme of his talk was meant to argue against " One Country Two Systems " saying that it is a model for a " father and son " relationship while China and Taiwan are actually " brothers " .
+However , Global Times twisted the headline of his speech transcript to " Friends in mainland China , please do not talk about ' unifying Taiwan by force ' in such a casual manner " ( " ? ? ? ? , ? ? ? ? ? ? ? ? ? ? ? ' ? ? ' ? " ) .
+Han Kuo-yu .
+Photo : Apple Daily .
+Chang 's speech was published by a number of state-affiliated media and social media outlets .
+However , online patriots did not buy this peaceful unification stance .
+A large number of angry comments were directed at Chang :  Translation  ? ? ? ? ? ? : Chang Yachung : We are not brothers , we are your father .
+The relation should be clear , Taiwan is always the son .
+On 1 January , to commemorate the 41st Anniversary of issuing Message to Compatriots in Taiwan China Central Television released a video on Deng Xiaoping 's effort in paving the way to the unification with Taiwan .
+While official propaganda is downplaying the discourse on " unifying Taiwan by force " , online public opinions are more extreme and militant :  Translation  ? ? -kkw : #The 41th Anniversary of Issuing Message to Compatriots in Taiwan# After unifying Taiwan with force , keep the island but not the people .
+? ? ? : #The 41th Anniversary of issuing Message to Compatriots in Taiwan# It is time to unify with Taiwan .
+Firstly , our military strength can stop the U .
+from intervening .
+Secondly , it is unrealistic to expect Taiwanese to opt for unification .
+Now a substantial part of Taiwanese population still have some knowledge about China , we have to take action now .
+If we wait until there is no more friend in the island , we will lose the opportunity .
+Thirdly , if we take action now , we can force the U .
+out of east Asia and link up East Asia , Middle-east and Russia .
+Then we can compete with the U .
+Fourthly , unifying Taiwan by force can solve the Hong Kong problem .
+When the U .
+stepped out of East Asia , we can transform Hong Kong completely .
+However , the narrative about " unifying Taiwan by force " is losing its threatening effect on social media .
+In Taiwan , pro-independence activists highlighted mainland Chinese extremist comments such as " keep the island but not the people " to consolidate the belief that Taiwan should cut the connection with China before it is too late .
+Chang Yachung also told Global Times ' readers that whenever mainland Chinese officials recited the position to unify Taiwan by force , Tsai 's popularity increased a few points .
+As for Hong Kong , after protesting for more than six months against Beijing 's political encroachment , netizens turned the narrative of " unifying Taiwan by force " into a practical joke .
+On the last day of 2019 , community members from popular online forum Hong Kong Golden Forum mocked China 's military threat by organized an online flash mob countdown to the 2020 PLA .
+The countdown was widely reported in Taiwanese media outlets .
+&gt;Taiwan 's 2020 presidential elections : who are the contenders ? https : **28;5085;TOOLONG .
+Sat , 04 Jan 2020 07:00:45 +0000https : //www .
+hongkongfp .
+? p=240767By Filip Noubel Next Saturday , Taiwan will hold key presidential and legislative elections in which three candidates are competing for the post that holds strong political prerogatives : the current President Tsai Ing-wen , the Kuomintang candidate Han Kuo-yu and the minority party leader James Soong .
+All three represent strongly divergent views on social values , economic development , relations .
+Next Saturday , Taiwan will hold key presidential and legislative elections in which three candidates are competing for the post that holds strong political prerogatives : the current President Tsai Ing-wen , the Kuomintang candidate Han Kuo-yu and the minority party leader James Soong .
+All three represent strongly divergent views on social values , economic development , relations with China and the status of Taiwan .
+In 1996 , Taiwan amended its electoral code to allow for a direct election of its president .
+Each mandate is four-year long , and the same person can hold it for a maximum period of eight years , if re-elected for a second time .
+The president and the vice-president run on a joint ticket and are elected on the basis of first-past-the-post system .
+For this seventh direct election , an estimated 12 million Taiwanese are expected to vote .
+The results of the election should be known in the evening of January 11th , local time .
+Tsai is a 63 year-old former law professor who comes from a family of 11 siblings of mixed Hakka and Paiwan Aboriginal background .
+She studied law at Taiwan National University and completed her studies in New York and London .
+Upon her return to Taiwan in 1984 , she taught law at different universities in Taipei .
+Tsai Ing-wen .
+File photo : Taiwan Gov't .
+Her political career started tellingly in 2000 when she was appointed chairwoman of the Mainland Affairs Council , a body regulating relations between Taiwan and China .
+In 2004 , she joined the DPP and made a quick career , getting elected as DDP legislator , and in 2008 chairing the DPP , becoming thus the first woman to lead any major party in Taiwan .
+Her potential as a serious presidential candidate became clear in 2014 when her party won the local elections by a landslide .
+On January 2016 , she indeed won the presidential election by 56 percent against her Kuomintang opponent Eric Chu who secured 31 percent of the votes .
+For the January 2020 elections , Tsai is running with vice-president candidate William Lai .
+Tsai 's political agenda can be described as a mix of strong social and environmental policy at home , and a more pronounced distance from Beijing both economically and politically .
+During her first term , she introduced significant reforms in the labour and pension systems , established marriage equality , and language rights for different communities .
+In 2020 , we are going to ensure more people are cared for , keep improving our economy , &amp; continue strengthening our sovereignty , freedom , &amp; democracy .
+Together we can ensure that the light of democracy &amp; freedom once again shines on #Taiwan &amp; the entire world .
+**26;5115;TOOLONG  Regarding foreign policy and relations with China , Tsai has repeatedly stated publicly she does not endorse the 1992 Consensus that states in terms open to interpretation that there is only ' one China ' .
+The Consensus has been used both by Beijing and the Kuomintang in Taiwan as a basis for the status-quo in bilateral relations , and is often referred to as an equivalent of the ' One Country , Two Systems ' by China .
+Tsai rejects both notions , pointing out at the crisis that has affected Hong Kong in the past six months and that remains unsolved .
+Tsai 's voters are usually younger generations , traditionally regions in the south of the island .
+The DPP is part of a broader political family named the Pan-Green Coalition ? ? ? ? that brings together the Taiwan Independence Party , the Taiwan Solidarity Union , and the New Power Party platform .
+The coalition mostly operates within the Legislative Yuan , Taiwan 's parliament .
+Unlike most prominent politicians and other elections candidates , Tsai is not married and has no children , a rare feature for prominent public figures in Taiwan that is commonly used by opponents as an argument against her .
+Han Kuo-yu : the combative face of the party that ruled Taiwan the longest  Han Kuo-yu ? ? ? is the candidate of the Kuomintang party ( KMT ) that ruled unchallenged for 55 years , and maintains strong networks across many sectors of Taiwan 's society due to its historical role .
+Aged 62 , Han is a recently-elected mayor whose parents came from mainland China .
+Having studied English literature and law , he started his political career in 1992 , when he was elected as a legislator to the Legislative Yuan on a Kuomintang ticket .
+Han Kuo-yu and Carrie Lam .
+File photo : inmediahk .
+His political career came into the limelight in 2018 , when against all predictions , he won the mayorship of Kaohsiung , Taiwan 's second largest city situated in the south .
+His victory was remarkable as the south is traditionally a DPP stronghold and no KMT candidate had been elected there in 20 years .
+For the January 2020 elections , Han is running with vice-president candidate Chang San-cheng , a former Prime Minister .
+Nicknamed the ' Bald guy ' ? ? , Han is often described as a populist and is known for shifting positions , but also for using strong and often emotional language , which is one of his assets with certain segments of Taiwanese society .
+His political agenda is based on economic prosperity which he links directly to closer economic and political cooperation with China .
+His slogan for the 2020 election is " ? ? ? ? ? ? ? ? " which can translate as " Safety for Taiwan , Money for the People " .
+Indeed , he often refers to the economic development he undertook as a mayor of Kaohsiung as a blueprint for his national strategy .
+Regarding relations with Beijing , he supports closer economic integration , massive tourism from the mainland , and he publicly supports the 1992 Consensus , while he states he is opposed to the ' One Country , Two Systems ' idea .
+Han 's voters are typically older generations , residents of the northern parts of Taiwan .
+The Kuomintang is also the leading force of what is known in Taiwan as the Pan-Blue Coalition ? ? ? ? which brings together several parties that share similar ideological values .
+The coalition includes the Kuomintang , as well as the People First Party , the New Party and the Non-Partisan Solidarity Union .
+Han is married and has three children .
+His twitter account is @HanKuoyu .
+James Soong : the third candidate who could decide the final outcome of the elections  James Soong ? ? ? is the chairman of the People First Party ( PFP ) , which is a member of the Pan-Blue Coalition but disagrees with the Kuomintang on certain points .
+James Soong .
+Photo : Voice of America .
+Aged 77 , Soong was born in mainland China and moved to Taiwan with his family in 1949 .
+He later studied diplomacy and political science in Taiwan and in the United States .
+He rose to prominence in 1974 when he was appointed English secretary to then Prime Minister and President Chiang Ching-kuo .
+He developed his political career as a ' New Taiwanese ' , supporting the Kuomintang 's first native Taiwanese President Lee Teng-hui in 1988 .
+Soong often says he wants to end the blue-green rivalry that has defined Taiwanese politics for many elections .
+His political agenda mixes priorities that can be found in both the KMT and the DPP .
+It is generally estimated that by declaring his candidacy , he might be taking away voices from the KMT candidate since his party 's supporters are mostly former KMT supporters .
+Initiatives such as those have sprung up in the groundswell of the anti-government protests in Hong Kong , which many believe could not have lasted for so long without the support of the middle class and entrepreneurs .
+On June 12 , when the Hong Kong Legislative Council was scheduled to deliberate on the now-withdrawn extradition bill , more than a hundred small and medium-sized companies closed their businesses so that their employees could attend the protests .
+The first citywide general strike on August 5 was also backed by hundreds of small business owners , along with the trade unions , including airlines ' flight attendant unions .
+And private car owners have frequently helped protesters exit the demonstration sites .
+The middle class and the business sectors are also helping protesters financially .
+Many have donated to , for example , the 612 Fund and the Spark Alliance to provide legal , medical and other aids to those injured or arrested .
+Both funds have raised over 10 million US dollars over a few months through crowdfunding and street donations .
+Photo : Spark Alliance .
+Shop and restaurant owners , as well as wholesale buyers , have also joined forces to donate food coupons and import protection gear for protesters who are n't able to afford it .
+Since August , a number of restaurants have openly supported demonstrators by offering free meals to students , and the online shop HKongs Mall was set up to provide employment for those who had been arrested and then released on bail .
+The yellow economic circle  Protesters began calling the supportive businesses " yellow shops " and are urging citizens to spend their money on them .
+Simultaneously , they have called for a boycott of pro-China establishments , such as the restaurants owned by the Maxim Caterers group .
+The collection of the pro-democracy shops is now known as the " yellow economic circle " .
+Twitter user @Dystopia992 explains :  " The CCP has already set up the ' red economic circle ' and compelled businessmen and entertainment artists to express their loyalty .
+Anyone who does not toe the line would be censored .
+The ' red economic circle ' is initiated by state power , it is more effective and powerful than other initiatives .
+The so-called yellow economic circle is the result of the people 's political awakening triggered by the anti-extradition protests .
+Now , people are actively boycotting the pro-Beijing businesses and artists .
+One immediate effect of the yellow economic circle is to generate counter political pressure that compels businessmen and artists to have a second thought before they choose to participate in pro-government propaganda .
+"  Rice pig guide sticker .
+Photo : Twitter .
+However , others are hesitant that the circle could result in isolating the yellow businesses from the mainstream economy .
+Finance news columnist Chow Hin gave some strategic advice to pro-democracy firms :  " The yellow economic circle should not exclude blue ( pro-establishment ) customer , they should welcome blue money , the more the better .
+However , when they hire staff , they should favor the yellow ones .
+Also , buy from the yellow .
+This is the key to the success of the yellow economic circle .
+"  Building a society of conscience  One of the most well-known yellow shops in Hong Kong is Lung Mun Cafe , which has five branches across the city .
+Its owner Cheung Chun Kit started to provide assistance to protesters after the daughter of one of his employees was arrested .
+In the process , he became familiar with many young protesters .
+Some had strained relationships with their parents and had no place to go , others had lost their jobs , and many were struggling to support themselves .
+Lung Mun Cafe in Causeway Bay .
+Photo : Wikimedia Commons .
+To help them out , he set up an assistance center to collect donations , such as clothes or food coupons .
+He also helped protesters produce handmade items to be sold at the cafes .
+Currently , the center has 12 protesters hired as full-time staff .
+Others work as temporary staff and are paid at a rate of approximately 8 US dollars per hour .
+Cheung described his work as an initiative to build a " society of conscience " :  " I want to see many businessmen or mentors with a conscience to help out these young people to set up hair salons or electronic shops that are run by conscience .
+These shops can then donate a percentage of their income to support one and others .
+If we have the capability and capacity to sustain the living of 2 million community members , we can overcome all kinds of difficulties .
+"  &gt;China 's new media world order : Interview with C ? dric Alviani from Reporters Without Borders East Asiahttps : **35;5143;TOOLONG .
+Sat , 14 Dec 2019 08:00:00 +0000https : //www .
+hongkongfp .
+? p=238430By Filip Noubel Since Xi Jinping established himself as the undisputed leader of China in 2013 , the role of global media in reshaping the image of China has become one of the top priorities for the Chinese government .
+Today , Beijing 's efforts have managed to attract a number of journalists and media outlets across the globe who are often .
+Since Xi Jinping established himself as the undisputed leader of China in 2013 , the role of global media in reshaping the image of China has become one of the top priorities for the Chinese government .
+Today , Beijing 's efforts have managed to attract a number of journalists and media outlets across the globe who are often motivated by financial incentives and/or ideological sympathies .
+As a result , they agree to censor content critical of the Chinese government and to promote Beijing 's global initiatives such as the One Belt , One Road project .
+The latest evidence came out recently as a Chinese agent who defected to Australia revealed the depth of Chinese infiltration of media , government and cultural circles in a number of countries .
+I spoke to C ? dric Alviani , RSF East Asia and Taipei Bureau Director , to map the scale of Chinese influence , and to find out to what extent media professionals and public opinions are aware of this phenomenon .
+Filip Noubel : In its report , RSF traces back the origin of Beijing 's claim to a new media world order to the concept of cultural relativism .
+Could you explain ?  C ? dric Alviani : The doctrine of cultural relativism claims that each nation has the sovereign right to define its own criteria with regard to freedoms and human rights .
+RSF strongly opposes this unacceptable position since it diametrically contradicts the universality of human rights as stated in the Universal Declaration of Human Rights .
+Cultural relativism allows China to release a week before the 70th anniversary celebrations of the People 's Republic of China a white paper concluding that it has become a true democracy and a champion of human rights , two domains for which it has been regularly criticised for by the global community .
+C ? dric Alviani .
+Photo : RSF .
+FN : What are the various mechanisms Beijing uses to advance its agenda of co-opting media outlets and journalists around the world ? Could you give a telling example ?  CA : RSF have identified at least six methods that Beijing utilizes to co-opt media outlets and journalists around the world .
+Those are :  Media Acquisition .
+Beijing follows an ambitious programme of buying foreign media that it regards as strategic .
+This acquisition policy is coordinated by the United Front Work Department ( UFWD ) , a Communist Party branch that oversees financial transfers to foreign media outlets .
+In Australia , which is home to the West 's third largest community of ethnic Chinese , Beijing is said to have infiltrated around 95% of the Chinese-language newspapers .
+Advertorial Campaigns .
+China is engaging in massive advertorial campaigns through its propagandistic " China Watch " supplement .
+This advertorial supplement is distributed as a free insert in around 30 prestigious international dailies including the Daily Telegraph and Le Figaro .
+According to the Guardian , the Daily Telegraph received an annual fee of GBP 750,000 for publishing the monthly supplement .
+Harassment and Intimidation .
+The regime has developed an arsenal of methods for harassing and intimidating foreign correspondents that includes phone tapping , hacking and physical surveillance , as well as visa blackmail .
+Made-in-China Media Events .
+China has begun to sponsor its own version of international media events .
+The World Media Summit was created in 2009 and is entirely designed , organised and funded by the Chinese state news agency Xinhua .
+In 2014 , China launched the World Internet Conference ( WIC ) , an annual event organized in the resort town of Wuzhen , in Zhejiang province by the Cyberspace Administration of China ( CAC ) , the agency that controls China 's Internet .
+Since 2016 , China has also been organising the annual BRICS Media Summit .
+Held in countries that are authoritarian and reject press freedom , these summits provide China with a receptive public promote its concepts of " positive reporting " and a " new world media order " .
+Lavish Training Programs for Foreign Journalists .
+China is conducting a charm offensive where it invites foreign journalists for training .
+Chinese magazines in a kiosk in Beijing .
+Photo : Filip Noubel .
+FN : You describe disinformation as a form of ' sharp power ' used extensively by Beijing .
+Could you explain the concept , and how it is being implemented in this context of Taiwan ?  CA : Besides its soft power , China also makes excessive use of its " sharp power " through a set of aggressive practices that include disinformation and harassment .
+In August 2018 , a rumour began circulating that Taiwanese could no longer use their passports to travel abroad , and that the European Union had revised its visa-free policy for them .
+On September 4 , 2018 , when a powerful typhoon forced Japan to close Kansai International Airport for two days , reports circulated that Taiwanese travelers trapped inside had been abandoned by their representative office and instead were rescued by the Chinese embassy .
+In Taiwan , the news sparked an online rage against diplomat Su Chii-cherng , 61 , who served as Taiwan 's representative in Osaka .
+He committed suicide 10 days later .
+The original report was then found to be " fake news " coming from China .
+FN : Can you explain what the Belt and Road News alliance is ? What is the purpose of training programs for non-Chinese journalists under the slogan of " Tell the China Story well ( ? ? ? ? ? ? ) ? "  CA : " Tell the China Story Well " allows Beijing to shape the global narrative in its favor : for example , by referring to the " fight against terrorism " in Xinjiang rather than the persecution of Xinjiang 's Uighur community .
+The Belt and Road News alliance ( ? ? ? ? ? ? ? ? ? ? ) led by the Xinhua news agency , TV broadcaster CGTN and China Radio International which groups 72 media in 42 countries train journalists in " language elements " specific to the project -- in other words , to get journalists in the countries involved in the project to " speak the same language " as used in China .
+Photo : GovHK .
+FN : One of Beijing 's most effective tools seems to be money : Why are non-Chinese media outlets so eager to accept Chinese investment ?  CA : The reason is the lack of alternative sources of financing in the context of digital transformation .
+From a financial perspective , it is understandable that the offer for additional funding and advertising is alluring .
+RSF however , would insist that receiving funding from a regime that openly threatens press freedom worldwide is not recommendable , as it will foster financial dependence and jeopardize journalism ethics .
+FN : There is definitely an asymmetry at play : while the Chinese government severely restricts foreign media in China , it benefits from the freedom of speech guaranteed in most democratic countries .
+Are there effective methods to make Chinese infiltration of international media more visible and better map Beijing 's new media world order ?  CA : It has taken a long time but democracies are finally realising the danger they are running by giving Beijing free rein to gradually take control of their media and thereby extend its influence over public opinion .
+Some methods that RSF recommends includes , but are not limited to :  When referring to China , take care to avoid using expressions designed by the Chinese regime to conceal certain realities .
+Support Civil Society Campaigns Against Propaganda .
+As a result of a campaign led by human rights organisations , Su ? ddeutsche Zeitung newspaper announced in May 2018 that it would stop publishing China Watch , the Chinese propaganda supplement .
+NGOs are currently waging a similar campaign to get France 's Le Figaro , Belgium 's Le Soir and Germany 's Handelsblatt to do the same .
+The Journalism Trust Initiative ( JTI ) is an innovative mechanism for certifying the editorial methods used by media outlets .
+Launched in partnership with professional media organisations , it will create a set of standards in the form of indicators that will make it easier to distinguish outlets that respect journalistic criteria from those whose goal is spreading false information .
+&gt;Chinese netizens slam Huawei 's legal bullying of former employee with a series of codeshttps : **34;5180;TOOLONG .
+Thu , 12 Dec 2019 01:00:12 +0000https : //www .
+hongkongfp .
+? p=238443By Oiwan Lam Huawei , the most prominent tech giant in China , is considered to be one of the most successful national brands which has established a monopoly status in the domestic market boosted by patriotic buying .
+However , recently the corporation was under fire for staging the criminal prosecution of its former employee , Li Hongyuan , who was detained .
+Huawei , the most prominent tech giant in China , is considered to be one of the most successful national brands which has established a monopoly status in the domestic market boosted by patriotic buying .
+However , recently the corporation was under fire for staging the criminal prosecution of its former employee , Li Hongyuan , who was detained by the Shenzhen police for 251 days after the company accused Li of extortion , a charge for which Li was later acquitted .
+As netizens rallied online for Li , other cases of Huawei 's bullying of former employees and critics emerged and the web censor started blocking the discussions on social media .
+Netizens then used a series of codes to mock Huawei 's corporate bullying practice :  Huawei code that 's trending now : 985 , 996 , 035 , 251 , 404 .
+Hire people from 985 universities .
+them work 996 .
+Fire them at age 35 .
+Sue ex-employee for getting the compensation they are entitled to .
+Li Hongyuan was detained for 251 days .
+all social media discussions .
+Editor 's Note : 996 stands for a 9 am to 9 pm workday , 6 working days a week .
+Li Hongyuan incident  The incident was exposed after a court ruling document circulated online on 28 November .
+According to the document , Li Hongyuan , a former Huawei employee , was arrested by Shenzhen police on 16 December 2018 after Huawei accused him of extortion .
+He was detained for 251 days .
+The court dismissed the charges due to " unclear criminal facts and insufficient evidence " .
+Li had negotiated with the company secretary for an employment termination compensation of about 300,000 yuan and he had recorded his negotiation with the company secretary on tape .
+As he was acquitted , Li received 100,000 yuan compensation for his illegitimate detention .
+Photo : Marco Verch/Flickr .
+Li later revealed to local media outlets that he had met a number of former Huawei employees in the Shenzhen detention center facing similar charges .
+One widely reported case was Zheng Meng .
+Zheng was arrested by Shenzhen police during his tourism trip in Thailand on 30 December 2018 and detained in Shenzhen for 90 days on extortion .
+He was in the process of negotiating with the corporation over his unpaid leave compensation .
+Apart from employees , a number of netizens who criticized Huawei 's products were arrested for spreading rumors by Shenzhen police .
+For example , Wang Hao , who worked for a tech media outlet , was arrested in early November 2018 and detained for 252 days for criticizing Huawei mobile phone Mate 20 .
+He was acquitted eventually but he had not received any compensation for his illegitimate detention .
+As netizen uproar continued , the web censor stepped in to block the discussion on Chinese social media platforms .
+Prominent tech blogger William Long 's post on Weibo was blocked on 30 November and the blogger expressed his frustration on Twitter :  The post " Huawei former staff of 13 years was detained for 251 over employment termination compensation " was blocked on Weibo .
+Here I declare , I would never buy any Huawei product starting from now .
+This corporate is really disgusting .
+Search terms " Huawei " and " Li Hongyuan " turned up zero results on major Chinese social media platforms :  Weibo and Wechat had deleted massive content related to Huawei and Li Hongyuan incident .
+It is unclear if the censorship comes from Huawei public relation department .
+The censor authority could always step in the curb the spread of negative information .
+Huawei had lost the public support it had accumulated since the Meng Wangzhou incident .
+What a shame .
+Propaganda in vain  Coincidentally , 1 December was the anniversary of Huawei 's CFO and Executive Director Meng Wanzhou 's house arrest .
+The executive is in Canada awaiting U .
+trial over alleged bank fraud and Chinese propaganda had prepared feature reports to criticize the " politically motivated " legal action .
+Only this time , Chinese netizens did not orchestrate the reports with patriotic sentiment .
+Instead , they took the opportunity to slam Huawei .
+@Tullymonster77 screen captured some typical comments on Chinese news threads :  Huawei 251 incident has turned things all around .
+People all said it is just to arrest Meng Wanzhou .
+The party-state propaganda is in vain .
+Below are some of the comments in the screen captures :  No one will be in sympathy with Meng Wanzhou now , not even if she died in jail .
+( Meng is a ) Canadian , she has nothing to do with Chinese people .
+Canadian are too friendly .
+They should have put the princess into a detention centre .
+Now she can walk around with a collar .
+Such nice treatment .
+Such a mafia corporate .
+No wonder the U .
+has to investigate it .
+It is protected by the triad in China .
+How many people have they framed ? Hope to see it go bankrupt soon .
+On 2 December , Huawei responded on the incident with a statement : " Huawei has the right and duty to report illegal behaviour to the law enforcement .
+We respect law enforcement authorities including the decision made by the public security police , the prosecutor and the court .
+If Li Hongyuan believed that his right was infringed , he could use legal means to defend his right and sue Huawei .
+This would enact the spirit of equality in front of the law .
+"  Clearly Huawei is not apologetic over Li 's 251 days detention .
+And netizens continued to slam Huawei by spreading the codes : 985 , 996 , 035 , 251 , 404 .

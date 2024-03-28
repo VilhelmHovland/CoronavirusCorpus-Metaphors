@@ -1,0 +1,283 @@
+This is a fast-moving epidemic -- we 'll update this guide periodically .
+Share this story  More than 576,800 people have been infected with a new coronavirus that has spread widely from its origin in China over the past few months .
+Over 26,000 have already died .
+Our comprehensive guide for understanding and navigating this global public health threat is below .
+This is a rapidly developing epidemic , and we will update this guide periodically to keep you as prepared and informed as possible .
+March 8 : Initial publication of the document .
+Updates:A new section on loss of smell .
+Updated global and US case counts .
+A list of all updates and additions to this document can be found at the end .
+How worried should I be ?  You should be concerned and take this seriously .
+But you should not panic .
+This is the mantra public health experts have adopted since the epidemic mushroomed in January -- and it 's about as comforting as it is easy to accomplish .
+But it 's important that we all try .
+This new coronavirus -- @ @ @ @ @ @ @ @ @ @ disease called COVID-19 , which can be deadly , particularly for older people and those with underlying health conditions .
+While the death rate among infected people is unclear , even some current low estimates are seven-fold higher than the estimate for seasonal influenza .
+And SARS-CoV-2 is here in the US , and it 's circulating -- we are only starting to determine where it is and how far it has spread .
+Problems with federal testing have delayed our ability to detect infections in travelers .
+And as we work to catch up , the virus has kept moving .
+It now appears to be spreading in several communities across the country .
+It 's unclear if we will be able to get ahead of it and contain it ; even if we can , it will take a lot of resources and effort to do it .
+All that said , SARS-CoV-2 is not an existential threat .
+While it can be deadly , around 80 percent of cases are mild to moderate , and people recover within a week or two .
+Moreover , @ @ @ @ @ @ @ @ @ @ protect ourselves , our loved ones , and our communities overall .
+Now is not the time for panic , which will only get in the way of what you need to be doing .
+While it 's completely understandable to be worried , your best bet to getting through this unscathed is to channel that anxious energy into doing what you can to stop SARS-COV-2 from spreading .
+And to do that , you first need to have the most complete , accurate information on the situation as you can .
+To that end , below is our best attempt to address all of the questions you might have about SARS-CoV-2 , COVID-19 , and the situation in the US .
+Coronaviruses are a large family of viruses that get their name from the halo of spiked proteins that adorn their outer surface , which resemble a crown ( corona ) under a microscope .
+As a family , they infect a wide range of animals , including humans .
+With the discovery of SARS-CoV-2 , there are now seven types of coronaviruses known to @ @ @ @ @ @ @ @ @ @ cause mild to moderate upper-respiratory tract infections -- common colds , essentially .
+The other three are coronaviruses that recently jumped from animal hosts to humans , resulting in more severe disease .
+These include SARS-CoV-2 as well as MERS-CoV , which causes Middle East Respiratory Syndrome ( MERS ) , and SARS-CoV , which causes SARS .
+In all three of these cases , the viruses are thought to have moved from bats -- which have a large number of coronavirus strains circulating -- to humans via an intermediate animal host .
+Researchers have linked SARS-CoV to viruses in bats , which may have moved to humans through masked palm civets and raccoon dogs sold for food in live-animal street markets in China .
+MERS is thought to have spread from bats to dromedary camels before jumping to humans .
+Where did SARS-CoV-2 come from ?  SARS-CoV-2 is related to coronaviruses in bats , but its intermediate animal host and route to humans are not yet clear .
+There has been plenty of speculation that the intermediate host could be pangolins , but that is @ @ @ @ @ @ @ @ @ @ ?  While the identity of SARS-CoV-2 's intermediate host remains unknown , researchers suspect the mystery animal was present in a live animal market in Wuhan , China -- the capital city of China 's central Hubei Province and the epicenter of the outbreak .
+The market , which was later described in Chinese state media reports as " filthy and messy , " sold a wide range of seafood and live animals , some wild .
+Many of the initial SARS-CoV-2 infections were linked to the market ; in fact , many early cases were in people who worked there .
+Public health experts suspect that the untidiness of the market could have led to the virus ' spread .
+Such markets are notorious for helping to launch new infectious diseases -- they tend to cram humans together with a variety of live animals that have their own menageries of pathogens .
+Close quarters , meat preparation , and poor hygienic conditions all offer viruses an inordinate number of opportunities to recombine , mutate , and leap to new hosts , including humans  That said , @ @ @ @ @ @ @ @ @ @ the outbreak indicates that the earliest identified person sickened with SARS-CoV-2 had no links to the market .
+As Ars has reported before , the case was in a man whose infection began causing symptoms on December 1 , 2019 .
+None of the man 's family became ill , and he had no ties to any of the other cases in the outbreak .
+The significance of this and the ultimate source of the outbreak remain unknown .
+The market was shut down and sanitized by Chinese officials on January 1 as the outbreak began to pick up .
+What are the symptoms ?  COVID-19 is a disease with a range of symptoms and severities , and we are still learning about the full spectrum .
+So far , it seems to span from mild or potentially asymptomatic cases all the way to moderate pneumonia , severe pneumonia , respiratory distress , organ failure and , for some , death .
+Many cases start out with fever , fatigue and mild respiratory symptoms , like a dry cough .
+Most cases do n't get @ @ @ @ @ @ @ @ @ @ illness .
+According to data from nearly 56,000 laboratory-confirmed COVID-19 patients in China , the rundown of common symptoms went as follows :  ? Does COVID-19 cause a lost sense of smell ? New , 3/23/2020  There are some anecdotal reports that many people who have COVID-19 or go on to test positive for the disease experience temporary loss of their sense of smell and have a diminished sense of taste .
+Data on this is lacking .
+In a press conference March 23 , the WHO said it had likewise heard of these reports and is looking over data to confirm whether this is a common symptom of COVID-19 .
+However , epidemiologist Maria Van Kerkhove , an outbreak expert at the WHO , emphasized in the briefing that regardless of whether loss of the sense of smell is common , we already know the primary symptoms of the disease and the severe forms : fever , cough , fatigue , and shortness of breath .
+How severe is the infection ?  Most people infected will have a mild illness and recover @ @ @ @ @ @ @ @ @ @ of 44,672 confirmed cases in China , authored by an emergency response team of epidemiologists and published by the Chinese CDC , researchers reported that about 81 percent of cases were considered mild .
+The researchers defined mild cases as those ranging from the slightest symptoms to mild pneumonia .
+None of the mild cases were fatal ; all recovered .
+Otherwise , about 14 percent were considered severe , which was defined as cases with difficult or labored breathing , an increased rate of breathing , and decreased blood oxygen levels .
+None of the severe cases were fatal ; all recovered .
+Who is most at risk of getting critically ill and dying ?  Your risk of becoming severely ill and dying increases with age and underlying health conditions .
+In the group of 44,672 cases discussed above , the highest fatality rates were among those aged 60 and above .
+People aged 60 to 69 had a fatality rate of 3 .
+percent .
+The 70 to 79 age group had a fatality rate of about 8 percent , and those 80 or older @ @ @ @ @ @ @ @ @ @ Additionally , the researchers had information about other health conditions for 20,812 of the 44,672 patients .
+Of those with additional medical information available , 15,536 said they had no underlying health conditions .
+The fatality rate among that group was 0 .
+percent .
+Enlarge/ Graph showing the percentage of cases by age group ( blue ) and the fatality rates within each age group ( orange ) .
+The fatality rates were much higher among the remaining 5,279 patients who reported some underlying health conditions .
+Those who reported cardiovascular disease had a fatality rate of 10 .
+percent .
+For patients with diabetes , the fatality rate was 7 .
+percent .
+Patients with chronic respiratory disease had a rate of 6 .
+percent .
+Patients with high blood pressure had a fatality rate of 6 .
+percent and cancer patients had a rate of 5 .
+percent .
+Puzzlingly , men had a higher fatality rate than women .
+In the study , 2 .
+percent of adult male patients died compared with a 1 .
+percent fatality rate among female patients .
+Are men more at risk ?  @ @ @ @ @ @ @ @ @ @ in men than in women .
+The WHO Joint Mission report found that men made up 51 percent of cases .
+Another study of 1,099 patients found that men made up 58 percent of cases .
+So far , it is unclear if these numbers are real or if they would even out if researchers looked at larger numbers of cases .
+It 's also unclear if this bias may reflect differences in exposure rates , underlying health conditions , or smoking rates that may make men more susceptible .
+That said , sex differences have been seen in illnesses caused by SARS-CoV-2 's relatives , SARS-CoV and MERS-CoV .
+There is some preliminary research looking into this in mice .
+Some findings suggest that there may be a protective effect from the activity of the female hormone estrogen .
+Other research has also suggested that genes found on the X chromosome that are involved in modulating immune responses to viruses may also serve to better protect genetically female people , who have two X chromosomes , compared with genetic males , who have only one X chromosome @ @ @ @ @ @ @ @ @ @  Yes , it appears so .
+In all of the studies and data so far , children make up tiny fractions of the cases and have very few reported deaths .
+In the 44,672 cases examined by the Chinese CDC , less than one percent were in children ages 0 to 9 years old .
+None of those cases was fatal .
+Similar findings have been reported in other studies .
+The WHO-China Joint Mission report also noted that children appear largely unscathed in this epidemic , writing , " disease in children appears to be relatively rare and mild .
+" From the data so far , they report that " infected children have largely been identified through contact tracing in households of adults .
+"  Still , as the Joint Mission report noted , given the data available , it is not possible to determine the extent of infection among children and what role that plays in driving the spread of disease and the epidemic overall .
+" Of note , " the report went on , " people interviewed by the Joint Mission Team @ @ @ @ @ @ @ @ @ @ child to an adult .
+"  UPDATE 3/20/2020 :  With new data on cases in children trickling in , little has changed .
+Children still appear to be at lower risk of COVID-19 .
+Though they can certainly become infected , they tend to make up small fractions of known cases in places .
+When they are infected , they tend to have mild illness and rarely develop severe disease .
+To date , there is only one report of a child dying of COVID-19 , a 14-year-old boy in China 's Hubei province , who died on February 7 .
+Overall , it echoes what we already knew .
+" Clinical manifestations of children 's COVID-19 cases were less severe than those of adults ' patients , " the authors concluded .
+About 94 percent of the cases were mild or moderate .
+But , like any demographic , children were n't universally spared from severe outcomes .
+About 6 percent of cases were severe ( about 5 percent ) or critical ( under 1 percent ) .
+And , perhaps most concerning , most @ @ @ @ @ @ @ @ @ @ age groups , that is under-1-year-olds and 1- to 5-year-olds .
+Those two groups accounted for 60 percent of severe cases ( about 30 percent each ) and nearly 70 of critical cases ( 54 percent in the under 1-year-olds ) .
+While those figures are alarming , it 's important to note some of the limitations of this data .
+First , the numbers are small in the severe and critical categories .
+Percentages can be large just with a few cases .
+For instance , there were only 7 critical cases in children under 1 year old , but there were only 13 cases overall .
+Also , not all of the cases in this study were confirmed COVID-19 cases .
+Some were suspected cases based on clinical findings .
+Of the 2,143 cases , 731 ( 34 percent ) were laboratory-confirmed cases and 1412 ( 66 percent ) were suspected .
+As such , other respiratory infections -- that can be particularly severe for infants , such as RSV -- ca n't be ruled out .
+Lastly , the researchers did n't have @ @ @ @ @ @ @ @ @ @ .
+It 's unclear if any underlying conditions contributed to the severity of disease .
+Are pregnant women at high risk ? New , 3/19/2020  The question of risks for pregnant women is , unfortunately , very difficult to answer right now .
+We simply do n't have much data .
+So far , from the scant data we have , there 's little indication that pregnant women are at an increased risk of COVID-19 .
+That is , pregnant women do not appear to have more severe disease than the rest of the population .
+And there have been no reported deaths of pregnant women due to COVID-19 at this time .
+However , pregnant women are at increased risk of getting severely ill or dying from other respiratory infections , such as flu and SARS ( which is caused by SARS-CoV , a coronavirus related to SARS-CoV-2 , the virus that causes COVID-19 ) .
+As such , The American College of Obstetricians and Gynecologists ( ACOG ) currently ( as of 3/19 ) recommends that pregnant women be considered an at-risk population .
+@ @ @ @ @ @ @ @ @ @ here 's what we know so far :  For pregnant women :  You 'll most likely have mild to moderate symptoms , like the rest of the population .
+However , severe symptoms -- particularly if you have underlying health conditions -- can occur and should be promptly identified and treated .
+In a non-peer-reviewed , unpublished study of 34 pregnant women with COVID-19 ( 16 laboratory confirmed and 18 suspected cases ) , none of the women developed severe disease .
+While the women had a higher rate of maternal complications than a control group , all of the complications developed prior to their COVID-19 cases .
+Those complications included gestational diabetes , premature rupture of membranes , and preeclampsia .
+US data on risk for millennials New , 3/20/2020  In a press briefing March 18 , Dr .
+Deborah Birx , coordinator for the White House 's coronavirus task force , tried to send a warning to millennials -- people in their 20s and 30s -- that they are not immune from getting severely ill with COVID-19 .
+She noted concerning reports of young @ @ @ @ @ @ @ @ @ @ because they are not taking the pandemic risk seriously and getting infected disproportionally .
+( Here is some recent data on infections in Italy )  " We think part of this may be that people heeded the early data coming out of China and coming out of South Korea that the elderly or those with preexisting medical conditions were at particular risk , " she said .
+" It may have been that the millennial generation .
+there may be a disproportional number of infections among that group .
+And so even if it 's a rare occurrence , it may be seen more frequently in that group and be evident now .
+"  Her main point was that millennials can indeed become very ill -- though at a lower rate than older groups -- and they should certainly follow recommended health measures and social distancing like older adults .
+However , it may have come across to some as saying that millennials in the United States are getting sicker than expected .
+Overall , the data echoed what has been seen in other countries , particularly @ @ @ @ @ @ @ @ @ @ the US suggested that people aged 65 or older were most at risk : they made up 31 percent of cases despite being around 15 percent of the population .
+They made up 45 percent of known hospitalizations , 53 percent of known ICU admissions , and 80 percent of deaths .
+The age group with the highest rate of severe outcomes was the 85 or older group .
+The data the CDC was working with was very preliminary and incomplete though .
+For many of the cases , researchers did n't have data on age , whether a case required hospitalization or intensive care or not , or even whether the patient died or not .
+The data also did n't included information on whether patients had underlying health conditions , such as cardiovascular disease or diabetes , which also increases risks of severe illness and death .
+Still , some were struck by the breakdowns of that patchy data .
+Of 2,449 cases with a known age , 29 percent fell into the 20-44 age group .
+Of 508 cases that were known to be hospitalized @ @ @ @ @ @ @ @ @ @ patients known to need intensive care , 12 percent were 20-44 .
+Last , among 44 cases with known outcomes , nine ( 20 percent ) were in people aged 20-64 .
+However , a closer look at that data from China does n't tell an entirely different story from what we 've heard so far in the US .
+Of the 3,665 Chinese cases , 1,170 were among people aged 20-49 .
+Of those , 173 were severe , likely requiring hospitalization .
+That suggests that about 15 percent of patients aged 20-49 with COVID-19 went on to need hospitalization .
+In the new report on US COVID-19 data , the CDC estimates that between 14 percent to 20 percent of patients aged 20-44 require hospitalization .
+The bottom line is that people aged 65 or older and those with underlying health conditions are still , clearly , most at risk for developing severe illness and dying from COVID-19 .
+But people in the younger age groups are certainly not immune to those outcomes .
+WHO Director-General Dr .
+Tedros emphasized this message to millennials @ @ @ @ @ @ @ @ @ @ not invincible , " he said , adding that the virus could put young people in the hospital for weeks .
+And , even if younger COVID-19 cases get by with mild illness , they still have the potential to pass on the infection to more vulnerable groups .
+Everyone , no matter age or health status , needs to follow the hygiene and social-distancing recommendations .
+Everyone .
+How long does COVID-19 last ?  On average , it takes five to six days from the day you are infected with SARS-CoV-2 until you develop symptoms of COVID-19 .
+This pre-symptomatic period -- also known as " incubation " -- can range from one to 14 days .
+From there , those with mild disease tend to recover in about two weeks , while those with more severe cases can take three to six weeks to recover , according to WHO Director-General Dr .
+Tedros Adhanom Ghebreyesus , who goes by Dr .
+Tedros .
+How many people die from the infection ?  This is a difficult question to answer .
+The bottom line is @ @ @ @ @ @ @ @ @ @ rates ( CFR ) -- that is , the number of infected people who will die from the infection -- are simply calculated by dividing the number of dead by the number of recovered plus dead .
+The CFRs you 've probably seen so far have likely been a crude version of this : deaths divided by total cases .
+One problem with these crude calculations is that the cases we 're counting are n't all resolved .
+Some of the patients who are currently sick may later go on to die .
+In that situation , the patients ' cases are counted , but their deaths are not ( yet ) .
+This skews the current calculation to make the CFR look artificially low .
+But a much larger concern is that we are undercounting the number of cases overall .
+Because most of the COVID-19 cases that we know about are mild , health experts suspect that many more infected people have not presented themselves to health care providers to be tested .
+They may have mistaken their COVID-19 case for a common cold or did @ @ @ @ @ @ @ @ @ @ by COVID-19 , there may not have been enough testing capacity to detect all of the mild cases .
+If a large number of mild cases are being missed in the total case count , it could make the CFR look artificially high .
+The best way to clear up this uncertainty is to wait until one of the local outbreaks is completely over and then to do blood tests on the general population to see how many people were infected .
+Those blood tests would look for antibodies that target SARS-CoV-2 .
+( Antibodies are Y-shaped proteins that the immune system makes to help identify and attack pathogens and other unfriendly invaders .
+) The presence of antibodies against a specific germ in a person 's blood indicates that the person has been exposed to that germ , either through infection or immunization .
+Screening the general population for SARS-CoV-2 antibodies will give a clearer picture of how many people were actually infected -- regardless of whether they were symptomatic or diagnosed while sick .
+That number can then be used to calculate an accurate CFR .
+@ @ @ @ @ @ @ @ @ @ has been done in China , specifically in Guangdong province .
+Screening of 320,000 people who went to a fever clinic suggested that we may not be missing a vast number of mild cases .
+This in turn suggests that the CFRs we are calculating now are not wildly higher than they should be .
+However , experts still suspect that many mild cases are going unreported , and many still anticipate that the true CFR will be lower than what we are calculating now .
+Beyond getting the basic number of cases and deaths right , CFRs are also tricky because they can vary by population , time , and place .
+We 've already noted above that the CFR increases in patient populations based on age , gender , and underlying health .
+But as time goes on , healthcare providers will get collectively better at identifying and treating patients , thereby lowering the CFR .
+Complicating these statistics further , the quality of healthcare differs from place to place .
+The CFR in a resource-poor hospital may be higher than that in a resource-rich hospital @ @ @ @ @ @ @ @ @ @ not be able to provide optimal care for every patient , artificially increasing the CFR in those places .
+This seems to be what we 've seen in China so far .
+In the WHO-China Joint Mission report , the experts noted that in Wuhan -- where the outbreak began and where health systems have been crushed by the number of cases -- the CFR was a whopping 5 .
+percent .
+The rest of China at the time had a CFR of 0 .
+percent .
+As of March 5 , there were about 13,000 cases and 400 deaths reported outside of China 's Hubei Province ( where Wuhan is located ) .
+A crude calculation puts the CFR around 3 percent , but this calculation will likely drift throughout the outbreak .
+We will update the current crude CFR periodically .
+Thank you , Ars and Beth , for this excellent guide .
+My chief concern right now is avoiding this if at all possible , as my wife had chemo/radiation a couple of years ago for lymphoma .
+Her lungs were permanently damaged by 2 of @ @ @ @ @ @ @ @ @ @ is definitely in the higher risk category if exposed .
+I plan NOT to attend the annual IT conference I always attend in April as a precaution .
+Outside that , I do n't do any real traveling .
+Stay safe and rational , everyone !  Thanks so much for the in depth article and please as stated , keep it updated ! As someone that suffers from End Stage COPD , since this has started spreading i 've been concerned , no panic or anything but just keeping a close eye on local news to see if it has spread here yet , and , even though i 'm in a really small city on the east coast of Canada , like the CDC and Public Health Agency of Canada has said , it 's not a matter of IF it 's a matter of WHEN it will hit my city .
+( On a side tangent , FUCK TRUMP AND PENCE on the handling of the virus outbreak .
+)  One additional reason to get a flu vaccine : although cases where a patient has @ @ @ @ @ @ @ @ @ @ outcomes are worse for those with underlying health conditions .
+Not just for yourself , but also for herd immunity , the fewer people compromised with the flu if / when exposed to COVID-19 , the better .
+When the vaccine is developed , can we get people to sign vows of renouncing anti-vaccine stance before administration ?  While I am all in favor of vaccines , I disagree with any barriers that might cause people to refuse a vaccine .
+I do n't see how escalating a vaccination into a loyalty oath would increase vaccination rates .
+One option for dealing with this outbreak is to do nothing : allow virus to spread , treat symptoms , and just simply accept lower life expectency in the near future .
+This is hardly a existential crisis level plague .
+Our short term response of trying to contain the virus is likely to be much more harmful to the livelihood of the vast majority of the population than the consequences of virus infection .
+When the vaccine is developed , @ @ @ @ @ @ @ @ @ @ stance before administration ?  Problem with that approach is that current mortality rates are predicate on people being able to get medical care , which wo n't happen if hospitals are overwhelmed ( i .
+Wuhan ) .
+If the 5-10% of cases that require medical attention ca n't get a hospital bed , it 's very possible that a lot more of them wo n't make it .
+A vaccine is still going to be some time away , and if we can delay major outbreaks in the meantime it 'll give the medical system time to respond to the inevitable demand surge .
+Are the N95 face masks ( like the 3M 8210 and 8511 ) that are ( or at least used to be ) available at hardware stores really the same masks medical professionals use ? I 've used masks like this for decades when working is dusty environments like the attic or when woodworking or cutting steel .
+is the run on these masks really effecting the supply of " medical grade " masks ? That implies they are the same .
+Are they @ @ @ @ @ @ @ @ @ @ outbreak is to do nothing : allow virus to spread , treat symptoms , and just simply accept lower life expectency in the near future .
+This is hardly a existential crisis level plague .
+Our short term response of trying to contain the virus is likely to be much more harmful to the livelihood of the vast majority of the population than the consequences of virus infection .
+About 15% of infected people need oxygen or a ventilator .
+That 's one in eight : a lot of people .
+If we do nothing , they 'll all turn up at hospital all at once .
+This is bad .
+I work at a university that made the decision to remove all single use paper towel dispensers in the restrooms .
+None of the instructions about washing hands deal with the problem of air dryers .
+I detest air dryers for many reasons , but in light of this crises , my question is : What are the recommended options for drying ones hands when no single use towels are available ?  ( Using toilet @ @ @ @ @ @ @ @ @ @ , those products are designed to dissolve the second they touch water .
+)  I was just about to post this same question .
+There have been multiple reports of air dryers , especially the ' jet ' kind , spreading bacteria ( ex : https : **33;1354;TOOLONG .
+8051113823 ) .
+Any idea if these are likely to blow the virus in to the air ? Many people do n't wash thoroughly , so it seems at least plausible that virus-laden droplets could be blown from poorly-washed hands in to the air .
+One question I have not able to find an answer for , 2 years ago my wife at a " saddle " type pulmonary embolism .
+We believe it was due to a long flight at caused blood clots to develop ( no genetic predisposition for clots ) .
+But her lungs were scared and damaged .
+I am correct when I say that puts her in a higher risk group for this disease , correct ? There are no reported cases in our part of the US , but it 's @ @ @ @ @ @ @ @ @ @ she is a public health nurse who interacts with a lot of sick people daily .
+I ' kind of freaking out , but I ca n't find any info on what the PE damage to her lungs means as far as increased risk .
+We are 41 and neither of us smoke or have anything else that would us in a higher risk category  I work at a university that made the decision to remove all single use paper towel dispensers in the restrooms .
+None of the instructions about washing hands deal with the problem of air dryers .
+I detest air dryers for many reasons , but in light of this crises , my question is : What are the recommended options for drying ones hands when no single use towels are available ?  ( Using toilet paper or toilet seat covers is n't really an option , those products are designed to dissolve the second they touch water .
+)  Somewhat related .
+In public restrooms , I always wonder why the paper towel dispenser is right above the trash less than @ @ @ @ @ @ @ @ @ @ are present especially those Dyson ones that blow up into your face and just causes stuff to fly into the air for everyone to breath in .
+I wonder because I see too many people " wash " their hands with only water for a second and then use the paper towels or air dryer .
+Edit:Also , I cringe when I see the damp used ( likely dirty ) paper towels piling up and touching the unused towels above it .
+Are the N95 face masks ( like the 3M 8210 and 8511 ) that are ( or at least used to be ) available at hardware stores really the same masks medical professionals use ? I 've used masks like this for decades when working is dusty environments like the attic or when woodworking or cutting steel .
+is the run on these masks really effecting the supply of ' medical grade " masks ? That implies they are the same .
+Are they ?  I think the argument is that people need these for work .
+If they are bought up by people who @ @ @ @ @ @ @ @ @ @ ( or prevent them working if regulations require that ) .
+Something I have been wondering , what to do if you get severe symptoms and have no health insurance ? I have n't been to a doctor in 20 years .
+I am not even sure where I 'd go .
+I guess start by googling " cheap doctor " .
+Is there any tricks we 27 million should do ? I thought I read somewhere that the CDC offers free testing in some cases .
+This is a good overview , with particular hightlights being actually saying which underlying health conditions are thought to increase risk , and listing symptoms by percentages reported by confirmed cases in China .
+Better than most reports I 've read .
+So if you 're thinking tl ; dnr then maybe reconsider .
+If you were able to read a 20-page Siracusa OSX review back in the day then you should be able to read three pages about coronavirus .
+And certainly do n't listen to someone deliberately making so many speculations that they 're bound to be @ @ @ @ @ @ @ @ @ @ they can brag about it in the future .
+Here 's an article showing some great details about how Covid-19 testing is done , including a picture of an actual test result .
+One things I learned was that at least some test kits could work for as many as 50 people .
+I had previously been assuming that one test kit would test one person .
+PCR is insanely sensitive , you only need a little bit of sample and test reagent for it to work decently .
+They also might be pooling patient samples and then going back to look at individuals only if something pops up as positive .
+One additional reason to get a flu vaccine : although cases where a patient has both COVID-19 and influenza appear to be rare , COVID-19 outcomes are worse for those with underlying health conditions .
+Not just for yourself , but also for herd immunity , the fewer people compromised with the flu if / when exposed to COVID-19 , the better .
+People over 65 or in one of the at-risk groups @ @ @ @ @ @ @ @ @ @ risk and the strain on the health system .
+Very nice summary Beth .
+I particularly like that you are very clear on what we ARE relatively confident on ( incubation period , disinfection strategies ) and what we ARE NOT confident on ( seasonality ect ) .
+Articles like these are a hundred times more helpful than the " Meme-able " soundbites being crafted by many of the major media outlets which often leave out significant and important detail .
+Question:The advice is clear to not buy or wear a mask unless one is sick .
+It also states , " If a healthcare provider has you come in for a test , the CDC recommends wearing a mask " .
+So when can one get a mask to transition from " I 'm not sick so I do n't have one " to " I 'm wearing one for my visit to my provider " ?  I think the answer has to be that you should ask your provider for advice first .
+The worst thing is to go to a waiting room or @ @ @ @ @ @ @ @ @ @ a testing protocol as there already is in the UK which involves any direct contact ( eg drive through testing ) or they will have appropriate protective equipment to protect them and other patients .
+Vis-a-vis hand washing , Phil Platt , aka Bad Astronomy , recommends counting to 20 in a foreign language while you wash your hands .
+Not only do you learn how to count to twenty in another language , you end up with clean hands .
+You can start with Japanese .
+Japanese only requires memorizing the first 10 numbers .
+After that , it 's 10-1 for eleven , 10-2 for 12 etc .
+up to 2-10 for twenty .

@@ -1,0 +1,22 @@
+Two Indian-origin researchers from the University of Cambridge have predicted that a flat 49-day nationwide lockdown may be necessary to prevent COVID-19 resurgence in India .
+Scholar Ronojoy Adhikari in collaboration with Rajesh Singh from the Department of Applied Mathematics and Theoretical Physics at the university in a paper shows that the 21-day lockdown that the India government has imposed is unlikely to be effective and " there will be a resurgence of COVID-19 at the end of it " .
+The model is possibly the first to include " age and social contact structure of the Indian population " when assessing the impact of social distancing on the COVID-19 pandemic in the country .
+The paper titled eAge-structured impact of social distancing on the COVID-19 epidemic in India ' has been published on open-access preprint repository ArXiv and is yet to be peer-reviewed .
+The impact of social distancing measures -- workplace non-attendance , school closure , lockdown -- and their efficacy with duration has been investigated in the study .
+The researchers used an age-structured SIR model with social contact matrices obtained from surveys and Bayesian imputation to study the progress @ @ @ @ @ @ @ @ @ @ structures of social contact critically determine the spread of the infection and , in the absence of vaccines , the control of these structures through large-scale social distancing measures appears to be the most effective means of mitigation , " the authors wrote .
+The country 's total corona-affected patient count , including those who have been cured , has crossed 900 in India .
+The country which went in to the 21-day lockdown from March 24 midnight had 909 active cases of coronavirus as of Saturday evening .
+Out of them , 862 are Indians and 47 foreign nationals .
+The mathematical model contains both asymptomatic and symptomatic infectives .
+" Due to the paucity of data on the number of asymptomatic cases we have chosen to set these to zero .
+This provides a lower bound on the number of morbidities and mortalities and the intensity and duration of the social distancing measures that are required for mitigation , ' the authors mentioned .
+According to the authors , extensive testing of the population can provide data on the number of asymptomatic cases and @ @ @ @ @ @ @ @ @ @ more accurate estimates of the progress of the epidemic and the impact of mitigatory social distancing .
+" More generally , there are uncertainties in all parameters of our model and these would translate into uncertainties in forecasts and estimates .
+These uncertainties can be reduced with better availability of case data and uncertainties can be quantified through Bayesian error propagation analysis , " explained the duo .
+A three-week lockdown , however , is found insufficient to prevent a resurgence and , instead , protocols of sustained lockdown with periodic relaxation are suggested .
+" Our principal conclusion is that the three-week lockdown will be insufficient .
+Our model suggests sustained periods of lockdown with periodic relaxation will reduce the num- ber of cases to levels where individualised social contact tracing and quarantine may become feasible , : the paper elaborated .
+Northeast Now is a multi-app based hyper-regional bilingual news portal .
+Led by a group of professionals , the digital news platform covers every inch of the eight states of northeast India and the five neighbouring countries .
+It is the first of @ @ @ @ @ @ @ @ @ @ is based in Guwahati .
+As the political dynamics in the northeast is intricate and fluid , Northeast Now is always politically neutral .

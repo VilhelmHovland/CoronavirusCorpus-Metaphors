@@ -1,0 +1,45 @@
+Even as the number of coronavirus cases continues to rise across the world , India , along with other countries , is staring at a critical shortage of life-saving ventilator machines .
+To understand the relationship between the novel coronavirus and ventilators , it is important to look at how the virus affects the human system .
+The coronavirus attacks people 's lungs , making it difficult for some patients to breathe .
+In such a scenario , ventilators become a critical tool to keep these patients alive .
+These life-saving machines deliver air and oxygen to the lungs through a tube placed in the windpipe .
+In India , the demand for ventilators is expected to go up to around 1 million or 10 lakh by July 2020 , while at present the availability is between 30,000 and 50,000 , according to a report released by researchers from Johns Hopkins and Princeton University last week .
+While the Narendra Modi governmentis putting in efforts to ramp up the ventilator count , it is still likely to run into a shortage .
+On Friday , the Ministry of Health and Family Welfare announced that @ @ @ @ @ @ @ @ @ @ ) to supply 10,000 ventilators , and is commissioning the production of another 30,000 ventilators with Bharat Electronics Ltd ( BEL ) .
+A volunteer-driven solution to the crisis  A volunteer-driven initiative started by Pankaj Gupta , an entrepreneur and investor , is working with more than 200 volunteers ( including several IIT , NIT , BITS alumni ) towards solving the problem that could save " thousands of lives " .
+Pankaj is the founder of EthAum Venture Partners , and is himself an NIT ( and Rochester University , New York ) graduate .
+He started the initiative to tackle the COVID-19 or novel coronavirus pandemic through an appeal on micro-blogging site Twitter , after which people started joining the cause .
+The group , which calls itself the COVID India Initiative , has been testing a tiny device that can fit into the human palm to optimise the use of ventilators , in times of emergency .
+The simple mechanical device is a splitter that can evenly distribute the oxygen flow from a single ventilator to four patients .
+The 3D-printed prototype @ @ @ @ @ @ @ @ @ @ A similar device called Vesper or ventilation expansion splitter received US Federal Drug Administration ( FDA ) approval last week for emergency use .
+The ventilator splitter prototype created by COVID India Initiative  Breaking down the concept behind the splitter being tested in India , Pankaj explains : " A single ventilator can support a body weight of 280 kg , but in general , most people are in the 60-80 kg bracket .
+So , you are utilising only about 25 percent of the ventilator 's capacity .
+" In a desperate situation , when people need oxygen right away or the patient will die , what will you do ? We are trying to address that problem by creating a mechanical device that distributes oxygen through four different channels equally to go into four different people 's lungs through pipes , " he says .
+The group has done a few rounds of testing at Victoria Hospital in Bengaluru , Rajasthan Hospital in Jaipur , and SKIMS Hospital in Srinagar .
+Tests are also being conducted at Apollo Hospitals , Hyderabad .
+Dr @ @ @ @ @ @ @ @ @ @ " Splitting ventilators could be a good potential solution during times of crisis .
+We did inflated balloon testing by splitting one ventilator in four channels .
+Would love to see even flow and distribution of oxygen in the future version .
+"  According to Dr Raghavendra BS from Victoria Hospital , who was involved in the testing of the device at the Bengaluru hospital , the wall thickness of the splitter could be increased for prolonged usage .
+" We tested the splitter and found an even distribution of oxygen among the four channels .
+We recommended the team to increase wall thickness of the splitter so they can last prolonged usage .
+"  The 3D-printed prototypes cost Rs 100 a piece .
+But the group does not want to take the 3D printing route for mass production .
+" Once the design is finalised , we want to design for injection moulding and mass manufacture at an injection moulding facility .
+The cost would likely come down to Rs 50 per piece then , " says Pankaj .
+The group has been in touch with @ @ @ @ @ @ @ @ @ @ the development of the splitter .
+" Invest India is very excited , and they understand ventilators will be in shortage soon .
+They have been helping us a lot by connecting us with various stakeholders like Apollo hospitals , 3D Printers , etc .
+"  Free for hospitals  According to Pankaj , the volunteer group does not plan to charge hospitals nor will it file any design patents or intellectual property rights ( IP ) for the splitter .
+For funding the mass production of the device , it is talking to Invest India and also hopes to get contributions from partners of Sequoia Capital , Accel Partners , Lightspeed Ventures , Matrix Partners , and Jungle Ventures , investing in their personal capacity .
+In the meantime , the government has also asked automobile manufacturers to use their facilities to produce ventilators to boost the country 's capacity of the life-saving machines .
+" Automobile manufacturers have been asked to manufacture ventilators and they are working towards this end , " the health ministry announced in a tweet on Monday .
+Carmakers chip @ @ @ @ @ @ @ @ @ @ announced that it will help scale up the production of ventilators in the country .
+Maruti Suzuki said it will manufacture 10,000 ventilators in collaboration with AgVA Healthcare , an approved manufacturer of ventilators .
+Last week , Mahindra Group Chairman Anand Mahindra announced that Mahindra &amp; Mahindra is working with an indigenous maker of ICU ventilators .
+" These are sophisticated machines costing between Rs 5 to 10 lakh .
+This device is an interim lifesaver , and the team estimates it will cost below Rs 7,500 , " Anand Mahindra had tweeted .
+In India , the novel coronavirus has till now taken 29 lives and infected more than 1,000 .
+Across the world , it has killed more than 33,960 people , and infected over 7,21,900 .
+The World Health Organisation ( WHO ) declared the novel coronavirus a global pandemic on March 11 .
+( Edited by Megha Reddy )  How has the coronavirus outbreak disrupted your life ? And how are you dealing with it ? Write to us or send us a video with subject line ' Coronavirus @ @ @ @ @ @ @ @ @ @ .

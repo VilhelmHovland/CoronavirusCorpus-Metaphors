@@ -1,0 +1,43 @@
+Summary  For hackers , coronavirus is big chance to harvest data  Thursday , March 26 , 2020 0:01  By FAUSTINE NGILA  Side view of hacker using computer with digital interface while sitting at desk of blurry interior .
+FILE PHOTO NMG  As the coronavirus pandemic hits the world hard , cyber attackers are capitalising on the upsurge of online searches for information regarding the disease to mine user private data , including passwords .
+While the global focus is on the threat posed by Covid-19 , cybercriminals have been busy devising and launching different kinds of attacks and attempts to compromise data of unsuspecting people and organisations .
+Apart from e-mail scam links and phishing attempts , the attacks , which are designed as persuading messages to trick the human brain , have also been disseminated via social media platforms such as WhatsApp , Facebook and Twitter .
+Exploiting the coronavirus socio-economic disruption , where most companies have allowed employees to work from home .
+With increasing number of people spending more time online , hackers are now having a field day .
+" They are launching using e-mail-based @ @ @ @ @ @ @ @ @ @ be from official organisations such as the World Health Organisation , " Mr Antony Muiyuro , senior manager and cybersecurity lead at Ernst and Young East Africa , told the Digital Daily .
+One attack seen in several WhatsApp groups in Kenya promises to give every user who clicks the link one gigabyte of Internet data .
+" Get aware of the coronavirus using free Internet provided by the WHO .
+Get 1GB of data every day till April 30 , " it reads .
+Typical of an e-mail-based attack , Mr Muiyuro says , hackers are using attachments that contain malicious hidden codes designed to compromise data and steal user credentials , leading to identity theft delivered in Covid-19 themed e-mails .
+" Fake websites that request for your log in credentials are also targeting to infect your computer and phone with malicious scripts .
+Cybercriminals love crisis , they love the coronavirus scare , " he adds .
+E-mail links come with snares like ' click here for a cure ' , ' little measures that can save you ' , ' click @ @ @ @ @ @ @ @ @ @ you can get a tax refund ' .
+Hackers are also building fraudulent coronavirus live maps that when clicked , infect computers and phones with malware and steal passwords .
+Others pretend to offer mobile users loans they did not apply for .
+For corporates and government agencies , this turns out to be the most insecure period of the year , as dark web masters target senior personnel in such organisation in attempts to pilfer critical data .
+Dr Bright Mawudor , head of cyber security services at Internet Solutions notes that the malicious WhatsApp links and decoys being spread in Kenya to unsuspecting online groups and users have been preprogrammed to access particular private information .
+" Beware of these links being shared on WhatsApp and e-mail .
+You must avoid typing codes that purport to reset already hacked smartphones .
+They are all fake and aim to compromise your company , " he warns .
+" The fake maps of new coronavirus infections have codes embedded in them , instructed to get all details about you , including your bank and mobile @ @ @ @ @ @ @ @ @ @ who have perfected the art of Artificial Intelligence ( AI ) , can clone legitimate websites and social media accounts , and paste malicious invisible codes and get user data .
+" You should also avoid messages with links persuading you to donate using cryptocurrencies like Bitcoin , or asking you to share the link several times and get rewarded via cryptos , " he cautions .
+Many netizens have been tricked to download apps on Playstore purporting to track the spread of Covid-19 , only to lose control of their smartphones after phone passwords are set by AI powered hacking codes .
+" The fake app is called " COVID19 Tracker " , masking itself as the virus outbreak map tracker .
+This app is actually a ransomware that locks down user phone and demands a payment equivalent to Sh10,000 worth of Bitcoins within 48 hours , " Mr Muiyuro reveals .
+To download the app , a user would have to go directly to the website where the app was hosted and download the app from there .
+However , by the time this @ @ @ @ @ @ @ @ @ @ Google Play Store and the website has since been taken down .
+This , Dr Mawudor says , would take time for Google to detect that its platform was being used to host malicious apps , and thus users must exercise great caution .
+Mr Muiyuro urges Kenyans to be extra vigilant and on the lookout for links that get you to unwittingly download malware onto your device or your employer 's systems .
+" Beware of links with factual and grammatical errors , always verify the source of the information keenly .
+Always ask yourself , should I be receiving this ? Do I know and trust the source ?  " Check the URL ( universal resource locator ) before you click on any link .
+Does it look legitimate ? Always use information from trusted websites such as WHO , Ministry of Health or Centre for Disease Control , " he advises .
+He warns against using the same password for every online platform , recommending users to change secret code if they have been away for a while .
+" Only use @ @ @ @ @ @ @ @ @ @ ads .
+In case of doubts , always scan the URL using www .
+virustotal .
+, a free tool used to detect any malicious infection on files and sites , " he says .
+He advises Kenyans to install verified anti-malware software on their computers and phones .
+He also reminds Kenyans of the legal consequences of sharing fake news and unverified information .
+" The Computer Misuse and Cybercrimes Act warns against this reckless behaviour .
+Why risk being fined Sh5 million or jailed for ten years ? " he poses .
+According to a cybersecurity index report released recently by cyber statistics company Comparitech , Kenya topped in Africa in cyber resilience , but mobile phones remain the top target by attackers , with 16 per cent being infected by malware .

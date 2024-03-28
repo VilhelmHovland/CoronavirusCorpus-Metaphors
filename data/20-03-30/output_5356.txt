@@ -1,0 +1,42 @@
+It 's still early days for Corona Kavach but the way the whole thing has been designed means it could be a hard sell in India .
+The government of India has taken a number of steps , including some very bold ones like putting the whole country under a ' complete ' 21-day lockdown , to fight novel coronavirus .
+Even as doctors and scientists around the world burn the midnight oil to devise a potential cure , chalking out an effective and efficient strategy to keep people from being exposed to COVID-19 is the need of the hour .
+While it is advised to stay in at all times , until the worst is behind us , being aware of your surroundings and knowing if you 're in the ' impact ' zone is crucial -- in case you have to step out .
+That 's where novel coronavirus tracking apps and websites come into the picture .
+It 's highly advisable that you use ' verified ' apps and websites to track COVID-19 -- cases , facts , myths , so on and so forth .
+While no novel coronavirus tracking app or @ @ @ @ @ @ @ @ @ @ all largely dependent on GPS and location data , at least you get some approximation , so you can probably avoid areas earmarked as infected .
+The government of India has taken a slightly different approach to how most COVID-19 tracking apps and websites usually function , to help you keep pace with all the " information and capture the outbreak of coronavirus " through its own dedicated app -- Corona Kavach .
+Here is the government of India 's Corona Kavach COVID-19 tracking app explained in 10 simple points .
+The government of India 's Corona Kavach COVID-19 tracking app has been developed by the National e-Governance Division of the Ministry of Electronics and Information Technology ( MeitY ) in association with the Ministry of Health and Family Welfare ( MHFW ) .
+Corona Kavach is different from MeitY 's COVID19 Feedback app .
+While the former has been designed to capture the outbreak , the latter collects feedback on any treatment undergone by individuals .
+Corona Kavach is only available for Android devices currently .
+MeitY notes that the app 's " beta version is still @ @ @ @ @ @ @ @ @ @ can download the app from the Google Play Store from the following link .
+The app explicitly requires two permissions , access to your location and files on your device .
+You can then register using your mobile number .
+The app sends a one time password ( OTP ) to the registered mobile number .
+More granular details like name , age and all , are never asked which means that you can basically browse through the app ' anonymously ' or at least that 's the sort of impression Corona Kavach would give you .
+The homepage , which is the page you 're greeted with every time you open the app after some brief loading , is fairly simple and bare bones .
+And MeitY lets you know in advance that you 're dealing with beta software -- which means that it 's not final and subject to change and hopefully improvements in due course of time .
+Below that ' beta ' advisory , you get a list of ' active COVID-19 cases , ' ' cured/discharged cases , ' ' death cases , @ @ @ @ @ @ @ @ @ @ screened at airport ' -- this information is only and only for India .
+There are further links to a FAQ and Desk page -- both of them do n't work at the time of writing this story .
+There is an ' options ' menu which is also very basic at this point of time .
+There are only two headers here .
+While one takes you through a breathing exercise , the second one , the questionnaire , is the option you really signed in for .
+The questionnaire is what really drives the whole app -- in fact , this is what can make or break the app .
+As opposed to most apps and websites tracking the novel coronavirus outbreak that use data fed in through an algorithm ( which is frequently updated ) , Corona Kavach gives you that ' control ' in your hands .
+Corona Kavach is not AI driven , but it 's driven by actual people -- you and I .
+It 's a community effort .
+The questionnaire has six questions in all ( for now ) and you @ @ @ @ @ @ @ @ @ @ range from " are you facing any difficulty in breathing ? " to " did you meet anyone who has recently traveled to any foreign country ? " to " how much is your current body temperature ? " You need to answer all the six questions honestly and submit -- that 's how you become part of a database .
+As more and more people use the app and answer the questions , the database gets updated .
+Location access gives the app a rough idea of where you 're located .
+MeitY says your location data stays offline on your device ( which is possibly why the app requires access to files on your device ) at all times .
+It is only when you 're possibly exposed that you come online .
+Basis of the database , Corona Kavach then tags you into categories and colour-codes you .
+Code green means you 're all good , orange means you should see a doctor , yellow is for quarantine , and red means you 're infected .
+For the unexposed , Corona Kavach offers a @ @ @ @ @ @ @ @ @ @ surroundings to let you know if and when you come into contact with someone who 's already been infected by the virus .
+You can choose to conduct this tacking as many times as you want .
+It 's still early days for Corona Kavach but the way the whole thing has been designed means it could be a hard sell in India .
+For it to make any kind of difference , it would require volunteers in you and I to step up and let others know of your status .
+It 's only then that others would be able to benefit from it .
+Some would be fine with sharing that information , some may not .

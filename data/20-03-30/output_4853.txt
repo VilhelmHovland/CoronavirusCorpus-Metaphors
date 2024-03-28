@@ -1,0 +1,63 @@
+As we watch markets grapple with COVID-19 concerns , it is worth revisiting strategies to manage volatility in an investment portfolio .
+Even beyond the current situation , markets will always face periods of uncertainty , which is why a measured approach to investment management is important .
+When we talk about volatility , we are referring to the magnitude of upward and downward movements in asset prices over a period of time .
+A company whose stock price moves up and down by 1% daily is considered less volatile than one with 5% daily moves .
+While volatility tends to have negative connotations , it can also be a positive force .
+Investors tend to think of volatility in terms of downward market movements , as we are currently seeing , but it can equally relate to the pace of rising markets .
+Considering investment products  ETFs can be an effective tool for investors in periods of market volatility .
+They can assist by offering broad exposure and instant diversification in a liquid and cost-effective manner .
+The wide range of specialised ETFs available on today 's stock exchanges also offer investors choice @ @ @ @ @ @ @ @ @ @ .
+Approaches to volatility  There are many approaches to combating market volatility , here we highlight some of the most commonly used that can be implemented with ETFs .
+Diversification  A simple analogy for diversifying is the old adage , do n't keep all your eggs in one basket .
+If all your investments are in one company , volatility may affect you more compared to having a spread across a range of companies , countries and asset types .
+Different assets , regions and sectors may react differently to market events and perform better in certain market conditions .
+For example , some may benefit more from more volatile markets , while others will perform better where markets are more stable ( less volatile ) .
+If you consider this in context of the COVID-19 concerns , people still have basic food and health needs so companies covering consumer staples such as supermarkets or fresh food suppliers , or healthcare companies such as medical vaccines or even vitamins are likely to be less negatively affected and may even benefit .
+By contrast , @ @ @ @ @ @ @ @ @ @ restaurants ( even aside from directions to self-isolate ) so tourism-linked companies like airlines and hotels are likely to struggle .
+This is why diversification , or spreading funds across investments , is a strategy used by many to assist with managing volatility .
+Even within one asset class , such as equities , diversification by using a large number of companies can be a useful method of managing volatility and risk .
+This is because individual companies will have individual risks which can vary based on locality , management style or a range of other factors .
+A basic example of this would be comparing a dairy producer based in regional NSW to one based in north Queensland .
+The NSW producer may have been affected by bushfires this year while the QLD producer was able to maintain production .
+Incorporating more stable , less cyclical investments  While including more stable investments in your portfolio can also be considered diversification , it can also be used as a personal volatility strategy .
+What this might mean is factoring a certain part of your portfolio @ @ @ @ @ @ @ @ @ @ consistent over time , regardless of market conditions .
+An example of this is investments in infrastructure .
+Infrastructure companies include airports , toll roads , railways and telecommunications infrastructure .
+These types of companies normally have monopolistic fee structures and have very high barriers to entry with predictable revenue streams .
+This means that they are n't expected to rise as much in good times but are less likely to be materially impacted in the bad times .
+It is also worth noting that a number of essential services come under infrastructure , meaning regardless of the economic situation , they continue to be needed .
+For example , we are reliant on telecommunications ( including internet providers ) in good times and it has become even more crucial in the case of COVID-19 where many companies have enacted work from home policies to manage the viral spread .
+From this perspective , many industries within infrastructure can be considered defensive investments .
+You can see how this relates to performance through the ETFS Global Core Infrastructure ETF ( CORE ) which focuses on the 75 @ @ @ @ @ @ @ @ @ @ infrastructure universe .
+There is a clear divergence between returns and volatility of infrastructure compared with the broad spread of global equities in the MSCI World .
+CORE compared to MSCI World and the VIX Index over ten years  Source : Bloomberg , 18 March 2020  3 .
+Alternative investments  Alternatives are investments which try to use strategies or assets with a low correlation to stock and bond markets to assist in neutralising negative outcomes .
+Low correlation means that the investment 's pattern of performance should have little , no or even an inverse relationship with the rest of the portfolio .
+There are many alternative assets available to investors .
+Many of them are quite advanced technically and , ultimately , require significant faith from the investor in the skills of the manager .
+However , our belief is that one of the best , and certainly the oldest and most tried and tested , alternative assets is gold .
+Gold typically has a low or even negative correlation with other asset classes as shown in the chart below :  Source @ @ @ @ @ @ @ @ @ @ are calculated monthly over 20 years in Australian dollars .
+Australian equity is represented by the S&amp;P/ASX200 Total Return Index .
+Global equity is represented by the MSCI World Total Return Index .
+Australian fixed income is represented by the Bloomberg AusBond Composite 0+ Yr Index .
+Global fixed income is represented by the Bloomberg Global Aggregate Total Return Index .
+Commodities are represented by the Bloomberg Commodity Total Return Index .
+The correlation between gold and other asset classes has also been known to become highly negative during events such as the Global Financial Crisis .
+This has allowed it to act as a safe-haven asset in major financial and political events as shown below :  Source : ETF Securities , Bloomberg data as at 9 March 2020 .
+Returns quotes are total return in Australian dollars .
+In the current COVID-19 situation , gold fell 4 .
+between 19 February -- 17 March 2020 , compared to global equities ( as measured by MSCI World ) which fell 26 .
+There are a range of ways investors can access gold .
+Using a gold-backed @ @ @ @ @ @ @ @ @ @ GOLD ) is a cost-effective and easy-to-access method allowing investors buy gold via their share trading platform .
+Gold-backed means the physical gold bullion is stored by the fund manager in a vault on behalf of investors , and investors purchase ' units ' in that fund .
+In the case of GOLD , a unit represents approximately 1/10th of a troy ounce of gold and can be redeemed for the physical gold holdings .
+Strategic tilts  While maintaining a diversified portfolio and incorporating alternative investments is an essential part of long-term portfolio construction , investors may still consider shorter-term strategic tilts to increase or reduce exposure to certain assets during periods of market volatility .
+For example , investors may choose to buffer their portfolio by adding or increasing existing exposures to defensive assets like gold , infrastructure or currencies for short periods .
+How this might look in practice might be an investor choosing to offset weakness in the Australian dollar with exposure to the US dollar via an ETF like the ETFS Enhanced USD Cash ETF ( ZUSD ) , or increasing @ @ @ @ @ @ @ @ @ @ to help offset share market falls .
+For some investors though , market volatility is less about defensive positioning and more about a potential ' buying opportunity ' .
+These investors would typically have a high growth long term investment strategy and aim to buy assets at market lows , hoping to benefit from any potential recovery .
+For example , they might incorporate short-term tilts towards sectors like technology which tend to be hard-hit in volatile periods , using ETFs like ETFS Morningstar Global Technology ETF ( TECH ) or ETFS FANG+ ETF ( FANG ) .
+For many investors , focusing on the long-term , rather than acting on short-term activity , might be a more suitable option .
+Longer-term strategy should focus on an investor 's goals , investment timeframe , ability to withstand losses and other personal factors .
+During periods of market volatility , taking a measured approach can assist with deciding the right course of action for you .
+Some questions to consider , either yourself or with the help of a financial adviser are : .

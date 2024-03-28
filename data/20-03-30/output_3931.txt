@@ -1,0 +1,31 @@
+Privacy rights may become next victim of killer pandemic  The coronavirus pandemic has led to the creation of apps and tracking systems using people 's smartphone location as part of the effort to limit contagion .
+Image : AFP  Digital surveillance and smartphone technology may prove helpful in containing the coronavirus pandemic -- but some activists fear this could mean lasting harm to privacy and digital rights .
+From China to Singapore to Israel , governments have ordered electronic monitoring of their citizens ' movements in an effort to limit contagion .
+In Europe and the United States , technology firms have begun sharing " anonymized " smartphone data to better track the outbreak .
+These moves have prompted soul-searching by privacy activists who acknowledge the need for technology to save lives while fretting over the potential for abuse .
+" Governments around the world are demanding extraordinary new surveillance powers intended to contain the virus ' spread , " the Electronic Frontier Foundation said in an online post .
+" Many would invade our privacy , deter our free speech , and disparately burden vulnerable groups of people .
+Governments must show that such @ @ @ @ @ @ @ @ @ @ and proportionate .
+" The measures vary from place to place .
+Hong Kong ordered people arriving from overseas to wear tracking bracelets , and Singapore has a team of dedicated digital detectives monitoring those living under quarantine .
+Israel 's security agency Shin Bet has begun using advanced technology and telecom data to track civilians .
+In perhaps the strictest move , China gave people smartphone codes displayed in green , yellow , and red , determining where citizens can and can not go .
+China is also among the countries enhancing censorship about the crisis , human rights watchdog Freedom House said , while others are blocking websites or shutting off internet access .
+" We have observed a number of concerning signs that authoritarian regimes are using COVID-19 as a pretext to suppress independent speech , increase surveillance , and otherwise restrict fundamental rights , going beyond what is justified by public health needs , " said Michael Abramowitz , president of the group .
+- ' Normalized ' surveillance - Some activists cite the precedent of the September 11 , 2001 attacks , which opened @ @ @ @ @ @ @ @ @ @ of national security .
+" There is a risk these tools will become normalized and continue even after the pandemic slows , " said Darrell West , who heads the Brookings Institution 's Center for Technology Innovation .
+But even some digital privacy defenders say it may be prudent to use some of the available data to help control the outbreak .
+" I 'm not against fighting this epidemic with data or tech , " said Ryan Calo , a University of Washington researcher affiliated with Stanford 's Center for Internet and Society .
+" The problem with implementing surveillance in an emergency is that it might acclimate people to that .
+" Calo said it is a difficult trade-off , noting that even the awareness of being tracked or monitored has an impact on people 's feelings of privacy and personal security .
+- An app for that - Much of the debate centers on smartphone location tracking , a sensitive issue which has been at the heart of numerous privacy disputes .
+Since the pandemic began several apps have been developed which use the technology to track @ @ @ @ @ @ @ @ @ @ researchers determines if people have " crossed paths " with an infected person -- although it would only work if it -- for lack of a better term -- goes viral .
+Cornell University researchers developed another app allowing users to anonymously share their locations and COVID-19 status to receive alerts about other nearby cases .
+New York-based technology firm Unacast created a " social distancing scorecard " which uses smartphone locations to determine the extent of respect for recommendations for people to maintain safe distances .
+" It can be helpful to know if people are practicing social distancing .
+That can provide actionable information , " Calo said .
+But he maintained that crowdsourced data on infections is likely to be " riddled with inaccuracies " and could give people a false sense of security .
+A group of university researchers has developed a preliminary version of an app designed to allow people to share data on location and infections using smartphones ' Bluetooth technology without compromising personal privacy .
+" We designed it so that if a person comes down with COVID there 's a way to @ @ @ @ @ @ @ @ @ @ identifying who that person is , " said Tina White , a Stanford graduate student and co-founder of the Covid-watch app .
+White said she and other researchers came up with the notion as an alternative to " authoritarian " measures being adopted in some parts of the world .
+She acknowledged the app would only be as useful as the number of people using it -- but said the technology is being made available freely , and suggested that " Android and Apple could use this an option in a system update " to ensure wide adoption .

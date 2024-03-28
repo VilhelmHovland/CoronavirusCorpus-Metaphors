@@ -1,0 +1,66 @@
+Components : A machine 's DNA  By Joe **32;582;TOOLONG  The Construction Ecosystem panel at the Predict Summit 2020  Selecting the right components for a machine can be influenced by factors such as cost , safety , supply availability and regional requirements .
+One thing is for certain , to create market demand original equipment manufacturers ( OEMs ) need to construct the right product , and components are a key part of this .
+The days of innovation and invention are not over , but the pioneering days of machines such as the backhoe loader and its creator , Joseph Cyril Bamford , are now seemingly behind us .
+In this new era , components are n't necessarily created for individual machines but rather , in the mass production market of today , can be slotted together into numerous concepts .
+A question posed at the Predict Summit 2020 event in Copenhagen , Denmark , was , what would happen if the industry collaborated more ? Would it kill the competitive nature of the industry or would it propel OEMs into the same advanced bracket as the automotive industry , which it is @ @ @ @ @ @ @ @ @ @ At the Summit , held by US data company Trackunit and construction consultancy McKinsey and Company , these very issues were discussed by industry experts from rental companies , Artificial Intelligence ( AI ) solution providers , data companies , contractors and equipment manufacturers .
+One of the key issues discussed was downtime , and how the industry can eliminate it .
+Failing or failed components in machines are primary offenders .
+With modern day technology such as Trackunit 's Manager platform , why ca n't it be harnessed to preemptively order parts before a machine breaks down ?  A big stumbling block is reported to be the lack of data scientists in the industry , leading to a limited understanding of how to interpret the data .
+This is where the suggestion of AI comes in and if it can be used to crunch the numbers and detect patterns from the data .
+It could prove a powerful tool in the eliminate downtime movement but needs to be harnessed in the proper manner to add value to the process .
+At the event a construction ecosystem @ @ @ @ @ @ @ @ @ @ One of the panel members , Dr Alex Schuessler , SmartEquip CEO and founder , has a clear goal to use technology for the betterment of the industry and improve supply chains .
+Schuessler spoke to sister publication International Rental News alongside Ron Piccolo , vice president of sales and marketing , to discuss the company 's goals .
+SmartEquip was created with the intention of improving uptime in equipment , but not just for one brand of machinery ; to provide a solution for a diverse fleet rather than one single OEM .
+The idea is to embed the manufacturer 's information into their customer 's workflow , improving efficiency when ordering parts .
+Speaking of his own experience of co-founding Cat Rental , Schuessler said , " Very specifically , you had a fleet of several dozen main suppliers -- Caterpillar was just one of them .
+And you had to offer all lines of equipment .
+How do you get the right information service-wise , parts-wise , technical workflow-wise , equipment lifecycle-wise to each asset in the field from different manufacturers ? "  A @ @ @ @ @ @ @ @ @ @ Each manufacturer began to offer their own portals , making it difficult for the end user .
+Piccolo said , " Now , I 've got 600 locations that operate independently and I 've got 30 manufacturers .
+How does every technician have a login ? They 've got sticky notes all over their screen with how to get into Volvo , Komatsu , Caterpillar .
+It just was n't manageable .
+"  Schuessler added that suppliers today recognise SmartEquip is there to , " facilitate communications in a highly fragmented space .
+" The company has over 400 manufacturers on its system globally and oversees more than US$1 billion worth of parts transactions annually .
+Transition for transmissions  ZF Friedrichshafen AG , the global powertrain component and systems specialist is convinced that , in-part , the future of construction lies in the electrification of machinery .
+The German firm has been working on delivering a range of rear axles , drives , inverters and electric drive control units to power this new breed of machinery .
+One of the company 's most recent developments is @ @ @ @ @ @ @ @ @ @ system with its 48-volt electric motor has been designed to provide an emission-free drive .
+The firm said that this component offers a power density perfect for use in compact loaders and claim that it is unrivalled on the market in the 20kW and 48V performance classes .
+Liquid coolant has also been utilised in the traction motor and power electronics to ensure continued performance in construction machinery applications .
+ZF has also focused on adapting its standard power electronics for off-highway and commercial vehicles in other ways too .
+For example , the technology has been adapted in the parameterisation of the power electronics according to the characteristics of the ZF e-machinery .
+Rather than running every application at full power consumption , modular use of the software is enabled for low-voltage and high-voltage power electronics torque and speed control .
+Polymer performance  In line with off-highway equipment shifting to hybrid and electric technology , there has been an increased effort to reduce the overall power requirement of individual machines .
+One way that this can be achieved is by replacing bronze components such as bearing @ @ @ @ @ @ @ @ @ @ an overall weight reduction coupled with more efficient assemblies which require less maintenance .
+Nylacast , a manufacturer of performance-enhancing polymer components and supplier to OEMs has been converting bronze bearings to more versatile materials since the 1970s .
+The company 's bearing material range includes Oilon and Nylube , renowned for their low friction properties .
+Although not a new idea , there has been a significant increase in the demand for lower-weight , higher-performing bearing materials where bronze was and still is often used .
+Nylacast offers production of various bearing types , including plain , flanged , split and thrust washers .
+The company says that utilising its polymers in a bearing application can result in a significant weight reduction with a typical grade being 1/8th the weight of bronze .
+The low-friction , corrosion-resistant polymer gives extended bearing life and improves impact strength .
+The conversion process is made simple with Nylacast engineers being able to design the bearing to suit existing assemblies .
+Utilising an in-house research , development and testing centre the component manufacturer also offers pre-build test data to @ @ @ @ @ @ @ @ @ @ conditions .
+The low-weight , low-friction polymer bearings are suitable for hybrid and fully electric drivetrains and help reducing power consumption and maintenance in-line with the reduced service need of electric motors .
+Global supply chains  Fears have surfaced around the coronavirus and the impact on the global supply chain for the construction industry .
+Many components are manufactured in China and , at the time of writing , it is unclear how drastically the pandemic could impact production and supply chains .
+Many automotive manufacturers such as Ford Motors and Hyundai have been forced to cease production , at least temporarily , as a result of a components shortage .
+It seems the just-in-time order model is the worst affected .
+Soeren Brogaard Jensen , CCO with Trackunit  Chris Sleight , managing director at Off-Highway Research commented , " China is an extremely important source of components -- both in providing components direct to OEMs and also in feeding parts and sub-assemblies to other component suppliers .
+It is a complex global network .
+"  A spokesperson at Volvo Construction Equipment ( @ @ @ @ @ @ @ @ @ @ monitored by the Volvo Group Security Team and furthermore a cross functional working group has been established to coordinate mitigating actions when it comes to first tier suppliers and logistics .
+"  There may be some empty booths at the upcoming  ConExpo show where Chinese companies should be exhibiting , but event organisers the Association of Equipment Manufacturers ( AEM ) said that their foremost priority is focused on the health and safety of all participants and that all indications are that the show will once again be very busy .
+At the show Trident will be exhibiting its range of tyres for construction and underground mining equipment and its patented solid tyre performance monitoring system , SmarTire .
+At the company 's stand , its tyres for skid-steer loaders and telehandlers will be displayed with specifically designed patterns that reduce vibration and increase tyre life .
+Trident will also be showcasing its Solid Tire Performance Monitoring System which monitors the temperature and usage of a solid tyre .
+It consists of sensors that continuously send the temperature of each tyre to the display interface @ @ @ @ @ @ @ @ @ @ the critical levels .
+The system also records the distance travelled by each tyre , thus enabling users monitor the life of the tire at any given point .
+Crane components company TWG will be showcasing Greer Load Moment Indicators , Greer Vision and will be launching its newest innovation , Greer Intelligence .
+Details will be available at experience demonstrations .
+The company will also be showcasing several mechanical solutions at Conexpo including the Tulsa Winch TH 15 Hoist Series and Swing Drive and its gear products , hydraulic pump drive and rotator .
+KHL and ZF host forum  Event at ConExpo to discuss future of construction  ZF Friedrichshafen AG , the global powertrain component and systems specialist , will hold a forum exploring ' The Future of Construction ' at its booth -- located in  South Hall 4 , booth S-85113 -- at ConExpo .
+The forum , which will be held on Wednesday , March 11 at 2pm , will discuss technology , market trends and issues related to construction and future technologies .
+These topics include electrification , machine @ @ @ @ @ @ @ @ @ @ panel will consist of Tilo Huber , head of Construction Machinery Systems at ZF and Piergiorgio de Francesco , responsible for ZF Off-Highway Machinery Systems in the US , along with Chris Sleight , managing director of Off-Highway Research and Chad Elmore , managing editor of Diesel Progress magazine .
+The session will be moderated by Mike Brezonick , vice president of editorial at Diesel Progress .
+Following a 20-minute discussion between the panelists , the forum will be opened to questions from the audience .
+Human-machine hardware  Showcased at ConExpo , new tech from Curtiss-Wright  Getting into tech components , Curtiss-Wright 's Industrial Group announced that it will be exhibiting at Conexpo , where the company will be showcasing its latest product offerings including Human-Machine Interface ( HMI ) Controls , electronic throttle controllers , transmission shifters , sensors and power electronics .
+Curtiss-Wright are developers for applications in the construction and off-highway sectors and a recent trend for these applications is that OEMs are beginning to incorporate electronic HMIs that integrate fully into custom control boxes and armrest assemblies , providing operators with @ @ @ @ @ @ @ @ @ @ with OEMs , Curtiss-Wright can develop complete HMI console assemblies that incorporate multiple functions and can be operated with the use of just one hand , or via finger or thumb activation .
+Typically incorporating joysticks , push-button switches , rotary thumbwheels and levers , they bring a new level of control for numerous vehicle functions and features to a central console for operator convenience and efficiency .
+Drivetrain electrification is another trend Curtiss-Wright is at the forefront of and on its stand will be the recently launched World Traction Inverter ( WTI ) series .

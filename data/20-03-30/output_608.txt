@@ -1,0 +1,33 @@
+SAINT LOUIS-- ( BUSINESS WIRE ) --Perficient , Inc .
+( Nasdaq : PRFT ) ( " Perficient " ) , the leading digital consultancy transforming the world 's largest enterprises and biggest brands , today announced the availability of healthcare chatbot solutions intended to help reduce the spread of COVID-19 , address consumer concerns , and alleviate inundated call centers and helplines .
+As businesses around the world grapple with the impact of COVID-19 , they must take greater precautions to quickly contain and control further contamination .
+Digital technologies , including chatbots and artificial intelligence ( AI ) , offer a holistic , integrated alternative to traditional in-person clinical services , and give healthcare professionals more tools to treat and address patients ' needs .
+Perficient 's new chatbot solutions address these challenges by securely delivering healthcare intelligence and assessments to consumers at scale .
+The Microsoft Healthbot service is a cloud-based conversational AI platform purpose-built for the healthcare industry , featuring industry-specific templates to check symptoms , triage , and screen for mental health , among other uses .
+Through an integration with the Centers for Disease Control and Prevention ( CDC ) @ @ @ @ @ @ @ @ @ @ templates to support self-assessment as well as frequently asked questions and up-to-date metrics from the CDC .
+" With the full impact of COVID-19 still being realized , digital technology has become a critical component to scale triage capacity and mitigate risk , " said Christine Livingston , AI Chief Strategist , Perficient .
+" The Healthbot is an AI-enabled , open source platform that can interact with users , understand their concerns , and communicate complex topics that are unique to the healthcare industry and the developing situation with COVID-19 .
+"  Using the Healthbot 's intuitive and straightforward interface , healthcare organizations can author their own situations and customize behavior to support their own needs .
+A certified Bronze-level Microsoft Healthbot partner , Perficient helps healthcare organizations blend custom scenarios with established CDC content to create secure , compliant , and intelligent instances fitted to their unique business requirements and developing COVID-19 response .
+Additionally , the out-of-the-box functionality makes the service easily adaptable for other industries to address the growing issues related to direct customer contact .
+Perficient has also partnered with Drift to @ @ @ @ @ @ @ @ @ @ screening and care navigation , the COVID-19 Assessment is a decision tree outlining key components of a person 's risk for contracting COVID-19 , including exposure , symptoms , and risk factor .
+The chatbot guides users through a series of questions leading to a custom message directing them on the next actions to take .
+" We understand the difficulties healthcare organizations are experiencing during this time , and we wanted to develop an easy-to-implement solution that would help ease the burden for providers , " said Paul Griffiths , General Manager , Perficient .
+" This chatbot-led assessment , which can be implemented in a matter of hours , is designed for screening and care navigation , and gives providers a better way to interact with those who may be contacting a healthcare organization seeking guidance about symptoms , concerns , and next steps .
+"  Perficient is a trusted end-to-end digital partner with more than 20 years of experience delivering digital technology solutions to leading enterprises , including healthcare payer , provider , and pharmaceutical organizations .
+With a focus on the healthcare consumer experience @ @ @ @ @ @ @ @ @ @ enable interoperability , satisfy regulatory requirements , leverage key data insights , and improve quality of care .
+In addition to developing chatbot solutions for the healthcare industry , Perficient is also partnering with Amazon Connect and Twilio to develop rapid digital solutions for customer care use across multiple industries .
+The digital solutions , including on-demand cloud contact centers and remote agent workspaces , help enterprises drive operations forward and deliver experiences customers need .
+Perficient is the leading digital consultancy .
+We imagine , create , engineer , and run digital transformation solutions that help our clients exceed customers ' expectations , outpace the competition , and grow their business .
+With unparalleled strategy , creative and technology capabilities , we bring big thinking and innovative ideas , along with a practical approach to help the world 's largest enterprises and biggest brands succeed .
+Traded on the Nasdaq Global Select Market , Perficient is a member of the Russell 2000 index and the S&amp;P SmallCap 600 index .
+Perficient is an award-winning Adobe Platinum Partner , Platinum Level IBM business partner , a Microsoft National @ @ @ @ @ @ @ @ @ @ Partner , an Advanced Pivotal Ready Partner , a Gold Salesforce Consulting Partner , and a Sitecore Platinum Partner .
+For more information , visit www .
+perficient .
+Safe Harbor Statement  Some of the statements contained in this news release that are not purely historical statements discuss future expectations or state other forward-looking information related to financial results and business outlook for 2020 .
+Those statements are subject to known and unknown risks , uncertainties , and other factors that could cause the actual results to differ materially from those contemplated by the statements .
+The forward-looking information is based on management 's current intent , belief , expectations , estimates , and projections regarding our company and our industry .
+You should be aware that those statements only reflect our predictions .
+Actual events or results may differ substantially .
+Important factors that could cause our actual results to be materially different from the forward-looking statements include ( but are not limited to ) those disclosed under the heading " Risk Factors " in our annual report on Form 10-K for the year ended December 31 , 2019 .

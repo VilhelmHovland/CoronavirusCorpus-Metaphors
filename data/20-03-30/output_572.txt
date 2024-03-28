@@ -1,0 +1,145 @@
+As concerns grew over the spread of COVID-19 , Y Combinator shifted the event format away from the two-day gathering in San Francisco we 've gotten used to , instead opting to have its entire class debut to invited investors and media via YC 's Demo Day website simultaneously .
+In a bit of a surprise twist , YC also moved Demo Day forward one week citing accelerated pacing from investors .
+Alas , this meant switching up its plan for each company to have a recorded pitch on the Demo Day website ; instead , each company pitched via slides , a few paragraphs outlining what they 're doing and the traction they 're seeing , and team bios .
+It 's unclear so far how this new format -- in combination with the rapidly evolving investment climate -- will impact this class .
+As we do with each class , we 've collected our notes on each company based on information gathered from their pitches , websites , and , in some cases , our earlier coverage of them .
+See which companies the TechCrunch staff liked the most over on Extra Crunch @ @ @ @ @ @ @ @ @ @ in Brazil is a hot market , with startups like Loft and unicorn QuintoAndar raising mega growth stage rounds .
+Alude wants to control the distribution channel with its simplified home leasing/buying process .
+Its system automates the process of background checks , document collection , insurance purchasing and online signing .
+This modernized tech is free for brokers , and the company plans to monetize by selling mortgage and insurance to customers .
+Vori : Vori wants to be the operating system for the American grocery supply chain .
+Even in 2020 , supermarkets still have an old school paper and pen ordering process with wholesale distributors .
+Vori acts as a B2B marketplace for supermarkets and distributors , helping stores produce inventory from vendors in a more efficient way .
+It says it has 24 active stores using its tech , and is also supporting over 150 distributors in Northern California .
+Vori acts also as a product discovery engine for supermarkets , helping them stay competitive with Whole Foods and Amazon .
+Linkana : Linkana is compliance-driven procurement software in Latin America .
+There are @ @ @ @ @ @ @ @ @ @ procurement solutions , creating a $2 .
+billion market opportunity .
+The four-person co-founding team has members who have worked together for nearly a decade .
+Weav : Interviewing new candidates at work can be a time suck , and there is n't a great way to organize and synthesize feedback from the team .
+Weav records and transcribes interviews for hiring teams so that companies can reach decisions faster and conduct fewer interviews .
+Led be an **25;1606;TOOLONG team , Weav says it 's building state of the art NLP tools that leverage information retrieval , topic modeling and entity recognition .
+ElectroNeek RPA : Everyone agrees that robots are the future of automation , but actually deploying the technology often requires a great deal of expertise .
+ElectroNeek is building a desktop and cloud-based interface designed to help streamline the automation process for IT employees and business professionals without a robotics background .
+Reaktive : Aimed at creative professionals like animators , video editors and engineers , Reaktive is designed to replace desktop hardware with cloud-based solutions .
+The company claims its offering is 100x faster @ @ @ @ @ @ @ @ @ @ rendering job down to 45 seconds .
+The company has already closed $2 .
+million in purchase orders from studios .
+Handl : An API for turning paper documents -- including handwritten ones -- into structured data ready to be plunked into a database or CRM .
+While the company says that around 85% of its processing is handled by their AI , it 's backed by humans to validate data when the AI 's confidence is low .
+Nine months after launch , the company is seeing an ARR of $0 .
+million .
+Eze : Eze is building a used smartphone market that functions like a commodities exchange .
+The system will update in real time with the fluctuating price of a wide range of different mobile devices .
+Devices will be sold to wholesalers in bulk , who turn around and sell them to retailers .
+Oda : Aggregates real estate data from listing services and government records into a unified API .
+The company says it 's currently working with 4 pilot companies .
+Okay : Hooks into tools like JIRA , GitHub , @ @ @ @ @ @ @ @ @ @ to better understand how their teams are working and improve efficiency ( by , for example , reducing meetings that might break up productivity ) .
+Charges $350 per manager .
+Tajir : A marketplace to help small stores in Pakistan get inventory .
+The company says that currently nearly all distribution to " mom-and-pop " shops in Pakistan is done offline ; Tajir brings the process into a mobile app with free next day delivery .
+GuruHotel : A website and property management/booking system for hotels .
+Eight months after launch , they 're working with 26 hotels and seeing $20k a month in revenue .
+The base plan provides a basic hosting/booking engine in exchange for a 5% booking commission , while premium plans introduce other features , such as property management tools , for $350 to $499 a month in addition to commission .
+Riot Security : An anti-phishing tool that automatically tests your employees with faux-phishing emails based on the most recently discovered phishing techniques .
+It starts at $200 a month for companies with under 50 employees , with the price shifting @ @ @ @ @ @ @ @ @ @ in pilot tests with six companies , with an MRR of $1,000 .
+Find our previous coverage of Riot Security here .
+LabGrid : A project-tracking and collaboration tool meant to help biotech companies and labs communicate more efficiently than they might over email .
+Trimwire : Hooks into a company 's bank accounts and credit cards to automatically reduce monthly costs by flagging anomalies and hunting for potential savings on recurring expenses ( such as forgotten subscriptions ) .
+Upflow : Aiming to be the " Venmo of B2B , " Upflow focuses on getting unpaid invoices paid .
+It automatically sends customized emails and registered letters to unpaid accounts , updates designated team members when account status changes , and handles payments .
+They charge $50 per month for companies with fewer than 30 invoices per month , scaling it up to $225 per month for companies doing less than $3M annually .
+Find our previous coverage of Upflow here .
+Explo : Explo is meant to let non-technical employees analyze large amounts of data without having to know how to write/run SQL queries @ @ @ @ @ @ @ @ @ @ reports .
+The team says it has over 400 companies on its waitlist .
+Workbench : Workbench is developing a platform purpose-built for hardware companies for sourcing suppliers and storing information/specs about the components they use .
+Jet Admin : A drag-and-drop tool for building internal tools without code , hopefully freeing up dev team resources .
+Connects to databases and services like Stripe/Google Analytics/Salesforce and allows teams to piece together tools by way of pre-built widgets .
+Free for indie developers , or $19 per user for teams with up to 10 members .
+Battlecard : Trains your sales team on what to say to unhappy customers through simulation ( complete with synthesized unhappy customer voice ) .
+Teams collaborate to write their " playbook " of responses for different situations , sharing the answers/phrasing they 've found to work best .
+Roughly a month after launching , the company says it has already booked over $35k in annual recurring revenue .
+SnackThis : Is a collaborative , browser-based tool for motion design .
+Imagine a remote team fine-tuning moving typography in a video , @ @ @ @ @ @ @ @ @ @ .
+One of the co-founders previously sold his motion design-heavy company to GoPro for $80M .
+Zeo Auto : Fleet management and tracking for companies with automative fleets in India , allowing them to do things like view current vehicle position , replay past trips , calculate fuel costs , etc .
+Compatible with over 50 different GPS devices .
+The company says it has onboarded 2,000 fleet owners , bringing 30,000 vehicles onto the platform .
+Savvy : Built for companies unable to offer group insurance plans , Savvy lets them instead give employees a tax-free stipend to put toward an individual health plan of their choosing .
+The company says that it 's working with over 30 companies after launching two months ago , accounting for roughly $100K in ARR .
+Flowdash : " Human-in-the-loop " operations are those that require a human at some point in a process to make a final call -- think claims processing , or moderating user-flagged content .
+Flowdash helps human-in-the-loop teams build new tools with minimal coding , allowing them to integrate them into services like Slack or @ @ @ @ @ @ @ @ @ @ per month , increasing if you need things like analytics or on-prem deployment .
+Dropee : Dropee helps independent retailers in Southeast Asia buy things in bulk from large brands , charging said brands $8 per store for insight on what is or is n't selling .
+The company says it 's seeing over $40K in monthly revenue .
+NUMI : Helps retailers and marketplaces in Africa import U .
+goods , handling the challenges involved with freight and customs .
+Currently in a pilot program with Carrefour , which they expect to account for over $500K per year in sales .
+Pilot : Pilot handles payroll , benefits and compliance for hiring remote contractors .
+Companies pay $60 per contractor per month for Pilot to help treat contractors like full-time employees by offering benefits , stock options and expense reimbursements .
+With COVID-19 quarantines familiarizing more companies with remote work , there could be a big market for ensuring their retention and productivity by making them feel like part of the team .
+SEND : SEND is a digital freight forwarder and customs broker for Africa @ @ @ @ @ @ @ @ @ @ sea .
+SEND optimizes routing for faster , more reliable deliveries by bringing documentation online and letting clients just deal with the one company instead of up to a dozen shipping vendors .
+SEND 's founders are brothers , and see an opportunity to be the Flexport of Africa by conquering the market before that $3 .
+billion valuation startup can reach the continent .
+Brokrete : Brokrete , a delivery marketplace app , was developed to connect contractors with available concrete suppliers with the most competitive price .
+The startup 's founders are aiming to capture a piece of what they describe as a $120 billion market opportunity .
+They 've already made some headway , by first demoing the app with contractors and then launching its product in December .
+The company began in the Canadian marketplace and is expanding to Houston this spring .
+Paneau : The founders of Paneau are aiming to create a new way for businesses to advertise to ride-hailing customers by placing interactive tablets inside Uber and Lyft vehicles .
+The tablet can be used by riders to make purchases and even @ @ @ @ @ @ @ @ @ @ some $11,000 a month -- by charging $0 .
+cents per trip .
+Bego : Bego has created an app focused on the Latam market that uses machine learning to predict future locations of cargo delivery and helps match truckers to customers in an effort to reduce the number of " empty miles .
+" For now , the startup has one route -- Mexico City to Nuevo Laredo -- where 42% of all cargo in Mexico is moved .
+99minutos : This Latam startup is focused on last-mile delivery for e-commerce purchases .
+The startup has a wide geographic footprint of 19 cities across two countries with 15,000 deliveries daily and plans to expand to Colombia and Peru later this year .
+99Minutos is now launching delivery with electric vehicles and in Mexico is the last-mile delivery partner for Amazon , MercadoLibre and Walmart .
+Farm Theory : Farm theory buys the " ugly " yet fresh and fit-for-consumption vegetables from Indian farmers and then sells and delivers the produce directly to restaurants in India .
+The vegetable delivery service says it can save restaurants up to @ @ @ @ @ @ @ @ @ @ social media content , HYPHY is aiming to create a market for consumers to sell their photos and videos directly to brands .
+The marketplace is a way for brands to source media more quickly for advertising or marketing campaigns .
+Zaam : Zaam is building a platform to simplify B2B onboarding , reducing complexity and pushing customers through the tiring process of data and document requests through automating as much as possible .
+The startup says they have hit $120M ARR in the past two months .
+HireSweet : HireSweet is building a hiring platform that pushes recruiters towards ideal candidates that may not explicitly be looking for a new job .
+The platform analyzes behavior like who is updating their LinkedIn , adding to open source projects on Github , or nearing a vesting cliff .
+The team earned $150K in MRR last month .
+Find our previous coverage of HireSweet here .
+Stryve : Stryve wants the hiring process to pivot to video , replacing phone screeners with video chat questionnaires .
+The team bills the platform to cut down on endless scheduling back-and-forth @ @ @ @ @ @ @ @ @ @ a low-code API builder , helping speed up the time to build APIs , API-based interactions and integrations  Syndetic : " Shopify for data , " Syndetic is a platform that lets organizations make their static datasets more dynamic and useful  Cadence : Cadence is a platform for meetings that should have been emails .
+The early access platform is focused on eliminating meetings related to sharing project updates .
+It does this by integrating with task management tools and letting employees easily share on Slack what they 've been working on , who they 've been working with , and what 's on the docket .
+Zynq : Zynq is building an enterprise calendar tool that helps companies schedule meetings more efficiently across the board .
+The service helps slot meetings to appropriately sized meeting rooms at opportune times so that companies do n't feel like they 're outgrowing their offices too quickly .
+Castodia : Castodia hooks your databases into Google Sheets , ensuring that the information there is always up to date and users are n't stuck manually importing CSV files time and @ @ @ @ @ @ @ @ @ @ all-in-one platform that allows startups to subscribe and save , paying for a single subscription while using a variety of vendors to meet their needs .
+The company hopes its platform can boost discoverability of new SaaS tools and simplify the lives of founders who are having to manage so many subscription services .
+Dashworks : Dashworks is aiming to build a search tool that bring together all of the information from your various collaboration tools and databases .
+The platform relies on deep integrations across a wide variety of tools including JIRA , Slack , and Google Drive .
+Laserfocus : Laserfocus is creating an app that layers onto your CRM and allows salespeople to quickly work their way through calls , emails and meetings with potential clients .
+The app wants to re-bundle the tasks currently separated across a handful of apps and cut down on distractions for salespeople who are eager to gather information about potential clients .
+TrueNorth : To help fix inefficiencies in the fragmented trucking industry , TrueNorth offers a software solution for independent truckers .
+Think of it as an @ @ @ @ @ @ @ @ @ @ everything from fuel and maintenance , to route optimization and load tracking .
+Taiv : Taiv wants to help your local neighborhood sports bar better monetize the commercials you see on those in-bar TVs .
+Charging $4,200 a year per location , Taiv lets businesses replace live commercials with business advertisements about specials or deals .
+Find our previous coverage of Taiv here .
+Humanly : Humanly wants to automate job candidate screening for companies that typically receive a high volume of applications .
+The company says its tech helps keep screening consistent , while removing bias .
+Customers include Farmers Insurance , Feather and Grin .
+BuildPlane : BuildPlane has designed a next generation toolkit for commercial construction management .
+The company 's software tracks document requests , manages change orders , handles subcontractor billing and payments , and requests for quotes and pricing .
+It 's an industry category that has already produced billion-dollar businesses like Procore and PlanGrid .
+SINAI : SINAI Technologies is a next generation software platform that lets organizations plan their carbon emissions strategy : it tracks different departments and @ @ @ @ @ @ @ @ @ @ to reduce carbon emissions to meet internal and external goals .
+Find our previous coverage of SINAI here .
+Logarithm Labs : Logarithm Labs is a project management service for chip designers covering data pipelines , scripting interfaces , and portals and dashboards to parse , structure , and analyze data generated in chip design work  Slingshow : Slingshow is a download-free video recording and delivery application for customer service and complaint resolution .
+All a customer has to do is take a video of their problem with an explanation and send it off via Slingshow to explain a problem and get help .
+Pulley : Pulley is a next generation cap table management tool .
+Private companies can use it to issue employee &amp; investor equity and maintain ownership records as a company scales .
+Like Carta , it has a free tier for smaller startups .
+Unlike Carta , its focus is first ( and currently only ) on serving founders rather than investors .
+The founder is a repeat entrepreneur who sold a previous company to Microsoft .
+Rosebud AI : Welcome to @ @ @ @ @ @ @ @ @ @ digital avatars and models for any occasion .
+Companies can filter by demographic , age , and style .
+Termii : Termii is a multi-channel marketing and communications service , providing APIs for SMS and user verification for African businesses .
+Able Jobs : Able Jobs trains candidates in India on the skillsets companies need most so that businesses can hire better candidates more quickly .
+They did 130 placements in February  Terusama : Taking logistics management all the way to the dockside , Terusama provides scheduling software for freight pickup and digital sign ins for haulers .
+Mistro : Mistro lets employers provide benefits and perks to remote teams in over 200 countries .
+They can offer health insurance , co-working space , development classes , food , IT equipment and more that workers pay for through a Mistro credit card .
+Teams around the world are embracing remote work due to coronavirus .
+That trend could last , creating a big market for whoever can help companies attract the best work-from-homers .

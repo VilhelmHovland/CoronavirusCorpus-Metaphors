@@ -1,0 +1,33 @@
+Why Software Developers Are Most Likely To Work From Home  Software developers already constitute the largest group of remote workers in the world .
+Given the current COVID-19 situation , more developers are likely to shift to a similar arrangement .
+But , why are developers leading the course of this fluid workforce ?  In a survey , some 73% of technology professionals revealed that they think of remote work as an essential perk .
+Programming requires high levels of concentration and focus since it involves working on complex algorithms and mathematical software .
+Open offices may be too noisy and full of interruptions .
+Hence , given a choice between a public office and a quiet home , the latter is mostly preferred .
+Developers Worked Towards ' Work From Home ' Long Ago  Innovations were in place that could enable developers to track anyone from any part of the world with a simple click of a button .
+Processes that were once done through meeting clients in person were now accomplished on online systems that only require participants to log in .
+When people realized that a well-paying job could be @ @ @ @ @ @ @ @ @ @ developers started making codes more straightforward for regular people to understand .
+It is also worth highlighting the agile development practices , and the benefits of co-location .
+Most agile enthusiasts will tell you that it is better if the team is co-located .
+This is true to the extent that given an ideal organization , you will probably get better output out of them if they are co-located rather than working remotely .
+But sometimes , to get that perfect team , you need to provide conditions that they are happy with .
+If software developers are not happy travelling three hours every day , then you might need to live with the ideal team where some or all of the team members are operating remotely .
+Developers Still Need To Make Sure There Is Effective Communication With The Management  It is evident that not all tech experts require remote work , even though most companies seem to be offering that amid the COVID-19 pandemic .
+It also places more expectations on managers and executives to create a workspace where programmers can work without too @ @ @ @ @ @ @ @ @ @ increasingly becoming clear that many developers dislike open offices , and prefer to operate in comparative isolation , at least when they want to concentrate .
+For managers , this is also a problem of communication .
+Rather than implementing top-down strategies that might upset developers ' flow , it might be better to talk to them about their preferred ways of working -- whether that is at a desk , or a cafe .
+Just listening and coordinating with developers can guarantee the best product as it is a critical job role which does not require a lot of micromanagement .
+In the short-term , conferencing technology companies are enabling alternatives .
+Companies like Zoom , Webex , and other teleconferencing and remote working solutions are being used extensively by organizations .
+Handling CyberSecurity Better Than The Average Employee  There are other factors as well that come into play .
+Programming usually does not involve face-to-face problem discussion all the time .
+If need be , there is video chat as well as virtualization tools like Slack and Trello .
+These tools are user-friendly and @ @ @ @ @ @ @ @ @ @ integrations and APIs can be leveraged by developers to customize virtualization tools to their most optimum use .
+Also , work from home , when it comes to developers , is more efficient in the context of cybersecurity as well .
+Compared to an average company employee , developers and IT teams can follow cybersecurity protocols from any remote location , and make sure they detect vulnerabilities in the workflow without a lot of help .
+In the case of other departments like sales , marketing , and finance , the employees can face great difficulty and ignorance to maintain the best security principles .
+In many cases , everyday office workers face challenges in setting up two-factor authentication services , let alone debug a cybersecurity software tool .
+This translates into more trust as well as freedom put into the hands of developers when it comes to handling sensitive data and security protocols .
+Provide your comments below  Vishal Chawla is a senior tech journalist at Analytics India Magazine and writes about AI , analytics , cybersecurity , blockchain , and other technologies .
+He @ @ @ @ @ @ @ @ @ @ which features technology leaders , AI experts , and innovative startups of India .
+Email : **35;3092;TOOLONG .

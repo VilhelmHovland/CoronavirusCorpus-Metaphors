@@ -1,0 +1,23 @@
+What 's worse than a nationwide lockdown ? A lockdown with extremely poor or no internet .
+And that 's the reality for many people in South Africa at the moment who now have to deal with two " downs " -- a COVID-19-enforced nationwide lockdown and an internet slowdown ontop of that .
+According to reports , South Africa is suffering internet outrages and frustrating slowdowns because the country 's internet is broken again .
+Literally .
+It is understood that two of the undersea cables that connect South Africa to the global network are again suffering outages , dragging down mobile and landline data speeds nationwide .
+As per a story on Quartz Africa , the same cable breakage that happened in January this year has repeated itself .
+The West Africa Cable System ( WACS ) , a submarine fiber-optic line that carries data between the United Kingdom and the west coast of Africa , tore on Saturday about 24 miles from Britain in roughly the same spot that the cable broke in January .
+Single Mobile Content From  Email address *  The latest break is at least the @ @ @ @ @ @ @ @ @ @ .
+The damage is requiring providers to reroute traffic to cables that drape the continent 's east coast .
+It is not expected to be repaired until Saturday , April 4 .
+" We are aware of increased latency , slow speeds due to damaged undersea cables , affecting most ISP 's , " Axxess , an ISP that serves cities across South Africa , told customers on Saturday .
+Besides South Africa where the disruption of a lockdown has now been compounded with a slowdown in internet speeds , all countries that use the WACS are likely to be affected by the cable damage to some degree .
+And this would include most countries on the west coast of Africa .
+On January 17 , we reported that internet users across more than a dozen countries in sub-Saharan Africa including Nigeria , South Africa , Ghana , Cameroon , and Ivory Coast were suffering poor internet service because two undersea cables connected to the continent 's western coast had been damaged .
+The affected cables were the same WACS cable and another SAT3/WASC cable which @ @ @ @ @ @ @ @ @ @ and many other African countries to Europe .
+Besides those , two other subsea cables that serve the continent also failed in early March , though according to TENET , the WACS absorbed the traffic .
+We have 3 of our 4 international cable systems down currently .
+SAT-3 has been down since 09 March .
+SEACOM and EASSy went down at 08:20/UTC today .
+All SA NREN international traffic is traversing WACS currently .
+Calls in hand with providers .
+No current impact to connectivity .
+As more African countries are expected to go into full lockdown in the coming weeks , especially since the COVID-19 pandemic is projected to peak in Africa in the next two to three weeks , internet problems have become one more thing to worry about .

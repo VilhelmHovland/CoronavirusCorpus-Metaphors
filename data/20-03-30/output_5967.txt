@@ -1,0 +1,142 @@
+Karnataka COVID-19 tracker  Here are the details about all the positive cases in Karnataka with their respective locations and travel histories .
+* Patient number 1 is a 46-year-old male , a resident of Bengaluru , with a travel history to USA .
+He returned to India via Dubai .
+P1 was discharged on March 27 .
+* Patient number 2 is a 47-year-old female , a resident of Bengaluru , contact of P1 ( wife ) .
+P2 was discharged on March 24 .
+* Patient number 3 is a 13-year-old female , a resident of Bengaluru , contact of P1 ( daughter ) .
+P3 was discharged on March 27 .
+* Patient number 4 is a 50-year-old male , a resident of Bengaluru , with a travel history to USA .
+He returned to India via London .
+P4 was discharged on March 24 .
+* Patient number 5 is a 26-year-old male , a resident of Bengaluru , with a travel history to Greece .
+P5 was discharged on March 20 .
+* Patient number 6 was a 76-year-old male , a resident of Kalaburagi , who @ @ @ @ @ @ @ @ @ @ He succumbed to Covid-19 on March 10 ( first death in India ) .
+* Patient number 7 is a 45-year-old female , a resident of Kalaburagi and a contact of P6 ( daughter ) .
+* Patient number 8 is a 32-year-old male , a resident of Bengaluru and a contact of P4 ( flight contact ) .
+He returned to India from USA via London .
+* Patient number 9 is a 63-year-old male , a resident of Kalaburagi and a contact of P6 ( doctor ) .
+* Patient number 10 is a 20-year-old female , a resident of Bengaluru , with a travel history to the UK .
+She returned to India on March 14 .
+* Patient number 11 is a 67-year-old female , a resident of Bengaluru , with a travel history to Dubai .
+She returned to India on March 9 .
+* Patient number 12 is a 25-year-old male , a resident of Bengaluru , with a travel history to Madrid , Spain .
+P12 returned to India on March 13 .
+* Patient number @ @ @ @ @ @ @ @ @ @ , with a travel history to USA .
+P13 returned to India on March 6 .
+* Patient number 14 is a 35-year-old male , a resident of Bengaluru , with a travel history to USA .
+P14 returned to India on March 10 .
+* Patient number 15 is a 35-year-old male , a resident of Kodagu , with a travel history to Dubai .
+P15 returned to India on March 15 .
+* Patient number 16 is a 53-year-old female , a resident of Bengaluru and a contact of P11 ( housemaid ) .
+* Patient number 17 is a 39-year-old male , a resident of Bengaluru , with a travel history to Amsterdam , Netherlands .
+P17 returned to India on March 19 .
+* Patient number 18 is a 21-year-old male , a resident of Bengaluru , with a travel history to Edinburgh , Scotland .
+P18 returned to India on March 17 .
+* Patient number 19 is a 31-year-old male , a resident of Chikkaballapura , with a travel history to Mecca , Saudi Arabia .
+P19 returned @ @ @ @ @ @ @ @ @ @ 20 is a 35-year-old male , a resident of Mysuru , with a travel history to Dubai .
+P20 returned to India on March 19 .
+* Patient number 21 is a 35-year-old male , a resident of Dharwad , with a travel history to Dubai .
+P21 returned to India on March 11 .
+* Patient number 22 is a 64-year-old female , a resident of Chikkaballapura , with a travel history to Mecca , Saudi Arabia .
+P22 returned to India on March 14 with her son ( P19 ) .
+* Patient number 23 is a 36-year-old female , a resident of Bengaluru , with a travel history to Switzerland and France .
+P23 returned to India on March 9 .
+* Patient number 24 is a 27-year-old male , a resident of Bengaluru , with a travel history to Germany .
+P24 returned to India on March 14 .
+* Patient number 25 is a 51-year-old male , a resident of Bengaluru , with a travel history to London .
+P25 returned to India on March 13 .
+* Patient @ @ @ @ @ @ @ @ @ @ Uttara Kannada , with a travel history to Dubai .
+P26 returned to India on March 19 .
+* Patient number 27 is a 46-year-old male , a resident of Kerala , with a travel history to Dubai .
+P27 returned to India on March 22 .
+* Patient number 28 is a 38-year-old male , a resident of Bengaluru , with a travel history to Dubai .
+P28 returned to India on March 17 .
+* Patient number 29 is a 41-year-old male , a resident of Bengaluru , with a travel history to London .
+P29 returned to India on March 13 .
+* Patient number 30 is a 30-year-old female , a resident of Bengaluru and a contact of P17 ( wife ) .
+* Patient number 31 is a 24-year-old male , a resident of Bengaluru , with a travel history to USA and Dubai .
+P31 returned to India on March 18 .
+* Patient number 32 is a 60-year-old male , a resident of Bengaluru , with a travel history to Germany .
+P32 returned to India on @ @ @ @ @ @ @ @ @ @ 22-year-old male , a resident of Kannur , Kerala , with a travel history to Dubai .
+P33 returned to India on March 22 .
+* Patient number 34 is a 32-year-old male , a resident of Kasargod , Kerala , with a travel history to Dubai .
+P34 returned to India on March 20 .
+* Patient number 35 is a 40-year-old male , a resident of Uttara Kannada , with a travel history to Dubai .
+P35 returned to India on March 21 .
+* Patient number 36 is a 65-year-old male , a resident of Uttara Kannada , with a travel history to Dubai .
+P36 returned to India on March 18 .
+* Patient number 37 is a 56-year-old female , a resident of Chikkaballapura , with a travel history to Mecca , Saudi Arabia .
+P37 returned to India on March 14 and is a flight contact ( co-passenger ) of P19 and P22 .
+* Patient number 38 is a 56-year-old female , a resident of Bengaluru and a contact of P13 .
+* Patient number 39 is @ @ @ @ @ @ @ @ @ @ , with a travel history to Dubai .
+* Patient number 40 is a 70-year-old female , a resident of Kasargod , Kerala , with a travel history to Saudi Arabia .
+* Patient number 41 is a 23-year-old male , a resident of Kasargod , Kerala , with a travel history to Dubai .
+P41 returned to India on March 20 .
+* Patient number 42 is a 37-year-old female , a resident of Chitradurga , with a travel history to Guyana .
+P42 returned to India on March 20 .
+* Patient number 43 is a 63-year-old male , a resident of Bengaluru , with a travel history to Brazil and Argentina .
+P43 returned to India on March 19 .
+* Patient number 44 is a 59-year-old female , a resident of Bengaluru , with a travel history to Brazil and Argentina .
+P44 returned to India on March 19 with P43 ( husband ) .
+* Patient number 45 is a 26-year-old male , a resident of Bengaluru , with a travel history to Spain .
+P45 returned to India @ @ @ @ @ @ @ @ @ @ 46 is a 26-year-old male , a resident of Bengaluru , with a travel history to Spain .
+P46 returned to India via Dubai on March 14 with P45 .
+*Patient number 47 is a 63-year-old female , a resident of Bengaluru , with a travel history to Athens and London .
+P47 returned to India on March 18 .
+* Patient number 48 is a 69-year-old male , a resident of Bengaluru , with a travel history to Athens and London .
+P48 returned to India on March 18 with P47 ( wife ) .
+* Patient number 49 is a 9-year-old female , a resident of Bengaluru and a contact of P17 ( daughter ) .
+* Patient number 50 is a 7-year-old female , a resident of Bengaluru and a contact of P17 ( daughter ) .
+* Patient number 51 is a 34-year-old male , a resident of Udupi , with a travel history to Dubai .
+P51 returned to India on March 18 .
+* Patient number 52 is a 35-year-old male , a resident of Mysuru , with @ @ @ @ @ @ @ @ @ @ works at a pharmaceutical company in Nanjangud , Mysuru and was in contact with many healthcare professionals .
+* Patient number 53 is a 70-year-old female , a resident of Chikkaballapura , with a travel history to Mecca , Saudi Arabia .
+P53 returned to India on March 14 .
+She succumbed to Covid-19 on March 24 .
+* Patient number 54 is a 64-year-old male , a resident of Anantapura , Andhra Pradesh , with a travel history to France .
+P54 returned to India on March 1 .
+He then travelled to Himachal Pradesh , Puttaparthi and came to Bengaluru on March 21 .
+* Patient number 55 is a 45-year-old male , a resident of Bengaluru and a contact of P25 ( security guard ) .
+* Patient number 56 is a 10-month-old male child , a resident of Dakshina Kannada , with NO travel history .
+* Patient number 57 is a 20-year-old male , a resident of Bengaluru , with a travel history to Colombo .
+P57 returned to India on March 15 .
+* Patient number 58 is @ @ @ @ @ @ @ @ @ @ a travel history to London .
+P58 returned to India on March 18 .
+* Patient number 59 is a 35-year-old male , a resident of Bengaluru and a contact of P25 ( housemaid ) .
+* Patient number 60 is a 60-year-old male , a resident of Tumkur , with a travel history to Delhi by train on March 13 .
+P60 succumbed to Covid-19 on March 27 .
+* Patient number 61 is a 33-year-old female , a resident of Bengaluru and a contact of P25 ( housemaid ) .
+* Patient number 62 is a 22-year-old male , a resident of Uttara Kannada , with a travel history to Dubai .
+* Patient number 63 is an 18-year-old male , a resident of Davanagere , with a travel history to Paris .
+P63 returned to India on March 18 .
+* Patient number 64 is a 21-year-old male , a resident of Dakshina Kannada , with a travel history to Dubai .
+P64 returned to India on March 22 .
+*Patient number 65 is a 54-year-old female a resident of @ @ @ @ @ @ @ @ @ @  * Patient number 66 is a 28-year-old female and a resident of Uttara Kannada , contact of P36 ( daughter ) .
+* Patient number 67 is a 23-year-old female is a resident of Uttara Kannada contact of P36 ( daughter ) .
+* Patient number 68 is a 21-year-old male , a resident of Bengaluru had a history of travel to London and contact of P25 ( son ) , arrived in India on March 17 , 2020 .
+* Patient number 69 is a 23-year-old male , a resident of Hindupur , Andhrapradesh and contact of P19 .
+This case is isolated at designated hospital in Chikkaballapur .
+* Patient number 70 is a 70-year-old male , a resident of Gowribidnur Taluka , Chikkaballapur and contact of P19 .
+* Patient number 71 is a 32-year-old female , also a resident of Gowribidnur Taluka , Chikkaballapur and contact of P19 .
+* Patient number 72 is a 38-year-old male and a contact of P19 .
+* Patient number 73 is a 18-year-old male and a contact of P19 .
+@ @ @ @ @ @ @ @ @ @ resident of Bengaluru had a history of travel to London and arrived in India on March 16 , 2020 .
+* Patient number 75 is a 20-year-old male a resident of Davangere is a contact of P42 ( cousin ) .
+* Patient number 76 is a 24-year-old male , a resident of Uttara Kannada and a contact of P35 .
+* Patient number 77 is a 39-year-old male , a resident of Nanjangud , Mysuru .
+P77 works at a pharmaceutical company .
+* Patient number 78 is a 38-year-old male , a resident of Mysuru and a contact P51 .
+P78 is employed at a pharmaceutical company .
+* Patient number 79 is a 21-year-old male , a resident of Nanjangud , Mysuru .
+P79 works at a pharmaceutical company .
+* Patient number 80 is a 31-year-old male , a resident of Nanjangud , Mysuru and works at a pharmaceutical company .
+* Patient number 81 is a 42-year-old male , a resident of Nanjangud , Mysuru and works at a pharmaceutical company .
+* Patient number 82 is @ @ @ @ @ @ @ @ @ @ a travel history to Dubai .
+P82 arrived in India on March 17 .
+* Patient number 83 is a 29-year-old male , a resident of Udupi , with a travel history to Trivandrum , Kerala .
+* Patient number 84 is a 13-year-old male , a resident of Tumkur and a contact of P60 ( son ) .
+* Patient number 85 is a 32-year-old male , a resident of Nanjungud , Mysuru and works at the same pharmaceutical company as P52 .
+* Patient number 86 is a 34-year-old male , a resident of Nanjungud , Mysuru and works at the same pharmaceutical company as P52 .
+* Patient number 87 is a 21-year-old male , a resident of Nanjungud , Mysuru and works at the same pharmaceutical company as P52 .
+* Patient number 88 is a 24-year-old male , a resident of Nanjungud , Mysuru and works at the same pharmaceutical company as P52 .

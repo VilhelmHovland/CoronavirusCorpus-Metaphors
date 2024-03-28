@@ -1,0 +1,15 @@
+This AI Tool Predicts Which COVID-19 Patients Will Develop ' Wet Lung '  Researchers in China and the U .
+reported on Monday they 've developed an artificial intelligence ( AI ) tool capable of accurately predicting which people recently infected with the coronavirus will also develop severe lung disease .
+AI versus the COVID-19 coronavirus  Once activated , the algorithm might help doctors deciding which patients to prioritize amid exceedingly-stretched health care systems , said Megan Coffee , a physician and professor at New York University 's Grossman School of Medicine -- who also co-authored a paper on the new findings in the journal Computers , Materials &amp; Continua -- to phys .
+The AI tool found numerous interesting indicators that strongly predict which people infected with the novel virus later developed so-called acute respiratory disease syndrome ( ARDS ) , a severe complication that often follows the COVID-19 illness , which fills the lungs with fluid , killing roughly 50 percent of coronavirus patients who get it .
+The team behind the research applied a machine-learning algorithm to data collected from 53 coronavirus patients populating two hospitals in Wenzhou , China , @ @ @ @ @ @ @ @ @ @ enzyme alanine aminotransferase ( ALT ) levels , hemoglobin levels , and reported body aches -- most accurately predicted subsequent , severe disease .
+AI helps doctors cope with flood of coronavirus patients  Contrasting with this were characteristics thought to be related to COVID-19 , including a specific pattern in lung images called " ground glass opacity , " strong immune responses , and fevers , which were n't useful factors to predict which patients with initially mild symptoms would progress to full-blown ARDS .
+Sex and age were n't useful predictors either , despite other studies showing that men more than 60 years old were at higher risk .
+" It 's been fascinating because a lot of the data points that the machine used to help influence its decisions were different than what a clinician would normally look at , " said Coffee to AFP , according to TechXplore .
+Of course , using AI in medical settings is n't a new concept -- another AI-based tool exists that helps dermatologists predict which patients will later develop skin cancer .
+This is @ @ @ @ @ @ @ @ @ @ helps doctors decide -- diagnostically -- which way to go , and gives them more criteria upon which to decide which patients should take priority when hospitals around the world are overhwhelmed from the COVID-19 pandemic , according to co-author Anasse Bari , a computer science professor at NYU , reports TechXplore .
+With the coronavirus outbreak deepening its grip in global hubs of business , science , and culture like New York City , every advantage new technologies can provide in the fight against the pandemic is more than welcome .
+It 's necessary .
+We use cookies to ensure you get the best experience on our website .
+Please review our Privacy Policy for more information and/or to change your cookie settings at any time .
+If you continue to use this site , you consent to our use of cookies .

@@ -1,0 +1,21 @@
+The sound of coronavirus : Israeli apps helping contain pandemic  An Israeli woman checks the Hamagen ( shield ) application , launched earlier this month by the health ministry  One app tells you if you 've been in the vicinity of a coronavirus carrier and another aims to assess whether you have COVID-19 based on the sound of your voice .
+In Israel , sometimes dubbed the " start-up nation " with nearly 10 percent of workers employed in high-tech , the coronavirus pandemic has seen a flurry of new technologies designed to contain transmission .
+Start-Up Nation Central , an NGO , has compiled a directory of some 70 Israeli technology companies developing responses to the new virus , which has infected more than 4,000 people in the country .
+One app that has stood out so far is Hamagen , Hebrew for " the shield " , launched earlier this month by the health ministry .
+Using geolocation technology , the app informs users about any points of contact with known COVID-19 cases .
+Available in five languages , Hamagen has been downloaded by more than a million users @ @ @ @ @ @ @ @ @ @ points of intersection have been found with coronavirus patients " .
+" We 'll let you know if there is anything new , " it adds .
+Hamagen was launched amid a controversy over plans to involve Israel 's Shin Bet internal security agency in the fight against the virus .
+Critics warned that allowing a powerful investigative body access to personal devices without a court order could mark an irrevocable setback in the effort to safeguard data protection .
+Hamagen requires user consent and the health ministry has assured that " GPS data does not leave your mobile phone , and is not sent to any third party " .
+- ' Sound ' of corona -  The defence ministry has meanwhile offered support to an Israeli start-up called Vocalis Health , which is developing an app capable of diagnosing COVID-19 based on the sound of someone 's voice .
+" We are working around the clock , " Tal Wenderow , the start-up 's co-founder , told AFP .
+Voice samples from virus carriers in various stages of illness and @ @ @ @ @ @ @ @ @ @ the goal of developing an AI-based algorithm to detect COVID-19 's vocal " fingerprint " .
+Health professionals will then be able to alert users in the early stages of the disease and use the app to monitor its spread across the population .
+The response from people willing to give voice samples has been " overwhelming " , Wenderow said .
+In addition to helping curb new infections , the app could also allow patients to be monitored at home , he added .
+Israel 's largest hospital , the Sheba Medical Center , has already been using nascent technologies to protect staff caring for coronavirus patients .
+" The guiding principle is to make sure there is as little contact as necessary between medical teams and patients , " said Professor Eyal Leshem , director of Sheba 's centre for travel medicine and tropical diseases .
+To that end , Sheba monitors patients in mild condition through " telemedicine " , which allows vital signs to be communicated to staff via sensors connected to a patient 's phone " without any need @ @ @ @ @ @ @ @ @ @ " We used this in our in-patient treatment -- now when we 're shifting from containment to mitigation , we 're going to start using the same technologies to monitor patients at home , " said Leshem .
+Sheba also has an innovation and research centre , which is working to collect " all meta-data from COVID-19 patients " .
+" As we have more and more data accumulated , we 'll be able to identify markers of severe disease , identify prognostic factors for hospitalised patients at all levels , and potentially use this data to identify treatment opportunities , " he said .

@@ -1,0 +1,56 @@
+With Amazon and Halidrams as its client , this logistics startup is bringing AI to the sector  The logistics sector , one of the biggest in India , has come to a standstill with the coronavirus pandemic .
+Further , the 21-day lockdown has not helped the situation but has brought a slew of problems for the sector , such as the delay in orders shooting up to 21 percent and shipments that are stuck to nine percent .
+An IBEF report marks logistics as a $200 billion industry , employing over 40 million people .
+And , despite having a handful of tech logistics startups in India , the sector needs organised players and disruption .
+This led Satish Haritash , Rohit Jain , and Atul Kwatra to start Mavyn .
+" Logistics has always been an unorganised sector in the country .
+For the simple reason being that this function was always the last priority for enterprises .
+The past few decades saw involvement from third parties , however , that arrangement too had its repercussions since it was done manually .
+During my time at Chetak , I thought about bringing @ @ @ @ @ @ @ @ @ @ the logistics industry , " says Satish , one of the co-founders .
+He thus started Mavyn in Delhi-NCR in April 2018 .
+It is a digital trucking startup that focusses on truckload transportation .
+An app and web-based freight exchange platform , Mavyn provides the end-to-end shipping needs of companies with the help of artificial intelligence ( AI ) , where shippers can book shipments within seconds .
+The workings  " The trucks and drivers which we provide on our platform are properly screened and verified to maximum security .
+As the journey of the shipment begins , we provide live coverage through the Mavyn app and give timely updates to the shipper .
+All payments such as transaction costs and other charges are made in one single go through the app , " he adds .
+The startup has been the logistics partner for brands like Amazon , Flipkart , Haldirams , Urban Ladder , Marico , Hindustan Unilever , and others .
+" When we started building the platform , the biggest challenge we faced was building a team , and giving @ @ @ @ @ @ @ @ @ @ overcome this , we continuously focussed on quality and service , " says the co-founder .
+Satish adds that the logistics sector is completely human dependent .
+" According to ( my research ) , technology was the need of the hour .
+New technologies are enabling greater efficiency and more collaborative operating models .
+They 're also reshaping the marketplace in ways that are only just beginning to become apparent .
+"  At present , Mavyn has a 38-member strong team , where Rajesh Haritash works as the CTO , and Arun Arora , as the Director of Strategy and Communication .
+What does it do ?  The whole process of digital logistics starts when a potential shipper logs into the Mavyn website or app .
+After registration , the shipper gets an option to avail of the kind of services he/she wishes to .
+The platform offers the most competitive rates to the shipper using AI .
+Post that , through the verified fleet of trucks and drivers , a truckload transporter is allocated to facilitate the movement of the shipment from one place @ @ @ @ @ @ @ @ @ @ track the live movement of the shipment .
+Mavyn app has an in-built auto alert through SMS and email .
+" These timely updates from our side are provided to ensure that there are no bottlenecks in this process .
+We enable shippers to make all payments in one go and provide prompt payment to truckers , " says Satish .
+The platform operates digitally and uses AI to refactor the end-to-end transportation process , aiming to provide the best price and on-time delivery .
+" It is a third-generation business model , the only company in India to bring AI-based pricing .
+We provide the following benefits to shippers and truckers -- shippers get AI and ML-based pricing , consistent and on-time delivery , and availability and access to vehicles in six hours .
+The truckers , in turn , get the regular business , secure and quick payment within 72 hours , convenience , and return business , " he adds .
+The revenue and growth  The startup charges fare depending on the kind of service a particular client looks for .
+To @ @ @ @ @ @ @ @ @ @ its offering -- Normal , Express , and Prime .
+Normal is availed by almost all kinds of industries and has the lowest freight rate .
+Express is used by auto , apparel , and tyre companies with an average rate of transportation costs .
+Prime is the fastest service that Mavyn offers , which is availed by e-commerce and courier companies for super-fast delivery .
+The freight rate is the highest in this service as these enterprises have tighter deadlines to make deliveries .
+The startup has raised its Series C round from Chetak Group .
+The founders also helped at a personal capacity with some investment from friends .
+Since its inception , Mavyn has achieved year-on-year growth five times in a row , and has over Rs 10 crore order bookings that is constantly growing .
+" We started with 25 shipments in April 2018 to 250 shipments in April 2019 .
+It further grew to 600+ shipments in October 2019 and 675+ shipments in January 2020 .
+Currently , we have a fleet of 6,528+ vehicles and the numbers are increasing every @ @ @ @ @ @ @ @ @ @ 2019 is Rs 21 crore , and growing , " Satish adds .
+Moving forward  The recent coronavirus lockdown has changed numbers .
+Satish says e-commerce is 80 percent down because people are only buying essential goods .
+" However , the FMCG part of the business has seen a 150 percent increase and will see a 200 percent increase in the coming times across India because people are buying these goods .
+But with borders sealed , this number will also be hindered .
+"  The entrepreneur also says that the startup has seen a dip of 50-60 percent in business as customers have reduced their orders on Amazon and Flipkart , except for essential commodities .
+Among its competitors , intracity and intercity players like LetsTransport , Blowhorn , Lalamove , and Porter , as well as Delhivery , Ecom Express , Rivigo , and B2B players like Blackbuck are disrupting the sector .
+" The cost of one shipment costs us about Rs 60,000 with a four percent gross margin .
+We aim to become India 's largest AI data-based digital @ @ @ @ @ @ @ @ @ @ in 30 districts and on more than 512 routes .
+We aim to have our network spread across all districts of India with the number of shipments exceeding 10,000 per day .
+We have a robust order book which is increasing exponentially , and Mavyn plans to achieve a top line of Rs 300 crore by 2021 , " Satish concludes .
+( Edited by Suman Singh )  How has the coronavirus outbreak disrupted your life ? And how are you dealing with it ? Write to us or send us a video with subject line ' Coronavirus Disruption ' to editorial@yourstory .

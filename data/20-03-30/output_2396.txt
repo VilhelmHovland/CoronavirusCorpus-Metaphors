@@ -1,0 +1,19 @@
+Social distancing ruins a group of hackers ' cyberattack plans , Zoom removes the code that sends data to Facebook after everyone pointed it out , and there 's no shortage of chatter about the increased strain the internet is experiencing right now .
+Apparently COVID-19 is disrupting the work of hackers .
+A story from Business Insider about a group of hackers in China has caught fire on Reddit .
+Apparently , a major Chinese cyberattack on American companies was ground to a halt during China 's coronavirus lockdown because the state-sponsored hackers could n't work from home .
+The APT41 group of Chinese hackers , also known as Double Dragon , reportedly logged into a server connected to American companies and set up a " backdoor " potentially leading to what experts describe as the broadest corporate hacking attempts in years .
+Then something weird strange occurred -- nothing happened .
+For weeks .
+Cybersecurity firm FireEye that monitored APT41 's progress said the pause in activity was likely due to the COVID-19 quarantine measures in China .
+Days after Motherboard reported on how Zoom shares data with Facebook even if Zoom users do @ @ @ @ @ @ @ @ @ @ .
+The video conferencing giant issued an update to its iOS app which stops it from sending certain pieces of data to Facebook .
+In a statement to Motherboard , Zoom said " Zoom takes its users ' privacy extremely seriously .
+We originally implemented the ' Login with Facebook ' feature using the Facebook SDK in order to provide our users with another convenient way to access our platform .
+However , we were recently made aware that the Facebook SDK was collecting unnecessary device data .
+"  And lastly , LinkedIn is buzzing about the added strain the internet is suddenly experiencing .
+Video-conferencing tools , office messaging apps and enterprise software are booming in popularity as businesses implement strict working-from-home policies due to the coronavirus .
+Connectivity software from Zoom , Slack , Microsoft Teams and Google Cloud 's G Suite has shown some of their largest increases in users ever in recent weeks .
+Meanwhile , internet service providers like TekSavvy are being forced to increase their subscription fees just to keep up .
+Related Download Sponsor : Epson Epson Business Solutions -- Knowledge @ @ @ @ @ @ @ @ @ @ to new and existing markets worldwide , Epson has become an industry leader in solutions that support success .
+Learn More .

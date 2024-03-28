@@ -1,0 +1,12 @@
+Zoom caught in data-sharing snafu , even as user numbers and share price soar  Zoom , the emerging tech darling of social isolation , has suffered something of a blow to its spotless reputation , after it transpired the app was sending users ' data to Facebook , even if those users did n't have a Facebook account .
+While this data exchange is n't uncommon -- many apps apparently use Facebook 's software development kits as an easy way to implement new feature -- it was not being made clear to users that their data was being shared .
+In fact , Zoom says it did n't even know it was happening .
+The app was reportedly notifying Facebook when users opened the Zoom app , and sharing data including their city and time zone , and which phone carrier they were using , among other details about their device .
+It was then creating a unique advertiser identifier , so the user could be targeted with ads .
+Zoom said in a statement it was made aware of the data collection on March 25 , via Vice journalist Joseph Cox @ @ @ @ @ @ @ @ @ @ an update , preventing the data from being released .
+" We sincerely apologize for the concern this has caused , and remain firmly committed to the protection of our users ' privacy , " the statement said .
+" We are reviewing our process and protocols for implementing these features in the future to ensure this does not happen again .
+"  Zoom 's video conferencing app has emerged as something of a saviour as COVID-19 has continued to spread on a global scale .
+Businesses are using the app to conduct meetings , but people are using it their spare time too , to connect with friends and family while practising social distancing .
+The Australian government has announced a series of coronavirus stimulus measures targeted at small businesses .
+So what do the changes to the instant asset write-off scheme , and the $25,000 cash payments , mean in practice ? .

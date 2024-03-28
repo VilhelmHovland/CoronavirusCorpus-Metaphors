@@ -1,0 +1,85 @@
+We think we know where it came from -- likely a Wuhan wet market , where live animals of all stripes are stored and slaughtered in close quarters .
+And we know the likely candidates -- maybe a bat , possibly a pangolin .
+We know it 's zoonotic , which is to say it went from them to us .
+And we know , of course , what it does once it gets there : once in the lungs ' mucus , those Nik Nak protrusions will get incredibly lucky , because once it bumps into one of the cells that line the lung wall it will find , protruding from the cell 's surface , a chunk of protein , which normally helps modulate hormones within the body , but whose shape matches the virus ' protrusions so perfectly they stick together .
+The cells will fuse and the RNA payload of the virus will be deployed .
+We know that some people wo n't have symptoms at all , unwitting members of the virus ' shadow-spreader army .
+And we know for others that it starts with a persistent cough and then a @ @ @ @ @ @ @ @ @ @ week , maybe two , in bed .
+But we know that for others , as the virus is copied over and over again by our own ribosomal proteins , that each breath will feel like a battle : we know they may need medical help , they may need a ventilator -- and we know that for some , no amount of help will be enough .
+We know it hardly affects children , though we do n't know why .
+We know it affects the old much more severely , though we do n't understand the disparity .
+We know that if you 're relatively young -- and healthy and do n't smoke and exercise regularly -- your symptoms will be mild .
+Or , rather , we thought we knew .
+That was last week .
+Now we know it 's far more egalitarian than we ever suspected .
+And yet , for a virus currently spreading across the globe at pandemic speed , taking the lives of thousands and threatening the lives of millions , we actually do know an incredible amount .
+@ @ @ @ @ @ @ @ @ @ entire city of Wuhan in mid-January , the country 's scientists had already identified the virus -- one that would officially be named sars-cov-2 ; Covid-19 is the disease it creates in humans -- and shared its genetic sequence with scientists all over the world .
+The race was on .
+All vaccines , points out Professor Paul Klenerman , a specialist in virology at Oxford University , essentially do the same thing : " They introduce some component of the virus so that the immune system can recognise it , so when it sees the real thing it 's already got that memory .
+"  The old-school approach would have seen a weakened version of the virus -- this involves growing it in culture until it 's " attenuated " -- introduced .
+It 's how we came up with a vaccine for yellow fever .
+It can produce good protection , but it 's slow .
+And yet , with sars-cov-2 , there are problems .
+Even a weakened novel virus could make a patient significantly sick and weakening it in the first place is @ @ @ @ @ @ @ @ @ @ : the World Health Organization currently lists more than 40 companies and institutions around the world all working on a cure at breakneck speed , with only a couple using anything similar to this method .
+But while the advanced techniques are elegant -- such as a method that essentially gives your body instructions on how to create the perfect antibodies without any version of the virus ever being introduced -- all vaccines have some old-school bottlenecks , such as animal and human testing , along with mass production .
+And while at a meeting of the WHO in mid-February it was agreed that , for the first time , human testing could start before animal testing had ended , the reality is it will take a year to develop , even with the most optimistic estimate , with anything up to two years likely .
+One of the quickest ways to get a vaccine to market is to use a " vector vaccine " that essentially uses another virus to deliver a piece of the problematic virus to the immune system .
+In the case of @ @ @ @ @ @ @ @ @ @ sequence of the " spike " protein that latches onto the lung cells .
+" It 's about using a platform that is already quite tried and tested , " says Klenerman .
+" You know the vector can accept enough antigen from the viral information .
+You know it produces a good enough immune response .
+You basically know it 's safe , because the safety of the vaccine really depends on the vector .
+"  The Oxford team will be using an adenovirus -- it originally comes from chimpanzees -- which has been tested endlessly in studies of infectious diseases and cancers as a suitable genetic smuggler .
+The team has also already done several trials with Middle East respiratory syndrome ( mers ) using the same technique and with significant success .
+" So we already know quite a lot about what sorts of immune responses can be generated against that sort of protein , " says Klenerman .
+And they 're not the only ones .
+The German Centre For Infection Research are looking to use measles as the vector , researchers @ @ @ @ @ @ @ @ @ @ fly virus , while Johnson &amp; Johnson in the States are using a virus that causes the common cold .
+Animal trials of the Oxford vaccine will start next month on ferrets and macaques , with the team hopeful of the first human trials in the summer .
+Yet even with the shortened testing and manufacturing periods that a known vector vaccine would allow , Klenerman says around a year is the most optimistic timeframe for it to arrive .
+" You ca n't shortcut this too much , " he says .
+" You need the data .
+It 'll take many months of trialling .
+Everyone is really cautious about introducing a vaccine that 's safe , that does n't cause any harm .
+"  When St ? phane Bancel , the chief executive of a small Boston biotech groupModerna that , after almost a decade , had still yet to turn a profit , called a colleague at the National Instututes Of Health last autumn , the idea was for the two organisations to run a test at the company 's manufacturing plant @ @ @ @ @ @ @ @ @ @ pandemic .
+But before that test was even possible , the real world intervened .
+Moderna has moved with breakneck speed .
+From receiving the virus ' entire genetic sequence on 10 January , its 40 scientists managed to develop a vaccine in what is a world record from identification to potential cure : just 42 days .
+And just two weeks ago , on 16 March , Neil Browning -- a 46-year-old software engineer at Microsoft -- became the second human test subject , after being injected with a substance Moderna is calling mRNA-1273 as early clinical testing began , making it total of 63 days from sequencing to injection .
+" It 's overwhelmingly the world record , " said Anthony Fauci , the director of the National Institute Of Allergy And Infectious Diseases .
+In total , 45 subjects are set to receive the test vaccine in the coming weeks .
+The speed is due to the ground-breaking area of " viral genetics " , whereby scientists can work on the vaccine after receiving its genetic sequence by email , without the need for @ @ @ @ @ @ @ @ @ @ then genetically reprogrammed for the production of the coronavirus protein .
+Essentially , the body creates something that looks like the virus and so can learn how to fight it in a way that is entirely safe : a punching bag instead of a puncher .
+" You essentially bypass the virus bit , " says Klenerman .
+But its very cutting-edge techniques may prove to be the problem .
+It 's an elegant solution when modelled on a computer , but while " these things sometimes work quite well in preclinical models " , adds Klenerman , " they 're not quite so powerful in humans " .
+There are also question marks over how quickly production could be scaled up .
+Another American company -- Inovio -- are using the same technology , as are CureVac in Germany .
+The latter sparked international headlines last month when it was reported that the Trump administration offered the company " large sums of money " for exclusive rights to any Covid-19 vaccine they developed .
+" Germany is not for sale , " German economy minister Peter @ @ @ @ @ @ @ @ @ @  Currently , no vaccine made from genetic material has ever been approved for use and even the most optimistic estimates put a vaccine coming from this technique at 18 months away .
+Perhaps the biggest irony of most modern vaccines is that so few have been put into widespread use , coming -- as they often do -- so long after the initial outbreak , by which time it 's often been contained or people have developed immunity ( or , rather , the survivors have ) .
+This is what happened with many severe acute respiratory syndrome ( sars ) and ebola vaccines -- funding vanished when the panic subsided .
+" There is always that potential , " says Klenerman .
+" Hopefully these will be quick enough that you 'll be able to see if they work or not .
+"  In the short- and medium-term , the only hope is existing drugs -- ones already approved for other purposes or already known to be largely safe .
+These wo n't make you immune , but can be administered to diagnosed patients and @ @ @ @ @ @ @ @ @ @ arriving when the damage has already been done .
+Earlier this month the World Health Organization launched " Solidarity " , a global megatrial of the four most promising treatments .
+The most hopeful of these is Remdesivir .
+Originally designed to combat ebola , it shuts down viral reception by inhibiting a key viral enzyme .
+The only problem was , it did n't work on ebola .
+Yet later lab and animals studies showed that it did prove effective on both sars and mars -- two incredibly close relations to sars-cov-2 .
+In fact , the very first patient in the States with Covid-19 was given it when his condition worsened and improved the next day .
+It can also be given at high doses without risk of toxicalities .
+Jiang Shibo of Fudan University , an expert in coronavirus therapeutics , has said that Remdesivir has " the best potential to be used in clinics " .
+Creator Gilead Sciences recently courted controversy after applying -- and being granted -- " orphan " drug status for Remdesivir , meaning years of exclusivity and @ @ @ @ @ @ @ @ @ @ Gilead Sciences later asked the FDA to rescind the status after a public backlash , with presidential candidate Bernie Sanders calling the move " truly outrageous " .
+WHO was all set to exclude another compound -- chloroquine and hydroxychloroquine -- from its global megastudy , but changed its mind in mid-March as the drugs " received significant attention in many countries " .
+It was curious , as it seemed the least promising of the bunch .
+One person who has certainly had their attention on it is the American president Donald Trump , who has repeatedly talked up the medication , calling it a " game changer " .
+In fact , he has talked it up so much that people have taken the non-medical version of chloroquine -- chloroquine phosphate , a chemical used to clean fish tanks -- in apparent attempts to self-medicate , with several ending up in emergency rooms as a result and one man from Arizona dying .
+And yet it 's hard to understand what Trump sees in it .
+The decades-old antimalarial -- which works by decreasing the @ @ @ @ @ @ @ @ @ @ has been used in trials against two other viral diseases ( dengue and chikungunya ) without success , while no evidence suggests it works with Covid-19 either .
+One of the main mysteries that remain , says Klenerman , is why some people develop mild symptoms , while for others it 's severe .
+It is , he says , currently " a big , big area of research .
+to try to understand what process is happening in the patients that leads them to develop severe disease , whereas some people will have a mild or even a completely asymptomatic course " .
+Right now , there are advanced technologies that can pick apart our immune responses against the virus " piece by piece , cell by cell , molecule by molecule " , with the hope of understanding it .
+The solution may be a medication we already have .
+" I just hope we make some progress very quickly .

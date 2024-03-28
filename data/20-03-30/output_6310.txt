@@ -1,0 +1,24 @@
+NVIDIA , Azure And AWS Offer Free Resources To Fight Against COVID-19  As COVID-19 continues to spread , we are acutely aware of the impact this is having on families , businesses , and communities .
+This is a global health emergency that will only be resolved by governments , businesses , academia , and individuals working together to better understand this virus and ultimately find a cure .
+The AI community especially has been at the forefront to fight against COVID-19 by offering solutions with the help of **27;3724;TOOLONG .
+However , for these machine learning models to work , they need tremendous amounts of computational power .
+In order to mitigate the operational costs of finding the solution , the hardware and cloud giants have stepped up to offer free services .
+Alibaba Cloud Offers AI Cloud Services  After bringing down the prediction time for diagnosis using AI , Alibaba now wants the whole world to come up with their own unique solutions to fight COVID-19 .
+They are now offering Elastic High Performance Computing ( HPC ) technology to worldwide researchers to accelerate drug and vaccine discovery .
+They have @ @ @ @ @ @ @ @ @ @ around 20 research groups implementing their research on COVID-19 with the help of Elastic High Performance Computing ( E-HPC ) technology that helps researchers find solutions for AI-driven-Drug-Design ( AIDDD ) for COVID-19 .
+NVIDIA Parabricks  PC Gamers , let 's put those GPUs to work .
+Join us and our friends at @OfficialPCMR in supporting folding@home and donating unused GPU computing power to fight against COVID-19 !  NVIDIA has announced that it will be giving access to its Parabricks for 90 days to promote research on COVID-19 drug discovery .
+Analysing genomic data is computationally intensive .
+Therefore , time and cost are significant barriers to using genomics data for precision medicine .
+But , NVIDIA Parabricks Genomics Analysis Toolkit breaks down those barriers , providing GPU-accelerated genomic analysis .
+By accelerating the existing CPU-only pipelines on GPUs , NVIDIA Parabricks Germline Pipeline provides more than 40 times faster analysis for an individual sample .
+By processing the FASTQ input files , the system generates sorted , marked BAM/CRAM files and variant call files ( VCF or gVCF ) .
+NVIDIA advises users @ @ @ @ @ @ @ @ @ @ of samples and then use full-scale GPU servers to meet their needs .
+AWS ' Diagnostic Development Initiative  Amazon Web Services ( AWS ) , one of the most preferred cloud partners across the world , has announced that it is committing $20 million to accelerate research with regards to COVID-19 diagnostics .
+This AWS Diagnostic Development Initiative will support customers who are working to bring better diagnostics solutions to market faster .
+" Funding will be provided through a combination of AWS in-kind credits and technical support to assist the customers ' research teams in harnessing the full potential of the cloud to tackle this challenge , " stated AWS in their blog .
+The program will be open to accredited research institutions and private entities that are using AWS to support research-oriented workloads for the development of point-of-care diagnostics ( testing that can be done at home or at a clinic with same-day results ) .
+Rescale Partners with Google Cloud and Microsoft Azure  Rescale Inc in cooperation with Google Cloud and Microsoft Azure , announced a new program on Monday @ @ @ @ @ @ @ @ @ @ no cost to teams working to develop test kits and vaccines for COVID-19 .
+Now You Can Donate Your GPUs As Well  Folding@home , a distributed computing project that encourages scientists to volunteer and run simulations of protein dynamics on their personal computers .
+Last month , Folding@home announced that it is joining researchers from around the world working to accelerate the open science effort , where researchers are working to advance the understanding of the structures of potential drug targets for 2019-nCoV that could aid in the design of new therapies .
+With all the top companies offering their best of services for free , we can safely assume that the research for COVID-19 diagnostics will accelerate .
