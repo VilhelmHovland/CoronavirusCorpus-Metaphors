@@ -1,0 +1,62 @@
+Teaching About an Outbreak in Real Time  Kim Mix , a professor of biological sciences , describes the challenges of educating students about the coronavirus when the imbalance between rapid-fire news and vetted scientific information has created a dangerous infodemic .
+By  As news of the coronavirus outbreak erupted in January , the spring semester had just kicked off at my institution , Loyola University New Orleans .
+I held tight to my syllabus and rallied my students for a journey through the central dogma of molecular biology .
+We were studying the flow of genetic information in cells , but it was impossible to ignore the deluge of information surrounding this new respiratory disease .
+Images of masked health-care workers , quarantines and the climbing casualty count drew attention to the faraway city of Wuhan , China .
+Meanwhile , the pathogenic virus dubbed SARS-CoV-2 masqueraded as asymptomatic baggage on airplanes and cruise ships .
+As we arranged our desks in a circle and discussed the classic experiments leading to a vaccine for bacterial pneumonia , the first U .
+COVID-19 patient disembarked at Seattle-Tacoma International Airport .
+In February , my immune @ @ @ @ @ @ @ @ @ @ to the virus .
+I felt compelled to teach the outbreak when it was seemingly distant and contained .
+I could draw the virus on the board , embellish it with crown-shaped proteins and sketch a genome of primitive RNA inside it .
+We could ponder the mechanisms of information transfer for a clever virus that hijacks cells to mass-produce itself .
+It felt like a timely topic to assign as class dispersed for Mardi Gras break .
+The challenge of teaching an outbreak in real time is sifting through mountains of information to uncover the teachable gems .
+In the early weeks , social media was ablaze with sensationalist headlines , conspiracy theories and rapidly evolving statistics .
+Peer-reviewed studies were scarce , and I was searching for a primary study that laid out the early discovery process from the epicenter of the outbreak .
+I settled on a preliminary report from a preprint server called BioRxiv ( Bio Archive ) , " Discovery of a novel coronavirus associated with the recent pneumonia outbreak in humans and its potential bat origin .
+" The report was bulging @ @ @ @ @ @ @ @ @ @ and sparkling with immunofluorescent images ripe for class discussion .
+While I was skeptical of science that had not yet been peer reviewed , I was also eager to highlight fast tracks for releasing data in the midst of a public health crisis .
+The introduction section referenced only 198 confirmed cases of COVID-19 , so this study marked the early moments of the outbreak .
+By the time we circled back for a class discussion in early March , a stark reality hit the marker board : the outbreak had escalated into a pandemic .
+" There is no point in listing out the countries , " a student protested .
+It was everywhere , including the United States .
+We did not linger on this point .
+Instead , we pivoted into a lively discussion about social media as it interfaces with public health .
+The preliminary report we analyzed received modest attention online : 1,500 likes on Facebook , tweets in multiple languages and a handful of mentions on random blogs .
+Sifting through these social annotations hinted at a new mechanism for spreading science @ @ @ @ @ @ @ @ @ @ , each with its own series of online comments probing technical details and proposing theories about the origin of the virus .
+The data were ultimately published in Nature , fast-tracked through peer review in just nine days .
+The median submission to acceptance time for this prestigious journal is over 200 days , a dangerously long time to withhold information at the start of an outbreak .
+Yet even during the expedited window of peer review , the number of confirmed cases jumped to 2,761 in China .
+Peer review would legitimize the study for the scientific community , but it would do little to halt the pandemic on its own .
+Online news outlets have reported on COVID-19 more than two billion times since December 2019 , while PubMed contains just over 1,000 indexed scientific papers on the topic .
+The imbalance between rapid-fire news and vetted scientific information creates a dangerous infodemic .
+Students reflected on ways that social media can interfere with public health messaging and international relations during a crisis .
+For example , a student pointed to troubling tweets claiming the virus @ @ @ @ @ @ @ @ @ @ called out a myth linking melanin and coronavirus immunity .
+After her analysis on Black Twitter , she shared , " It 's pretty frightening that it took the diagnoses of celebrities like Idris Elba to debunk this claim .
+" In a move to hold social media accountable for its role in the crisis , Democratic congressman Bobby Rush of Illinois confronted Facebook and Twitter CEOs and implored them to combat the spread of misinformation online .
+Sensing the urgency of teaching in this moment , I loosened my grip on the syllabus and created classroom space for deconstructing the diagnostic tests .
+Using a table of patient symptoms and other data from the paper , students predicted which patients might harbor the virus and drew hypothetical results for the polymerase chain reaction test ( PCR ) on the board .
+They included the necessary controls and discussed why these controls were essential to interpret the data .
+The path from patient to diagnostic test seemed straightforward in this neatly packaged paper .
+In contrast , the implementation of robust testing procedures has been quite messy in the @ @ @ @ @ @ @ @ @ @ had problems with a key ingredient necessary to validate the test , the negative control .
+Now , shortages of test kits , swabs and masks threaten efforts to flatten the curve .
+Nine days after bringing the science of the outbreak into the classroom , community spread in New Orleans was well documented .
+Perhaps the virus arrived during Mardi Gras season , a time when the city booms with tourism , parades and revelry .
+Colored toilet paper tossed from floats still clings to the live oaks along the parade route , a gaudy reminder of national resource shortages .
+Our PCR gels were running on 200 volts in the lab when the announcement from President Tania Tetlow hit our devices .
+Like all other colleges in New Orleans , Loyola University New Orleans would immediately shift to remote learning for the rest of the spring semester .
+Within a matter of days , I needed to assume an online identity , ramp up remote teaching tools and build a home office .
+While difficult to swallow , this unprecedented social distancing experiment endeavors to protect @ @ @ @ @ @ @ @ @ @ PCR was successful for every single student in the lab that afternoon : products in the right lanes and clean controls .
+This would be the equivalent of implementing a robust diagnostic test in the heat of an outbreak .
+It felt like my March Madness pick had just sunk 14 consecutive free throws to win the game , wearing lab coats and gloves .
+We packed up pipettes and unplugged equipment .
+We perfected our hand-washing technique using Glo Germ solution and ultraviolet light .
+We vowed to do our part to scrub hidden germs from our hands and to spread only good science .
+As we venture into this journey of remote learning together , I have allowed my syllabus to slip from the vintage enamel-top table in my home office .
+Embracing the experimental nature of teaching and learning in this moment is the way through it .
+Inviting our students to roll up their sleeves with us to marvel at crown-shaped proteins , scrutinize the sequences of viral genomes and comb through data from emerging clinical trials is what we must do .
+@ @ @ @ @ @ @ @ @ @ during this time of social distancing .
+Empowering our emerging scientists to implement rapid diagnostic tests , launch vaccines and clinical trials , debunk pseudoscience , and continuously strive for social justice will be our pedagogical gift to the future .
+Bio  Kim Mix is an associate professor of biological sciences at Loyola University New Orleans , a member of the orthopedic surgery health disparities research group at Louisiana State University Health New Orleans and a former player on the women 's basketball team at Worcester Polytechnic Institute .
+She was recently appointed as a quick-study homeschool teacher for her two children immersed in remote learning through the Waldorf School of New Orleans .

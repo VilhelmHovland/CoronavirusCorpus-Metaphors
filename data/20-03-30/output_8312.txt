@@ -1,0 +1,14 @@
+Last week , YouTube announced that it is switching its stream to SD quality worldwide to avoid network congestion .
+Other major video streaming services also announced a similar reduction in their streaming quality as they see a rise in demand following the COVID-19 outbreak which has led to major countries being locked down .
+YouTube was only switching its streaming quality to 480p by default and users had the option to manually bump it to higher resolutions .
+In India though , YouTube seems to have gone a step ahead and restricted the maximum video streaming quality to 480p .
+As reported by XDA-Developers , YouTube has imposed this measure in select densely populated cities of India like Mumbai and Delhi .
+The restriction on streaming quality is there irrespective of whether one tries to stream the video while on mobile data or Wi-Fi .
+The limit is also in place for YouTube Premium subscribers in the country .
+The restriction is not there in other smaller cities and states , though it is possible that the limitation will come into effect gradually .
+The restriction is only there while streaming videos on mobile .
+@ @ @ @ @ @ @ @ @ @ or higher resolution on their desktop , laptop , or tablets .
+It seems YouTube has taken this step to reduce network congestion .
+The country of over 1 .
+billion people went into a lockdown of 21 days due to the COVID-19 pandemic last week .
+This is going to put a lot of strain on the country 's network infrastructure as people will stream more content in their free time .

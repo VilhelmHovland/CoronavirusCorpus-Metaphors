@@ -1,0 +1,21 @@
+This site is operated by a business or businesses owned by Informa PLC and all copyright resides with them .
+Informa PLC 's registered office is 5 Howick Place , London SW1P 1WG .
+Registered in England and Wales .
+Number 8860726 .
+Medtronic Shares Ventilator Design Amid Shortage Concerns  Medtronic is publicly sharing the design specifications for its Puritan Bennett 560 portable ventilator in an effort to increase global ventilator production .
+Photo by Markus Spiske on Unsplash  Medtronic has already ramped up production of its high-performance Puritan Bennett 980 ventilators by more than 40% , and is on track to more than double its capacity to manufacture and supply the ventilators in response to the coronavirus ( COVID-19 ) pandemic .
+But even at a production volume of 500 machines a week , the Dublin , Ireland-based company recognizes the need for more .
+The company is now publicly sharing the design specifications for an older model of the technology , the Puritan Bennett 560 ( PB 560 ) , which will allow companies across industries to evaluate options for rapid ventilator manufacturing to address the dire need for more ventilators @ @ @ @ @ @ @ @ @ @ PB 560 is sold in 35 countries around the world .
+" This ventilator 's ability to be used in a range of care settings , as well as its technology and design , make it a solid ventilation solution for manufacturers , inventors , startups , and academic institutions seeking to quickly ramp up ventilator design and production , " Medtronic said .
+PB 560 product and service manuals , design requirement documents , manufacturing documents , and schematics are now available at **28;531;TOOLONG .
+The PB 560 design specifications are available today , software code and other information will follow shortly , the company said .
+The portable ventilator provides airway support for both adults and children .
+It can be used in clinical settings and at home and provides mobile respiratory support .
+" Medtronic recognizes the acute need for ventilators as life-saving devices in the management of COVID-19 infections .
+We know this global crisis needs a global response .
+Over the past few weeks , we have ramped up production of our Puritan Bennett 980 ventilators .
+But we also know we @ @ @ @ @ @ @ @ @ @ Bob White , executive vice president and president of the company 's minimally invasive therapies group .
+" By openly sharing the PB 560 design information , we hope to increase global production of ventilator solutions for the fight against COVID-19 .
+"  Ventilators play a critical role in the management of patients with severe respiratory illness , such as COVID-19 , who require assistance because they can not breathe effectively .
+By placing a patient on a ventilator , the patient 's lungs are permitted to rest and recover while the ventilator performs the functions of supplying oxygen and simulating the actions of breathing .
+Without ventilation support , some patients with severe respiratory disease might not survive , Medtronic noted .

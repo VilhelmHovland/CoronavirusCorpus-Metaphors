@@ -1,0 +1,18 @@
+How can the world solve the global ventilator shortage problem ? Pt 1  Hospital ventilators are complex pieces of machinery that can use several sensors to control airflow and pressure .
+Existing suppliers ' monthly production is typically in the 10,000 or so range .
+New production capacity will take months .
+As hospital and local governments have pleaded to get more ventilators during the coronavirus pandemic , several organizations have responded quickly , especially with new design ideas .
+To provide a starting point to consolidate these global efforts , a few of the more promising approaches will be presented .
+A professor of anesthesiology at the University of Florida and an established inventor has built a ventilator out of items consumers can buy from hardware stores and made it open source for engineers and hobbyists worldwide .
+The Code Life Ventilator Challenge invites interested individuals or teams to design a simple , maintainable , easy-to-manufacture ventilator to provide life support to COVID-19 patients anywhere in the world .
+The goal is to design a ventilator using widespread rapid manufacturing tools , such as 3D printers , computer numerical control ( CNC ) machines @ @ @ @ @ @ @ @ @ @ as a smartphones , Arduinos or other approach .
+Those interested can join the challenge by providing manufacturing support , technical expertise support or a donation to the foundation .
+While scientists , engineers and healthcare professionals find ventilator design to be the more compelling aspect , many of the recent design are manufacturable by their creators and if the devices have achieved some level of verification and the designers provided sufficient details including open source software , any group of technically inclined individuals should be able to build one , two or more ventilators in a few days -- not weeks and certainly not months .
+Similar to moving the blocks for the Great Pyramid in Egypt , when enough people are involved ( we have 7 .
+billion ) , the almost impossible can be achieved .
+More approaches to come .
+MOTION DESIGN GUIDES  Enews Sign Up  Design World Digital Edition  Browse the most current issue of Design World and back issues in an easy to use high quality format .
+Clip , share and download with the leading design engineering magazine @ @ @ @ @ @ @ @ @ @ ads , to provide social media features and to analyze our traffic .
+We also share information about your use of our site with our social media , advertising and analytics partners who may combine it with other information that you 've provided to them or that they 've collected from your use of their services .
+You consent to our cookies if you continue to use this website .
+more .

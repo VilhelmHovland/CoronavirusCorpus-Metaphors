@@ -1,0 +1,247 @@
+Video : More Suspension Tips from Jordi Cortes in ' Dialed '  With the first five events of the World Cup season either postponed or cancelled , it 's hard to fathom any type of normalcy from the UCI calendar this year .
+Forcing teams to take each day as it comes and make the most of the information as it is released , and the tough decisions are made .
+Officially , Lousa , Maribor and Nove Mesto have been postponed until the late fall and Losinj and Fort William have been outright cancelled .
+Aside from those details , nothing is certain .
+However , one element of the World Cup season still charging ahead is FOX 's new season of DIALED .
+During these unprecedented times , it often feels as though the only thing we can control is our attitude .
+That has become the unofficial motto of the crew for this season of DIALED .
+Making lemonade , as they say .
+Recognizing that most of the bike community is going a bit stir crazy during these varying degrees of isolation , the team behind the popular web series feels there @ @ @ @ @ @ @ @ @ @ With two episodes down , the team at DIALED is looking to engage with the audience more than ever before as they navigate these unchartered waters .
+Please comment below on what you would like to see next .
+Rider Q &amp;A 's , stories from the circuit , tech tips ? Nothing is off the table .
+This season is a collaborative effort and we are all in this together .
+Wishing everyone health and safety , we 'll see you on the trails soon !  153 Comments  How does bike geometry affect suspension tuning/settings ? Like for example , is it fair to say you can run less rebound on a longer bike because it 's less likely to buck uncontrollably ? Or should you run more rebound because the wheel does n't need to track the ground so much ? Should you run less rebound on a low BB bike so the dynamic ride height stays higher ?  Unless somebody 's frame grew longer and slacker over night , this is a rather weird question .
+you bought a different bike so you also @ @ @ @ @ @ @ @ @ @ frame has different kinematics and a different shock .
+Damping is conversion of kinetic energy to heat , so you want to run as little rebound as possible while feeling in control ( which for dh riding is usually a good amount because of the speeds involved ) .
+Longer bikes are more tolerant to this because the weight stays more equal between the wheels .
+Fast vs slow rebound is a little more complex , and depends on the leverage ratio and the particular shock .
+@RadBartTaylor : nope .
+you 're half right .
+yes you need more compression damping , but the bigger the hit , it 's usually you are traveling faster .
+in that case you want LESS rebound damping to get the tire back on the ground ASAP .
+@RadBartTaylor : this discussion is so bloody ridiculous , are we trying to determine how much rebound everyone in the world should run ? It depends on tons of things .
+Why would anybody give a slightest damn how much rebound Sam Hill runs ? It 's his own experience , @ @ @ @ @ @ @ @ @ @ Loic runs this suspension testing show does n't mean he does n't make some less Rational decisions against what his mechanic tells him .
+Go out there and do testing , do some laps and figure out what works for you .
+Move 3 or 4 clicks up from where you are then on next run , down from where you were .
+Theoretical benefits of running too little rebound .
+that 's the problem of many people , they are theorizing too much  Rebound is the part that destroys energy you put into the suspension , since motion gets turned into heat .
+If you are hauling ass dh , you will want a good amount because you are putting significant energy into the suspension that can destabilize you , so you need rebound damping .
+If you are trail riding , you can run minimal rebound and get a very poppy bike .
+If you know how to jump , you can also jump with minimum rebound damping and not get bucked either .
+If you want to see this work in real life @ @ @ @ @ @ @ @ @ @ your fork and trying manuals at either end .
+Compression is essentially for bottom out and pumping .
+HSC is used to tune bottom out on big hits without going up in spring rate , and LSC is used to firm up the bike for faster control , since you often want to just push off the bike without the suspension compressing first .
+But compression damping prevents suspension motion in the first place , so you do n't waste as much energy into heat .
+@conoat : which is why I said " make what you wa n't of it " .
+if faster rebound is for fast riders , it would stand to reason he 'd run his faster than most , which he does n't .
+N=1 does n't make it true , but certainly is a data point .
+More rebound damp is also needed for higher pressures , which faster riders tend to run .
+@WAKIdesigns : this is good advice .
+Fast or slow rebound means nothing .
+Relative to what ? I 'm definitely not the smartest guy out @ @ @ @ @ @ @ @ @ @ in my 10 or so years of working at WC 's I 'd say generally better riders tend to run rebound faster than novice riders .
+Maybe because they tend to be in the proper position and understand what movements are necessary to counteract chassis movements .
+Where as more average riders ( like myself ) could rely on rebound to help out if you 're a bit off balance .
+Just my 2 cents .
+@Cordijortes : I can imagine they run it faster .
+I did n't criticize you rather others who are getting into awkward details .
+I asked ? hlins technician about switching frame to get 20mm more travel to get more squish and he told me to remove at least click of rebound and since he saved me 1k Euro , he wants at least 5% of that sum for this advice .
+Would you though run a bit more rebound for riding medium/ big jump lines like Aline or Crabapple bits ? Off course on top of Compensation for more preload and maybe a bit more compression , one maybe could desire @ @ @ @ @ @ @ @ @ @ me and my bros want to do sick trains and send it sideways with loads of steeze ( that was a sarcasm ) for 6 runs in a row - would I benefit from hardening the suspension and slowing rebound a bit too much ?  It 's mostly a wash with regards to wheelbase vs rebound .
+It is a longer effective lever , but the change is bike height is the same .
+Head angle definitely has some effect , but that 's really due to friction added by slack angles .
+For a low BB you COULD run less rebound , but less sag , and perhaps a bit of volume reduction , will be more effective .
+If it 's low enough that pedal strike is an issue , you need to eliminate some end stroke .
+You could combine that tuning with a very slightly lighter oil so the extra pressure or preload does n't reduce sensitivity as much .
+That way it would stay active with ample bottom out resistance .
+First , you need to rub all the dust off your forks @ @ @ @ @ @ @ @ @ @ oil dripping out , top up both legs wit sawdust .
+Should be all set then for when riding season kicks back in .
+You 're welcome .
+tip The bike upside down for a few minutes every few weeks or so to keep the bushings and seals nice and oily .
+Not the best to leave the bike upside down though because if there is any air in your brakes it will collect at the caliper ( caliper now being at the high point of the system ) and could potentially cause seals in the caliper to dry out , oxidize and fail - it 's rare but it happens .
+We recommend once a week to tip the bike upside down , give the suspension some squishes , operate the dropper post and while you 're at it air your tires so they do n't break the bead seal and your sealant dries up .
+@friendlyfoe : Not every one is a pro bike mech or may not have access to tools or a service centre in these lock down times .
+I 'm pretty good @ @ @ @ @ @ @ @ @ @ the tips could be from a pro suss centre for those that are n't  @Shredtheduck : I think the trick is to screw a large plastic coated metal hook to the wall and store your bike upright ( hook holds the front wheel ) .
+The fork oil should rest in the spot where your wiper seals are , fully lubed ready for the next ride .
+@nojzilla raises hand ) - I KNOW , I KNOW ! ! ! ! .
+is it because we have tested MASSIVELY MORE people than any other nation ? Even more so if you take into consideration the population of our nations ? Please , try some basic math before throwing stones eh ?  ( I was not going to mention the fact that everyone I ride with also works in healthcare , we are MORE at risk at the facilities than at a MTN trail ) .
+So , if YOU do not want to risk being exposed , please do not go to where you may be exposed ( the ED for instance ) .
+All goes @ @ @ @ @ @ @ @ @ @ found a hole in the ozone layer ? BECAUSE WE WERE LOOKING .
+I do hope that there are massive body counts in NYC , Chicago , Baltimore and other bastions of liberal solutions to society 's problems in dem run areas .
+One more idiot shows up at the hospital with a maxi pad on their face yelling at the top of their lungs that we want them to die - well , we should be able to shoot them like zombies under martial law ( note : with a severe pulm issue you can not yell ) .
+As for your side of the pond ? I could care less , most US citizens do nt .
+@RoadStain : Not to be morbid or anything , but im interested to see what happens in the US , considering peoples attitudes towards it .
+There are other places that have locked down , and where people act with regard to others around them , and not a blind determination to follow their own immediate interests .
+@twade76 : Sure , so the venerable should stay home @ @ @ @ @ @ @ @ @ @ , no ?  Two of the folks I ride with are surgeons who had to cancel every surgery they had scheduled .
+So , their PT 's are suffering and they do not go to work .
+Wow , what a great system .
+The oddest delusion is someone thinking that an orthopedic surgeon or an ophthalmologist can , or should see PT 's with pulm issues at an ED they have no privileges at .
+Then there was the reporter yesterday asking Trump what he is going to do for Italy ? I seriously was wishing he would say " not a damn thing until they become a State " .
+Simply , Italy is NOT our problem ( or yours ) .
+@zyoungson : You are spot-on correct .
+If you look at cities that have been out of control for decades , and have secondary issues behind this latest fiasco - the death toll will be high .
+I would imagine soon enough there will be what in the US is called Martial Law and suddenly all bets are off .
+If we look @ @ @ @ @ @ @ @ @ @ .
+well , I am very happy I no longer live in a densely populated area .
+@RoadStain : Young folks with no comorbidities are dying to .
+I seen it with me own eyes .
+Patients in their 20s and 30s proned on the ventilator , super sick and will die .
+Do n't think just because you are healthy you 're not at some risk or have the virus and are asymptomatic .
+which then you spread to someone else and somewhere down the line you 've gotten someone else sick and they could die .
+@nojzilla : total case numbers by country do n't mean much , let 's talk percentages .
+Deaths per million people , for example , puts the US behind many European countries , and the UK ( more than double the US ) .
+Not to excuse Roadstain , but population size and density really needs to be considered .
+The US is big and there are a lot of places where you could easily go on a bike ride without interacting with anyone else .
+Those places are not @ @ @ @ @ @ @ @ @ @ say rogue mountain bikers are n't the problem .
+( Although that cavalier attitude might be .
+)  @yourbuddyjc : I am also at risk every time I get into the car , on a bike , use the mower and on and on .
+There are some folks saying that a secondary issue for certain demographics ( under 30 ) tends to be the new craze with vaping .
+Do not know if it is valid , would not however discount it .
+I have seen kids under 13 vaping ( and smoking ) .
+This is where we ask a more difficult question .
+In the US we are able to keep 3% ( +/- ) births alive ( but not thriving ) .
+These kids that under any other circumstance in mammalian life on this planet would not survive to see their first birthday .
+Heart surgeries on infants just hours old .
+Children born addicted and on and on and on .
+are these the ones that are being impacted at a seemingly young age ? To that .
+well hell .
+Tom Hanks @ @ @ @ @ @ @ @ @ @ he survived Corona .
+maybe , just maybe we should talk more about those who beat it than the ones who are gentically weak ?  @Staktup : I can not tell you the number of PT 's we DO NOT SEE , simply because they are not worth our time .
+Thanks to Obummer I was part of closing a Trauma Center in an indigent area with high crime ( gun-free zone ! ) .
+Simply , healthcare is not a right ( not even in Socialist Nations where they can , do and will limit it and place a value on a life ) .
+Have you ever heard of any other mammal with congenital defects making it to old age ? No .
+Like it or not , agree or not .
+eugenicist IS natures way .
+The survival of the fittest will always win out when competing against man 's desire for immortality .
+Simply , that is the fact .
+So , at the same time ignorant liberals want to deny a persons right to religion , they then also want to deny evolution @ @ @ @ @ @ @ @ @ @ and there are simply only two sexes capable of maintaining the human race ) .
+@smithcreek : Fair point , although I was reacting specifically to the flippancy of the original post , use of ' we ' implying that they are going as a group and that people that are following guidance to stay at home unless you need to go out are ' paranoid fools '  All of the guidance about staying at home is to protect society and make it easier for our health services deal with people who are genuinely in need .
+We all know that as active and relatively fit and healthy people we are at very low risk of having anything more than a couple of days feeling a bit under the weather , but for some people this virus will be devasting .
+Not sure exactly what the guidance in the US is , but we can still get out and ride ( which I still do ) , but it should be on your own and you should stay fairly local .
+@Homatron : You still got @ @ @ @ @ @ @ @ @ @ that those of us in rural areas could care less about those in NYC .
+Alter your numbers to segregate NYC , DC and other dense population areas .
+For instance , in the county I live I know for a fact there are less than 200 TOTAL test kids .
+Go to Orlando and the number is drastically different .
+I would bet that in rural Kansas there are less tests we well .
+Plus , I do not in any way trust a damn thing that comes from a country with socialist medicine .
+I still say we need to go for the gusto and check for breast , prostate and cervical cancer as part of the testing .
+We can also check for HIV .
+imagine the lives we can save .
+" Most people can overcome coronavirus symptoms without being treated in a hospital .
+But in some patients , especially those with pre-existing health conditions and older patients , can experience severe respiratory complications that can lead to death  Survival of the fittest .
+PERIOD ( note : that quote taken @ @ @ @ @ @ @ @ @ @ Michigan who died ) .
+@Homatron : Let 's just start off by saying that @RoadStain is a complete nut .
+But the reality is that you 've made an error too .
+130,403 ( old numbers btw ) is the number of tests that we have had return POSITIVE in the US .
+This is a tiny fraction of the total number of tests we have performed here .
+We were slow to get tests because our president played down this situation and called it a hoax for a month , but now NYC is testing more people per capita than South Korea ever did .
+We 're starting to get the ball rolling finally in the US .
+This is why we have more confirmed cases than anywhere else in the world .
+And we certainly have fewer actual cases than either Italy or Spain , and they have much smaller populations than us .
+@almostsendy : Sir , we can not let facts get into the way of the delusions of the masses and the " Woke " .
+We ( in the US ) @ @ @ @ @ @ @ @ @ @ your grade school ? " , Lead Pipes ? Airbags in your car ? Lead paint ? Radon ? Sink Hole ? Over served at a bar ? Did your mother take tetracycline ? Agent Orange ?  @almostsendy : thanks for pointing out my mistake .
+I have now found the site below which is a lot clearer , and shows 851,578 tests have beendone in the US .
+So about 1 test in every 388 people as a coarse average .
+It also has values by **28;1188;TOOLONG  @almostsendy : Was talking about this with my wife while perusing my favourite Corona map .
+Agreed , " confirmed cases " is not the important number because that 's just a function of testing .
+The key numbers are " deaths " followed by " death rate doubling ( or rate of increase ) " .
+I do n't know exactly what the " hump " number is but a few articles/tweets indicate that if you can get the death increases to slow to a greater than 3 day spread you may be over the worst of it .
+@ @ @ @ @ @ @ @ @ @ inaccurate target because unless you test everyone , you 'll never actually know how many had ( insert illness ) .
+you 'll only truly know how many died because of it .
+However , more testing drives down the mortality rate ( which you want ) , unless everyone is dieing ( which you do n't want ) .
+Nobody really knows how it all works , ca n't you understand ? We are a full month into this stuff , it does n't really take a CIA analyst to get it .
+Numbers are not indicatory of anything here other than virus is highly contagious and spreads well even by folks who have no symptoms .
+We should be concerned by actions of our governments , the limitations and lock downs are questionable , the ONLY thing they do is the are saving the healthcare by flattening the curve .
+For now .
+Nobody knows how long it will all take , Nobody has any long term plan , how can they ?  What are the risks ? Many ! Is the lock down sustainable @ @ @ @ @ @ @ @ @ @ , how long before people will say : f*ck that ! I 'd rather die or kill a few people than sit at home any longer .
+Old people are doing it already ! They say f*ck it ! What will happen when governments ease it off ? Wo n't people swarm the streets amd cause a massive spike ? Who knows that ? Nobody .
+Chinese got locked up completely , Italian stubbornness mixed with their highly social behaviors caused a major fk up , we all pay for , Swedes are generally healthy but also asocial to each other anyways , Us and UK populations are obese and have huge risk groups stretching outside of elderly population .
+Every country is different and uncomparable .
+What works in one country wo n't necessarily work in another .
+Nobody knows anything and wo n't know anything for months to go .
+Counting bodies is a damn ridiculous way to look at it .
+Saying survival of the fittest is the way to go , makes zero sense too .
+Certain images are extremely powerful and change perception of @ @ @ @ @ @ @ @ @ @ Black guy being attacked by Police dog gave a huge boost to civil rights movement .
+You may not care about your grandma or mother that much , but a video of a doctor crying out loud in the midst of dead people , or a white mother holding a child with dying people in hospital corridor can also fk you up .
+You do n't know what will hit you hard .
+Keep track of your demons people .
+after this will be getting over , there will be a line of pig faced politicians feeding those demons .
+I am not religious , but for the lack of better expression : keep track of what Covid does to your soul .
+It can get extremely ugly in there .
+Be afraid of other people .
+take care of them .
+Do n't eat cheap solidarity .
+@WAKIdesigns : In the US the cost is +/- $60k per taxpayer .
+Sorry , many people I have met in life are not worth the $60k .
+I already pay FAR too much in tax .
+Plus , to @ @ @ @ @ @ @ @ @ @ eligible for that cockamamie $1200 check .
+I also LOVE how they are saying they are waving co-pays .
+Often the co-pay in the ONLY income for a PT visit a facility ever will see .
+So , most PCP 's are simply shutting their doors ( many permanently ) .
+@RoadStain : I ca n't find any relevance in anything that any politician says eo please do n't mention their policies .
+They are just talking crap straight out of their butthole .
+There is no point in commenting on it .
+We should be talked to by doctors , economists , bankers , since they are running our countries at the moment .
+The ape at the helm is so irrelevant , that commenting politics is a health wasting activity considering how much effort and emotions is out in something so useless .
+Perhaps that is the point .
+occupy population with going through poop you just laid , just keep laying the one poop after another .
+I want to vote for big pharma for next elections and right now I am worried about @ @ @ @ @ @ @ @ @ @ : Well , to bring up another politician , thanks to Obama we will soon run into a greater shortage of MD staff .
+I know a TON of MD 's who are retiring due to changes in fee schedules and no changes in the legal system ( compensatory damages/MedMal ) and the filthy lawyers who sue every MD for anything , and their disgusting clients who did not deserve ANY care , let alone life-saving care .
+One of the best things since leaving Chicago , is not having to hear " Pay ? Awwww , hell to the naw , I voted Barack , I aints gots ta pay " .
+You must remember , IF this does not get some legislation behind it , and fast - the ONLY options for care will be at Hospitals , not your PCP , nor rural health , not anywhere but in a hospital .
+fact is , no MD is obligated to go to work .
+Period .
+@Shredtheduck : not upside down but hanging front the front or rear wheel is n't a bad idea .
+@ @ @ @ @ @ @ @ @ @ vs .
+just sitting on its wheels , but upside down the lube will just sit in the stanchions  @WAKIdesigns : you talk about Sweden not shutting down and keeping their economy going ; what does that mean , exactly ? I work for a major global commercial vehicle manufacturer headquartered in Goteborg ( sorry , U .
+keyboard on a tablet ) .
+At least all of our truck technology group employees in Sweden have been laid off and the Swedish government is covering the majority of payroll , with the company making up some small percentage and the employees taking home over 90% of their wages with the condition that they absolutely can not work , even if only viewing emails .
+Is it like this for most of Sweden , or is this an outlier ? How is the economy still open if most industries are like this ?  @RoadStain : it 's not just the MD 's nearing retirement age that are tapping out .
+It 's the same with the PhD 's in Psychology .
+They 've also had children later in life and want @ @ @ @ @ @ @ @ @ @ over some idiot patient that 's probably not going to pay anyways .
+@dodgerpuppy : It was with a tongue in the cheek , concerning how outraged some people are that we did n't close schools and kindergartens , that restaurants are still running ( even though there 's less than 1/3rd of people in them .
+I am from Gbg .
+Yes Volvo pulled the hand brake , sorry , pressed the hand brake button .
+Pro Tip if you are me:Set PSI firm enough your tires do n't roll and you can only ding a rim at puckered race pace off line .
+spring rates for chunk .
++10% spring rates for smoother stuff .
+progressive as you think is good .
+Then add one vol spacer ( and two if you bottom it ) max compression without getting tossed off trail ( but min HSC to feel predictable ) Fast enough rear rebound you can hop a log easily , slow enough on front that your wheel is n't popping up in chunk .
+Do nt change stuff .
+Change your riding .
+Consistent bike @ @ @ @ @ @ @ @ @ @ better .
+Nice episode and funny ! The right answer to cancelled WCs and quarantine .
+thing that I am working on lately , is the right amount of Sag to have at the fork .
+The standard 25% seem to be much to me .
+What do the Pros go with ? I personally like linear feel and I run around 15% sag and no volume spacer .
+Is that oldschool ?  @Cordijortes : thanks for the clear answer Jordi ! May I come back with the mother of all questions ? Why are clicks counted from closed ? The set up instruction is somehow hard to read , because to me it feels normal that more damping should mean more clicks .
+But its obviously not ! Is it because fast riders are more on the firm side , and so its easier to count a few clicks from closed , than a dozen from open ?  Can you answer the question at what weight or ability does custom tunning start to make sense .
+Your factory setup works for most people and your calculator works @ @ @ @ @ @ @ @ @ @ benfit from the preceived Pro setup black magic mystery setup ?  Dialed team .
+I would love to see an animation or actual video footage of bikes going over a variety of terrain and what aspect of the suspension is active where .
+This would help me visualize what all the settings on these amazingly engineered products actually does .
+10mm does n't sound like excessive , does it ? There is always some variation in axle to crown length depending on how hard the forks are inflated ( compressing the negative spring ) so they want some buffer .
+You do n't want the crown to hit the dust wipers , but you also do n't want the tire to hit the fork crown as the fork bottoms out .
+@vinay : I 'm not talking about headroom for the dust wipers .
+Those 10 mm are on top of that .
+is also not a tolerance issue .
+i had three 36 2019 and 2020 forks and each had the exact same length .
+at fox intentionally made them 10 mm longer and i 'd like to @ @ @ @ @ @ @ @ @ @ reason .
+A 160 mm 36 29 " is supposed to be 567 mm ( +/- 5 mm , which is a joke but ok ) but it is actually 577 mm .
+the consumer has all the disadvantages of a 170 mm fork like messed up geometry , more flex and the cracking in the crown will occur earlier due to the longer lever while doing nose manuals .
+: none  @Ben-P : release the all air , compress your fork , keep it compresses and release the air again , repeat until you bottom it out .
+Check how much room there is between the top of the tire and the bottom of the crown .
+Then complain .
+@Ben-P : Around 2007 there 's been a group of courageous new thinkers who installed shitty wheels with 584mm rim diameter and even shittier tires to 26 " bikes and claimed it made all the difference in the world .
+By 20102 the trend culminated with introduction of proper tire clearances allowing to mount fatter tires with this diameter to otherwise good 26 " bikes .
+" My @ @ @ @ @ @ @ @ @ @ tire " a proud middle aged man said .
+Another man told me to use an old 26 " Fox 36 with 650b wheel to get better fork offset .
+I did n't dare .
+I was n't woke enough .
+Many of these courageous men broke their noses , collar bones and lost teeth in crashes resulting from tire bottoming into the downside of the crown , fueling the growth of Yeti brand .
+Hey Jordi , I seen some videos from last year when a rider was asking for your advice and expertise and when you push on the suspension and let it rise I was like , that 's my old fox 36 coil(2006) working , and I love that fork I still ride it and I could n't fine anything that resembles that elasticity on any of these new 27,5 and 29 single crown forks , even on the so acclaimed best ever fork the lyric new Debonair ( I have one ) , they just feel dead , and do n't have that begging stroke sensitivity ( only if you do n't put enough @ @ @ @ @ @ @ @ @ @ Cause I see loic bruni bike and also amaury bike and they track the ground like coils do , thanks and be safe all  @Cordijortes:I 'm not saying the lyric is bad , maybe this new 2 .
+it 's a little better in small stuff , or maybe mine just need a new oil , or maybe it 's just me that got used to much to the coil feel , I 'm not a great rider nor even a good amateur , but I feel they lack that zink zink , fast on the first 30% , and them slowing down at half point , and the rockshox tune air pressures are just to low in my point of view .
+Air forks in the pros are getting very good indeed if that 's the case , and thanks for the reply , be safe  You do n't need the tool , but it 's nice to have if you perform regular service on your forks .
+Those aluminum nuts can get chewed up quickly if you hammer them with cheap sockets .
+Those tools are really @ @ @ @ @ @ @ @ @ @ on SOMEONE ELSE 'S stuff you do n't munch it up .
+As a Fox Service Technician : We take the whole unit apart , check valves and shims ( quite often replacing a shim or two ) , change every single seal ( even the not movig ones as they age too ) , clean every single part , fill it with fresh oil .
+But i know far too many bikeshops that only change the " most important " seals or even only change oil or bleed the cartridge .
+( Same with bleeding brakes , quite a few only bleed them instead of replacing the liquid ) .
+We got to deal with the unhappy customers later on .

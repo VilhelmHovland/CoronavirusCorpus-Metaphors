@@ -1,0 +1,24 @@
+Twitter broadly bans any COVID-19 tweets that could help the virus spread  You do n't have to go far to find someone online downplaying the severity of a global pandemic that 's shut down entire economies and ground everyday life to a halt .
+Knowing that , Twitter will take extra steps to remove tweets that put people at risk of contracting the novel coronavirus as it rapidly sweeps through communities around the globe .
+On Wednesday , Twitter updated its safety policy to prohibit tweets that " could place people at a higher risk of transmitting COVID-19 .
+" The new policy bans tweets denying expert guidance on the virus , encouraging " fake or ineffective treatments , preventions and diagnostic techniques " as well as tweets that mislead users by pretending to be from health authorities or experts .
+Content that increases the chance that someone contracts or transmits the virus , including : -- Denial of expert guidance -- Encouragement to use fake or ineffective treatments , preventions , and diagnostic techniques -- Misleading content purporting to be from experts or authorities  In its blog post , Twitter says that it @ @ @ @ @ @ @ @ @ @ cases and we 've asked the company for more clarification on what that looks like .
+Update : Twitter indicated that it will take context like account history into account in making its enforcement determinations , which it says remain unchanged .
+As far as having users remove offending tweets , according to the company 's existing guidance " When we determine that a Tweet violated the Twitter Rules , we require the violator to remove it before they can Tweet again .
+" A user is notified of this via email and given a chance to delete the tweet or make an appeal .
+While that is happening , the tweet is hidden from view .
+Given the new guidelines Twitter has outlined , the platform is going to have its work cut out for it .
+Under the ruleset , a tweet that claims " social distancing is not effective " would be subject to removal .
+Twitter will also require users to delete tweets telling followers to do ineffective or dangerous things like drinking bleach , even if the tweet is " made in jest @ @ @ @ @ @ @ @ @ @ of context .
+Twitter has also banned tweets that make calls to action encouraging other users to behave in a way counter to what health authorities recommend , with the example tweet of " coronavirus is a fraud and not real -- go out and patronize your local bar ! ! " Some political figures have faced criticism for similar statements in recent days , including Rep .
+Devin Nunes ( R-CA ) who encouraged Fox Business viewers " to just go out .
+go to your local pub .
+"  The rules will also ban tweets in which people play armchair doctor and make claims like " if you have a wet cough , it 's not coronavirus -- but a dry cough is .
+" Users will also not be allowed to make coronavirus claims that single out groups of people based on race or nationality , like discouraging followers to eat at Chinese restaurants .
+Other race-based claims like John McAfee 's tweet that " Coronavirus can not attack black people " wo n't fly either .
+Twitter 's new set of coronavirus-related misinformation rules @ @ @ @ @ @ @ @ @ @ .
+Many , many tweets would appear to fall under the deepened policy designed to prevent health misinformation from spreading on the social network .
+To meet the unique challenge posed by the pandemic , Twitter said it has put a " content severity triage system " in place so that the most potentially damaging tweets can be identified and removed , with less emphasis on users flagging the tweets themselves .
+The company previously announced that it would be relying more heavily on automation and machine learning to act on content that violates platform rules , which Twitter admits may lead to mistakes in some cases .
+In an effort to rise to the gravity of the situation , Twitter 's policies lay out an aggressive and fluid approach that we do n't always see from social networks .
+We 'll be following along to see how the platform experiment goes in the coming days and if Twitter can help stem the flow of potentially lethal misinformation as the world wakes up to the global threat of COVID-19 .

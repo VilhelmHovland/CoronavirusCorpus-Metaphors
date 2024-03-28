@@ -1,0 +1,81 @@
+What If a COVID-19 Test Is Negative ?  In a physician WhatsApp group , a doctor posted he had fever of 101 ? F and muscle ache , gently confessing that it felt like his typical " man flu " which heals with rest and scotch .
+Nevertheless , he worried that he had coronavirus .
+When the reverse transcription polymerase chain reaction ( RT-PCR ) for the virus on his nasal swab came back negative , he jubilantly announced his relief .
+Like Twitter , in WhatsApp emotions quickly outstrip facts .
+After he received a flurry of cheerful emojis , I ruined the party , advising that despite the negative test he assume he 's infected and quarantine for two weeks , with a bottle of scotch .
+It 's conventional wisdom that the secret sauce to fighting the pandemic is testing for the virus .
+To gauge the breadth of the response against the pandemic we must know who and how many are infected .
+The depth of the response will be different if 25% of the population is infected than 1% .
+Testing is the third way , rejecting the false @ @ @ @ @ @ @ @ @ @ strategy is faith-based .
+Our reliance on testing has clinical precedence -- scarcely any decision in medicine is made without laboratory tests or imaging .
+Testing is as ingrained in medicine as the GPS is in driving .
+We use it even when we know our way home .
+But tests impose a question -- what 'll you do differently if the test is negative ?  That depends on the test 's performance and the consequences of being wrong .
+Though coronavirus damages the lungs with reckless abandon , it 's oddly a shy virus .
+In many patients , it takes three to four swabs to get a positive RT-PCR .
+The Chinese ophthalmologist , Li Wenliang , who originally sounded the alarm about coronavirus , had several negative tests .
+He died from the infection .
+In one Chinese study , the sensitivity of RT-PCR -- that 's the proportion of the infected who test positive -- was around 70% .
+To put this in perspective , 1000 people infected with coronavirus : 700 will test positive but 300 will test negative .
+Is @ @ @ @ @ @ @ @ @ @ people may believe they 're not contagious because they got a clean chit and could infect others .
+False negatives could undo the hard work of containment .
+Imagine only 80% of a burning forest is doused because it 's mistakenly believed that 20% of the forest is n't burning because we ca n't see it burning .
+It must be extinguished before it relights the whole forest , but to douse it you must know it 's burning -- a Catch-22 .
+That " 20% of the forest " is a false negative -- it 's burning but you think it 's not burning .
+Because coronavirus is n't planning to leave in a hurry and long-term lockdown has grave economic consequences , testing may enable precision quarantining of people , communities , and cities .
+Rather than applying a one-size-fits-all lockdown on the whole nation , testing could tell us who can work and who should stay home .
+Why should Austin , if it has a low prevalence of infection , shut shop just because of New York City 's high prevalence ?  Testing @ @ @ @ @ @ @ @ @ @ it 's the asymptomatic people who drive the epidemic .
+To emphasize -- asymptomatics are yet to have symptoms such as cough and fever .
+They 're feeling well and do n't know they 've been colonized by the virus .
+Theoretically , if we test en masse we can find asymptomatics .
+If only those who test positive are quarantined , the rest can have some breathing space .
+Will this approach work ?  RT-PCR 's sensitivity , which is low in early illness , is even lower in asymptomatics , likely because of lower viral load , which means even more false negatives .
+The virus 's average incubation time of five days is enough time for false negative asymptomatics -- remember they resemble the uninfected -- to visit Disney World and infect another four .
+Whether false negatives behave like tinder or a controllable fire will determine the testing strategy 's success .
+The net contagiousness of false negatives depends how many there are , which depends on how many are infected .
+To know how many are infected we need to test .
+Or @ @ @ @ @ @ @ @ @ @ any person we must test widely -- another Catch-22 .
+Maybe we need a bigger test .
+Chest CT is an alternative .
+It 's rapid -- takes less than an hour whereas RT-PCR can take over a day to report .
+In one study CT had a sensitivity of 97% in symptomatic patients and was often positive before RT-PCR .
+But there are caveats .
+The real sensitivity of CT is likely much lower than 97% because the study has biases which inflate performance .
+CT , like RT-PCR , has a low sensitivity in early illness and even lower sensitivity in asymptomatic carriers for the same reason -- lower viral load .
+Furthermore , CT has to be disinfected to prevent spread , which limits its access for other patients .
+Coronavirus 's signature on CT -- white patches in lungs , known as ground glass opacities -- does n't have the uniqueness of the Mark of Zorro , and looks like lung injury from other rogue actors , which means we can mistake other serious conditions for coronavirus .
+Imagine hyenas in wolf @ @ @ @ @ @ @ @ @ @ still use imaging despite its imperfections .
+But , let 's ask : what would you do differently if the test is negative and you have mild symptoms of cough and fever ? Should you not self-isolate ? What if you 're falsely negative and still contagious ? If the advice dispensed whether the test is positive or negative is the same -- i .
+quarantine for 2 weeks -- what 's the test 's value ?  Perhaps people will more likely comply with voluntary quarantine if they know they 're infected .
+Information can nudge behavior .
+But the logical corollary is that to comply with social distancing you need to be tested .
+People flocking to CT scans to affirm they 're not infected could infect those hitherto uninfected .
+A pandemic is no time to test nudge theories .
+Does that mean testing has no value ? Testing is valuable in managing populations .
+To individuals , the results must be framed wisely , such as by advising those who test positive to quarantine because " you 're infected " and those who test negative to @ @ @ @ @ @ @ @ @ @ .
+"  Even when policy goals are uniform , messaging can be oppositional .
+" Get yourself tested now " contradicts " you must hunker down now .
+" When messages contradict , one must choose which message to amplify .
+The calculus of testing can change with new tests such as antibodies .
+The value of testing depends also on what isolation entails .
+A couple of weeks watching Netflix on your couch is n't a big ask .
+If quarantine means being detained in an isolation center fenced by barbed wires , the cost of frivolous quarantining is higher and testing becomes more valuable .
+I knew the doctor with the negative RT-PCR well .
+He 's heroically nonchalant about his wellbeing , an endearing quality that 's a liability in a contagion .
+In no time he 'd be back in the hospital ; or helping his elderly parents with grocery .
+Not all false negatives are equal .
+False negative doctors could infect not just their patients but their colleagues , leaving fewer firefighters to fight fires .
+It is better to @ @ @ @ @ @ @ @ @ @ man flu .
+All he has to do is hunker down , which is what we should all be doing as much as we can .
+Saurabh Jha is a contributing editor to The Health Care Blog , where this article first appeared .
+He can be reached @RogueRad .
+Comments  **36;1702;TOOLONG  Commenting is limited to medical professionals .
+To comment please Log-in .
+Comments on Medscape are moderated and should be professional in tone and on topic .
+You must declare any conflicts of interest related to your comments and responses .
+Please see our Commenting Guide for further information .
+We reserve the right to remove posts at our sole discretion .
+Comments on Medscape are moderated and should be professional in tone and on topic .
+You must declare any conflicts of interest related to your comments and responses .
+Please see our Commenting Guide for further information .
+We reserve the right to remove posts at our sole discretion .

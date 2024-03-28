@@ -1,0 +1,10 @@
+Telegram update adds chat folders , archiving , and coronavirus emoji  Popular messaging service Telegram has been updated with new features that 'll be particularly useful for users and groups that have experienced an uptick in messaging frequency .
+As of Monday , March 30 , Telegram now supports Chat Folders , which is exactly what it sounds like -- a new feature that enables users to better separate the different types of chats that take place in the app .
+Users are able to automatically add certain types of chats to folders , such as unread chats , but there 's also the option of manually sorting them .
+According to Telegram , the folders option becomes available to users when their chat list grows long enough that it can start becoming cluttered , though there 's also an option for enabling the folders feature manually .
+Beyond that , users also have the option of swiping a chat from right to left in order to automatically send it off to an Archived Chats folder .
+Telegram explains that an archived chat that receives a new notification will automatically be moved from the archive @ @ @ @ @ @ @ @ @ @ the user wants to avoid this , they can mute the chat to keep it permanently in the archive list .
+In addition to the new folders feature , Telegram 's big update also brings unlimited pins for pinning as many chats as you want .
+This makes it easier to get straight to the conversations you most often participate in .
+The features continue from there .
+The update brings access to channel stats for channels that have more than 1,000 subscribers , voice recording animations for Android users , the addition of more animated emoji ( ones related to being sick with coronavirus ) , and desktop support for syncing Chat Folders to a new folder sidebar .

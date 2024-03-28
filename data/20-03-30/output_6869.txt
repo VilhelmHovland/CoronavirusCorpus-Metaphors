@@ -1,0 +1,17 @@
+The South African government has decreed that every web site using a .
+za domain name must now carry a link to an official government coronavirus advice site .
+The regulation ( pdf ) , which largely focuses on other types of teleconmmunications services , came into effect last Thursday .
+It states :  Internet sites operating within .
+zaDNA top level domain name must have a landing page with a visible link to www .
+sacoronavirus .
+The rule applies to every site , not just those purveying health news .
+ZADNA 's front page currently features this clickable graphic , slightly below the fold .
+ZADNA is the registry for .
+za , but also the city gTLDs .
+joburg and .
+capetown .
+The wording of the regulation suggests that these two gTLDs are also covered by the rule , but official government communications make no mention of either .
+The rules also require fake coronavirus news to be blocked , but that 's on the ISPs to implement .
+You may notice that the government 's domain is SAcoronavirus .
+This appears to be because coronavirus .
+currently belongs to a @ @ @ @ @ @ @ @ @ @ the government site , and also an offer to sell the domain .

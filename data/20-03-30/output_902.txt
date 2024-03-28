@@ -1,0 +1,57 @@
+Marc Lipsitch is a professor of epidemiology and the director of the Center for Communicable Disease Dynamics at the Harvard T .
+Chan School of Public Health .
+March 23 , 2020 at 7:54 AM EDT  As an infectious disease epidemiologist who has worked on pandemics for two decades , I 've talked in recent days to journalists and health officials in the United States and from halfway around the world about how to stop the novel coronavirus that causes the disease covid-19 .
+They all have the same questions : How many tests do we need ? How should we use tests ? For each case we know about , how many more cases are out there ? What 's the best way to find undiagnosed cases ? Should we do " active case finding , " which involves testing everyone who is mildly ill , then isolating known cases and quarantining and isolating their contacts ? Instead -- or in addition -- should we implement intense social distancing , close schools and take other similar measures ?  Everyone asks the same important , interrelated questions .
+In one respect , the answer is the @ @ @ @ @ @ @ @ @ @ our testing capacity .
+No country has controlled transmission effectively without massive testing capacity .
+The United States currently has a sliver of the capacity we need , which is a tiny fraction of that available in other countries .
+South Korea has performed over 320,000 tests -- almost one for every 150 people .
+That is 30 times the testing per capita that we have done in the United States .
+Exceptional teams are racing to solve testing bottlenecks at local and state levels -- Massachusetts is just one example -- filling the vacuum left by the complete absence of federal leadership .
+Regulatory and technical hurdles accounted for early delays .
+Now that we 're past those , several shortages are getting in the way .
+We do n't have enough protective equipment for testers , nor swabs for sampling or reagents to extract genetic material from the virus .
+We do n't have enough physical test kits , or enough human power to run large-scale testing .
+The result is that we have no idea how many people are infected with the coronavirus or how fast @ @ @ @ @ @ @ @ @ @ other questions about strategy , the best answer depends on local conditions .
+Different parts of the world , and maybe even different parts of the country , are in very different situations .
+The best strategy depends critically on which stage of the outbreak you are in and how much testing is available .
+This is a subject infectious disease epidemiologists have been thinking aboutfor years .
+My colleagues and I have been adapting their earlier peer-reviewed work to thepresent pandemic .
+One size does not fit all .
+A few places -- many of them islands , like Singapore and Taiwan -- have so far kept the epidemic relatively under control .
+They found and tested most of the initial imported cases ; they deployed a skilled public health workforce to isolate people with the virus and trace and quarantine their contacts ; and they 've managed to maintain a " containment " strategyto good effect .
+The same can be said of Hong Kong and New Zealand .
+Iceland has combined containment with massive testing of its population .
+So far , this strategy has worked @ @ @ @ @ @ @ @ @ @ to keep to it unless evidence that it is failing starts to emerge .
+Containment can work when there are few enough cases that the public health system is able to deal with them and their contacts , so that the workload is manageable , and when a large fraction of cases are tested and identified , so that preventing them from infecting anyone else dramatically reduces the total amount of transmission .
+For jurisdictions like these , case-based interventions ( isolation , contact tracing and quarantine ) can be the centerpiece of the control strategy -- because they are highly effective .
+It may be necessary to supplement these with broad social distancing measures , of the sort we have been emphasizing recently in the United States , to snuff out any unobserved chains of transmission that might get past public health authorities .
+Places like Singapore can afford to keep schools open -- and more generally to impose less stringent social distancing measures -- precisely because the case-based interventions are working .
+But the situation in the United States right now is very different .
+@ @ @ @ @ @ @ @ @ @ that most cases here are not being confirmed , even now .
+We do n't know even approximately how many people are infected , but it 's certainly more than the current count of more than 35,000 confirmed cases .
+Even though many places are reporting relatively small numbers of confirmed cases , this is not comforting .
+In many parts of the country , we are seeing rising numbers of flu-like illnesses that when tested , are not flu , and may well actually be covid-19 if only we could test them .
+AD  AD  Observations like this convince epidemiologists that the large majority of cases are undetected .
+Given the various shortages , testing capacity in the short term is limited .
+But at this point , it 's not going to be possible to find and test all the cases that actually exist , even if we massively ramped up testing .
+Despite welcome improvements in testing throughout the country , finding and testing all the contacts of confirmed cases when the numbers are increasing this quickly would n't be feasible at the best @ @ @ @ @ @ @ @ @ @ clear , any person known to have covid-19 should , of course , be isolated to avoid onward transmission .
+But this strategy alone -- and the tracing and quarantine of contacts that is central to Singapore 's or Taiwan 's strategy -- is inadequate to the problem we are facing in the United States .
+It 's just a matter of numbers .
+If we only know about 1 in 10 cases , then even perfectly effective interventions on known cases can block only 10 percent of transmission .
+More likely in the United States , we know about an even lower proportion .
+For this reason , states and localities throughout the country are starting to apply social distancing , a set of policies that can be effective without knowing who is infected or infectious .
+Implementation around the country has been widely variable , with shelter-in-place orders in multiple sites and minimal interventions to date in others .
+Intense social distancing must be the centerpiece of our strategy for now .
+There are reasonable concerns about how long this can continue , but these are no @ @ @ @ @ @ @ @ @ @ bad situation becoming worse .
+For motivation to stay home , look at Italy , which reported 793 deaths on Saturday alone , and another 651 on Sunday , for a total of 5,476 , and nearly 60,000 confirmed cases .
+Scant weeks ago , the country had identified only a handful of cases .
+New York and Washington states are scaling up testing and know they are not far behind ; more worrisome still is a state like West Virginia that has done fewer than 400 tests and already found 12 cases .
+Such places have truly no way of knowing what they are facing .
+So how should we use testing ? Unlike in Singapore , at this stage in the United States , there is little benefit in testing most asymptomatic or mildly ill individuals .
+The test results would not affect their treatment , because we still do n't have any treatment for covid-19 .
+Isolating these people will not do much to control the epidemic .
+But individuals who have been exposed to a known case , and individuals with a mild respiratory @ @ @ @ @ @ @ @ @ @ even more than the rest of us are doing .
+China and South Korea demonstrate that intensive testing and contact tracing , combined with intense ( in China 's case ) or moderate ( South Korea ) levels of social distancing can control the epidemic , even if it 's only temporarily .
+Among a number of other overdue actions , the White House should coordinate a national effort to achieve a testing capacity like that available in those countries and to get case numbers down to levels where we can plausibly track them individually .
+Until we get there , public health officials have the unenviable task of explaining why the tests we do have must be reserved for the purposes that contribute most to controlling the epidemic and treating the sickest patients .

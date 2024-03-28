@@ -1,0 +1,59 @@
+Black swan events , such as economic recessions and pandemics , change the trajectory of governments , economies and businesses -- altering the course of history .
+The Black Death in the 1300s broke the long-ingrained feudal system in Europe and replaced it with the more modern employment contract .
+A mere three centuries later , a deep economic recession -- thanks to the 100-year war between England and France -- kick-started a major innovation drive that radically improved agricultural productivity .
+Fast forward to more recent times , the SARS pandemic of 2002-2004 catalyzed the meteoric growth of a then-small ecommerce company called Ali Baba and helped establish it at the forefront of retail in Asia .
+This growth was fueled by underlying anxiety around traveling and human contact , similar to what we see today with Covid-19 .
+The financial crises of 2008 also produced its own disruptive side effects .
+Airbnb and Uber shot up in popularity across the west as the subprime crises meant lower savings and income for the masses , forcing people to share assets in the form of spare rooms and car rides in order to cover for the deficit @ @ @ @ @ @ @ @ @ @ rapidly changed as well , with 2011 seeing the rise of the free-to-play business model , thanks to Nexon in Asia and King in the west .
+With Covid-19 , we are already seeing early signs of a shift in how consumers and businesses behave .
+Remote working is being encouraged by tech and non-tech companies alike , airline profitability is getting impacted by low seat occupancy , supply chains are getting disrupted globally and retail stores are running out of ibuprofen , dry goods and toilet paper en masse .
+Some of these changes are direct , short-term responses to the crises and will revert to regular levels once Covid-19 is contained .
+However , some of these shifts will continue on , creating a long-term digital disruption that will shape businesses for decades to come .
+The three dimensions of impact  Pandemics have a direct impact on biological , psychological and economic dimensions .
+Its intensity varies depending on the mortality and morbidity rate of the pathogen at hand , as well as the time it takes for it to spread .
+For Covid-19 @ @ @ @ @ @ @ @ @ @ has been the hardest-hitting for the elderly .
+The psychological impact can be observed in stock markets across the world -- investors are underconfident about the future as the information on the spread of Covid-19 and its impact on global productivity is at best incomplete and at worse , incorrect .
+The global population is also facing psychological impact , with low morale and increased isolation as human contact and freedom to travel are getting heavily curtailed .
+Last , but definitely not the least , the economic impact has been significant .
+In the short term , the supply of various essential products has been disrupted and the demand for various products and services have dropped off .
+If this continues , Covid-19 could very well affect global GDP negatively .
+Longer-term innovation and changes in trends will come about as consumers and businesses try earnestly to normalize the impact on psychological and economic dimensions -- provided containment is reached and the biological impact is resolved .
+Studying over 50 startups that gained scaled around the times of global crises via the lens of this framework clears the @ @ @ @ @ @ @ @ @ @ about an acceleration in business model change , driving down costs to serve and prices .
+On the other hand , pandemics tend to enable entirely new categories of businesses .
+It also becomes quite clear that both pandemics and recessions are accelerants to innovation versus being direct causes of it i .
+these startups and business ideas were around but gained popularity at a faster rate thanks to a certain black swan event .
+With these learnings and frameworks in mind , below are three macro innovations we can expect to stick around post-Covid-19 .
+Supply chains will merge into resilient ecosystems  Global supply chains have long been geared towards keeping quality relatively constant while driving lower costs at every step .
+This has resulted in significant concentration risk in terms of geographies and vendors for most companies .
+For example , China scaling down due to Covid-19 and creating a knock-on supply impacts we are seeing today has exposed the lack of resilience in this approach .
+There is a sharp need for a more distributed , coordinated and trackable supply of components across multiple geographies and @ @ @ @ @ @ @ @ @ @ global platforms to be erected that use sophisticated technologies such as 5G , robotics , IoT and blockchain to help link multiple buyers with multiple vendors reliably across a ' mesh ' of supply chains .
+This will also have a knock-on impact on the adoption of self-driving cars and delivery drones as the demand for ecommerce logistics will far outstrip the number of drivers needed to fulfill them .
+The usual B2B platform suspects such as Amazon and Ali Baba are likely to step up and compete for the ownership of this more sophisticated supply chain ecosystem in the next decade .
+Digital bureaucracies will become mainstream  The Covid-19 breakout has caused government bureaucracies to spin into action quicker than ever before .
+China broke records by constructing a 645,000 sq .
+ft hospital in just 10 days in Wuhan .
+South Korea drove rapid testing of over 200,000 of its citizens and used smartphones to tag the movement of the infected -- alerting the non-infected of those movements via real-time updates .
+All of these efforts , as well as transparency of biological impact , could @ @ @ @ @ @ @ @ @ @ the world .
+According to the latest study by the University of Glasgow , only 27 out of 5,500 large-sized cities are considered leading in this area .
+As governments learn from the Covid-19 experience , it will shift investment in favor of smart cities as it would be critical to have them in order better manage the next black swan event .
+Key players benefiting from this shift in gears would be smart governments , focused companies such as Cisco , Microsoft and Siemens as well as digital city startups across Europe and the US .
+Mental health support will be provided at scale , digitally  It is straight forward to predict that the Covid-19 is going to be an accelerant for remote working as well as online education .
+What is harder to figure out is what will happen once a majority of the knowledge workforce needs to work together remotely , indefinitely .
+It is likely that this shift will impact morale , productivity and mental health of workers throughout the globe and businesses need to prepare for it .
+For companies looking to add @ @ @ @ @ @ @ @ @ @ are limited today -- with Humu , a startup by ex-google HR chief Laszlo Bock , being in pole position to capitalize on this .
+A handful of other tech companies , such as Github and Automattic , which run predominately on a remote collaboration model can also choose to productize their insights and capabilities in order to help other companies cope .
+For individuals working remotely , things are looking much better .
+Several mental health startups such as Braive and Moment Pebble can double down on solving the problem of isolation while business networking apps such as Ripple can help solve the mentoring and development challenges that come with being a remote worker .
+A post-coronavirus world  Covid-19 is a terrible shock to the global economy as well as the thousands of individuals and families it has affected .
+Companies in the immediate term need to ensure that the health and safety of its workers , partners and suppliers come first .
+Over the longer term , Covid-19 has irrevocably changed the way businesses will compete over the next decade .
+Firms that choose to capitalize @ @ @ @ @ @ @ @ @ @ do n't will get disrupted .
+More from Entrepreneur  Get heaping discounts to books you love delivered straight to your inbox .
+We 'll feature a different book each week and share exclusive deals you wo n't find anywhere else .
+Starting , buying , or growing your small business should n't be hard .
+Guidant Financial works to make financing easy for current and aspiring small business owners by providing custom funding solutions , financing education , and more .
+Entrepreneur Media , Inc .
+values your privacy .
+In order to understand how people use our site generally , and to create more valuable experiences for you , we may collect data about your use of this site ( both directly and through our partners ) .
+By continuing to use this site , you are agreeing to the use of that data .
+For more information on our data policies , please visit our Privacy Policy .

@@ -1,0 +1,36 @@
+As banks , asset managers and hedge-fund firms adjust to the new normal of employees working from home , they are grappling with technological challenges such as dropped calls and shaky internet connections .
+But that does n't give them a pass for complying with one of the key financial regulations governing their conduct : recording all trading-related calls .
+Regulators such as the U .
+'s Financial Conduct Authority , the European Securities and Markets Authority and the U .
+Commodity Futures Trading Commission require firms to record telephone conversations when conducting trades .
+Recordings are used as evidence to resolve disputes over trade terms and to deter potential market abuse .
+Trades are increasingly being conducted electronically , but traders still need the phone to trade large blocks of stock or to buy and sell securities in the bond and other markets that do n't offer transparent pricing .
+Having employees scattered outside the workplace due to the coronavirus restrictions has threatened the ability of banks and other firms to record their trading-related calls .
+Many traders ' office phones are installed with software that redirects incoming calls to traders ' mobile phones @ @ @ @ @ @ @ @ @ @ service , allows banks and other financial-services institutions to add a recording-compliant business number to a trader 's mobile phone to ensure electronic records are kept outside the office .
+Stuck at home with a poor Wi-Fi signal ? WSJ 's Joanna Stern offers some fixes and advice on the best router to buy in her new work-from-home ( aka WFH ) tech-tip video series .
+Abhinav Anand , the company 's chief product officer , noted a " huge surge " in financial-service clients providing flexible working arrangements for employees .
+He said the firm had notched a 40% increase in new users since mid-March .
+With the spike in volume due to the sheer number of people working from home , more calls are being dropped or malfunctioning , one portfolio manager at a London-based asset manager said .
+Both the FCA and ESMA acknowledge the difficulties .
+The FCA recently said firms should continue to record calls , but that in scenarios where it is n't impossible they should take other steps to " mitigate outstanding risks .
+" ESMA said traders can @ @ @ @ @ @ @ @ @ @  The situation is without precedent in Europe , industry participants say .
+The task of manually recording calls is onerous , raising the greater prospect of errors .
+A directive sent earlier this month at one large U .
+bank outlined the list of requirements traders must meet : the date and time of a call ; the location of where a call was held ; names of clients and their firms who participated on the call ; and any quotes , solicited bids , offers , and trade instructions including the prices at which trades were struck .
+Regulators are concerned that if calls ca n't be taped in the ordinary way there might be increased risk of market abuses , said Richard Sims , a London-based partner in financial markets litigation at law firm Simmons &amp; Simmons LLP .
+Sims has been fielding queries from clients on the topic lately , he said .
+" If you 're at your desk and you know you 're being taped , that 's going to act as a disincentive " for insider dealing , market manipulation @ @ @ @ @ @ @ @ @ @ The other key concern is having records in case of client disputes .
+The prospect of litigation risk increases if notes are piecemeal .
+Typically , if there 's a misunderstanding with clients over the number of shares bought or sold , a broker would just consult the tapes to see what the specific order was .
+A handwritten note is " by definition not as good as a recording , " Mr .
+Sims said .
+" You may write things down that do n't really reflect what was said .
+"  Some alternate forms of technology , such as mobile trading apps , are obviating the need for some phone calls .
+Citigroup Inc .
+, for example , said it notched a 310% increase in the number of transactions through its mobile apps during the five-day rolling average on March 19 compared with Jan .
+13 through Jan .
+That was driven predominantly by hedge-fund clients , said Alaa Saeed , the bank 's global head of FX electronic platforms and distribution .
+WSJ opens select articles to reader conversation to promote thoughtful dialogue .
+See @ @ @ @ @ @ @ @ @ @ for stories open to conversation .
+For more information , please reference our community guidelines .
+Email feedback and questions to moderator@wsj .

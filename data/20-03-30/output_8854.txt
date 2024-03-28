@@ -1,0 +1,10 @@
+This site is operated by a business or businesses owned by Informa PLC and all copyright resides with them .
+Informa PLC 's registered office is 5 Howick Place , London SW1P 1WG .
+Registered in England and Wales .
+Number 8860726 .
+Greywing developing risk assessment tool for crew changes  Online maritime security platform Greywing is utilising its technology to try and provide a tool for managers and port authorities to facilitate crew changes given widespread restrictions resulting from the COVID-19 pandemic .
+The Singapore-based maritime technology start-up which provides online maritime security booking and risk assessments has in the space of a few days integrated COVID-19 related information into its platform .
+" We now include constantly updated CDC Threat levels , Air Travel and Port State Authority restrictions in the platform to help ship managers quickly assess where they can both disembark their personnel and fly them home , " said Nick Clarke ceo of Greywing .
+With an estimated 100,000 crew changes a month by the end of May there could be some 400,000 seafarers in need of crew changes which have been made extremely difficult , if not @ @ @ @ @ @ @ @ @ @ stop the spread of COVID-19 .
+With difficulties in assessing which vessels are high or low risk in terms of infection the answer has simply been to bar all crew changes .
+" Our next job is to build a risk assessment tool to categorise which ships are at low risk of having COVID-19 on board to help their managers and Port State Authorities facilitate crew changes , " Clarke said .

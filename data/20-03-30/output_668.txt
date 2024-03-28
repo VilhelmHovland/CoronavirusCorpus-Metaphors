@@ -1,0 +1,70 @@
+The mouthpiece of a CPAP ( continuous positive airway pressure ) device delivers enough pressurized air to keep the breathing passage of someone who has obstructive sleep apnea open throughout the night .
+( Dr P .
+Marazzi/Science Source )  The limited supply of ventilators is one of the chief concerns facing hospitals as they prepare for more COVID-19 cases .
+In Italy , where hospitals have been overwhelmed with patients in respiratory failure , doctors have had to make difficult life-or-death decisions about who gets a ventilator and who does not .
+In the U .
+, emergency plans developed by states for a shortage of ventilators include using positive airway pressure machines -- like those used to treat sleep apnea -- to help hospitalized people with less severe breathing issues .
+While that measure could stretch the supply of ventilators and save lives , it has a major drawback .
+Officials and scientists have known for years that when used with a face mask , such alternative devices can possibly increase the spread of infectious disease by aerosolizing the virus , whether used in the hospital or at home .
+Indeed , that very @ @ @ @ @ @ @ @ @ @ a Washington state nursing home that became ground zero in the United States .
+First responders called to the Life Care Center of Kirkland starting Feb .
+24 initially used positive airway pressure machines , often known as CPAPs , to treat residents before it was known the patients were infected with COVID-19 .
+" It 's best practice for us for people with respiratory illnesses , " said Jim Whitney , medical services administrator for the Redmond Fire Department , whose crews responded to the nursing home 's 911 calls .
+" We had no idea that we potentially had COVID patients there .
+"  It was only later that King County public health officials advised Redmond Fire and other first responders in the region not to use those machines for patients suspected of having COVID-19 infections .
+Whitney saidresponders were using the machines with specialized filters , which can reduce the amount of virus released .
+But county public health authorities recommend that first responders avoid using CPAP machines altogether .
+Redmond Fire has now discontinued use of CPAPs for COVID patients .
+" It 's @ @ @ @ @ @ @ @ @ @ and for the community that we put it on the back shelf , unless we can confirm it was the best use for our patient , " Whitney said .
+The misstep represents a classic example of how the health care system is playing catch-up in its effort to deal with the rapidly escalating pandemic , and how critical information about combating the novel coronavirus can be slow to reach those on the front lines .
+The American Society of Anesthesiologists issued guidance on Feb .
+23 discouraging CPAP use in COVID-19 patients -- advice largely informed by experience with the SARS epidemic in 2003 .
+Studies dating to 2003 suggest that such devices can pump viruses into the air , potentially increasing the spread of a contagious disease .
+During the SARS outbreak in Toronto , half of all SARS cases , including three deaths , occurred among health care workers .
+Some of the greatest risk arose when doctors and nurses were exposed to aerosolized virus through the use of positive airway pressure machines or other respiratory therapy devices .
+The experiences from the Life @ @ @ @ @ @ @ @ @ @ when faced with ventilator shortages , and their advice to first responders about using CPAP machines in the field .
+" In general , we 're just telling them not to use it , " said Dr .
+Comilla Sasson , an associate clinical professor of emergency medicine at the University of Colorado School of Medicine .
+" Because we are concerned about community spread , and we have to assume that anybody with respiratory distress is a COVID patient .
+"  And doctors even suggest that those who use the devices at home should take precautions to prevent infecting others .
+How CPAPs spread the coronavirus  Ventilators are machines that push air in and out of the lungs through tubes inserted down patients ' airways when they have trouble breathing on their own .
+The machines allow health care providers to fine-tune the volume of air supplied , the rate of breathing , the amount of oxygen and the pressure as needed .
+Both hospital and home versions of positive airway pressure machines are much simpler devices that use high pressure to push air into @ @ @ @ @ @ @ @ @ @ positive airway pressure machines , known as CPAPs , provide a continuous flow of air at a constant pressure .
+More advanced bilevel versions , called BiPAPs , which can be used at home or in health care facilities , push the air in , but then lower the pressure to allow the air to be exhaled .
+" You can actually function certain BiPAP machines to run like ventilators , " said Dr .
+James Finigan , a pulmonology and critical care specialist at National Jewish Health in Denver .
+The key issue , Finigan said , is how the device connects to the patient .
+Ventilators require a breathing tube and operate as closed systems with a filter that traps any pathogens .
+Face masks generally used on CPAPs or BiPAPs allow air to escape , pumping the virus into the surroundings and potentially infecting other patients , caregivers or anyone nearby .
+Positive airway pressure machines are often the first step in the standard algorithm for hospitals or emergency personnel when treating people with certain breathing problems .
+Finigan said in patients with standard respiratory @ @ @ @ @ @ @ @ @ @ by on high-flow nasal oxygen or on BiPAP machines to avoid intubation and sedation .
+" If your hope is that maybe this might be a temporizing measure that might hold them from hours to a couple of days , you 'll try to use the mask , " Finigan said .
+" There are some situations where somebody is breathing OK , but is just having trouble getting enough oxygen .
+Theoretically , a CPAP might be enough to get them enough oxygen .
+But , again , doing it with a mask is more likely to generate an aerosol and create an infectious problem .
+"  Dr .
+Jeff Sippel , a critical care specialist at UCHealth , based in Aurora , Colo .
+, said BiPAPs could be used for COVID-19 in a closed system without a mask , if patients are first fitted with a breathing tube .
+" The hardware actually fits , " he said .
+The jury-rigged devices could then be used for less severe COVID-19 patients , as well as for other patients who might not be first in line @ @ @ @ @ @ @ @ @ @ full mechanical breathing like that provided by a ventilator , and it 's unlikely that BiPAP could fully make up for the undersupply of ventilators in a full-blown outbreak .
+Some doctors have suggested that governors should put out a call for people with spare BiPAP machines in their homes to donate them to hospitals .
+But Sippel said hospitals have other steps they would take first .
+Doctors are investigating whether they can connect multiple patients ' breathing tubes to a single ventilator .
+At UCHealth , for example , the hospitals have close to 700 ventilators , Sippel said , and could potentially use roughly a fifth to ventilate two people at the same time .
+This week , the Food and Drug Administration provided guidance that allows hospitals to modify respiratory devices , including ventilators , CPAPs and BiPAPs , during the public health emergency , as long as they take steps to prevent aerosolization of the virus .
+What about CPAPs for home use ?  Dr .
+Christopher Winter , a sleep medicine specialist in Charlottesville , Va .
+, said people who @ @ @ @ @ @ @ @ @ @ continue to use them as long as they have no symptoms of COVID-19 .
+But they should speak to their physicians if they develop upper respiratory symptoms , to help determine whether they should continue .
+Winter is working on a guide with -- and for -- other clinicians to help them decide when patients infected with COVID-19 should keep using their CPAP machines .
+" When does the balance of shooting it all through your house outweigh the negatives to the individual by not using it ? " Winter asked .
+Anybody who uses a CPAP machine at home , he said , may want to sleep in a separate room from loved ones to avoid infecting them .
+That 's true even if the person with apnea does n't have any COVID-19 symptoms .
+And if patients are advised by their doctors to stop using their machines , Winter says , they should also avoid driving , because they may be sleep-deprived .
+In most parts of the U .
+, the need for extra breathing devices in health care facilities is not yet critical @ @ @ @ @ @ @ @ @ @ who will need respiratory support .
+" This is getting real now , " said Dr .
+Matthew Wynia , an internist and bioethicist who has been working on UCHealth 's COVID-19 plans .
+" We are about to be slammed .
+"  Kaiser Health News is a nonprofit , editorially independent program of the Kaiser Family Foundation .
+KHN is not affiliated with Kaiser Permanente .

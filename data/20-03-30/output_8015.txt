@@ -1,0 +1,54 @@
+On February 9 , 2020 , I made a video talking about how epidemiologists think of infectious disease .
+My goal was to put some intuition behind the numbers we 'd all been hearing .
+At that time , there were 40,150 documented cases of COVID-19 worldwide .
+There were 11 cases in the United States .
+It 's been about 6 weeks , and the world is nearly unrecognizable .
+When I made that video , the problem felt abstract : Here was an educational opportunity , not a threat to our very way of life .
+I tried to place the novel coronavirus amid other infectious diseases , using epidemiologic calculations .
+I went on to talk about how that 2% case fatality rate is probably wrong , since we 're not testing enough people ; as we test people who are less symptomatic , it wo n't look as bleak .
+Also , as we get better at social distancing , that " contagiousness , " the R0 number , would go down , limiting spread .
+I have been watching for these trends over the past month and a half @ @ @ @ @ @ @ @ @ @ data that the Johns Hopkins team uses for their incredible COVID-19 tracker to get these case fatality rates over time .
+That 's .
+not what I wanted to see .
+As testing increased , I was confident we 'd see this number fall more .
+I still hold on to the hope that these numbers will lag testing increases , but I need to admit that I 'm very concerned that it has n't fallen at all .
+South Korea , paragon of testing and reporting in this worldwide crisis , has a case fatality rate as of this reporting of just over 1% .
+The US is at 1 .
+If that number holds steady , we really may see more than a million deaths in this country .
+What about the R0 , originally thought to be around 2 .
+? Or , in other words , the average infected person would spread the virus to 2 .
+other people , leading to exponential growth .
+Social distancing -- limiting contacts -- was our major intervention to reduce the R0 .
+How is that going ?  @ @ @ @ @ @ @ @ @ @ infections in the United States keeps going straight up .
+But again , there is a lag between infection and symptoms , so maybe we 'll start to bend this curve soon .
+We 've also learned that we got some things wrong in those halcyon days of early February .
+Based on data from China , we assumed that the virus was relatively benign in young people without comorbidities .
+This may not be true .
+CDC data from last week shows around a 20% hospitalization rate for people I 'd consider " young " -- in that 20-44 years age group .
+Case fatality rate is still low there at 0 .
+1%-0 .
+, which is encouraging .
+But clearly , this is not just a bad cold for these kids .
+We also thought that fever was a central symptom in COVID-19 and focused ( and continue to focus ) testing on those with demonstrable fever .
+Yet case series and cohort studies are showing that an elevated temperature is not the rule in this disease .
+And while the most severe cases do @ @ @ @ @ @ @ @ @ @ symptoms .
+Data are coming fast and furious , and we need to be able to adapt our conceptions about this disease quickly .
+For example , the use of fever to triage available testing may not be the best choice .
+Respiratory symptoms are not the sine qua non we think they are , at least initially .
+We need to have the flexibility to try new therapies and abandon them when we find that they are ineffective .
+And , of course , we need to protect our healthcare workers .
+Because vents only work when you have someone to run them .
+I 'll check in with you as more data come out and we revise these critical numbers further .
+Perry Wilson , MD , MSCE , is an associate professor of medicine and director of Yale 's Program of Applied Translational Research .
+His science communication work can be found in the Huffington Post , on NPR , and here on Medscape .
+He tweets @methodsmanmd and hosts a repository of his communication work at www .
+methodsman .
+Comments  @ @ @ @ @ @ @ @ @ @ comment please Log-in .
+Comments on Medscape are moderated and should be professional in tone and on topic .
+You must declare any conflicts of interest related to your comments and responses .
+Please see our Commenting Guide for further information .
+We reserve the right to remove posts at our sole discretion .
+Comments on Medscape are moderated and should be professional in tone and on topic .
+You must declare any conflicts of interest related to your comments and responses .
+Please see our Commenting Guide for further information .
+We reserve the right to remove posts at our sole discretion .

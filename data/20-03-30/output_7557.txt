@@ -1,0 +1,11 @@
+Brazilian startup aiming to deliver a 15-minute coronavirus test  A Brazilian health-tech startup that specialises in laboratory exam equipment is working on a faster test for COVID-19  Spotted : Hi Technologies , a Brazilian health-tech startup that specialises in laboratory exam equipment , is working on a faster test for COVID-19 that could return results in only 15 minutes .
+The priority will be the state of S ? o Paulo , given that this is where most of the confirmed COVID-19 cases are in Brazil , and Curitiba , where the company is based .
+According to the company 's co-founder and CEO , Marcus Figueredo , the test was validated this month and the first batch is expected to be ready in the second week of April .
+All 130 employees have been focused on making and delivering the tests .
+After the startup was partially acquired by Positivo Tecnologia in 2016 , they set up Hilab -- a portable , connected laboratory that is capable of instantly detecting infectious diseases through non-invasive blood tests .
+The procedure offered by Hi is done remotely , and only a few drops of @ @ @ @ @ @ @ @ @ @ and mixed to reagents in a portable device .
+The gathered data is then instantly transmitted to their laboratory , where it is processed using Internet of Things ( IoT ) and artificial intelligence technologies , and partnerships with the likes of Microsoft and Intel .
+Results are then delivered in a matter of minutes .
+Takeaway :  As extreme and damaging as the COVID-19 virus has been to society , it is altering how we live and function and leading to a surge of innovations that will hopefully help us respond and adapt both now and in the future .
+For example , health officials are using the exponential growth of connectivity and data to quickly track the spread of disease .
+Not only is this providing vulnerable populations with vital information , but it has also enabled researchers to decide where to send supplies and how to mitigate the outbreak .

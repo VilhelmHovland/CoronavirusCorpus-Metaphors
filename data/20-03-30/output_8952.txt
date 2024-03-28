@@ -1,0 +1,165 @@
+Thank you for visiting nature .
+You are using a browser version with limited support for CSS .
+To obtain the best experience , we recommend you use a more up to date browser ( or turn off compatibility mode in Internet Explorer ) .
+In the meantime , to ensure continued support , we are displaying the site without styles and JavaScript .
+Results  From 1992 to 1997 , 1214 patients were included .
+Median follow-up was 15 .
+years .
+In all , 15-year OS was 71% and 68% in the FEC14 and FEC21 groups , respectively ( HR ? = ? 0 .
+; p ? = ? 0 .
+In all , 15-year EFS was 47% and 43% in the FEC14 and FEC21 groups , respectively ( HR ? = ? 0 .
+; p ? = ? 0 .
+In a pre-planned subgroup analysis , among patients with hormone receptor-negative tumours , 15-year OS was 70% and 65% in the FEC14 and FEC21 groups , respectively ( HR ? = ? 0 .
+; 95% CI : 0 .
+-- 1 .
+) ; 15-year EFS was 58% and 43% in the FEC14 and FEC21 @ @ @ @ @ @ @ @ @ @ 95% CI : 0 .
+-- 0 .
+Conclusions  Updated results from the MIG-1 study are numerically in favour of dose-dense chemotherapy , and suggest a long-term benefit of this approach in high-risk early breast cancer patients .
+Introduction  High-risk early breast cancer patients are candidates to receive adjuvant chemotherapy .
+Anthracycline and taxane-based regimens are superior to other chemotherapy combinations .
+Several trials have tried to establish the best regimen and schedule of their **28;1852;TOOLONG With the introduction of granulocyte colony-stimulating factors , it became possible to reduce the interval between chemotherapy cycles , thus allowing the use of dose-dense ( DD ) regimens .
+Most of the trials that investigated DD chemotherapy compared different regimen in the DD and standard-interval group , leading to a difficult interpretation of their results .
+Nevertheless , five trials9,10,11,12,13 had clean comparison between DD and standard-interval groups in terms of administered dose , number of cycles , type of drug and total dose of chemotherapy .
+In a recently published patient-level meta-analysis , DD chemotherapy was superior to standard-interval regimens14 at a median follow-up of 7 .
+years .
+@ @ @ @ @ @ @ @ @ @ results after a follow-up longer than 5 years , but none of the trials reported results beyond 10 years of median follow-up .
+In the MIG-1 trial , started in 1992 , early breast cancer patients were randomly assigned to receive six cycles of the 5-floruracil , epirubicin and cyclophosphamide ( FEC ) regimen given every 2 ( FEC14 ) or every 3 ( FEC21 ) weeks .
+Considering the significant risk of relapse up to 20 years after diagnosis in breast cancer patients , particularly in those with oestrogen receptor-positive tumours , 15 we decided to update the MIG-1 study in order to report the long-term results , which can be used to better establish the real impact of DD chemotherapy .
+Patients and methods  Study design and treatment regimens  Details of MIG-1 study design were previously reported .
+Briefly , MIG-1 was an Italian , open-label , multicentre Phase 3 randomised trial in high-risk early breast cancer patients .
+High-risk status was defined as lymph node-positive disease ( no more than ten involved axillary lymph nodes ) or lymph node-negative with one or more of the @ @ @ @ @ @ @ @ @ @ oestrogen and progesterone receptors ( defined as less than 10 ? fmol of receptor per milligram of protein or less than 10% positive cells by immunohistochemical analysis ) , tumour size larger than 2 ? cm , poor histologic grade and high proliferative tumours ( determined by a 3 ? Hthymidine-labelling index or by an S-phase fraction obtained with flow cytometry ) .
+Patients were to have no clinical or radiologic evidence of distant metastases and an adequate bone marrow , hepatic and renal function .
+The study was conducted at 21 Italian centres after Ethics Committee approval ; written informed consent was obtained from all patients before trial enrolment .
+Eligible patients were randomly assigned to receive six cycles of FEC chemotherapy ( 5-fluorouracil at 600 ? mg/m2 , epirubicin at 60 ? mg/m2 and cyclophosphamide at 600 ? mg/m2 intravenously ) administered every 2 weeks with the support of filgrastim ( FEC14 ) or every 3 weeks ( FEC21 ) .
+Patients with oestrogen- and/or progesterone receptor-positive tumours received tamoxifen at 20 ? mg/day for 5 years .
+Postoperative regional radiotherapy limited to the remaining breast @ @ @ @ @ @ @ @ @ @ Endpoints and statistical analysis  The primary study endpoint was overall survival ( OS ) , as estimated from the date of randomisation to the date of last contact or death from any cause .
+Event-free survival ( EFS ) , distant disease-free survival ( DDFS ) and toxicity were secondary endpoints .
+The EFS event was defined as local relapse , distant relapse , second primary cancer or death from any cause , whichever came first .
+DDFS was calculated from the time from randomisation until distant relapse .
+In this analysis , we reported OS , EFS , DDFS and incidence of secondary primary malignancies at a median follow-up of 15 years .
+As previously reported , 9 the study 's primary hypothesis was that a 50% increase in the dose intensity of FEC would be associated with a 20% relative reduction in the hazard of death .
+This reduction corresponds to a 5 -- 6% absolute increase in 5-year survival , which was estimated to be between 65 and 70% in the standard-interval group .
+For a type I error of 5 and 80% power , @ @ @ @ @ @ @ @ @ @ 4-year period .
+The study was closed early due to the sharply declining accrual related to competitive trials , and the planned accrual was not reached .
+All analyses were conducted according to the intention-to-treat principles , in that all patients randomly assigned to a treatment arm were considered as belonging to the arm to which they had been assigned at randomisation .
+OS , EFS and DDFS survival rates were obtained from Kaplan -- Meier analyses , and the primary comparison between the two study groups was performed with the log-rank test .
+Subgroup analysis of OS and EFS was conducted among patients with hormone receptor-negative and hormone receptor-positive disease .
+Moreover , we updated the previously published16 exploratory retrospective analysis on the efficacy of dose-dense chemotherapy according to Human Epidermal Growth Factor Receptor 2 ( HER2 ) status .
+HER2 status was assessed centrally by immunohistochemical ( IIC ) analysis .
+Patients were considered HER2-positive only if IIC analysis was scored as 3+ ? .
+At the time of the study , FISH testing was not widely available .
+To evaluate the role of various prognostic factors and @ @ @ @ @ @ @ @ @ @ treatment in the subgroups of patients identified by the various prognostic factors , a series of Cox proportional hazard models were fitted to overall survival and event-free survival data .
+All tests were two-sided .
+IBM SPSS software was used in all statistical analyses .
+Results  From November 1992 to June 1997 , 1214 patients were randomly assigned to receive FEC14 ( n ? = ? 604 ) or FEC21 ( n ? = ? 610 ) chemotherapy .
+Baseline characteristics at study entry were previously reported .
+Briefly , median age at study entry was 53 years .
+A total of 288 ( 48% ) patients in the FEC14 group and 310 ( 51% ) in the FEC21 group were diagnosed with tumour = ? 2 .
+? cm , while 387 ( 64% ) and 396 ( 65% ) had positive lymph nodes , respectively ( Table 1 ) .
+At a median follow-up of 15 .
+years , 351 deaths were observed : 166 ( 27% ) in the FEC14 group and 185 ( 30% ) in the FEC21 group .
+In all , 15-year OS was @ @ @ @ @ @ @ @ @ @ the FEC14 group and 68% ( 95% CI : 64 -- 72 ) in the FEC21 group ( HR ? = ? 0 .
+; 95% CI : 0 .
+-- 1 .
+; p ? = ? 0 .
+) ( Fig .
+1a ) .
+In total , 494 events were observed : 235 ( 39% ) in the FEC14 group and 259 ( 42% ) in the FEC21 group .
+In all , 15-year EFS was 47% ( 95% CI : 41 -- 52 ) in the FEC14 group and 43% ( 95% CI : 37 -- 48 ) in the FEC21 group ( HR ? = ? 0 .
+; 95% CI : 0 .
+-- 1 .
+; p ? = ? 0 .
+) ( Fig .
+1b ) .
+In all , 15-year DDFS rate was 72% ( 95% CI : 66 -- 77 ) in the FEC14 group and 72% ( 95% CI : 68 -- 77 ) in the FEC21 group ( HR ? = ? 1 .
+; 95% CI : 0 .
+-- 1 .
+; p ? = ? 0 .
+At the multivariable analyses ( Table 2 ) , @ @ @ @ @ @ @ @ @ @ , lymph node status , grading , proliferative activity and oestrogen and progesterone receptor status , no significant difference was observed in OS ( HR ? = ? 0 .
+, 95% CI : 0 .
+-- 1 .
+; p ? = ? 0 .
+) or EFS ( HR ? = ? 0 .
+, 95% CI : 0 .
+-- 1 .
+; p ? = ? 0 .
+) between FEC21 and FEC14 regimen .
+The incidence of second primary cancers was similar in the two groups , being 7 .
+in the FEC14 group and 8 .
+in the FEC21 group .
+Most of these events ( 4 .
+) were ipsilateral or contralateral breast cancers ; other second primary cancers were gastrointestinal ( 1 .
+) , gynaecological ( 1 .
+) , urological ( 0 .
+) , thyroid ( 0 .
+) , skin ( 0 .
+) , lung ( 0 .
+) , head and neck malignancies ( 0 .
+) and myeloma ( 0 .
+No cases of acute leukaemia or myelodysplasia have been reported in patients in either arm .
+Subgroup analysis  In the subgroup analysis , we found no statistical evidence @ @ @ @ @ @ @ @ @ @ with age , tumour size , lymph node status , oestrogen and progesterone receptor status , proliferative rate , tumour grade or menopausal status ( Table 3 ) .
+Table 3 Subgroup analysis of overall survival and event-free survival comparing FEC14 group with FEC21 group within strata formed by each prognostic factor .
+Among the 731 patients with available data on HER2 status , 628 ( 86% ) patients had a negative HER2 status , while 103 ( 14% ) patients had a positive HER2 status .
+Among the patients with HER2-negative breast cancer , 15-year OS was 74% ( 95% CI : 68 -- 79 ) in the FEC14 group and 70% ( 95% CI : 64 -- 75 ) in the FEC21 group ( HR ? = ? 0 .
+, 95% CI : 0 .
+-- 1 .
+, p ? = ? 0 .
+) ; 15-year EFS was 45% ( 95% CI : 37 -- 53 ) in the FEC14 group and 44% ( 95% CI : 35 -- 52 ) in the FEC21 group ( HR ? = ? 0 .
+, 95% CI : 0 .
+-- @ @ @ @ @ @ @ @ @ @ among the patients with HER2-positive breast cancer , 15-year OS was 70% ( 95% CI : 57 -- 83 ) in the FEC14 group and 57% ( 95% CI : 43 -- 72 ) in the FEC21 group ( HR ? = ? 0 .
+, 95% CI : 0 .
+-- 1 .
+, p ? = ? 0 .
+) ; 15-year EFS was 57% ( 95% CI : 39 -- 74 ) in the FEC14 group and 23% ( 95% CI : 7 -- 39 ) in the FEC21 group ( HR ? = ? 0 .
+, 95% CI : 0 .
+-- 0 .
+; p ? = ? 0 .
+Discussion  We report long-term efficacy and safety outcomes of the MIG-1 trial that compared DD versus standard-interval FEC chemotherapy in high-risk early breast cancer patients .
+MIG-1 was a study of pure accelerated chemotherapy in that patients were randomised to FEC chemotherapy given at either 14- or 21-day intervals , with the same dose of drugs in both treatment arms .
+With a median follow-up of 15 .
+years , this is the study with the longest-term data @ @ @ @ @ @ @ @ @ @ death in the overall population ( HR 0 .
+) is very close to the results observed in the individual patient-level meta-analysis , where , at a median follow-up of 7 .
+years , a HR of 0 .
+was reported .
+Likewise , the reduction in the risk of recurrence in our updated analysis ( HR 0 .
+) is very similar with that reported in the meta-analysis ( HR 0 .
+The results of the analysis in most subgroups were numerically in favour of chemotherapy acceleration .
+The trend towards a greater benefit of DD chemotherapy in hormone receptor-negative patients ( HR for EFS 0 .
+, 95% CI : 0 .
+-- 0 .
+) and in HER2-positive patients ( HR for EFS 0 .
+, 95% CI : 0 .
+-- 0 .
+) is hypothesis-generating .
+It can be hypothesised that DD chemotherapy works well in the subset of patients generally defined as sensitive to chemotherapy , such as hormone receptor-negative17 and HER2-positive patients .
+In this latter subgroup , a recent exploratory analysis suggests that the benefit of DD chemotherapy is lost when patients are treated with trastuzumab .
+Beside the long-term result of the @ @ @ @ @ @ @ @ @ @ early breast cancer patients treated with anthracycline only-based chemotherapy .
+We observed an absolute 47% and 71% 15-year EFS and OS , respectively , for patients receiving DD chemotherapy .
+Notably , in patients with hormone receptor-positive tumours that received DD chemotherapy and endocrine therapy with tamoxifen for 5 years , 15-year EFS and OS were 42% and 72% , respectively .
+This poor long-term prognosis may suggest that anthracycline-only-based chemotherapy is an undertreatment in high-risk breast cancer patients , including those with hormone receptor-positive tumours .
+In our trial , some limitations should be acknowledged .
+The study closed early and the planned accrual was not reached , so the statistical power is reduced .
+Due to the low accrual and the low mortality rate in the study population compared with the mortality expected by the original study plan , our study was underpowered to detect the planned risk reduction in the initial publication .
+With 351 deaths and 494 recorded events , our study had an 80% power to detect a reduction in the hazard of death of 27% and a reduction in the hazard of event of @ @ @ @ @ @ @ @ @ @ reduction in the hazard of death .
+Moreover , an anthracycline-only chemotherapy regimen was used as adjuvant chemotherapy .
+This is no longer considered a standard of care in this setting , but it is still adopted by some centres for low-risk luminal-like breast cancer patients .
+Epirubicin was administered at a lower dose ( 60 ? mg/m2 ) than currently adopted ; tamoxifen was the only adjuvant hormonal therapy administered to patients with hormone receptor-positive tumours .
+As well , trastuzumab and aromatase inhibitors were not available at the time of the trial .
+Postoperative adjuvant radiotherapy was administered only to patients undergoing breast-conserving surgery , whereas nowadays , post-mastectomy radiotherapy is administered to high-risk patients .
+No cardiac monitoring was planned during treatment or follow-up among patients enrolled in the study ; thus , no data on cardiac safety are available .
+In conclusion , our long-term results are similar to those reported in the individual-patient meta-analysis , and support that the benefit of DD chemotherapy is real and sustained to at least 15 years .
+Corresponding author  Ethics declarations  Ethics approval and consent to @ @ @ @ @ @ @ @ @ @ of the coordinator centre ( Ospedale San Martino IST ) and subsequently by Ethics Committee of every participant centre .
+Written informed consent was obtained from all patients before trial enrolment .
+The study was performed in accordance with the Declaration of Helsinki .
+Consent to publish  Not applicable .
+Data availability  Data and results are available at IRCCS Ospedale Policlinico San Martino , Genova , Italy .
+Competing interests  M .
+served as a consultant for Teva and received honoraria from Theramex outside the submitted work .
+served as a consultant for EISAI , Novartis , Astra Zeneca , Teva , Pfizer and Celgene and received travel accommodation expenses from Eisai , Celgene and Novartis outside the submitted work .
+received honoraria from Merck , MSD and Bristol Myers Squibb outside the submitted work .
+received honoraria from Roche , Pfizer , Ipsen , Eli Lilly , Eisai , Novartis , Takeda and Amgen , served as a consultant for Eli Lilly , Roche and MSD and received travel grant from Roche , Pfizer and Celgene outside the submitted work .
+@ @ @ @ @ @ @ @ @ @ information  This work was supported by Grants of the Associazione Italiana per la Ricerca sul Cancro ( AIRC ) no grant number .
+This research was supported by the Italian Ministry of Health 5 ? ? ? 1000 funds 2014 and 2015 to Lucia Del Mastro no grant number .
+Additional information  Note This work is published under the standard license to publish agreement .
+After 12 months the work will become freely available and the license terms will switch to a Creative Commons Attribution 4 .
+International ( CC BY 4 .

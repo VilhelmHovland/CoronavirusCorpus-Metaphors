@@ -1,0 +1,23 @@
+QUICK LINKS  Latest News  March 30 , 2020  Windstream 's Network Performs Well as Usage Climbs  Windstream ( News - Alert ) , a leading provider of advanced network communications and technology solutions , announced today that its network continues to perform well even as usage has increased significantly as a result of the Coronavirus ( COVID-19 ) outbreak .
+The company has seen an approximately 50 percent increase in voice traffic and an approximately 30 percent increase in data traffic since mid-March .
+These increases are well within the company 's defined network operational tolerances .
+" Our network is well equipped to handle the higher usage given our past modernization efforts that migrated Windstream to scalable , robust equipment and IP/Ethernet services , " said Tony Thomas , president and CEO of Windstream .
+" We fully understand how critical our role as a communications provider is during the coronavirus health crisis , and I 'm proud of all that our team members , especially our front-line technicians , are doing to keep our customers connected .
+"  Windstream uses a highly resilient network architecture to provide reliable services @ @ @ @ @ @ @ @ @ @ including a nationwide IP network , proprietary cloud core architecture and a local and long-haul fiber network spanning approximately 150,000 route miles .
+As many companies across the U .
+have shifted to remote workforces , Windstream Enterprise 's ( News - Alert ) OfficeSuite UC ? product has been instrumental in keeping businesses working .
+Both HD Meeting ? minutes and participants have increased sharply , but overall OfficeSuite networ traffic is running at approximately 50 percent of capacity .
+The company also has established a dedicated team to accelerate the delivery of critical services and install additional network capacity for businesses and wholesale customers experiencing spikes in demand .
+Additionally , Windstream provides Kinetic broadband service to consumers and small businesses in rural areas in 18 states .
+As more individuals work from home and attend school online , the increase in overall broadband traffic is well below Windstream 's maximum network capacity .
+Consumers experiencing in-home WiFi ( News - Alert ) challenges as a result of increased use of devices in the home should contact Windstream about available speed upgrades or to talk @ @ @ @ @ @ @ @ @ @ WiFi performance .
+About Windstream  Windstream Holdings , Inc .
+, a FORTUNE 500 company , is a leading provider of advanced network communications and technology solutions .
+Windstream provides data networking , core transport , security , unified communications and managed services to mid-market , enterprise and wholesale customers across the U .
+The company also offers broadband , entertainment and security services for consumers and small and medium-sized businesses primarily in rural areas in 18 states .
+Services are delivered over multiple network platforms including a nationwide IP network , our proprietary cloud core architecture and on a local and long-haul fiber network spanning approximately 150,000 miles .
+Additional information is available at windstream .
+or windstreamenterprise .
+Please visit our newsroom at news .
+windstream .
+or follow us on Twitter ( News - Alert ) at @Windstream .

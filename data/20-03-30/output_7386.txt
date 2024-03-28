@@ -1,0 +1,19 @@
+Thank you for visiting nature .
+You are using a browser version with limited support for CSS .
+To obtain the best experience , we recommend you use a more up to date browser ( or turn off compatibility mode in Internet Explorer ) .
+In the meantime , to ensure continued support , we are displaying the site without styles and JavaScript .
+Interaction between RAAS inhibitors and ACE2 in the context of COVID-19  Subjects  In the Comment article by Zheng and colleagues ( COVID-19 and the cardiovascular system .
+Cardiol .
+https : **35;739;TOOLONG ( 2020 ) ) 1 , the crucial role of angiotensin-converting enzyme 2 ( ACE2 ) in severe acute respiratory syndrome coronavirus 2 ( SARS-CoV-2 ) infection , which causes coronavirus disease 2019 ( COVID-19 ) , was highlighted .
+ACE2 is a membrane-bound aminopeptidase that cleaves angiotensin I and angiotensin II into the angiotensin- ( 1 -- 9 ) and angiotensin- ( 1 -- 7 ) peptides .
+Several studies support the existence of a **25;776;TOOLONG ACE2 -- angiotensin- ( 1 -- 7 ) -- Mas receptor axis2 .
+ACE2 is overexpressed in heart failure , @ @ @ @ @ @ @ @ @ @ been identified as a functional receptor for the entry of coronaviruses generally , and SARS-CoV-2 specifically , into host cells4 .
+Given that most of the severe forms of COVID-19 have occurred in elderly patients with cardiovascular comorbidities , Zheng and colleagues speculate about the influence of chronic treatment with blockers of the renin -- angiotensin -- aldosterone system ( RAAS ) on the severity of the infection , stating that " ACE2 levels can be increased by the use of renin -- angiotensin -- aldosterone system inhibitors " 1 .
+Consequently , the authors suggest that " the safety and potential effects of antihypertension therapy with ACE inhibitors or angiotensin-receptor blockers in patients with COVID-19 should be carefully considered " .
+We wish to clarify that different RAAS inhibitors have different effects on ACE2 levels .
+By acting at different levels of the system , RAAS inhibitors result in heterogeneous effects on the peptides and enzymes involved .
+Whereas angiotensin-receptor blockers and **26;803;TOOLONG blockers have been shown to increase the levels of ACE2 expression and activity in various experimental and clinical models5,6 , administration of ACE inhibitors @ @ @ @ @ @ @ @ @ @ ACE2 activity in experimental models7,8 .
+In addition , in an animal model of diabetic nephropathy , the chronic administration of aliskiren ( a direct inhibitor of renin ) was associated with a reduction in ACE2 expression9 .
+For these reasons , we believe that chronic treatment with ACE inhibitors has no reason to influence the course of SARS-CoV-2 infection .
+By contrast , the use of angiotensin-receptor blockers or **26;831;TOOLONG blockers might warrant caution and further analysis in the context of SARS-CoV-2 infection .
+The reduced expression of ACE2 with aliskiren treatment could be an interesting option in the context of SARS-CoV-2 infection that requires further investigation .

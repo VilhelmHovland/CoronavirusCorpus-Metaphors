@@ -1,0 +1,10 @@
+Lung Recruitability Can Be Assessed at Bedside in COVID-19  Increased lung recruitability seen with alternating body position between supine and prone positioning  ( HealthDay News ) -- Lung recruitability can be assessed at bedside in mechanically ventilated patients with coronavirus disease 2019 ( COVID-19 ) -induced acute respiratory distress syndrome ( ARDS ) , and alternating body positioning can improve recruitability , according to a study published online March 23 in the American Journal of Respiratory and Critical Care Medicine .
+Chun Pan , M .
+, from Southeast University in Nanjing , China , and colleagues describe their use of the recruitment-to-inflation ratio ( R/I ratio ) in a series of mechanically ventilated patients with SARS-CoV-2-associated ARDS and the effect produced by body positioning .
+The R/I ratio estimates how much of an increase in end-expiratory lung volume induced by positive end-expiratory pressure ( PEEP ) is distributed between the recruited lung and the inflation and/or hyperinflation of the baby lung when a higher PEEP is applied .
+A total of 12 patients were enrolled ; seven patients received at least one session of prone positioning during the six-day observation period .
+The researchers @ @ @ @ @ @ @ @ @ @ of the 12 patients were poorly recruitable ( R/I ratio , 0 .
+Persistent poor recruitability was seen for patients who did not receive prone positioning ( one of 17 daily measurements showed high recruitability ) .
+Alternating body position between supine and prone positioning was associated with increased lung recruitability ( 13 of 36 daily measurements showed high recruitability ) .
+The ratio of arterial oxygen partial pressure to fractional inspired oxygen went from 120 ? 61 mm Hg to 182 ? 140 mm Hg at supine and prone , respectively , in patients who were placed in the prone position .
+" We think these findings might incite clinicians to assess respiratory mechanics and lung recruitability in this population , " the authors write .

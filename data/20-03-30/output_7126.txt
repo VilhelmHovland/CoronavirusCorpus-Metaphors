@@ -1,0 +1,17 @@
+Survey results suggest medtech companies are not ready for EU MDR  Software company Climedo Health has announced the results of its EU Medical Device Regulation ( MDR ) Readiness Survey .
+The company conducted the survey shortly before the European Commission announced EU MDR would be postponed .
+However , this delay will likely be welcomed by organisations , as according to the survey responses , many medtech companies were far from ready for the new regulation in several respects .
+As a result of the COVID-19 pandemic , the deadline for the new MDR will most likely be postponed by 12 months .
+Reasons for the delay according to Germany 's BVMed experts , includes expiring certificates , a lack of notified bodies , and recertification delays due to the coronavirus crisis which is expected to lead to bottlenecks in patient care .
+The goal of Climedo 's EU MDR Readiness Survey , which was conducted between February and March 2020 , was to evaluate the status of implementation of the new requirements among European medtech companies .
+A total of 110 companies from Europe took part , with the majority of participants @ @ @ @ @ @ @ @ @ @ the key findings included :  More than three quarters ( 77% ) considered the new regulation to be " very challenging " .
+The main challenges identified were " lack of clarity regarding the new requirements " and " increased resources and costs " .
+Around one third believed that EU MDR will cost more than 5% of their annual turnover .
+Only 26% had a fully MDR-compliant QMS .
+34% did not yet have a notified body or were currently switching notified bodies .
+Veronika Schweighart , co-founder and COO of Climedo Health commented : " The announcement of the planned EU MDR delay probably comes as a relief to many medtech companies .
+" Nevertheless , this is not a time for complacency .
+The coming year will pass quickly , and we will find ourselves facing very similar challenges again in 2021 .
+" The survey results show that some have already made good progress in terms of the EU MDR implementation .
+However , many are still lagging behind , especially when it comes to using cloud-based software @ @ @ @ @ @ @ @ @ @ systems will simply not be able to compete in the EU MDR era .
+" We recommend that manufacturers do not lose any time , but continue planning their implementation , since many issues can be addressed independently of the COVID-19 crisis , such as the selection of a web-based solution for clinical data capture .

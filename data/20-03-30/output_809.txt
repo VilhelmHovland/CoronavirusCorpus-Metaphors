@@ -1,0 +1,64 @@
+Europe eyes smartphone location data to stem virus spread  By FRANK BAJAK and NICOLE WINFIELD , Associated Press  Published : March 24 , 2020 , 9:22am  Share :  City police officers with the help of a drone monitor citizens ' movements in Grosseto , central Italy , Friday , March 20 , 2020 as mayors of many towns in Italy are asking for ever more stringent measures on citizens ' movements to help contain the surging infections of the coronavirus .
+Despite a national lockdown , strictly limiting the justified reasons why they can leave their homes , there have been many violators .
+For most people , the new coronavirus causes only mild or moderate symptoms .
+For some it can cause more severe illness .
+( Jennifer Lorenzini/LaPresse via AP )  Several European nations are evaluating powerful but potentially intrusive tools for fighting the coronavirus pandemic , a move that could put public health at odds with individual privacy .
+The tools in question are apps that would use real-time phone-location data to track the movements of virus carriers and the people they come in contact with .
+The aim @ @ @ @ @ @ @ @ @ @ are flaring up , how they are spreading and when health authorities need to order quarantines and related measures to limit the spread of COVID-19 .
+Britain , Germany and Italy are among the nations considering the enlistment of individual location data in the fight against the virus .
+That worries privacy advocates , who fear such ubiquitous surveillance could be abused in the absence of careful oversight , with potentially dire consequences for civil liberties .
+" These are testing times , but they do not call for untested new technologies , " a group of mostly British activists said in an open letter Monday to the country 's National Health Service .
+The letter noted that such measures could put human rights at risk and may not work .
+Unless the data in question can be effectively anonymized , the new tools would mark a substantial departure from existing European disease-surveillance efforts , which have focused on tracking people 's movements with aggregated phone location data designed not to identify individuals .
+Italian police also began mobilizing drones on Monday to enforce restrictions on citizens @ @ @ @ @ @ @ @ @ @ in favor of more powerful digital tools , even if they shred privacy : They have been used by several of the Asian governments most successful at containing the pandemic , including in China , Taiwan , Hong Kong , South Korea and Singapore .
+Last week , Israel took the most extreme step yet by charging its Shin Bet domestic security agency with using smartphone location data to track the movements of virus carriers for the prior two weeks , using historical data to identify possible transmission .
+Epidemiologists call this process " contact tracing , " although traditionally it involves questioning newly diagnosed individuals about their contacts with others .
+So far , there 's no indication the U .
+government plans to track identifiable individuals for disease surveillance .
+A spokesperson for the White House Office of Science and Technology Policy said it was not currently working on such an app .
+The Centers for Disease Control and Prevention did not immediately respond to questions from The Associated Press .
+The White House has reached out to Big Tech companies for help in the worst @ @ @ @ @ @ @ @ @ @ told the AP they are not sharing people 's location data with governments .
+A Google spokesperson said the company was exploring ways to use aggregated location information against COVID-19 , but added that the location data Google normally gathers from phone users is n't accurate enough for contact tracing .
+An AT&amp;T spokesperson said the company was not sharing real-time location tracking with U .
+government virus-trackers .
+Sprint declined to comment and Verizon did not immediately respond to a query .
+Contact-tracing apps being considered by European governments would , like Israel 's effort , go well beyond what those governments are currently getting from wireless carriers to identify " hot spots " of disease and human concentration .
+While legal safeguards exist in most democracies to protect digital privacy , the danger of the coronavirus could quickly compel policymakers to override them .
+On Friday , the European Union 's Data Protection Authority cautiously endorsed putting privacy on pause during the public health emergency .
+Italy 's Lazio region , which includes Rome and is home to 5 .
+million people , rolled out @ @ @ @ @ @ @ @ @ @ under quarantine or who think they 've been in contact with others infected by the coronavirus .
+Privacy advocates worry that such apps can be used to track people .
+Poland has introduced a more intrusive app -- its instructions say it 's voluntary -- to enforce 14-day quarantine for an estimated 80,000 people .
+Privacy advocates are concerned that it will fill a government database with the geo-located photos it compels users to take .
+Jens Wille , CEO of the Hamburg digital mapping company UbiLabs , developed an opt-in app prototype for contact tracing that he said German officials evaluated but chose not to adopt .
+Officials at the Robert Koch Institute , which is managing the country 's COVID-19 response , told the AP they did not yet have anything to say on the issue .
+" They are working on something , " said Wille .
+The chief executive of the innovation arm of Britain 's National Health Service , Matthew Gould , said in a statement that his office was " looking at whether app-based solutions might be helpful in tracking and managing @ @ @ @ @ @ @ @ @ @ outside the organisation to do this as rapidly as possible .
+"  In South Korea , a compulsory app enforces self-isolation for those ordered to maintain it .
+Anyone violating quarantine could face a $8,400 fine or up to a year in prison .
+Taiwan and Singapore also use smartphone apps to enforce quarantines via " electronic fences " that alert authorities when someone moves out of quarantine .
+Hong Kong health authorities use electronic wristbands to monitor all overseas travelers ordered into self-isolation .
+Italy 's minister of technological innovation , Paola Pisano , said in an interview Monday that a government task force is putting out a request for tracking-app candidates on Tuesday and expects to evaluate them by the end of the week .
+Pisano said she expects Italy 's app to be voluntary and for the government to protect individual privacy .
+One-sixth of Italy 's 60 million people do n't use the internet , she said , and older people -- those most susceptible to being killed by the virus -- are generally disinclined to download a new app , and might @ @ @ @ @ @ @ @ @ @ closely examining the South Korean model of contact tracing , which involves the use of personal information such as immigration , public transportation and credit-card records in addition to location-tracking GPS data .
+But the Korean government disclosed so much ostensibly anonymous personal data that digital sleuths were able to identify virus carriers based on such information as where patients visited just before testing positive .
+Some people boycotted businesses , stigmatized carriers and even used the data to track alleged marital infidelity .
+On Friday , South Korea 's Centers for Disease Control and Prevention said it was drafting new guidelines to scale back such abuses .
+Michael Parker , an ethicist on an Oxford University team , said people are more likely to contact-tracing app if they 're not coerced -- and the greater the participation the better the odds of identifying ' hot spots ' and containing the virus .
+" Identification and notification could be done anonymously , " he said .
+" You would n't need to have to tell people where their possible infection came from .
+"  But Ashkan @ @ @ @ @ @ @ @ @ @ , cautioned that contact tracing via app needs to be complemented with other means of disease surveillance , as in South Korea .
+That begins with universal testing for the virus , which the U .
+does n't have yet .
+There are other problems .
+Location data from wireless carriers alone can produce a lot of false positives .
+Even phone-based GPS data is often inaccurate , Soltani noted , and could inaccurately identify strangers as meeting when they 're actually just in the same high-rise apartment building .
+Israel 's Army Radio reported Monday that some people had been erroneously forced into quarantine as a result of location errors .
+It did not say how many .
+Adi Carmi , a former Shin Bet official , told the station that such anomalies happen with any large scale system .
+" It 's reasonable to assume that there will be mistakes here and there , " he said .
+Amid the uproar , the Israeli health ministry launched a smartphone app that lets users opt into tracking system so it can notify them if they have overlapped @ @ @ @ @ @ @ @ @ @ The app is constantly updated with epidemiological data .
+The closest analogues in the U .
+are apps from startups K Health and Buoy Health that let people self-diagnose with an online questionnaire .
+If their symptoms are consistent with COVID-19 , the individual can be connected with medical professionals to determine next steps .
+New York-based K Health shares data with the government for a " heat map " of virus spread but says it is keeping personal data private .

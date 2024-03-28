@@ -1,0 +1,12 @@
+A rapid deployment ICU pod inside a shipping container  Architecture &amp; Design  A team of designers and engineers have developed an ICU that includes biocontainment and can be used to rapidly expand hospitals  Spotted : As the global fight against COVID-19 accelerates and many hospitals run out of space , it has become imperative to construct new medical facilities , particularly intensive care units ( ICUs ) , as quickly as possible .
+Working as part of an international task-force , Italian architects Carlo Ratti and Italo Rota have come up with a design that may be able to help .
+The architects have constructed a biocontainment pod inside a shipping container .
+The pod can be added to existing hospitals as needed , and will rapidly expand their capacity .
+The new pods have been dubbed Connected Units for Respiratory Ailments ( CURA , Latin for ' cure ' ) , and are designed to be quickly deployed anywhere they are needed .
+The first prototype is being built in Milan , one of the cities hardest hit by the pandemic .
+Each CURA pod would contain all the medical equipment needed @ @ @ @ @ @ @ @ @ @ that generates negative pressure inside , in order to prevent contaminated air from escaping .
+The pods can be connected to each other by an inflatable corridor , and installed as rapidly as a hospital tent .
+Takeaway :  Cities and countries have been responding to the need for more hospital space by setting up tents and building prefabricated facilities with biocontainment .
+The latter is far preferable , as it helps protect medical professionals , but takes more time to construct .
+The CURA team hopes that their solution could help bridge the two -- creating a facility with biocontainment that can be put up in the same timeframe as a hospital tent .
+The designers envision the units being set up in spaces like car parks or deployed as field hospitals .
